@@ -4,7 +4,7 @@ Runeword2	Armageddon																																																0
 Runeword3	Authority																																																0
 Runeword4	Beast	1		110	axe	scep	hamm							BerTirUmMalLum	r30	r03	r22	r23	r17		swing2		40	40	aura	Fanaticism	9	9	dmg%		240	270	str		25	40	charged	Summon Grizzly	5	13	oskill	Wearbear	3	3	oskill	Shape Shifting	3	3	0
 Runeword5	Beauty																																																0
-Runeword6	Black	1		109	club	hamm	mace							ThulIoNef	r10	r16	r04				crush		40	40	dmg%		120	120	swing2		15	15	red-mag		2	2	att		200	200	charged	74	12	4					0
+Runeword6	Black	1		109	club	hamm	mace							ThulIoNef	r10	r16	r04				crush		40	40	dmg%		120	120	swing2		15	15	red-mag		7	7	att		200	200	charged	74	12	4					0
 Runeword7	Blood																																																0
 Runeword8	Bone	1		111	tors									SolUmUm	r12	r22	r22				hit-skill	Bone Spear	15	10	gethit-skill	Bone Armor	15	10	nec		2	2	mana		100	150													0
 Runeword9	Bramble	1		110	tors									RalOhmSurEth	r08	r27	r29	r05			balance2		50	50	ac		300	300	aura	Thorns	15	21	heal-kill		13	13	extra-pois		25	50	res-pois		100	100	charged	Spirit of Barbs	33	13	0
@@ -53,7 +53,7 @@ Runeword51	Heart of the Oak	1		110	staf	mace								KoVexPulThul	r18	r26	r21	r10
 Runeword52	Heaven's Will																																																0
 Runeword53	Holy Tears																																																0
 Runeword54	Holy Thunder	1		109	mele									EthRalOrtTal	r05	r08	r09	r07			dmg%		100	100	dmg-ltng		20	60	dmg-max		15	15	res-ltng		60	60	res-ltng-max		5	5	aura	118	2	2	item_poisonlengthresist		75	75	0
-Runeword55	Honor	1		109	mele									AmnElIthTirSol	r11	r01	r06	r03	r12		dmg%		190	210	regen		10	10	allskills		1	1	att%		20	20	deadly		25	25	nofreeze		1	1	swing2		25	25	0
+Runeword55	Honor	1		109	mele									AmnElIthTirSol	r11	r01	r06	r03	r12		dmg%		190	210	regen		10	10	allskills		1	1	att%		20	20	deadly		25	25	balance3		55	55	swing2		20	30	0
 Runeword56	Revenge																																																0
 Runeword57	Humility																																																0
 Runeword58	Hunger																																																0
@@ -72,7 +72,7 @@ Runeword70	Law																																																0
 Runeword71	Lawbringer	1		Previously Ladder Only	swor	hamm	scep							AmnLemKo	r11	r20	r18				dmg-cold		130	180	dmg-fire		150	210	aura	Sanctuary	16	18	hit-skill	Decrepify	20	15	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
 Runeword72	Leaf	1		109	staf									TirRal	r03	r08					fireskill		3	3	ac/lvl		16	16	res-cold		33	33	skill	41	3	3	skill	36	3	3	skill	37	3	3					0
 Runeword73	Lightning																																																0
-Runeword74	Lionheart	1		109	tors									HelLumFal	r15	r17	r19				str		15	15	vit		20	20	dex		15	15	dmg%		20	20	hp		50	50	res-all		30	30					0
+Runeword74	Lionheart	1		109	tors									HelLumFal	r15	r17	r19				str		15	15	vit		20	20	dex		15	15	dmg%		90	110	hp		50	50	res-all		30	30					0
 Runeword75	Lore	1		109	helm									OrtSol	r09	r12					enr		10	10	allskills		1	1	light		2	2	mana-kill		2	2													0
 Runeword76	Love																																																0
 Runeword77	Loyalty																																																0
@@ -85,7 +85,7 @@ Runeword84	Mist	1	1	D2R Ladder 1	miss									ChamShaelGulThulIth	r32	r13	r25	r1
 Runeword85	Morning																																																0
 Runeword86	Mystery																																																0
 Runeword87	Myth	1		111	tors									HelAmnNef	r15	r11	r04				hit-skill	Taunt	10	1	gethit-skill	Howl	3	1	bar		2	2	regen		10	10													0
-Runeword88	Nadir	1		109	helm									NefTir	r04	r03					ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	gold%		-33	-33	str		5	5					0
+Runeword88	Nadir	1		109	helm									NefTir	r04	r03					ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	str		5	5	red-dmg		4	4	red-mag		4	4	0
 Runeword89	Nature's Kingdom																																																0
 Runeword90	Night																																																0
 Runeword91	Oath	1		Previously Ladder Only	swor	axe	mace							ShaelPulMalLum	r13	r21	r23	r17			dmg%		210	340	swing1		30	30	hit-skill	Bone Spirit	30	20	charged	IronGolem	14	17	charged	Heart of Wolverine	20	16	abs-mag		10	15	indestruct		1	1	0
@@ -109,11 +109,11 @@ Runeword108	Prayer																																																0
 Runeword109	Pride	1		Previously Ladder Only	pole	spea								ChamSurIoLo	r32	r29	r16	r28			dmg-dem/lvl	8			dmg-ltng		50	280	att%		260	300	aura	Concentration	16	20	gethit-skill	Fire Wall	25	17	regen		8	8	gold%/lvl	15			0
 Runeword110	Principle	1		111	tors									RalGulEld	r08	r25	r02				hit-skill	Holy Bolt	100	5	pal		2	2	hp		100	150	dmg-undead		50	50													0
 Runeword111	Prowess in Battle																																																0
-Runeword112	Prudence	1		110	tors									MalTir	r23	r03					ac%		140	170	red-mag		10	10	red-dmg		3	3	res-all		25	35	balance2		25	25	rep-dur	25			light		1	1	0
+Runeword112	Prudence	1		110	tors									MalTir	r23	r03					ac%		140	170	red-mag		17	17	red-dmg		8	8	res-all		25	35	balance2		25	25	rep-dur	25			nofreeze		1	1	0
 Runeword113	Punishment																																																0
 Runeword114	Purity																																																0
 Runeword115	Question																																																0
-Runeword116	Radiance	1		109	helm									NefSolIth	r04	r12	r06				light		5	5	enr		10	10	vit		10	10	red-mag		3	3	mana		33	33	ac%		75	75					0
+Runeword116	Radiance	1		109	helm									NefSolIth	r04	r12	r06				light		5	5	enr		10	10	vit		10	10	red-mag		10	10	mana		33	33	hp		33	33	red-mag		5	5	0
 Runeword117	Rain	1		111	tors									OrtMalIth	r09	r23	r06				hit-skill	Twister	5	15	gethit-skill	Cyclone Armor	5	15	dru		2	2	mana		100	150													0
 Runeword118	Reason																																																0
 Runeword119	Red																																																0

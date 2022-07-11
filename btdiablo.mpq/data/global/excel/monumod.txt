@@ -25,7 +25,7 @@ questcomplete	22	1	0	0											33	Champion Elemental Min Damage % Bonus	0
 poisonhit	23	1	0	0											33	Champion Elemental Min Damage % Bonus (Nightmare)	0
 thief	24	0	0	1											33	Champion Elemental Min Damage % Bonus (Hell)	0
 manahit	25	1	0	1								6	0	0	50	Champion Elemental Max Damage % Bonus	0
-teleport	26	1	0	1		1						6	6	6	50	Champion Elemental Max Damage % Bonus (Nightmare)	0
+teleport	26	1	0	1		1						6	6	3	50	Champion Elemental Max Damage % Bonus (Nightmare)	0
 spectralhit	27	1	0	1								6	0	0	50	Champion Elemental Max Damage % Bonus (Hell)	0
 stoneskin	28	1	0	1								6	6	6	66	Unique Elemental Min Damage % Bonus	0
 multishot	29	1	0	1		2						50	50	50	66	Unique Elemental Min Damage % Bonus (Nightmare)	0

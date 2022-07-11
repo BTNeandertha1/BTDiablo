@@ -127,29 +127,29 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Emerald -> Safety Ring	1			100					4	"ring,mag"	jew	r11	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	vit			1	5																																																																					0
 1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1			100					4	"miss,mag,noe"	jew	r12	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10																																																																					0
 1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1			100					4	"miss,mag,eth"	jew	r12	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10	ethereal	100		1	1																																																																0
-3 Thul Runes + 1 Chipped Topaz -> Amn Rune	1			100					4	"r10,qty=3"	gcy						r11																																																																																							0
-3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1			100					4	"r11,qty=3"	gcv						r12																																																																																							0
-3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1			100					4	"r12,qty=3"	gcb						r13																																																																																							0
-3 Shael Runes + 1 Chipped Ruby -> Dol Rune	1			100					4	"r13,qty=3"	gcr						r14																																																																																							0
-3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1			100					4	"r14,qty=3"	gcg						r15																																																																																							0
-3 Hel Runes + 1 Chipped Diamond -> Io Rune	1			100					4	"r15,qty=3"	gcw						r16																																																																																							0
-3 Io Runes + 1 Flawed Topaz -> Lum Rune	1			100					4	"r16,qty=3"	gfy						r17																																																																																							0
-3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1			100					4	"r17,qty=3"	gfv						r18																																																																																							0
-3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1			100					4	"r18,qty=3"	gfb						r19																																																																																							0
-3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1			100					4	"r19,qty=3"	gfr						r20																																																																																							0
-3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1			100					4	"r20,qty=3"	gfg						r21																																																																																							0
-2 Pul Runes + 1 Flawed Diamond -> Um Rune	1			100					3	"r21,qty=2"	gfw						r22																																																																																							0
-2 Um Runes + 1 Standard Topaz -> Mal Rune	1			100					3	"r22,qty=2"	gsy						r23																																																																																							0
-2 Mal Runes + 1 Standard Amethyst -> Ist Rune	1			100					3	"r23,qty=2"	gsv						r24																																																																																							0
-2 Ist Runes + 1 Standard Sapphire -> Gul Rune	1			100					3	"r24,qty=2"	gsb						r25																																																																																							0
-2 Gul Runes + 1 Standard Ruby -> Vex Rune	1			100					3	"r25,qty=2"	gsr						r26																																																																																							0
-2 Vex Runes + 1 Standard Emerald -> Ohm Rune	1			100					3	"r26,qty=2"	gsg						r27																																																																																							0
-2 Ohm Runes + 1 Standard Diamond -> Lo Rune	1			100					3	"r27,qty=2"	gsw						r28																																																																																							0
-2 Lo Runes + 1 Flawless Topaz -> Sur Rune	1			100					3	"r28,qty=2"	gly						r29																																																																																							0
-2 Sur Runes + 1 Flawless Amethyst -> Ber Rune	1			100					3	"r29,qty=2"	gzv						r30																																																																																							0
-2 Ber Runes + 1 Flawless Sapphire -> Jah Rune	1			100					3	"r30,qty=2"	glb						r31																																																																																							0
-2 Jah Runes + 1 Flawless Ruby -> Cham Rune	1			100					3	"r31,qty=2"	glr						r32																																																																																							0
-2 Cham Runes + 1 Flawless Emerald -> Zod Rune	1			100					3	"r32,qty=2"	glg						r33																																																																																							0
+3 Thul Runes + 1 Chipped Topaz -> Amn Rune	1			100					3	"r10,qty=3"							r11																																																																																							0
+3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1			100					3	"r11,qty=3"							r12																																																																																							0
+3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1			100					3	"r12,qty=3"							r13																																																																																							0
+3 Shael Runes + 1 Chipped Ruby -> Dol Rune	1			100					3	"r13,qty=3"							r14																																																																																							0
+3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1			100					3	"r14,qty=3"							r15																																																																																							0
+3 Hel Runes + 1 Chipped Diamond -> Io Rune	1			100					3	"r15,qty=3"							r16																																																																																							0
+3 Io Runes + 1 Flawed Topaz -> Lum Rune	1			100					3	"r16,qty=3"							r17																																																																																							0
+3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1			100					3	"r17,qty=3"							r18																																																																																							0
+3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1			100					3	"r18,qty=3"							r19																																																																																							0
+3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1			100					3	"r19,qty=3"							r20																																																																																							0
+3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1			100					3	"r20,qty=3"							r21																																																																																							0
+2 Pul Runes + 1 Flawed Diamond -> Um Rune	1			100					2	"r21,qty=2"							r22																																																																																							0
+2 Um Runes + 1 Standard Topaz -> Mal Rune	1			100					2	"r22,qty=2"							r23																																																																																							0
+2 Mal Runes + 1 Standard Amethyst -> Ist Rune	1			100					2	"r23,qty=2"							r24																																																																																							0
+2 Ist Runes + 1 Standard Sapphire -> Gul Rune	1			100					2	"r24,qty=2"							r25																																																																																							0
+2 Gul Runes + 1 Standard Ruby -> Vex Rune	1			100					2	"r25,qty=2"							r26																																																																																							0
+2 Vex Runes + 1 Standard Emerald -> Ohm Rune	1			100					2	"r26,qty=2"							r27																																																																																							0
+2 Ohm Runes + 1 Standard Diamond -> Lo Rune	1			100					2	"r27,qty=2"							r28																																																																																							0
+2 Lo Runes + 1 Flawless Topaz -> Sur Rune	1			100					2	"r28,qty=2"							r29																																																																																							0
+2 Sur Runes + 1 Flawless Amethyst -> Ber Rune	1			100					2	"r29,qty=2"							r30																																																																																							0
+2 Ber Runes + 1 Flawless Sapphire -> Jah Rune	1			100					2	"r30,qty=2"							r31																																																																																							0
+2 Jah Runes + 1 Flawless Ruby -> Cham Rune	1			100					2	"r31,qty=2"							r32																																																																																							0
+2 Cham Runes + 1 Flawless Emerald -> Zod Rune	1			100					2	"r32,qty=2"							r33																																																																																							0
 1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor	1			100					4	"tors,nor,nos"	r07	r10	gpy				useitem				sock			1	6																																																																															0
 1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon	1			100					4	"weap,nor,nos"	r08	r11	gpv				useitem				sock			1	6																																																																															0
 1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + 1 Normal Helm -> Socketed Helm	1			100					4	"helm,nor,nos"	r08	r10	gpb				useitem				sock			1	6																																																																															0
