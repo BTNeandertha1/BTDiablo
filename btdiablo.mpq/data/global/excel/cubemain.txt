@@ -319,6 +319,7 @@ Shield	1			0					2	"shld,uni,nos"	lmr						useitem				sock			1	1																
 	0																																																																																																							0
 ENDGAME RECIPES	0																																																																																																							0
 	0																																																																																																							0
+Elixir = Small Rejuv	1			0					3	hpot	mpot	elx					rvl																																																																																							0
 Spleen + Jawbone + Quill + Elixir = Magic Find Potion	1			0					4	spe	jaw	qll	elx				mfp																																																																																							0
 4 Unique Jewerly = SOH	1			0					4	"jwly,uni,qty=4"							std																																																																																							0
 CHAM RECIPE																																																																																																								
