@@ -321,7 +321,25 @@ ENDGAME RECIPES	0																																																															
 	0																																																																																																							0
 Spleen + Jawbone + Quill + Elixir = Magic Find Potion	1			0					4	spe	jaw	qll	elx				mfp																																																																																							0
 4 Unique Jewerly = SOH	1			0					4	"jwly,uni,qty=4"							std																																																																																							0
+CHAM RECIPE																																																																																																								
+MF + GF	1			0					6	helm	r32	r24	r20	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
+MF + GF	1			0					6	weap	r32	r24	r20	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
+MF + GF	1			0					6	amu	r32	r24	r20	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
+MF + GF	1			0					6	shld	r32	r24	r20	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
+MF + GF	1			0					6	ring	r32	r24	r20	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
+MF + GF	1			0					6	glov	r32	r24	r20	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
+MF + GF	1			0					6	boots	r32	r24	r20	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
+MF + GF	1			0					6	belt	r32	r24	r20	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
 MF + GF	1			0					6	tors	r32	r24	r20	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
+ZOD RECIPE																																																																																																								
+Teleport + MF + GF	1			0					6	helm	r33	r29	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			25	25																																																																0
+Teleport + MF + GF	1			0					6	weap	r33	r29	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			25	25																																																																0
+Teleport + MF + GF	1			0					6	amu	r33	r29	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			25	25																																																																0
+Teleport + MF + GF	1			0					6	shld	r33	r29	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			25	25																																																																0
+Teleport + MF + GF	1			0					6	ring	r33	r29	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			25	25																																																																0
+Teleport + MF + GF	1			0					6	glov	r33	r29	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			25	25																																																																0
+Teleport + MF + GF	1			0					6	boots	r33	r29	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			25	25																																																																0
+Teleport + MF + GF	1			0					6	belt	r33	r29	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			25	25																																																																0
 Teleport + MF + GF	1			0					6	tors	r33	r29	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			25	25																																																																0
 	0																																																																																																							0
 CORRUPTIONS	0																																																																																																							0

@@ -53,7 +53,7 @@ Runeword51	Heart of the Oak	1		110	staf	mace								KoVexPulThul	r18	r26	r21	r10
 Runeword52	Heaven's Will																																																0
 Runeword53	Holy Tears																																																0
 Runeword54	Holy Thunder	1		109	mele									EthRalOrtTal	r05	r08	r09	r07			dmg%		100	100	dmg-ltng		20	60	dmg-max		15	15	res-ltng		60	60	res-ltng-max		5	5	aura	118	2	2	item_poisonlengthresist		75	75	0
-Runeword55	Honor	1		109	mele									AmnElIthTirSol	r11	r01	r06	r03	r12		dmg%		210	210	regen		10	10	allskills		1	1	att%		20	20	deadly		25	25	nofreeze		1	1	swing2		25	25	0
+Runeword55	Honor	1		109	mele									AmnElIthTirSol	r11	r01	r06	r03	r12		dmg%		190	210	regen		10	10	allskills		1	1	att%		20	20	deadly		25	25	nofreeze		1	1	swing2		25	25	0
 Runeword56	Revenge																																																0
 Runeword57	Humility																																																0
 Runeword58	Hunger																																																0
