@@ -271,9 +271,9 @@ Boots Eth Sup	1			100					2	"boot,hiq,eth"	mls						"usetype,rar"	99			ethereal	
 	0																																																																																																							0
 SOCKETS	0																																																																																																							0
 	0																																																																																																							0
-BLOCK Throwing1 	1			100					2	tkni	lmr						useitem																													lmr																																																										0
-BLOCK Throwing1 	1			100					2	taxe	lmr						useitem																													lmr																																																										0
-BLOCK Throwing1 	1			100					2	jave	lmr						useitem																													lmr																																																										0
+BLOCK Throwing1 	1			100					2	tkni	lmr						useitem			100																										lmr																																																										0
+BLOCK Throwing1 	1			100					2	taxe	lmr						useitem			100																										lmr																																																										0
+BLOCK Throwing1 	1			100					2	jave	lmr						useitem			100																										lmr																																																										0
 	0																																																																																																							0
 NORMAL	0																																																																																																							
 Helm	1			0					2	"helm,nor,nos"	lmr						useitem				sock			6	6																																																																															0
