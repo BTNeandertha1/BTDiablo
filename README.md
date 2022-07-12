@@ -3,14 +3,13 @@
 **NOTE:** BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Diablo II Resurrected. As such, it is only to be used in Single Player.
 
 # Table of Contents
-1. [BTDiablo](https://github.com/BTNeandertha1/BTDiablo#btdiablo-1)
-2. [Bug Reporting](https://github.com/BTNeandertha1/BTDiablo#bug-reporting)
-3. [Credits](https://github.com/BTNeandertha1/BTDiablo#credits)
-4. [Known Bugs](https://github.com/BTNeandertha1/BTDiablo#known-bugs)
-5. [Future Ideas](https://github.com/BTNeandertha1/BTDiablo#future-ideas)
-6. [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo#corruption-ideas)
-7. [WIP](https://github.com/BTNeandertha1/BTDiablo#wip)
-8. [Patch Notes](https://github.com/BTNeandertha1/BTDiablo#patch-notes)
+1. [Bug Reporting](https://github.com/BTNeandertha1/BTDiablo#bug-reporting)
+2. [Credits](https://github.com/BTNeandertha1/BTDiablo#credits)
+3. [Known Bugs](https://github.com/BTNeandertha1/BTDiablo#known-bugs)
+4. [Future Ideas](https://github.com/BTNeandertha1/BTDiablo#future-ideas)
+5. [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo#corruption-ideas)
+6. [WIP](https://github.com/BTNeandertha1/BTDiablo#wip)
+7. [Patch Notes](https://github.com/BTNeandertha1/BTDiablo#patch-notes)
    - [Game](https://github.com/BTNeandertha1/BTDiablo#game)
    - [Characters](https://github.com/BTNeandertha1/BTDiablo#characters)
    - [Shrines](https://github.com/BTNeandertha1/BTDiablo#shrines)
