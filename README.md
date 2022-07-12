@@ -53,10 +53,12 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - Kex: First Tester  
 
 # Future Ideas
-Please see [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) tagged with [future ideas](https://github.com/BTNeandertha1/BTDiablo/issues?q=is%3Aopen+is%3Aissue+label%3A%22future+ideas%22).
+Please see [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) tagged with [future ideas](https://github.com/BTNeandertha1/BTDiablo/issues?q=is%3Aopen+is%3Aissue+label%3A%22future+ideas%22).  
+Feel free to submit your own future ideas as well for consideration!
 
 # Corruption Ideas
-Please see the [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/14) issue.
+Please see the [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/14) issue.  
+Please leave your own ideas for corruptions in the Corruption Ideas issue for future consideration!
 
 # WIP
 - Make HC characters 
