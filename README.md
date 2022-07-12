@@ -72,9 +72,14 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Corruptions
 
 # Patch Notes
-**WARNING** This patch will brick everything BEWARE!!!
+**WARNING** This patch will brick everything BEWARE!!! (People Said Runes and Gems Survive)
 
 - Details: This Increased Caps on items for the longevity of the mod (helps prevent future bricking)
+
+- How to get current Patch X 
+   - Delete your old BTD Files
+   - Paste in Shared Stash Files
+   - Create a New Character
    
 ## Game 
 - Item Levels Shown
