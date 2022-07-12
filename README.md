@@ -1,6 +1,12 @@
 # BTDiablo
 
-**NOTE:** BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Diablo II Resurrected. As such, it is only to be used in Single Player.
+BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Diablo II Resurrected. As such, it is only to be used in Single Player.
+
+BTNeandertha1 Social Media Links:  
+- [Twitch](https://www.twitch.tv/btneandertha1)
+- [YouTube](https://www.youtube.com/c/BTNeanderthal?sub_confirmation=1)
+- [Twitter](https://twitter.com/BTNeandertha1)
+- [Discord](https://discord.gg/BTNeandertha1)
 
 # Table of Contents
 1. [Bug Reporting](https://github.com/BTNeandertha1/BTDiablo#bug-reporting)
