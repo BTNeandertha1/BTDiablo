@@ -9,12 +9,13 @@ BTNeandertha1 Social Media Links:
 - [Discord](https://discord.gg/BTNeandertha1)
 
 # Table of Contents
-1. [Bug Reporting](https://github.com/BTNeandertha1/BTDiablo#bug-reporting)
-2. [Credits](https://github.com/BTNeandertha1/BTDiablo#credits)
-3. [Future Ideas](https://github.com/BTNeandertha1/BTDiablo#future-ideas)
-4. [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo#corruption-ideas)
-5. [WIP](https://github.com/BTNeandertha1/BTDiablo#wip)
-6. [Patch Notes](https://github.com/BTNeandertha1/BTDiablo#patch-notes)
+1. [How to Install](https://github.com/BTNeandertha1/BTDiablo#how-to-install)
+2. [Bug Reporting](https://github.com/BTNeandertha1/BTDiablo#bug-reporting)
+3. [Credits](https://github.com/BTNeandertha1/BTDiablo#credits)
+4. [Future Ideas](https://github.com/BTNeandertha1/BTDiablo#future-ideas)
+5. [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo#corruption-ideas)
+6. [WIP](https://github.com/BTNeandertha1/BTDiablo#wip)
+7. [Patch Notes](https://github.com/BTNeandertha1/BTDiablo#patch-notes)
    - [Game](https://github.com/BTNeandertha1/BTDiablo#game)
    - [Characters](https://github.com/BTNeandertha1/BTDiablo#characters)
    - [Shrines](https://github.com/BTNeandertha1/BTDiablo#shrines)
@@ -36,8 +37,9 @@ BTNeandertha1 Social Media Links:
       - [Act 5](https://github.com/BTNeandertha1/BTDiablo#act-5)
    - [Skills](https://github.com/BTNeandertha1/BTDiablo#skills)
 
-# BTDiablo
-
+# How to Install
+Please follow BTN's [YouTube guide](https://youtu.be/uyRgLlxcew8) to install the mod.  
+**Please note** all files can be found here on GitHub now instead of on Google Drive.
 
 # Bug Reporting
 Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) section of GitHub or the [Discord Bug Reports](https://discord.gg/GUTuZHkzwz) channel!
