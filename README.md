@@ -69,6 +69,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 Please see the [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/14) issue.  
 Please leave your own ideas for corruptions in the Corruption Ideas issue for future consideration!
 
+- Resistance
+- Physical Damage Reduction
+- Skills
+- Enhanced Damage
+- Sockets
 
 # WIP
 - Corruptions
