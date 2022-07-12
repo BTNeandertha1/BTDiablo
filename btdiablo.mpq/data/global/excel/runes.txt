@@ -85,7 +85,7 @@ Runeword84	Mist	1	1	D2R Ladder 1	miss									ChamShaelGulThulIth	r32	r13	r25	r1
 Runeword85	Morning																																																0
 Runeword86	Mystery																																																0
 Runeword87	Myth	1		111	tors									HelAmnNef	r15	r11	r04				hit-skill	Taunt	10	1	gethit-skill	Howl	3	1	bar		2	2	regen		10	10													0
-Runeword88	Nadir	1		109	helm									NefTir	r04	r03					ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	str		5	5	red-dmg		4	4	red-mag		4	4	0
+Runeword88	Nadir	1		109	helm									NefTir	r04	r03					ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	str		5	5	red-mag		4	4	red-dmg		4	4	0
 Runeword89	Nature's Kingdom																																																0
 Runeword90	Night																																																0
 Runeword91	Oath	1		Previously Ladder Only	swor	axe	mace							ShaelPulMalLum	r13	r21	r23	r17			dmg%		210	340	swing1		30	30	hit-skill	Bone Spirit	30	20	charged	IronGolem	14	17	charged	Heart of Wolverine	20	16	abs-mag		10	15	indestruct		1	1	0

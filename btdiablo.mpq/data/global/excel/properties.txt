@@ -1,5 +1,5 @@
 code	*Enabled	func1	stat1	set1	val1	func2	stat2	set2	val2	func3	stat3	set3	val3	func4	stat4	set4	val4	func5	stat5	set5	val5	func6	stat6	set6	val6	func7	stat7	set7	val7	*Tooltip	*Parameter	*Min	*Max	*Notes	*eol
-	1	1	armorclass																											+# Defense		Min #	Max #		0
+ac	1	1	armorclass																											+# Defense		Min #	Max #		0
 ac-miss	1	1	armorclass_vs_missile																											+# Defense vs. Missile		Min #	Max #		0
 ac-hth	1	1	armorclass_vs_hth																											+# Defense vs. Melee		Min #	Max #		0
 red-dmg	1	1	normal_damage_reduction																											Damage Reduced by #		Min #	Max #		0
