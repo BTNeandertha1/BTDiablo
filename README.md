@@ -56,8 +56,8 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - Kex: First Tester  
 
 # Future Ideas
-Please see [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) tagged with [future ideas](https://github.com/BTNeandertha1/BTDiablo/issues?q=is%3Aopen+is%3Aissue+label%3A%22future+ideas%22).  
-Feel free to submit your own future ideas as well for consideration!
+Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/16) issue.  
+Please submit your own ideas in the Future Ideas issue and they may be added later on!
 
 - Add a "Challenge area"
 - make wanderer do something?
