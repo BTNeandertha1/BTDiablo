@@ -16,15 +16,15 @@ experience	13			32			1	0	32																																										0
 gold	14			32			1	0	25																																										0
 goldbank	15			32			1	0	25																																										0
 item_armor_percent	16		1	11											47	20		9	0	9	0			13			armorclass										74	19		Modstr2v	Modstr2v										0
-item_maxdamage_percent	17		1	11											45	20		9	0	9	0			13			maxdamage	secondary_maxdamage	item_throw_maxdamage			1					129	19		ModStr2j	ModStr2j										0
-item_mindamage_percent	18		1	11											45	20		9	0	9	0			13			mindamage	secondary_mindamage	item_throw_mindamage			1					130	19		ModStr2k	ModStr2k										0
+item_maxdamage_percent	17		1	11											45	20		9	0	10				13			maxdamage	secondary_maxdamage	item_throw_maxdamage			1					129	19		ModStr2j	ModStr2j										0
+item_mindamage_percent	18		1	11											45	20		9	0	10				13			mindamage	secondary_mindamage	item_throw_mindamage			1					130	19		ModStr2k	ModStr2k										0
 tohit	19		1	16											15	10		10		10												1					115	19		ModStr1h	ModStr1h										0
 toblock	20		1	10											89	204		6	0	6	0																134	19		ModStr3g	ModStr3g										0
-mindamage	21		1	16											122	25		6	0	6	0											1					127	19		ModStr1g	ModStr1g										0
-maxdamage	22		1	16											94	16		7	0	7	0											1					126	19		ModStr1f	ModStr1f										0
-secondary_mindamage	23		1	16											97	15		6	0	6	0											1					124	19		ModStr1g	ModStr1g										0
-secondary_maxdamage	24		1	16											85	11		7	0	7	0											1					123	19		ModStr1f	ModStr1f										0
-damagepercent	25		1	12											45	40		8	0	8	0											1																			0
+mindamage	21		1	16											122	25		6	0	10	100											1					127	19		ModStr1g	ModStr1g										0
+maxdamage	22		1	16											94	16		7	0	10	100											1					126	19		ModStr1f	ModStr1f										0
+secondary_mindamage	23		1	16											97	15		6	0	10	100											1					124	19		ModStr1g	ModStr1g										0
+secondary_maxdamage	24		1	16											85	11		7	0	10	100											1					123	19		ModStr1f	ModStr1f										0
+damagepercent	25		1	12											45	40		8	0	10	100											1																			0
 manarecovery	26																	8	0	8	0																														0
 manarecoverybonus	27		1	16														8	0	8	0																52	19		ModStr4g	ModStr4g									2	0
 staminarecoverybonus	28		1	16														8	0	8	0																48	19		ModStr3v	ModStr3v									2	0
@@ -66,8 +66,8 @@ manadrainmaxdam	63		1	16																												1																			0
 stamdrainmindam	64		1	16																												1																			0
 stamdrainmaxdam	65		1	16																												1																			0
 stunlength	66			16																												1																			0
-velocitypercent	67	1	1	10		1												7	30	7	30																														0
-attackrate	68	1	1	10		1												7	30	7	30											1																			0
+velocitypercent	67	1	1	10		1												7	30	10	100																														0
+attackrate	68	1	1	10		1												7	30	10	100											1																			0
 other_animrate	69	1	1	10		1																																													0
 quantity	70		1	16																												1																			0
 value	71		1	9														8	100	8	100																														0
@@ -78,33 +78,33 @@ item_maxdurability_percent	75		1	7											117	10		7	20	7	20			13			maxdurabil
 item_maxhp_percent	76		1	16											32093	204		6	10	6	10			11			maxhp										58	19		ModStr2g	ModStr2g										0
 item_maxmana_percent	77		1	16											56452	204		6	10	6	10			11			maxmana										54	19		ModStr2h	ModStr2h										0
 item_attackertakesdamage	78		1	16							1				112	128		7	0	7	0												attackedinmelee	6			13	19		ModStr1v	ModStr1v									2	0
-item_goldbonus	79		1	10											187	34		9	100	9	100																10	19		ModStr1w	ModStr1w									2	0
-item_magicbonus	80		1	9											577	102		8	100	8	100																8	19		ModStr1x	ModStr1x									2	0
+item_goldbonus	79		1	10											187	34		9	100	10	300																10	19		ModStr1w	ModStr1w									2	0
+item_magicbonus	80		1	9											577	102		8	100	10	300																8	19		ModStr1x	ModStr1x									2	0
 item_knockback	81		1	8							1				105	0		7	0	7	0											1	domeleedamage	7	domissiledamage	7	76	19		ModStr1y	ModStr1y									2	0
 item_timeduration	82		1	10														9	20	9	20																														0
 item_addclassskills	83		1	4	3						1				49523	1560		3	0	3	0	3															150	13		ModStr3a	ModStr3a										0
 unsentparam1	84																	3	0																																0
 item_addexperience	85		1	9											36015	519		3	0	9	50																11	19		Moditem2ExpG	Moditem2ExpG									2	0
-item_healafterkill	86		1	7							1				30	101		3	0	7	0												kill	28			16	19		ModitemHPaK	ModitemHPaK									2	0
+item_healafterkill	86		1	7							1				30	101		3	0	10	300												kill	28			16	19		ModitemHPaK	ModitemHPaK									2	0
 item_reducedprices	87			8											18957	203		3	0	7	0																8	19		ModitemRedVendP	ModitemRedVendP									2	0
 item_doubleherbduration	88		1	2														1	0	1	0																														0
-item_lightradius	89		1	5							1				15	51		4	4	4	4																6	19		ModStr3f	ModStr3f									2	0
+item_lightradius	89		1	5							1				15	51		4	4	10	100																6	19		ModStr3f	ModStr3f									2	0
 item_lightcolor	90		1	24							1				155	0		5	0	24	0																														0
 item_req_percent	91		1	8											26	-34		8	100	8	100																0	19		ModStr3h	ModStr3h										0
 item_levelreq	92																	6	20	7																															0
-item_fasterattackrate	93	1	1	9											1042	156		7	20	7	20											1					145	19		ModStr4m	ModStr4m									2	0
-item_levelreqpct	94																	7	20	7	64			13			item_levelreq																								0
+item_fasterattackrate	93	1	1	9											1042	156		7	20	10	100											1					145	19		ModStr4m	ModStr4m									2	0
+item_levelreqpct	94																	7	20	10	64			13			item_levelreq																								0
 lastblockframe	95																	6	20																																0
-item_fastermovevelocity	96	1	1	9											4083	156		7	20	7	20																148	19		ModStr4s	ModStr4s									2	0
+item_fastermovevelocity	96	1	1	9											4083	156		7	20	10	100																148	19		ModStr4s	ModStr4s									2	0
 item_nonclassskill	97		1	15	9						1			1	181	327		7	20	6	0	9															81	28		ItemModifierNonClassSkill	ItemModifierNonClassSkill										0
 state	98	1		1	8						1				415	64		6	20	1		8																													0
-item_fastergethitrate	99	1	1	9											1065	72		7	20	7	20																139	19		ModStr4p	ModStr4p									2	0
+item_fastergethitrate	99	1	1	9											1065	72		7	20	10	100																139	19		ModStr4p	ModStr4p									2	0
 monster_playercount	100																	7	20																																0
 skill_poison_override_length	101			8														6	20																																0
 item_fasterblockrate	102	1	1	9											1484	72		7	20	7	20																136	19		ModStr4y	ModStr4y									2	0
 skill_bypass_undead	103			1														7	20																																0
 skill_bypass_demons	104			1														6	20																																0
-item_fastercastrate	105	1	1	9											3876	156		7	20	7	20																142	19		ModStr4v	ModStr4v									2	0
+item_fastercastrate	105	1	1	9											3876	156		7	20	10	100																142	19		ModStr4v	ModStr4v									2	0
 skill_bypass_beasts	106			1														7	20																																0
 item_singleskill	107		1	15	9						1			1	181	256		14	0	3	0	9															81	27		ItemModifierClassSkill	ItemModifierClassSkill										0
 item_restinpeace	108			1							1				1987	0		14	0	1	0											1	kill	29			81	19		ModitemSMRIP	ModitemSMRIP									2	0
@@ -126,7 +126,7 @@ item_demon_tohit	123		1	13											15	7		10	128	10	128											1					110	19	
 item_undead_tohit	124		1	13											11	7		10	128	10	128											1					106	19		ModStr4k	ModStr4k										0
 item_throwable	125		1	2											82	1024		1	0	1	0																5	19		ModStr5a	ModStr5a										0
 item_elemskill	126		1	3	3						1				76	1024		4	0	3	0	3															157	19		ModStr3i	ModStr3i										0
-item_allskills	127		1	8							1				15123	4096		3	0	3	0																158	19		ModStr3k	ModStr3k										0
+item_allskills	127		1	8							1				15123	4096		3	0	7	64																158	19		ModStr3k	ModStr3k										0
 item_attackertakeslightdamage	128		1	6							1				4	102		5	0	5	0												damagedinmelee	10			14	19		ModStr3j	ModStr3j									2	0
 ironmaiden_level	129		1	10																																															0
 lifetap_level	130		1	10																																															0
@@ -137,7 +137,7 @@ item_freeze	134		1	5							1				666	12		5	0	5	0											1	domeleedamage	14	dom
 item_openwounds	135		1	7							1				23	10		7	0	7	0											1	domeleedamage	15	domissiledamage	15	83	19		ModStr3m	ModStr3m									2	0
 item_crushingblow	136		1	7							1				98	40		7	0	7	0											1	domeleedamage	16	domissiledamage	16	87	19		ModStr5c	ModStr5c									2	0
 item_kickdamage	137		1	7											77	51		7	0	7	0																121	19		ModStr5e	ModStr5e										0
-item_manaafterkill	138		1	7							1				17	102		7	0	7	0												kill	17			16	19		ModStr5f	ModStr5f									2	0
+item_manaafterkill	138		1	7							1				17	102		7	0	10	300												kill	17			16	19		ModStr5f	ModStr5f									2	0
 item_healafterdemonkill	139		1	7							1				18	102		7	0	7	0												kill	18			15	19		ModStr6c	ModStr6c									2	0
 item_extrablood	140		1	7											15	10		7	0	7	0											1																			0
 item_deadlystrike	141		1	7											31	25		7	0	7	0											1					85	19		ModStr5q	ModStr5q									2	0
@@ -158,8 +158,8 @@ item_reanimate	155			7	10						1							7	0	7	0	10										1	kill	31			17	23		Mo
 item_pierce	156		1	7											1924	2048		7	0	7	0											1					132	19		ModStr6g	ModStr6g									2	0
 item_magicarrow	157		1	7											511	1024		7	0	7	0																131	19		ModStr6h	ModStr6h										0
 item_explosivearrow	158		1	7											492	1536		7	0	7	0																133	19		ModStr6i	ModStr6i										0
-item_throw_mindamage	159		1	6											76	128		6	0	6	0											1																			0
-item_throw_maxdamage	160		1	7											88	128		7	0	7	0											1																			0
+item_throw_mindamage	159		1	6											76	128		6	0	10	100											1																			0
+item_throw_maxdamage	160		1	7											88	128		7	0	10	100											1																			0
 skill_handofathena	161		1	12																																															0
 skill_staminapercent	162		1	13																				1			maxstamina																								0
 skill_passive_staminapercent	163		1	12																				1			maxstamina																								0
@@ -215,16 +215,16 @@ passive_mastery_gethit_rate	213		1	11	16													8	0	8	0																				
 passive_mastery_attack_speed	213		1	11	16													8	0	8	0																														0
 item_armor_perlevel	214		1	6											43	42		6	0	6	0			4	3	level	armorclass										72	19		ModStr1i	ModStr1i	increaseswithplaylevelX									0
 item_armorpercent_perlevel	215		1	6											87	100		6	0	6	0			5	3	level	armorclass										73	19		Modstr2v	Modstr2v	increaseswithplaylevelX									0
-item_hp_perlevel	216		1	6											92	64	8	6	0	6	0			2	3	level	maxhp										57	19		ModStr1u	ModStr1u	increaseswithplaylevelX									0
-item_mana_perlevel	217		1	6											90	128	8	6	0	6	0			2	3	level	maxmana										53	19		ModStr1e	ModStr1e	increaseswithplaylevelX									0
-item_maxdamage_perlevel	218		1	6											54	204		6	0	6	0			4	3	level	maxdamage	secondary_maxdamage	item_throw_maxdamage			1					125	19		ModStr1f	ModStr1f	increaseswithplaylevelX									0
-item_maxdamage_percent_perlevel	219		1	6											86	100		6	0	6	0			5	3	level	maxdamage	secondary_maxdamage	item_throw_maxdamage			1					128	19		ModStr2j	ModStr2j	increaseswithplaylevelX									0
+item_hp_perlevel	216		1	6											92	64	8	6	0	10	100			2	3	level	maxhp										57	19		ModStr1u	ModStr1u	increaseswithplaylevelX									0
+item_mana_perlevel	217		1	6											90	128	8	6	0	10	100			2	3	level	maxmana										53	19		ModStr1e	ModStr1e	increaseswithplaylevelX									0
+item_maxdamage_perlevel	218		1	6											54	204		6	0	10	100			4	3	level	maxdamage	secondary_maxdamage	item_throw_maxdamage			1					125	19		ModStr1f	ModStr1f	increaseswithplaylevelX									0
+item_maxdamage_percent_perlevel	219		1	6											86	100		6	0	10	100			5	3	level	maxdamage	secondary_maxdamage	item_throw_maxdamage			1					128	19		ModStr2j	ModStr2j	increaseswithplaylevelX									0
 item_strength_perlevel	220		1	6											132	128		6	0	6	0			2	3	level	strength										66	19		ModStr1a	ModStr1a	increaseswithplaylevelX									0
 item_dexterity_perlevel	221		1	6											132	128		6	0	6	0			2	3	level	dexterity										64	19		ModStr1b	ModStr1b	increaseswithplaylevelX									0
 item_energy_perlevel	222		1	6											105	128		6	0	6	0			2	3	level	energy										60	19		ModStr1d	ModStr1d	increaseswithplaylevelX									0
 item_vitality_perlevel	223		1	6											105	128		6	0	6	0			2	3	level	vitality										62	19		ModStr1c	ModStr1c	increaseswithplaylevelX									0
-item_tohit_perlevel	224		1	6											53	20		6	0	6	0			2	1	level	tohit					1					114	19		ModStr1h	ModStr1h	increaseswithplaylevelX									0
-item_tohitpercent_perlevel	225		1	6											10	256		6	0	6	0			2	1	level	item_tohit_percent					1					116	19		ModStr4c	ModStr4c	increaseswithplaylevelX									0
+item_tohit_perlevel	224		1	6											53	20		6	0	10	100			2	1	level	tohit					1					114	19		ModStr1h	ModStr1h	increaseswithplaylevelX									0
+item_tohitpercent_perlevel	225		1	6											10	256		6	0	10	100			2	1	level	item_tohit_percent					1					116	19		ModStr4c	ModStr4c	increaseswithplaylevelX									0
 item_cold_damagemax_perlevel	226		1	6											1058	340		6	0	6	0			2	3	level	coldmaxdam					1					94	19		ModStr1s	ModStr1s	increaseswithplaylevelX									0
 item_fire_damagemax_perlevel	227		1	6											49	128		6	0	6	0			2	3	level	firemaxdam					1					100	19		ModStr1o	ModStr1o	increaseswithplaylevelX									0
 item_ltng_damagemax_perlevel	228		1	6											49	128		6	0	6	0			2	3	level	lightmaxdam					1					97	19		ModStr1q	ModStr1q	increaseswithplaylevelX									0

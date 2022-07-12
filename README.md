@@ -49,6 +49,7 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - [HighTechLowIQ](https://www.youtube.com/c/HighTechLowIQ) on YouTube for educational Videos and some Files  
 - MRCelSynap: For Helping with Corruptions and various modding  
 - Elmegaard: Inspiration  
+- Canight: Helped with a ton of ideas
 - Warren: Helping in the very beginning with Theory Crafting  
 - Wolfieeiflow: Helping with Spreadsheets and brain power  
 - JeyP: Testing things then walking me through  
@@ -58,24 +59,33 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 Please see [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) tagged with [future ideas](https://github.com/BTNeandertha1/BTDiablo/issues?q=is%3Aopen+is%3Aissue+label%3A%22future+ideas%22).  
 Feel free to submit your own future ideas as well for consideration!
 
+- Add a "Challenge area"
+- make wanderer do something?
+- Add more evil urns?
+
 # Corruption Ideas
 Please see the [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/14) issue.  
 Please leave your own ideas for corruptions in the Corruption Ideas issue for future consideration!
 
+
 # WIP
-- Make HC characters 
+- Corruptions
 
 # Patch Notes
+**WARNING** This patch will brick everything BEWARE!
+- Details: This Increased Caps on items for the longevity of the mod (helps prevent future bricking)
+   
 ## Game 
 - Item Levels Shown
 - 3 Additional Shared Stash Tabs
-- Negative 30 all res
+- Negative 30 all res (Only effects the Player)
 - Negative 199 MF
 - Start with nothing
 
 ## Characters
 - Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
 - Greatly improved Attack Rating for all classes (All classes start with 750 AR was -15 to 20)
+- Can now use character creation like normal for both Hardcore and Softcore
 
 ## Shrines
 - Made Gem Shrines Much more common
@@ -125,11 +135,16 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
    - Removed -33% Gold Find
 - Black 
    - 7 MDR (was 2)
-- Stealth
-   - Added 33% Piercing Attack
+- Wealth
+   - Added 20 Faster Run/Walk
+   - Added 10% Increased Attack Speed
+   - 1 Magic Find% per Level (was 100)
 
 ## Gems
 - Topaz Magic Find replaced with Faster Run/Walk
+
+## Items
+- Necro shields adds 33% Pierce for the Teeth mechanic (was Poison Damage)
 
 ## Shop
 - Added Imbue for Gold at Charsi 575k
@@ -157,9 +172,9 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Elixir + Spleen + Jawbone + Quill = MF Potion
 
 ## Endgame
-- OP Repeatable recipes on ANY gear piece:
-   - Zod + SOJ + Sur + SOH + Charsi's Malus + Any gear piece = +1 to Teleport, + 25MF + 25GF + 1 Light Radius
-   - Cham + SOH + Ist + Lem + Charsi's Malus + Any gear piece = +25% MF + 25%GF + 1 Light Radius
+- OP Repeatable recipes:
+   - Zod + SOJ + Sur + SOH + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 25GF + 1 Light Radius
+   - Cham + SOH + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 25%GF + 1 Light Radius
 
 ## Monsters
 - Mephisto can fly now
@@ -213,6 +228,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - 85 Great Marsh
 - 85 Flayer Dungeon (All Levels)
 - 85 Spider Cavern
+- Lower Kurast is DANGEROUS in NIGHTMARE and HELL... Like really...
 
 ### Act 4
 - 84 Outer Steps 
