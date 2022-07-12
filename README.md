@@ -125,6 +125,8 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
    - Removed -33% Gold Find
 - Black 
    - 7 MDR (was 2)
+- Stealth
+   - Added 33% Piercing Attack
 
 ## Gems
 - Topaz Magic Find replaced with Faster Run/Walk
