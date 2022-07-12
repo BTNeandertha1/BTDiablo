@@ -73,6 +73,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 
 # Patch Notes
 **WARNING** This patch will brick everything BEWARE!
+
 - Details: This Increased Caps on items for the longevity of the mod (helps prevent future bricking)
    
 ## Game 
