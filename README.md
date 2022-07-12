@@ -53,17 +53,10 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - Kex: First Tester  
 
 # Future Ideas
-- make wanderer do something?
-- Super Chest Rarity Nerf?
-- Add more evil urns?
+Please see [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) tagged with [future ideas](https://github.com/BTNeandertha1/BTDiablo/issues?q=is%3Aopen+is%3Aissue+label%3A%22future+ideas%22).
 
 # Corruption Ideas
-Mods desired:
-- Resistance
-- Physical Damage Reduction
-- Skills
-- Enhanced Damage
-- Sockets
+Please see the [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/14) issue.
 
 # WIP
 - Make HC characters 
