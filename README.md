@@ -11,11 +11,10 @@ BTNeandertha1 Social Media Links:
 # Table of Contents
 1. [Bug Reporting](https://github.com/BTNeandertha1/BTDiablo#bug-reporting)
 2. [Credits](https://github.com/BTNeandertha1/BTDiablo#credits)
-3. [Known Bugs](https://github.com/BTNeandertha1/BTDiablo#known-bugs)
-4. [Future Ideas](https://github.com/BTNeandertha1/BTDiablo#future-ideas)
-5. [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo#corruption-ideas)
-6. [WIP](https://github.com/BTNeandertha1/BTDiablo#wip)
-7. [Patch Notes](https://github.com/BTNeandertha1/BTDiablo#patch-notes)
+3. [Future Ideas](https://github.com/BTNeandertha1/BTDiablo#future-ideas)
+4. [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo#corruption-ideas)
+5. [WIP](https://github.com/BTNeandertha1/BTDiablo#wip)
+6. [Patch Notes](https://github.com/BTNeandertha1/BTDiablo#patch-notes)
    - [Game](https://github.com/BTNeandertha1/BTDiablo#game)
    - [Characters](https://github.com/BTNeandertha1/BTDiablo#characters)
    - [Shrines](https://github.com/BTNeandertha1/BTDiablo#shrines)
@@ -52,17 +51,6 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - Wolfieeiflow: Helping with Spreadsheets and brain power  
 - JeyP: Testing things then walking me through  
 - Kex: First Tester  
-
-# Known Bugs
-- Inner site displaying on Merc in A2 instead of showing Blessed Aim (Maybe Fixed by adding a New Skill)
-- Blanched Jewel might be fixed on new patch?
-- NM and H Travincal Auras 
-- NM and H Ancients Auras
-- Fix Mercenary Res
-- Recipes for Imbue and Larzuk Hell Only?
-- Fix throne density in Hell
-- Fix Trav 
-- Rejuvs Worth Too Much when selling
 
 # Future Ideas
 - make wanderer do something?
