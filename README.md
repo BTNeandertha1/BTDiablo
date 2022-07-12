@@ -232,6 +232,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 
 ## Skills
 - Static is Always 60%
+- Teeth can Pierce and removed Next Hit Delay
 
 !!!CORRUPTIONS AREN'T IN YET!!!
 GitHub Link: Test Mod
