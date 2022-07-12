@@ -130,7 +130,7 @@ Runeword129	Sorrow																																																0
 Runeword130	Spirit	1		Previously Ladder Only	shld									MalThulOrtPul	r23	r10	r09	r21			balance3		55	55	mana		89	112	res-pois		35	35	vit		22	22	cast3		35	35	abs-mag		3	8	allskills		2	2	0
 Runeword131	Splendor	1		110	shld									EthLum	r05	r17					light		3	3	gold%		50	50	mag%		20	20	ac%		60	100	block2		20	20	cast2		20	20	allskills		1	1	0
 Runeword132	Starlight																																																0
-Runeword133	Stealth	1		109	tors									TalEth	r07	r05					red-mag		3	3	dex		6	6	stam		15	15	move2		25	25	cast2		25	25	balance2		25	25					0
+Runeword133	Stealth	1		109	tors									TalEth	r07	r05					red-mag		3	3	dex		6	6	stam		15	15	move2		25	25	cast2		25	25	balance2		25	25	pierce		33	33	0
 Runeword134	Steel	1		109	swor	axe	mace							TirEl	r03	r01					swing2		25	25	dmg-min		3	3	dmg-max		3	3	openwounds		50	50	dmg%		20	20	crush		5	5					0
 Runeword135	Still Water																																																0
 Runeword136	Sting																																																0
