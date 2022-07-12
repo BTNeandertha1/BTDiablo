@@ -60,8 +60,10 @@ Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/1
 Please submit your own ideas in the Future Ideas issue and they may be added later on!
 
 - Add a "Challenge area"
-- make wanderer do something?
+- Make wanderer do something?
 - Add more evil urns?
+- Super Chest Rarity Nerf?
+- Buff Necromancer some how?
 
 # Corruption Ideas
 Please see the [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/14) issue.  
