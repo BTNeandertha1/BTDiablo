@@ -231,10 +231,10 @@ Staff of Teleportation	1			100					2	"staf,mag"	bgn						"usetype,mag"				charge
 	0																																																																																																							0
 TESTING	0																																																																																																							0
 3 Key of Destruction -> Key of Terror	0			100					1	vps							mfc																																																																																							0
-Make Ethereal	1			1					2	"any,mag"	tsc						useitem				ethereal			1	1																																																																															0
-Make Ethereal	1			1					2	"any,rar"	tsc						useitem				ethereal			1	1																																																																															0
-Make Ethereal	1			1					2	"any,set"	tsc						useitem				ethereal			1	1																																																																															0
-Make Ethereal	1			1					2	"any,uni"	tsc						useitem				ethereal			1	1																																																																															0
+Make Ethereal	0			1					2	"any,mag"	tsc						useitem				ethereal			1	1																																																																															0
+Make Ethereal	0			1					2	"any,rar"	tsc						useitem				ethereal			1	1																																																																															0
+Make Ethereal	0			1					2	"any,set"	tsc						useitem				ethereal			1	1																																																																															0
+Make Ethereal	0			1					2	"any,uni"	tsc						useitem				ethereal			1	1																																																																															0
 	0																																																																																																							0
 IMBUES	0																																																																																																							0
 	0																																																																																																							0
