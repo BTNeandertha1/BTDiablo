@@ -67,19 +67,20 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 Please see the [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/14) issue.  
 Please leave your own ideas for corruptions in the Corruption Ideas issue for future consideration!
 
-
 # WIP
 - Corruptions
+- Crafting Buffs
 
-# Patch Notes
-**WARNING** This patch will brick everything BEWARE!!! (People Said Runes and Gems Survive)
-
-- Details: This Increased Caps on items for the longevity of the mod (helps prevent future bricking)
-
-- How to get current Patch X 
-   - Delete your old BTD Files
-   - Paste in Shared Stash Files
-   - Create a New Character
+# Patch Notes XI
+- Fixed a bug with Larzuk not socketing Crafted Items
+- Added New Items and Recipes
+- Buffed Runewords
+- Made the game harder but balanced with item changes
+- Buffed Ist+
+- Buffed Annihilus
+- How do I get the new patch?
+   - Delete btdiablo.mpq folder
+   - Paste New btdiablo.mpq folder
    
 ## Game 
 - Item Levels Shown
@@ -91,79 +92,105 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 ## Characters
 - Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
 - Greatly improved Attack Rating for all classes (All classes start with 750 AR was -15 to 20)
-- Can now use character creation like normal for both Hardcore and Softcore
 
 ## Shrines
 - Made Gem Shrines Much more common
    - Removed: Armor, Stamina, Portal, Fire, Exploding, Poison
 
 ## Runewords
-- Enigma is now Jah Ith Sol (was Jah Ith Ber)
+- Enigma [Jah Ith Sol] (was Jah Ith Ber)
    - Added Flat Physical Damage Reduction
    - Removed Strength and % Damage Reduction
    - Half Magic Find% per level
-- Spirit Shield Mal Thul Ort Pul (was Tal Thul Ort Amn)
+- Spirit Shield [Mal Thul Ort Pul] (was Tal Thul Ort Amn)
    - Always Rolls 35% Faster Cast Rate
-- Splendor
+- Splendor [Eth Lum]
    - 20% Faster Cast Rate (was 10%)
-- Added Soul Sword Runeword (was Spirit Sword because Spirit was changed)
+- Added Soul Sword Runeword [Tal Thul Ort Amn] (was Spirit Sword, Spirit was changed)
    - Exact same as old Spirit Sword
-- Holy Thunder works in any melee weapon (was Sceptors)
+- Holy Thunder [Eth Ral Ort Tal] works in any melee weapon (was Sceptors)
    - +100% Enhanced Damage (was 60) 
    - +15 Maximum Damage (was 10) 
    - Level 2 Holy Shock Aura when equipped (was +3 Holy Shock Paladin only)
    - Removed Chain Lighting Charges
-- Honor
+- Honor [Amn El Ith Tir Sol]
    - Added +20-30 Increased Attack Speed
    - +190-210% Enhanced Damage (was 160) 
    - +20% Bonus Attack Rating (was 200 Flat Attack Rating)
    - Added 55% Faster Hit Recovery
-- Malice
+   - Added Repairs Durability
+   - Removed Replenish Life
+- Malice [Ith El Eth]
    - Added 7% Life Stolen Per Hit
-- Steel
+   - Added Repairs Durability
+   - Removed Light Raidus
+- Steel [Tir El] Melee Weapons (was sword, axe, mace)
    - Added 5% Chance of Crushing Blow on Hit
-- Strength
+   - Changed Max and Min Damage to Flat Damage
+   - Added Repairs Durability
+- Strength [Amn Tir]
    - 90-110% Enhanced Damage (was 35)
-- Prudence 
+   - Added Repairs Durability
+- Prudence [Mal Tir]
    - 24 MDR (was 17)
    - 8 PDR (was 3)
    - Added Cannot Be Frozen
    - Removed 1 Light Radius
-- Lionheart
+- Lionheart [Hel Lum Fal]
    - 90-110% Enhanced Damage (was 20)
-- Radiance 
+- Radiance [Nef Sol Ith]
    - 10 pdr (was 3)
    - Added 33 Life
    - Removed Enhanced Defense
-- Nadir
+- Nadir [Nef Tir]
    - 4 Magic Damage Reduction
    - 4 Physical Damage Reduction
    - Removed -33% Gold Find
-- Black 
+- Black [Thul Io Nef]
    - 7 MDR (was 2)
-- Wealth
+- Wealth [Lem Ko Tir]
    - Added 20 Faster Run/Walk
    - Added 10% Increased Attack Speed
    - 1 Magic Find% per Level (was 100)
+- Delirium [Lem Ist Io]
+   - Removed the Delirium Mod from Delirium (turned you into a doll "disabling your character")
+   
+## Runes
+- Ist and higher Runes now all have 3% Experience Gained
+- Cham Rune
+   - Changed Armor and Helmet to 34% Reduced Curse Duration (was Cannot Be Frozen)
+- Zod
+   - Added +1 to All Skills
 
 ## Gems
 - Topaz Magic Find replaced with Faster Run/Walk
 
 ## Items
+- Annihilus
+   - 10-15% Experience Gained (was 5-10%)
 - Necro shields adds 33% Pierce for the Teeth mechanic (was Poison Damage)
+- Added Hellfire Ashes (Broken down Hellfire Torches) Torch + Larzuk's Forging Hammer 
 
 ## Shop
-- Added Imbue for Gold at Charsi 575k
-- Added Socket for Gold at Larzuk 2.2 Mil
+- Added Charsi's Malus to Imbue (575k)
+- Added Larzuk's Forging Hammer (2.2 Mil)
 - Added Essences for Gold at Akara (150k B, 325k Y, 750k R, 1.5 Mil R)
-- Added ingredients for Gold at Alkor 1 of each ingredient = 1 MF Potion (8Mil total)
+- Added Elixir(7k) ingredient at Alkor
+- Added Quill(2.76M) ingredient at Alkor
+- Added Jawbone(2.76M) ingredient at Alkor
+- Added Spleen(2.76M) ingredient at Alkor
 - MF Potion grants +100% MF for 1 Hour (Effect lost on death or S&E)
 - Added BigDinn at Ormus (90k)
-- Cube with Magic Staff for (?/33) Teleport Charges
+   - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
+- Added Hratli's Spiritual Herb (2.25M)
+   - Ingredient for Repair Mod
+- Added Viper Of The Amulet at Drognan(160k)
+   - Cube with Wand and potion for (?/67) Lower Resistance or Life Tap Wand [Randome Level Required]
+      - Mana Potion = Lower Resistance
+	  - Healing Potion = Life Tap
 
 ## Recipes
-- (WIP) Corruptions With Standard of Heros (Not Runewords)
-- Rune Downgrading 1 to 1 (Key + Rune = Downgrade)
+- Rune Downgrading 1 to 1 (Flawed Gem + Rune = Downgrade)
 - Any base Crafting including Eth Items
 - Essence Transmuting 3 = 1 of next Tier
    - Blue > Yellow > Red > Green
@@ -175,7 +202,10 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
 - Removed Gem requirements for Rune Upgrading
 - Elixir + Health Potion + Mana Potion = Rejuvination Potion
-- Elixir + Spleen + Jawbone + Quill = MF Potion
+- Elixir + Spleen + Jawbone + Quill = Magic Find Potion
+- Hratli's Spiritual Herb + Magic Find Potion + Hellfire Ashes + SOH
+   - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
+   - Replenishes Quantity for Any Throwing Weapons
 
 ## Endgame
 - OP Repeatable recipes:
@@ -200,14 +230,21 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
    - Bremm Sparkfist is now always Cursed (Durance of Hate Level 3)
 
 ## Difficulties
+
+### Normal
+- 10% Experience loss on death
+
 ### Nightmare  
 - -45% Resistance (was -40)
 - 5% more density
 - 10% more Elites
+- 25% Experience loss on death
 
 ### Hell
 - -110% Resistance (was -100)
 - 25% more Density and Elites
+- 50% Experience loss on death
+- Monsters React 15% Faster
 
 ## Area Changes
 (Level changes are for Hell Only)
@@ -257,6 +294,3 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Teeth can Pierce and removed Next Hit Delay
 
 !!!CORRUPTIONS AREN'T IN YET!!!
-GitHub Link: Test Mod
-
-YouTube Vid: Video Explanation

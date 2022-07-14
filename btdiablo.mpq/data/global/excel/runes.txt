@@ -20,7 +20,7 @@ Runeword18	Darkness																																																0
 Runeword19	Daylight																																																0
 Runeword20	Death	1		Previously Ladder Only	swor	axe								HelElVexOrtGul	r15	r01	r26	r09	r25		dmg%		300	385	deadly/lvl	4			charged	BloodGolem	15	22	att-skill	Glacial Spike	25	18	death-skill	Chain Lightning	100	44	crush		50	50	indestruct		1	1	0
 Runeword21	Deception																																																0
-Runeword22	Delirium	1		110	helm									LemIstIo	r20	r24	r16				hit-skill	Confuse	11	18	charged	Attract	60	17	gethit-skill	Terror	14	13	ac		261	261	gethit-skill	Mind Blast	6	14	gethit-skill	Delerium Change	1	50	allskills		2	2	0
+Runeword22	Delirium	1		110	helm									LemIstIo	r20	r24	r16				hit-skill	Confuse	11	18	charged	Attract	60	17	gethit-skill	Terror	14	13	ac		261	261	gethit-skill	Mind Blast	6	14	allskills		2	2					0
 Runeword23	Desire																																																0
 Runeword24	Despair																																																0
 Runeword25	Destruction	1		Previously Ladder Only	pole	swor								VexLoBerJahKo	r26	r28	r30	r31	r18		dmg%		350	350	dmg-mag		100	180	hit-skill	Molten Boulder	5	23	death-skill	Meteor	100	45	att-skill	Nova	15	22	hit-skill	Volcano	23	12	noheal		1	1	0
@@ -53,7 +53,7 @@ Runeword51	Heart of the Oak	1		110	staf	mace								KoVexPulThul	r18	r26	r21	r10
 Runeword52	Heaven's Will																																																0
 Runeword53	Holy Tears																																																0
 Runeword54	Holy Thunder	1		109	mele									EthRalOrtTal	r05	r08	r09	r07			dmg%		100	100	dmg-ltng		20	60	dmg-max		15	15	res-ltng		60	60	res-ltng-max		5	5	aura	118	2	2	item_poisonlengthresist		75	75	0
-Runeword55	Honor	1		109	mele									AmnElIthTirSol	r11	r01	r06	r03	r12		dmg%		190	210	regen		10	10	allskills		1	1	att%		20	20	deadly		25	25	balance3		55	55	swing2		20	30	0
+Runeword55	Honor	1		109	mele									AmnElIthTirSol	r11	r01	r06	r03	r12		dmg%		190	210	rep-dur	25			allskills		1	1	att%		20	20	deadly		25	25	balance3		55	55	swing2		20	30	0
 Runeword56	Revenge																																																0
 Runeword57	Humility																																																0
 Runeword58	Hunger																																																0
@@ -78,7 +78,7 @@ Runeword76	Love																																																0
 Runeword77	Loyalty																																																0
 Runeword78	Lust																																																0
 Runeword79	Madness																																																0
-Runeword81	Malice	1		109	mele									IthElEth	r06	r01	r05				openwounds		100	100	dmg-ac		-100	-100	noheal		1	1	dmg%		33	33	light		-1	-1	regen		-5	-5	lifesteal		7	7	0
+Runeword81	Malice	1		109	mele									IthElEth	r06	r01	r05				openwounds		100	100	dmg-ac		-100	-100	noheal		1	1	dmg%		33	33	rep-dur	25			regen		-5	-5	lifesteal		7	7	0
 Runeword82	Melody	1		109	miss									ShaelKoNef	r13	r18	r04				dmg%		50	50	skilltab	0	3	3	skill	9	3	3	skill	13	3	3	skill	17	3	3	dmg-undead		300	300					0
 Runeword83	Memory	1		109	staf									LumIoSolEth	r17	r16	r12	r05			mana%		20	20	red-mag		7	7	ac%		50	50	cast2		33	33	sor		3	3	skill	58	3	3	skill	42	2	2	0
 Runeword84	Mist	1	1	D2R Ladder 1	miss									ChamShaelGulThulIth	r32	r13	r25	r10	r06		allskills		3	3	dmg%		325	375	aura	Concentration	8	12	pierce		100	100	vit		24	24	res-all		40	40					0
@@ -131,12 +131,12 @@ Runeword130	Spirit	1		Previously Ladder Only	shld									MalThulOrtPul	r23	r10	
 Runeword131	Splendor	1		110	shld									EthLum	r05	r17					light		3	3	gold%		50	50	mag%		20	20	ac%		60	100	block2		20	20	cast2		20	20	allskills		1	1	0
 Runeword132	Starlight																																																0
 Runeword133	Stealth	1		109	tors									TalEth	r07	r05					red-mag		3	3	dex		6	6	stam		15	15	move2		25	25	cast2		25	25	balance2		25	25					0
-Runeword134	Steel	1		109	swor	axe	mace							TirEl	r03	r01					swing2		25	25	dmg-min		3	3	dmg-max		3	3	openwounds		50	50	dmg%		20	20	crush		5	5					0
+Runeword134	Steel	1		109	mele									TirEl	r03	r01					swing2		25	25	dmg		3	3	openwounds		50	50	dmg%		20	20	crush		5	5	rep-dur	25							0
 Runeword135	Still Water																																																0
 Runeword136	Sting																																																0
 Runeword137	Stone	1		110	tors									ShaelUmPulLum	r13	r22	r21	r17			ac%		220	260	charged	Clay Golem	16	16	ac-miss		300	300	charged	Molten Boulder	80	16	str		16	16	vit		16	16	balance2		40	40	0
 Runeword138	Storm																																																0
-Runeword139	Strength	1		109	mele									AmnTir	r11	r03					str		20	20	dmg%		90	110	vit		10	10	crush		25	25													0
+Runeword139	Strength	1		109	mele									AmnTir	r11	r03					str		20	20	dmg%		90	110	vit		10	10	crush		25	25	rep-dur	25											0
 Runeword140	Tempest																																																0
 Runeword141	Temptation																																																0
 Runeword142	Terror																																																0

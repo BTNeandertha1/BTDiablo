@@ -182,39 +182,39 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor	1	1		100					4	"armo,bas,set"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon	1	1		100					4	"weap,exc,set"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor	1	1		100					4	"armo,exc,set"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
-1 Zod + 1 Key -> Cham Rune	1			100					2	"r33,qty=1"	key						r32																																																																																							0
-1 Cham + 1 Key -> Jah Rune	1			100					2	"r32,qty=1"	key						r31																																																																																							0
-1 Jah + 1 Key -> Ber Rune	1			100					2	"r31,qty=1"	key						r30																																																																																							0
-1 Ber + 1 Key -> Sur Rune	1			100					2	"r30,qty=1"	key						r29																																																																																							0
-1 Sur + 1 Key -> Lo  Rune	1			100					2	"r29,qty=1"	key						r28																																																																																							0
-1 Lo + 1 Key -> Ohm Rune	1			100					2	"r28,qty=1"	key						r27																																																																																							0
-1 Ohm + 1 Key -> Vex Rune	1			100					2	"r27,qty=1"	key						r26																																																																																							0
-1 Vex + 1 Key -> Gul Rune	1			100					2	"r26,qty=1"	key						r25																																																																																							0
-1 Gul + 1 Key -> Ist Rune	1			100					2	"r25,qty=1"	key						r24																																																																																							0
-1 Ist + 1 Key -> Mal Rune	1			100					2	"r24,qty=1"	key						r23																																																																																							0
-1 Mal + 1 Key -> Um Rune	1			100					2	"r23,qty=1"	key						r22																																																																																							0
-1 Um + 1 Key -> Pul Rune	1			100					2	"r22,qty=1"	key						r21																																																																																							0
-1 Pul + 1 Key -> Lem Rune	1			100					2	"r21,qty=1"	key						r20																																																																																							0
-1 Lem + 1 Key -> Fal Rune	1			100					2	"r20,qty=1"	key						r19																																																																																							0
-1 Fal + 1 Key -> Ko Rune	1			100					2	"r19,qty=1"	key						r18																																																																																							0
-1 Ko + 1 Key -> Lum Rune	1			100					2	"r18,qty=1"	key						r17																																																																																							0
-1 Lum + 1 Key -> Io Rune	1			100					2	"r17,qty=1"	key						r16																																																																																							0
-1 Io + 1 Key -> Hel Rune	1			100					2	"r16,qty=1"	key						r15																																																																																							0
-1 Hel + 1 Key -> Dol  Rune	1			100					2	"r15,qty=1"	key						r14																																																																																							0
-1 Dol + 1 Key -> Shael Rune	1			100					2	"r14,qty=1"	key						r13																																																																																							0
-1 Shael + 1 Key -> Sol Rune	1			100					2	"r13,qty=1"	key						r12																																																																																							0
-1 Sol + 1 Key -> Amn Rune	1			100					2	"r12,qty=1"	key						r11																																																																																							0
-1 Amn + 1 Key -> Thul Rune	1			100					2	"r11,qty=1"	key						r10																																																																																							0
-1 Thul + 1 Key -> Ort Rune	1			100					2	"r10,qty=1"	key						r09																																																																																							0
-1 Ort + 1 Key -> Ral Rune	1			100					2	"r09,qty=1"	key						r08																																																																																							0
-1 Ral + 1 Key -> Tal Rune	1			100					2	"r08,qty=1"	key						r07																																																																																							0
-1 Tal + 1 Key -> Ith Rune	1			100					2	"r07,qty=1"	key						r06																																																																																							0
-1 Ith + 1 Key -> Eth Rune	1			100					2	"r06,qty=1"	key						r05																																																																																							0
-1 Eth + 1 Key -> Nef Rune	1			100					2	"r05,qty=1"	key						r04																																																																																							0
-1 Nef + 1 Key -> Tir Rune	1			100					2	"r04,qty=1"	key						r03																																																																																							0
-1 Tir + 1 Key -> Eld Rune	1			100					2	"r03,qty=1"	key						r02																																																																																							0
-1 Eld + 1 Key -> El Rune	1			100					2	"r02,qty=1"	key						r01																																																																																							0
-1 El + 1 Key -> Rejuv	1			100					2	"r01,qty=1"	key						rvs																																																																																							0
+1 Zod + 1 Key -> Cham Rune	1			100					2	"r33,qty=1"	gem1						r32																																																																																							0
+1 Cham + 1 Key -> Jah Rune	1			100					2	"r32,qty=1"	gem1						r31																																																																																							0
+1 Jah + 1 Key -> Ber Rune	1			100					2	"r31,qty=1"	gem1						r30																																																																																							0
+1 Ber + 1 Key -> Sur Rune	1			100					2	"r30,qty=1"	gem1						r29																																																																																							0
+1 Sur + 1 Key -> Lo  Rune	1			100					2	"r29,qty=1"	gem1						r28																																																																																							0
+1 Lo + 1 Key -> Ohm Rune	1			100					2	"r28,qty=1"	gem1						r27																																																																																							0
+1 Ohm + 1 Key -> Vex Rune	1			100					2	"r27,qty=1"	gem1						r26																																																																																							0
+1 Vex + 1 Key -> Gul Rune	1			100					2	"r26,qty=1"	gem1						r25																																																																																							0
+1 Gul + 1 Key -> Ist Rune	1			100					2	"r25,qty=1"	gem1						r24																																																																																							0
+1 Ist + 1 Key -> Mal Rune	1			100					2	"r24,qty=1"	gem1						r23																																																																																							0
+1 Mal + 1 Key -> Um Rune	1			100					2	"r23,qty=1"	gem1						r22																																																																																							0
+1 Um + 1 Key -> Pul Rune	1			100					2	"r22,qty=1"	gem1						r21																																																																																							0
+1 Pul + 1 Key -> Lem Rune	1			100					2	"r21,qty=1"	gem1						r20																																																																																							0
+1 Lem + 1 Key -> Fal Rune	1			100					2	"r20,qty=1"	gem1						r19																																																																																							0
+1 Fal + 1 Key -> Ko Rune	1			100					2	"r19,qty=1"	gem1						r18																																																																																							0
+1 Ko + 1 Key -> Lum Rune	1			100					2	"r18,qty=1"	gem1						r17																																																																																							0
+1 Lum + 1 Key -> Io Rune	1			100					2	"r17,qty=1"	gem1						r16																																																																																							0
+1 Io + 1 Key -> Hel Rune	1			100					2	"r16,qty=1"	gem1						r15																																																																																							0
+1 Hel + 1 Key -> Dol  Rune	1			100					2	"r15,qty=1"	gem1						r14																																																																																							0
+1 Dol + 1 Key -> Shael Rune	1			100					2	"r14,qty=1"	gem1						r13																																																																																							0
+1 Shael + 1 Key -> Sol Rune	1			100					2	"r13,qty=1"	gem1						r12																																																																																							0
+1 Sol + 1 Key -> Amn Rune	1			100					2	"r12,qty=1"	gem1						r11																																																																																							0
+1 Amn + 1 Key -> Thul Rune	1			100					2	"r11,qty=1"	gem1						r10																																																																																							0
+1 Thul + 1 Key -> Ort Rune	1			100					2	"r10,qty=1"	gem1						r09																																																																																							0
+1 Ort + 1 Key -> Ral Rune	1			100					2	"r09,qty=1"	gem1						r08																																																																																							0
+1 Ral + 1 Key -> Tal Rune	1			100					2	"r08,qty=1"	gem1						r07																																																																																							0
+1 Tal + 1 Key -> Ith Rune	1			100					2	"r07,qty=1"	gem1						r06																																																																																							0
+1 Ith + 1 Key -> Eth Rune	1			100					2	"r06,qty=1"	gem1						r05																																																																																							0
+1 Eth + 1 Key -> Nef Rune	1			100					2	"r05,qty=1"	gem1						r04																																																																																							0
+1 Nef + 1 Key -> Tir Rune	1			100					2	"r04,qty=1"	gem1						r03																																																																																							0
+1 Tir + 1 Key -> Eld Rune	1			100					2	"r03,qty=1"	gem1						r02																																																																																							0
+1 Eld + 1 Key -> El Rune	1			100					2	"r02,qty=1"	gem1						r01																																																																																							0
+1 El + 1 Key -> Rejuv	1			100					2	"r01,qty=1"	gem1						rvs																																																																																							0
 3 Twisted Essence of Suffering -> 1 Charged Essence of Hatred	1			100					3	"tes,qty=3"							ceh																																																																																							0
 3 Charged Essence of Hatred -> 1 Burning Essence of Terror 	1			100					3	"ceh,qty=3"							bet																																																																																							0
 3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100					3	"bet,qty=3"							fed																																																																																							0
@@ -225,11 +225,16 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 	0																																																																																																							0
 SPEEDRUNNING	0																																																																																																							0
 	0																																																																																																							0
-Staff of Teleportation	1			100					2	"staf,mag"	bgn						"usetype,mag"				charged		54	33	1																																																																															0
+Wand of Lower Res	1		1	100					3	"wand,mag"	voa	mpot					"usetype,mag"				charged	100	91	67	1																																																																															0
+Wand of Life Tap	1		1	100					3	"wand,mag"	voa	hpot					"usetype,mag"				charged	100	82	67	1																																																																															0
+Staff of Teleportation	1			100					2	"staf,mag"	bgn						"usetype,mag"				charged	100	54	33	1																																																																															0
 	0																																																																																																							0
 TESTING	0																																																																																																							0
-3 Key of Destruction -> Key of Terror	1			100					1	vps							mfc																																																																																							0
-Make Ethereal	0			0					2	"any,uni"	tsc						useitem				ethereal			1	1																																																																															0
+3 Key of Destruction -> Key of Terror	0			100					1	vps							mfc																																																																																							0
+Make Ethereal	1			1					2	"any,mag"	tsc						useitem				ethereal			1	1																																																																															0
+Make Ethereal	1			1					2	"any,rar"	tsc						useitem				ethereal			1	1																																																																															0
+Make Ethereal	1			1					2	"any,set"	tsc						useitem				ethereal			1	1																																																																															0
+Make Ethereal	1			1					2	"any,uni"	tsc						useitem				ethereal			1	1																																																																															0
 	0																																																																																																							0
 IMBUES	0																																																																																																							0
 	0																																																																																																							0
@@ -316,11 +321,25 @@ Helm	1			0					2	"helm,uni,nos"	lmr						useitem				sock			1	1																		
 Weapon	1			0					2	"weap,uni,nos"	lmr						useitem				sock			1	1																																																																															0
 Armor	1			0					2	"tors,uni,nos"	lmr						useitem				sock			1	1																																																																															0
 Shield	1			0					2	"shld,uni,nos"	lmr						useitem				sock			1	1																																																																															0
+CRAFTS	0																																																																																																							0
+Helm	1			0					2	"helm,crf,nos"	lmr						useitem				sock			1	1																																																																															0
+Weapon	1			0					2	"weap,crf,nos"	lmr						useitem				sock			1	1																																																																															0
+Armor	1			0					2	"tors,crf,nos"	lmr						useitem				sock			1	1																																																																															0
+Shield	1			0					2	"shld,crf,nos"	lmr						useitem				sock			1	1																																																																															0
+																																																																																																								
 	0																																																																																																							0
 ENDGAME RECIPES	0																																																																																																							0
-	0																																																																																																							0
+																																																																																																								
+Hellfire Ashes	1			0					2	Hellfire Torch	lmr						tds																																																																																							0
 Elixir = Small Rejuv	1			0					3	hpot	mpot	elx					rvl																																																																																							0
 Spleen + Jawbone + Quill + Elixir = Magic Find Potion	1			0					4	spe	jaw	qll	elx				mfp																																																																																							0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	tkni	mfp	tds	std	hsm			useitem				rep-quant		30																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	taxe	mfp	tds	std	hsm			useitem				rep-quant		30																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	jave	mfp	tds	std	hsm			useitem				rep-quant		30																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"any,mag"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"any,rar"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"any,uni"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"any,crf"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
 4 Unique Jewerly = SOH	1			0					4	"jwly,uni,qty=4"							std																																																																																							0
 CHAM RECIPE																																																																																																								0
 MF + GF	1			0					6	helm	r32	r24	r20	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
