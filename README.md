@@ -15,7 +15,7 @@ BTNeandertha1 Social Media Links:
 4. [Future Ideas](https://github.com/BTNeandertha1/BTDiablo#future-ideas)
 5. [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo#corruption-ideas)
 6. [WIP](https://github.com/BTNeandertha1/BTDiablo#wip)
-7. [Patch Notes](https://github.com/BTNeandertha1/BTDiablo#patch-notes)
+7. [Changes](https://github.com/BTNeandertha1/BTDiablo#changes)
    - [Game](https://github.com/BTNeandertha1/BTDiablo#game)
    - [Characters](https://github.com/BTNeandertha1/BTDiablo#characters)
    - [Shrines](https://github.com/BTNeandertha1/BTDiablo#shrines)
@@ -78,7 +78,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 # WIP
 - Corruptions
 
-# Patch Notes
+# Changes
 **WARNING** This patch will brick everything BEWARE!!! (People Said Runes and Gems Survive)
 
 - Details: This Increased Caps on items for the longevity of the mod (helps prevent future bricking)
