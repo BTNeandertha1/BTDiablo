@@ -269,5 +269,6 @@ oskill	1	22	item_nonclassskill																											+# to [Skill]	Skill	Min
 state	1	24	state																												State	1	1	Applies a State on the unit	0
 randclassskill	1	36	item_addclassskills		3																									+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0
 noconsume		1	item_noconsume																											+# to not Consume Quantity		Min %	Max %		0
+res-curse	1	1	curse_resistance																											Curse Resist +#%		Min %	Max %		0
 corruption1	1	1	corrupted																																0
 corruption2	1	1	corruptordesc																																0
