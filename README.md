@@ -15,7 +15,7 @@ BTNeandertha1 Social Media Links:
 4. [Future Ideas](https://github.com/BTNeandertha1/BTDiablo#future-ideas)
 5. [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo#corruption-ideas)
 6. [WIP](https://github.com/BTNeandertha1/BTDiablo#wip)
-7. [Changes](https://github.com/BTNeandertha1/BTDiablo#changes)
+7. [Patch Notes](https://github.com/BTNeandertha1/BTDiablo#patch-notes)
    - [Game](https://github.com/BTNeandertha1/BTDiablo#game)
    - [Characters](https://github.com/BTNeandertha1/BTDiablo#characters)
    - [Shrines](https://github.com/BTNeandertha1/BTDiablo#shrines)
@@ -60,10 +60,8 @@ Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/1
 Please submit your own ideas in the Future Ideas issue and they may be added later on!
 
 - Add a "Challenge area"
-- Make wanderer do something?
+- make wanderer do something?
 - Add more evil urns?
-- Super Chest Rarity Nerf?
-- Buff Necromancer some how?
 
 # Corruption Ideas
 Please see the [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/14) issue.  
