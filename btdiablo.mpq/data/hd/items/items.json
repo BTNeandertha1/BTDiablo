@@ -601,7 +601,7 @@
   { "sku": { "asset": "gem/skull" } },
   { "skl": { "asset": "gem/flawless_skull" } },
   { "skz": { "asset": "gem/perfect_skull" } },
-  { "hrb": { "asset": "key/herb" } },
+  { "hrb": { "asset": "herb/herb" } },
   { "cm1": { "asset": "charm/charm_small" } },
   { "cm2": { "asset": "charm/charm_medium" } },
   { "cm3": { "asset": "charm/charm_large" } },
@@ -661,8 +661,6 @@
   { "mls": { "asset": "key/charsi_key" } },
   { "lmr": { "asset": "key/larzuk_key" } },
   { "bgn": { "asset": "key/bigdinn_key" } },
-  { "mfp": { "asset": "potion/magic_find_potion" } },
-  { "hsm": { "asset": "herb/herb" } },
-  { "voa": { "asset": "key/viper_key" } },
-  { "tds": { "asset": "key/hellfire_ashes" } }
+  { "mfp": { "asset": "potion/magic_find_potion" } }
+  
 ]
