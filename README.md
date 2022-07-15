@@ -27,8 +27,8 @@ BTNeandertha1 Social Media Links:
    - [Monsters](https://github.com/BTNeandertha1/BTDiablo#monsters)
    - [Elites](https://github.com/BTNeandertha1/BTDiablo#elites)
    - [Difficulties](https://github.com/BTNeandertha1/BTDiablo#)
-      - [Nightmare](https://github.com/BTNeandertha1/BTDiablo#nightmare)
-      - [Hell](https://github.com/BTNeandertha1/BTDiablo#hell)
+      - [Hell](https://github.com/BTNeandertha1/BTDiablo#Hell)
+      - [Insanity](https://github.com/BTNeandertha1/BTDiablo#Insanity)
    - [Area Changes](https://github.com/BTNeandertha1/BTDiablo#area-changes)
       - [Act 1](https://github.com/BTNeandertha1/BTDiablo#act-1)
       - [Act 2](https://github.com/BTNeandertha1/BTDiablo#act-2)
@@ -79,8 +79,8 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Added Durance of Hate Level 3 Auras to Council
 - Added Cube Space
 - Added QOL to Crafting and Upping
-- How do I get the new patch?
 - Changed Difficulty Names
+- How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
 
@@ -243,11 +243,11 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Removed: Holy Fire, Holy Shock, Blessed Aim
 - Added Vigor, Concentration, Higher chance for Fanatacism
 - Multishot much more common
-- Aura Enchanted more common in HELL
-- Teleportation Mod Half as common in HELL
-- Nightmare and Hell:
+- Aura Enchanted more common in Insanity
+- Teleportation Mod Half as common in Insanity
+- Hell and Insanity:
    - Removed Mana Burn and Spectral Hit
-   - Super Uniques are almost Always Aura Enchanted Especially in Hell in addition to regular mods
+   - Super Uniques are almost Always Aura Enchanted Especially in Insanity in addition to regular mods
    - Lord De Seis always Extra fast in addition to regular mods
    - Ismail Vilehand is now Always Aura Enchanted (Travincal)
    - Bremm Sparkfist is now always Cursed (Durance of Hate Level 3)
@@ -270,7 +270,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Monsters React 15% Faster
 
 ## Area Changes
-(Level changes are for Hell Only)
+(Level changes are for Insanity Only)
 
 ### Act 1
 - 85 Cave Level (Both Levels)
@@ -294,7 +294,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - 85 Great Marsh
 - 85 Flayer Dungeon (All Levels)
 - 85 Spider Cavern
-- Lower Kurast is DANGEROUS in NIGHTMARE and HELL... Like really...
+- Lower Kurast is DANGEROUS in Hell and Insanity... Like really...
 - Durance of Hate Level 3 
    - Added Aura to Maffer Dragonhand
    - Added Aura to Wyand Voidbringer
