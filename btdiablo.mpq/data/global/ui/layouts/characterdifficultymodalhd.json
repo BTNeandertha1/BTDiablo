@@ -1,0 +1,78 @@
+{
+    "type": "CharacterDifficultyModal", "name": "CharacterDifficultyModal",
+    "fields": {
+        "anchor": { "x": 0.5, "y": 0.5 },
+    },
+    "children": [
+        {
+            "type": "ImageWidget", "name": "Frame",
+            "fields": {
+                "rect": { "x": -272, "y": -270 },
+                "filename": "FrontEnd/HD/Final/FrontEnd_DifficultyModal"
+            },
+            "children": [
+                {
+                    "type": "TextBoxWidget", "name": "Prompt",
+                    "fields": {
+                        "rect": { "x": -500, "y": -66, "width": 1000, "height": 270 },
+                        "anchor": { "x": 0.5 },
+                        "text": "@strselectdiff",
+                        "fontType": "8pt",
+                        "style": {
+                            "fontColor": "$PanelTitleColor",
+                            "alignment": { "h": "center" },
+                            "options": { "lineWrap": true, "newlineHandling": "standard" },
+                            "pointSize": "$LargeFontSize",
+                            "spacing": "$ReducedSpacing"
+                        }
+                    }
+                },
+                {
+                    "type": "ButtonWidget", "name": "Normal",
+                    "fields": {
+                        "rect": { "x": -236, "y": 40, "width": 408 },
+                        "anchor": { "x": 0.5 },
+                        "filename": "FrontEnd/HD/Final/FrontEnd_ButtonMed",
+                        "hoveredFrame": 3,
+                        "focusIndicatorFilename": "Controller/HoverImages/FrontEndButtonMed",
+                        "focusIndicatorOffset": { "x": 0, "y": 0 },
+                        "textString": "@strCreateGameNormalText",
+                        "onClickMessage": "CharacterSelect:LoadCharacter:0",
+                        "textColor": "$LightButtonTextColor",
+                        "text/style" : "$StyleFEButtonText",
+                    }
+                },
+                {
+                    "type": "ButtonWidget", "name": "Nightmare",
+                    "fields": {
+                        "rect": { "x": -236, "y": 171, "width": 408 },
+                        "anchor": { "x": 0.5 },
+                        "filename": "FrontEnd/HD/Final/FrontEnd_ButtonMed",
+                        "hoveredFrame": 3,
+                        "focusIndicatorFilename": "Controller/HoverImages/FrontEndButtonMed",
+                        "focusIndicatorOffset": { "x": 0, "y": 0 },
+                        "textString": "@strCreateGameNightmareText",
+                        "onClickMessage": "CharacterSelect:LoadCharacter:1",
+                        "textColor": "$LightButtonTextColor",
+                        "text/style" : "$StyleFEButtonText",
+                    }
+                },
+                {
+                    "type": "ButtonWidget", "name": "Hell",
+                    "fields": {
+                        "rect": { "x": -236, "y": 302, "width": 408 },
+                        "anchor": { "x": 0.5 },
+                        "filename": "FrontEnd/HD/Final/FrontEnd_ButtonMed",
+                        "hoveredFrame": 3,
+                        "focusIndicatorFilename": "Controller/HoverImages/FrontEndButtonMed",
+                        "focusIndicatorOffset": { "x": 0, "y": 0 },
+                        "textString": "@strCreateGameHellText",
+                        "onClickMessage": "CharacterSelect:LoadCharacter:2",
+                        "textColor": "$LightButtonTextColor",
+                        "text/style" : "$StyleFEButtonText",
+                    }
+                },
+            ]
+        },
+    ]
+}

@@ -73,13 +73,12 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Corruptions
 - Crafting Buffs
 
-# Patch Notes XI
-- Fixed a bug with Larzuk not socketing Crafted Items
-- Added New Items and Recipes
+# Patch Notes XII
 - Buffed Runewords
-- Made the game harder but balanced with item changes
-- Buffed Ist+
-- Buffed Annihilus
+- Buffed Diablo reaction time
+- Added Durance of Hate Level 3 Auras to Council
+- Added Cube Space
+- Added QOL to Crafting and Upping
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
@@ -90,6 +89,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Negative 30 all res (Only effects the Player)
 - Negative 199 MF
 - Start with nothing
+- Horadric Cube is now 8x8
 
 ## Characters
 - Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
@@ -156,6 +156,23 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
    - 1 Magic Find% per Level (was 100)
 - Delirium [Lem Ist Io]
    - Removed the Delirium Mod from Delirium (turned you into a doll "disabling your character")
+- Zephyr [Ort Eth]
+   - 50% Increased Attack Speed (was 25%)
+   - Added 33% Pierce
+   - 100% Enhanced Damage (was 33%)
+   - 14% Chance to Cast level 2 Twister on striking (was 7% level 1 and when struck)
+   - Added 30 Mana
+- Edge [Tir Tal Amn]
+   - Added 33% Pierce
+   - 280-320% Enhanced Damage (was Demon and Undead Damage)
+- Harmony [Tir Ith Sol Ko]
+   - 275-325% Enhanced Damage (was 200-275)
+- Wrath [Pul Lum Ber Mal]
+   - Added 30% Increased Attack Speed
+   - 300-375 Enhanced Damage (was Damage to Demons and Undead)
+- Brand [Jah Lo Mal Gul]
+   - Added 30% Increased Attack Speed
+   - Removed Prevent Monster Heal
    
 ## Runes
 - Ist and higher Runes now all have 3% Experience Gained
@@ -193,7 +210,9 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 
 ## Recipes
 - Rune Downgrading 1 to 1 (Flawed Gem + Rune = Downgrade)
+- Removed Level Requirement increase upon Upping and item.
 - Any base Crafting including Eth Items
+   - Crafted Items can now be Upped
 - Essence Transmuting 3 = 1 of next Tier
    - Blue > Yellow > Red > Green
 - 3 Green Essence = 1 Destruction Key
@@ -216,6 +235,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 
 ## Monsters
 - Mephisto can fly now
+- Diablo reacts 33% faster
 
 ## Elites
 - 2x Aura Range
@@ -274,6 +294,9 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - 85 Flayer Dungeon (All Levels)
 - 85 Spider Cavern
 - Lower Kurast is DANGEROUS in NIGHTMARE and HELL... Like really...
+- Durance of Hate Level 3 
+   - Added Aura to Maffer Dragonhand
+   - Added Aura to Wyand Voidbringer
 
 ### Act 4
 - 84 Outer Steps 
@@ -287,9 +310,11 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - 87 Uber Tristram 
    - Balanced Resistances of Swarms and Pit Lords
 - Baal Waves:
-   - W1 = Dolls
-   - W2 = Death Lords
-   - W3 = Souls
+   - W1 = Extra Fast Dolls
+   - W2 = Extra Fast Deathlords
+   - W3 = Teleporation Souls
+   - W4 = Extra Fast Venom Lords
+   - W5 = Extra Fast Minions of Destruction
 
 ## Skills
 - Static is Always 60%
