@@ -80,6 +80,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Added Cube Space
 - Added QOL to Crafting and Upping
 - How do I get the new patch?
+- Changed Difficulty Names
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
 
@@ -256,13 +257,13 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 ### Normal
 - 10% Experience loss on death
 
-### Nightmare  
+### Hell (was Nightmare)  
 - -45% Resistance (was -40)
 - 5% more density
 - 10% more Elites
 - 25% Experience loss on death
 
-### Hell
+### Insanity (was Hell)
 - -110% Resistance (was -100)
 - 25% more Density and Elites
 - 50% Experience loss on death
