@@ -57,7 +57,7 @@
         {
             "type": "InventoryGridWidget", "name": "grid",
             "fields": {
-                "rect": { "x": 288, "y": 460 },
+                "rect": { "x": 288, "y": 459 },
                 "cellCount": { "x": 6, "y": 6 },
                 "cellSize": "$ItemCellSize",
                 "gemSocketFilename": "PANEL\\gemsocket",

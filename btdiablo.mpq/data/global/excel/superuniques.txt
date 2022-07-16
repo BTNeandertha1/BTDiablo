@@ -49,7 +49,7 @@ Ancient Barbarian 3	Ancient Barbarian 3	ancientbarb3	45		0	0	0	0	0	0	1		11	11	11
 Axe Dweller	Axe Dweller	bloodlord3	46		8	9	30	2	2	0	0		20	20	20	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Bonesaw Breaker	Bonesaw Breaker	reanimatedhorde2	47		5	8	30	5	5	0	0		35	35	35	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
 Dac Farren	Dac Farren	imp3	48		18	30	0	4	4	0	0	1	36	36	36	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0
-Megaflow Rectifier	Megaflow Rectifier	minion1	49		1	6	30	8	8	0	0	1	21	21	21	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
+Megaflow Rectifier	Megaflow Rectifier	willowisp4	49		3	6	30	8	8	1	0	1	21	21	21	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
 Eyeback Unleashed	Eyeback Unleashed	deathmauler1	50		5	6	30	2	2	0	0		8	8	8	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
 Threash Socket	Threash Socket	siegebeast3	51		7	30	0	0	0	0	0		37	37	37	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	0
 Pindleskin	Pindleskin	reanimatedhorde5	52		9	30	0	6	6	0	0		22	22	22	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	0

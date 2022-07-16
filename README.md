@@ -27,7 +27,7 @@ BTNeandertha1 Social Media Links:
    - [Monsters](https://github.com/BTNeandertha1/BTDiablo#monsters)
    - [Elites](https://github.com/BTNeandertha1/BTDiablo#elites)
    - [Difficulties](https://github.com/BTNeandertha1/BTDiablo#)
-      - [Hell](https://github.com/BTNeandertha1/BTDiablo#Hell)
+      - [Agony](https://github.com/BTNeandertha1/BTDiablo#Agony)
       - [Insanity](https://github.com/BTNeandertha1/BTDiablo#Insanity)
    - [Area Changes](https://github.com/BTNeandertha1/BTDiablo#area-changes)
       - [Act 1](https://github.com/BTNeandertha1/BTDiablo#act-1)
@@ -73,11 +73,12 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Corruptions
 - Crafting Buffs
 
-# Patch Notes XIII
+# Patch Notes XIV
 **WARNING** Take stuff out of cube before patch!!!
-- Cube is now 6x6 (reduced cube size from 8x8 to prevent corrupt files)
-- Changed Difficulty Names (Pain(N), Agony(NM), Insanity(H))
-- Removed Extra Fast from Ancients
+- Fixed Cube Bug
+- Buffed Summoner
+- Buffed Eldritch... HAHAHA
+- Updated Whirlwind to the New D2R patch
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
@@ -88,7 +89,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Negative 30 all res (Only effects the Player)
 - Negative 199 MF
 - Start with nothing
-- Horadric Cube is now 8x8
+- Horadric Cube is now 6x6
 
 ## Characters
 - Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
@@ -235,6 +236,8 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 ## Monsters
 - Mephisto can fly now
 - Diablo reacts 33% faster
+- Summoner has 3x HP and crits 3x as often
+- Eldritch the Rectifier is now a Soul Pack
 
 ## Elites
 - 2x Aura Range
@@ -243,7 +246,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Multishot much more common
 - Aura Enchanted more common in Insanity
 - Teleportation Mod Half as common in Insanity
-- Hell and Insanity:
+- Agony and Insanity:
    - Removed Mana Burn and Spectral Hit
    - Super Uniques are almost Always Aura Enchanted Especially in Insanity in addition to regular mods
    - Lord De Seis always Extra fast in addition to regular mods
@@ -252,10 +255,10 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 
 ## Difficulties
 
-### Normal
+### Pain (was Normal)
 - 10% Experience loss on death
 
-### Hell (was Nightmare)  
+### Agony (was Nightmare)  
 - -45% Resistance (was -40)
 - 5% more density
 - 10% more Elites
@@ -292,7 +295,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - 85 Great Marsh
 - 85 Flayer Dungeon (All Levels)
 - 85 Spider Cavern
-- Lower Kurast is DANGEROUS in Hell and Insanity... Like really...
+- Lower Kurast is DANGEROUS in Agony and Insanity... Like really...
 - Durance of Hate Level 3 
    - Added Aura to Maffer Dragonhand
    - Added Aura to Wyand Voidbringer
