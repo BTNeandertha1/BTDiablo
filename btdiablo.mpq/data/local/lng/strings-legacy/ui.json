@@ -6182,26 +6182,26 @@
   {
     "id": 5155,
     "Key": "strCreateGameNightmareText",
-    "enUS": "Hell",
-    "zhTW": "地獄",
-    "deDE": "Hölle",
-    "esES": "Infierno",
-    "frFR": "Enfer",
-    "itIT": "Inferno",
-    "koKR": "헬",
-    "plPL": "Piekło"
+    "enUS": "Agony",
+    "zhTW": "Agony",
+    "deDE": "Agony",
+    "esES": "Agony",
+    "frFR": "Agony",
+    "itIT": "Agony",
+    "koKR": "Agony",
+    "plPL": "Agony"
   },
   {
     "id": 5156,
     "Key": "strCreateGameNormalText",
-    "enUS": "Normal",
-    "zhTW": "普通",
-    "deDE": "Normal",
-    "esES": "Normal",
-    "frFR": "Normal",
-    "itIT": "Normale",
-    "koKR": "노멀",
-    "plPL": "Normalny"
+    "enUS": "Pain",
+    "zhTW": "Pain",
+    "deDE": "Pain",
+    "esES": "Pain",
+    "frFR": "Pain",
+    "itIT": "Pain",
+    "koKR": "Pain",
+    "plPL": "Pain"
   },
   {
     "id": 5157,

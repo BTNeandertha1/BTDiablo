@@ -73,13 +73,11 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Corruptions
 - Crafting Buffs
 
-# Patch Notes XII
-- Buffed Runewords
-- Buffed Diablo reaction time
-- Added Durance of Hate Level 3 Auras to Council
-- Added Cube Space
-- Added QOL to Crafting and Upping
-- Changed Difficulty Names
+# Patch Notes XIII
+**WARNING** Take stuff out of cube before patch!!!
+- Cube is now 6x6 (reduced cube size from 8x8 to prevent corrupt files)
+- Changed Difficulty Names (Pain(N), Agony(NM), Insanity(H))
+- Removed Extra Fast from Ancients
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
@@ -307,6 +305,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 
 ### Act 5
 - 85 All Zones
+- Madawc is always Aura Enchanted
 - 87 Uber Areas (Forgotten Sands, Furnace of Pain and Matron’s Den) Also greatly increased Elite packs and density
 - 87 Uber Tristram 
    - Balanced Resistances of Swarms and Pit Lords

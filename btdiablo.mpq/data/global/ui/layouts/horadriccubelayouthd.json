@@ -36,7 +36,7 @@
         {
             "type": "ButtonWidget", "name": "convert",
             "fields": {
-                "rect": { "x": 520, "y": 1175 },
+                "rect": { "x": 520, "y": 1085 },
                 "filename": "PANEL\\Horadric_Cube\\TransmuteButton",
                 "tooltipString": "@strUiMenu2",
                 "hoveredFrame": 2,
@@ -57,21 +57,10 @@
         {
             "type": "InventoryGridWidget", "name": "grid",
             "fields": {
-                "rect": { "x": 188, "y": 340 },
-                "cellCount": { "x": 8, "y": 8 },
+                "rect": { "x": 288, "y": 460 },
+                "cellCount": { "x": 6, "y": 6 },
                 "cellSize": "$ItemCellSize",
                 "gemSocketFilename": "PANEL\\gemsocket",
-            },
-        },
-        {
-            "type": "AnimatedImageWidget", "name": "flourish",
-            "fields": {
-                "rect": { "x": 180, "y": 204, "scale":2 },
-                "filename": "PANEL\\Horadric_Cube\\Flourish",
-                "blendMode": "black",
-                "fps": 14,
-                "playing": false,
-                "loop": false,
             },
         },
     ]

@@ -43,9 +43,9 @@ Corpsefire	Corpsefire	zombie1	40		27	30	0	5	5	1	0		25	25	25	Act 1 Super A	Act 1 
 The Feature Creep	The Feature Creep	hephasto	41	smithdemon	27	30	0	0	0	1	0		20	20	20	Haphesto	Haphesto (N)	Haphesto (H)	0
 Expansion																			0
 Siege Boss	Siege Boss	overseer1	42		5	30	0	0	0	0	1		7	7	7	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
-Ancient Barbarian 1	Ancient Barbarian 1	ancientbarb1	43		6	0	0	0	0	0	1		25	25	25				0
-Ancient Barbarian 2	Ancient Barbarian 2	ancientbarb2	44		6	30	0	0	0	0	1		26	26	26				0
-Ancient Barbarian 3	Ancient Barbarian 3	ancientbarb3	45		6	0	0	0	0	0	1		11	11	11				0
+Ancient Barbarian 1	Ancient Barbarian 1	ancientbarb1	43		0	0	0	0	0	0	1		25	25	25				0
+Ancient Barbarian 2	Ancient Barbarian 2	ancientbarb2	44		30	0	0	0	0	0	1		26	26	26				0
+Ancient Barbarian 3	Ancient Barbarian 3	ancientbarb3	45		0	0	0	0	0	0	1		11	11	11				0
 Axe Dweller	Axe Dweller	bloodlord3	46		8	9	30	2	2	0	0		20	20	20	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Bonesaw Breaker	Bonesaw Breaker	reanimatedhorde2	47		5	8	30	5	5	0	0		35	35	35	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
 Dac Farren	Dac Farren	imp3	48		18	30	0	4	4	0	0	1	36	36	36	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0
