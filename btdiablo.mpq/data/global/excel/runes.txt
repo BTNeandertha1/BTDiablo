@@ -45,7 +45,7 @@ Runeword43	Amity																																																0
 Runeword44	Fury	1		109	mele									JahGulEth	r31	r25	r05				dmg%		209	209	swing2		40	40	noheal		1	1	openwounds		66	66	lifesteal		6	6	deadly		33	33	skill	147	5	5	0
 Runeword45	Gloom	1		110	tors									FalUmPul	r19	r22	r21				ac%		170	230	res-all		30	30	gethit-skill	Dim Vision	15	3	balance2		10	10	dmg-to-mana		5	5	light		-3	-3	half-freeze		1	1	0
 Runeword46	Glory																																																0
-Runeword47	Grief	1		Previously Ladder Only	swor	axe								EthTirLoMalRal	r05	r03	r28	r23	r08		dmg-dem/lvl	15			dmg		340	400	swing3		30	40	hit-skill	Venom	35	15	pierce-pois		20	25	ignore-ac		1	1	heal-kill		10	15	0
+Runeword47	Grief	1		Previously Ladder Only	swor	axe								EthTirLoMalRal	r05	r03	r28	r23	r08		dmg-dem/lvl	15			swing3		30	40	dmg-max		300	350	dmg-min		250	300	pierce-pois		20	25	ignore-ac		1	1	heal-kill		10	15	0
 Runeword48	Hand of Justice	1		110	weap									SurChamAmnLo	r29	r32	r11	r28			swing2		33	33	dmg%		280	330	aura	Holy Fire	16	16	levelup-skill	Blaze	100	36	death-skill	Meteor	100	48	ignore-ac		1	1	pierce-fire		20	20	0
 Runeword49	Harmony	1		Previously Ladder Only	miss									TirIthSolKo	r03	r06	r12	r18			dmg%		275	325	dmg-elem		55	160	charged	Revive	25	20	aura	Vigor	10	10	oskill	Valkyrie	2	6	regen-mana		20	20	light		2	2	0
 Runeword50	Hatred																																																0
@@ -67,7 +67,7 @@ Runeword65	King's Grace	1		109	swor	scep								AmnRalThul	r11	r08	r10				dmg%		
 Runeword66	Kingslayer	1		110	swor	axe								MalUmGulFal	r23	r22	r25	r19			swing2		30	30	dmg%		230	270	reduce-ac		25	25	crush		33	33	openwounds		25	25	oskill	Vengeance	1	1	gold%		40	40	0
 Runeword67	Knight's Vigil																																																0
 Runeword68	Knowledge																																																0
-Runeword69	Last Wish	1		Previously Ladder Only	swor	hamm	axe							JahMalJahSurJahBer	r31	r23	r31	r29	r31	r30	dmg%		330	375	att-skill	Charged Bolt	20	20	hit-skill	Life Tap	10	18	gethit-skill	Fade	6	11	crush		40	50	mag%/lvl	4			aura	Might	17	17	0
+Runeword69	Last Wish	1		Previously Ladder Only	swor	hamm	axe							JahMalJahSurJahBer	r31	r23	r31	r29	r31	r30	dmg%		330	375	rep-dur	25			hit-skill	Life Tap	10	18	gethit-skill	Fade	6	11	crush		40	50	mag%/lvl	4			aura	Might	17	17	0
 Runeword70	Law																																																0
 Runeword71	Lawbringer	1		Previously Ladder Only	swor	hamm	scep							AmnLemKo	r11	r20	r18				dmg-cold		130	180	dmg-fire		150	210	aura	Sanctuary	16	18	hit-skill	Decrepify	20	15	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
 Runeword72	Leaf	1		109	staf									TirRal	r03	r08					fireskill		3	3	ac/lvl		16	16	res-cold		33	33	skill	41	3	3	skill	36	3	3	skill	37	3	3					0

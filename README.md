@@ -62,23 +62,19 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Add a "Challenge area"
 - Make wanderer do something?
 - Add more evil urns?
-- Super Chest Rarity Nerf?
-- Buff Necromancer some how?
-
-# Corruption Ideas
-Please see the [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/14) issue.  
-Please leave your own ideas for corruptions in the Corruption Ideas issue for future consideration!
+- Add Unique Jewels?
+- Fix Jewel Affix Pool
 
 # WIP
-- Corruptions
 - Crafting Buffs
+- Stacking Items
+- Unique Charm Corruptions
 
-# Patch Notes XIV
-**WARNING** Take stuff out of cube before patch!!!
-- Fixed Cube Bug
-- Buffed Summoner
-- Buffed Eldritch... HAHAHA
-- Updated Whirlwind to the New D2R patch
+# Patch Notes XV
+- Added Corruptions
+- Added potential sockets to all equipable items
+- Nerfed Grief's Damage
+- Added Testing Files including Characters and misc.txt
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
@@ -173,6 +169,14 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Brand [Jah Lo Mal Gul]
    - Added 30% Increased Attack Speed
    - Removed Prevent Monster Heal
+- Last Wish [Jah Mal Jah Sur Jah Ber]
+   - Removed 20% Level 20 Charged Bolt on attack
+   - Added Repairs Durability
+- Grief [Eth Tir Lo Mal Ral]
+   - Removed + Damage
+   - Removed Venom
+   - Added 300-350 Maximum Damage 
+   - Added 250-300 Minimum Damage
    
 ## Runes
 - Ist and higher Runes now all have 3% Experience Gained
@@ -185,15 +189,32 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Topaz Magic Find replaced with Faster Run/Walk
 
 ## Items
+**Example** of item modifiers: Um in Weapon = 20 Open Wounds, Armor/Helm = 15 All Res, Shield = 22 All Res
+- Arrows and Bolts can now have up to 3 sockets and be repaired
+   - socketed items get Shield modifier
+- All Weapons can now have the potential of 2 sockets
+- Amulets and Rings can now have 1 socket
+   - socketed items get Armor/Helm modifier
+- Belts can now have up to 2 sockets
+   - socketed items get Armor/Helm modifier
+- Gloves and Boots can now have up to 3 Sockets
+   - socketed items in Gloves get Weapon modifier
+   - socketed items in Boots get Shield modifier
+- Throwing Weapons have up to 4 sockets
+   - socketed items get Weapon modifier
+   - Throwing Axes can have up to 4 Sockets (Exceptional and Elite)
+   - Javelins = 3 Sockets (Exceptional and Elite)
+   - Throwing Spears can have up to 4 Sockets (Exceptional and Elite)
 - Annihilus
    - 10-15% Experience Gained (was 5-10%)
-- Necro shields adds 33% Pierce for the Teeth mechanic (was Poison Damage)
+- Necro shields add 33% Pierce for the Teeth mechanic (was Poison Damage)
+- Necro shields can now have 3 sockets
 - Added Hellfire Ashes (Broken down Hellfire Torches) Torch + Larzuk's Forging Hammer 
 
 ## Shop
 - Added Charsi's Malus to Imbue (575k)
 - Added Larzuk's Forging Hammer (2.2 Mil)
-- Added Essences for Gold at Akara (150k B, 325k Y, 750k R, 1.5 Mil R)
+- Added Essences for Gold at Akara (150k B, 325k Y, 750k R, 1.5 Mil G)
 - Added Elixir(7k) ingredient at Alkor
 - Added Quill(2.76M) ingredient at Alkor
 - Added Jawbone(2.76M) ingredient at Alkor
@@ -224,6 +245,7 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - Removed Gem requirements for Rune Upgrading
 - Elixir + Health Potion + Mana Potion = Rejuvination Potion
 - Elixir + Spleen + Jawbone + Quill = Magic Find Potion
+- Hratli's Spiritual Herb + Arrows or Bolts = Replenish Quantity 
 - Hratli's Spiritual Herb + Magic Find Potion + Hellfire Ashes + SOH
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
    - Replenishes Quantity for Any Throwing Weapons
@@ -232,10 +254,31 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 - OP Repeatable recipes:
    - Zod + SOJ + Sur + SOH + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 25GF + 1 Light Radius
    - Cham + SOH + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 25%GF + 1 Light Radius
+   
+## Corruptions
+- Corruptions have a 40% Chance to reroll as a random rare and 60% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + SOH)
+   - Belts
+      - 1 socket 85%
+      - 2 socket 15%
+   - Helm, Chest, Shields, Gloves, Boots
+      - 1 socket 72%
+      - 2 socket 20%
+      - 3 socket 8%
+   - 1 Handed Weapons (Swords, Daggers, etc)
+      - 1 socket 40%
+      - 2 socket 32%
+      - 3 socket 16%
+      - 4 socket 12%
+   - 2 Handed Weapons (Bows, Staves, etc)
+      - 1 socket 24%
+      - 2 socket 22%
+      - 3 socket 18%
+      - 4 socket 16%
+      - 5 socket 12%
+      - 6 socket 8% 
 
 ## Monsters
 - Mephisto can fly now
-- Diablo reacts 33% faster
 - Summoner has 3x HP and crits 3x as often
 - Eldritch the Rectifier is now a Soul Pack
 
@@ -258,13 +301,15 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 ### Pain (was Normal)
 - 10% Experience loss on death
 
-### Agony (was Nightmare)  
+### Agony (was Nightmare) 
+- Sell Max 35k (was 30k) 
 - -45% Resistance (was -40)
 - 5% more density
 - 10% more Elites
 - 25% Experience loss on death
 
 ### Insanity (was Hell)
+- Sell Max 50k (was 35k)
 - -110% Resistance (was -100)
 - 25% more Density and Elites
 - 50% Experience loss on death
@@ -321,6 +366,5 @@ Please leave your own ideas for corruptions in the Corruption Ideas issue for fu
 
 ## Skills
 - Static is Always 60%
+- Removed Frozen Orb Cool Down
 - Teeth can Pierce and removed Next Hit Delay
-
-!!!CORRUPTIONS AREN'T IN YET!!!

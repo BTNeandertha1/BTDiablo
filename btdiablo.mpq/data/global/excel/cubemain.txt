@@ -63,70 +63,70 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 3 Perfect Skulls + 1 Rare Item -> 1 Low Quality Rare Item	1			0					4	"any,rar"	"skz,qty=3"						"usetype,rar"		40	40																																																																																				0
 1 Rare Item + 1 Unique Ring -> 1 High Quality Rare Item	1			0					2	"any,rar"	"ring,uni"						"usetype,rar"		66	66																																																																																				0
 3 Perfect Skull + 1 Rare Item + 1 Stone of Jordan -> Add 1 Socket to Rare Item	1			0					5	"any,rar,nos"	"skz,qty=3"	The Stone of Jordan					"useitem,sock=1"																																																																																							0
-1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1			100					4	"helm,mag,noe"	jew	r06	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50																																																																					0
-1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1			100					4	"helm,mag,eth"	jew	r06	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50	ethereal	100		1	1																																																																0
-1 Magic Chain Boots + 1 Jewel + 1 Ral Rune + 1 Perfect Sapphire -> Hit Power Boots	1			100					4	"boot,mag,noe"	jew	r08	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	ac-hth			25	60																																																																					0
-1 Magic Chain Boots + 1 Jewel + 1 Ral Rune + 1 Perfect Sapphire -> Hit Power Boots	1			100					4	"boot,mag,eth"	jew	r08	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	ac-hth			25	60	ethereal	100		1	1																																																																0
-1 Magic Chain Gloves + 1 Jewel + 1 Ort Rune + 1 Perfect Sapphire -> Hit Power Gloves	1			100					4	"glov,mag,noe"	jew	r09	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	knock			1	1																																																																					0
-1 Magic Chain Gloves + 1 Jewel + 1 Ort Rune + 1 Perfect Sapphire -> Hit Power Gloves	1			100					4	"glov,mag,eth"	jew	r09	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	knock			1	1	ethereal	100		1	1																																																																0
-1 Magic Heavy Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Sapphire -> Hit Power Belt	1			100					4	"belt,mag,noe"	jew	r07	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	dmg-to-mana			5	10																																																																					0
-1 Magic Heavy Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Sapphire -> Hit Power Belt	1			100					4	"belt,mag,eth"	jew	r07	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	dmg-to-mana			5	10	ethereal	100		1	1																																																																0
-1 Magic Gothic Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Sapphire -> Hit Power Shield	1			100					4	"shld,mag,noe"	jew	r05	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	10	block			5	10																																																																					0
-1 Magic Gothic Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Sapphire -> Hit Power Shield	1			100					4	"shld,mag,eth"	jew	r05	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	10	block			5	10	ethereal	100		1	1																																																																0
-1 Magic Field Plate + 1 Jewel + 1 Nef Rune + 1 Perfect Sapphire -> Hit Power Body	1			100					4	"tors,mag,noe"	jew	r04	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	10	balance1			10	20																																																																					0
-1 Magic Field Plate + 1 Jewel + 1 Nef Rune + 1 Perfect Sapphire -> Hit Power Body	1			100					4	"tors,mag,eth"	jew	r04	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	10	balance1			10	20	ethereal	100		1	1																																																																0
-1 Magic Amulet + 1 Jewel + Thul Rune + 1 Perfect Sapphire -> Hit Power Amulet	1			100					4	"amul,mag"	jew	r10	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	10	howl			5	15																																																																					0
-1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Sapphire -> Hit Power Ring	1			100					4	"ring,mag"	jew	r11	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	6	dex			1	5																																																																					0
-1 Magic Blunt Weapon + 1 Jewel + 1 Tir Rune + 1 Perfect Sapphire -> Hit Power Weapon	1			100					4	"weap,mag,noe"	jew	r03	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	dmg%			35	60																																																																					0
-1 Magic Blunt Weapon + 1 Jewel + 1 Tir Rune + 1 Perfect Sapphire -> Hit Power Weapon	1			100					4	"weap,mag,eth"	jew	r03	gpb				usetype,crf		50	50	gethit-skill		44	5	4	thorns			3	7	dmg%			35	60	ethereal	100		1	1																																																																0
-1 Magic Helm + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm	1			100					4	"helm,mag,noe"	jew	r08	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	deadly			5	10																																																																					0
-1 Magic Helm + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm	1			100					4	"helm,mag,eth"	jew	r08	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	deadly			5	10	ethereal	100		1	1																																																																0
-1 Magic Light Plated Boots + 1 Jewel + 1 Eth Rune + 1 Perfect Ruby -> Blood Boots	1			100					4	"boot,mag,noe"	jew	r05	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	regen			5	10																																																																					0
-1 Magic Light Plated Boots + 1 Jewel + 1 Eth Rune + 1 Perfect Ruby -> Blood Boots	1			100					4	"boot,mag,eth"	jew	r05	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	regen			5	10	ethereal	100		1	1																																																																0
-1 Magic Heavy Gloves + 1 Jewel + 1 Nef Rune + 1 Perfect Ruby -> Blood Gloves	1			100					4	"glov,mag,noe"	jew	r04	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	crush			5	10																																																																					0
-1 Magic Heavy Gloves + 1 Jewel + 1 Nef Rune + 1 Perfect Ruby -> Blood Gloves	1			100					4	"glov,mag,eth"	jew	r04	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	crush			5	10	ethereal	100		1	1																																																																0
-1 Magic Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Ruby -> Blood Belt	1			100					4	"belt,mag,noe"	jew	r07	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	openwounds			5	10																																																																					0
-1 Magic Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Ruby -> Blood Belt	1			100					4	"belt,mag,eth"	jew	r07	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	openwounds			5	10	ethereal	100		1	1																																																																0
-1 Magic Spiked Shield + 1 Jewel + 1 Ith Rune + 1 Perfect Ruby -> Blood Shield	1			100					4	"shld,mag,noe"	jew	r06	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	thorns			4	7																																																																					0
-1 Magic Spiked Shield + 1 Jewel + 1 Ith Rune + 1 Perfect Ruby -> Blood Shield	1			100					4	"shld,mag,eth"	jew	r06	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	thorns			4	7	ethereal	100		1	1																																																																0
-1 Magic Plate Mail + 1 Jewel + 1 Thul Rune + 1 Perfect Ruby -> Blood Body	1			100					4	"tors,mag,noe"	jew	r10	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	demon-heal			1	3																																																																					0
-1 Magic Plate Mail + 1 Jewel + 1 Thul Rune + 1 Perfect Ruby -> Blood Body	1			100					4	"tors,mag,eth"	jew	r10	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	demon-heal			1	3	ethereal	100		1	1																																																																0
-1 Magic Amulet + 1 Jewel + 1 Amn Rune + 1 Perfect Ruby -> Blood Amulet	1			100					4	"amul,mag"	jew	r11	gpr				usetype,crf		50	50	lifesteal			1	4	hp			10	20	move1			5	10																																																																					0
-1 Magic Ring + 1 Jewel + 1 Sol Rune + 1 Perfect Ruby -> Blood Ring	1			100					4	"ring,mag"	jew	r12	gpr				usetype,crf		50	50	lifesteal			1	3	hp			10	20	str			1	5																																																																					0
-1 Magic Axe + 1 Jewel + Ort Rune + 1 Perfect Ruby -> Blood Weapon	1			100					4	"weap,mag,noe"	jew	r09	gpr				usetype,crf		50	50	lifesteal			1	4	hp			10	20	dmg%			35	60																																																																					0
-1 Magic Axe + 1 Jewel + Ort Rune + 1 Perfect Ruby -> Blood Weapon	1			100					4	"weap,mag,eth"	jew	r09	gpr				usetype,crf		50	50	lifesteal			1	4	hp			10	20	dmg%			35	60	ethereal	100		1	1																																																																0
-1 Magic Mask + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm	1			100					4	"helm,mag,noe"	jew	r04	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	manasteal			1	4																																																																					0
-1 Magic Mask + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm	1			100					4	"helm,mag,eth"	jew	r04	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	manasteal			1	4	ethereal	100		1	1																																																																0
-1 Magic Boots + 1 Jewel + Thul Rune + 1 Perfect Amethyst -> Caster Boots	1			100					4	"boot,mag,noe"	jew	r10	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	mana%			2	5																																																																					0
-1 Magic Boots + 1 Jewel + Thul Rune + 1 Perfect Amethyst -> Caster Boots	1			100					4	"boot,mag,eth"	jew	r10	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	mana%			2	5	ethereal	100		1	1																																																																0
-1 Magic Leather Gloves + 1 Jewel + Ort Rune + 1 Perfect Amethyst -> Caster Gloves	1			100					4	"glov,mag,noe"	jew	r09	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
-1 Magic Leather Gloves + 1 Jewel + Ort Rune + 1 Perfect Amethyst -> Caster Gloves	1			100					4	"glov,mag,eth"	jew	r09	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3	ethereal	100		1	1																																																																0
-1 Magic Light Belt + 1 Jewel + Ith Rune + 1 Perfect Amethyst -> Caster Belt	1			100					4	"belt,mag,noe"	jew	r06	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
-1 Magic Light Belt + 1 Jewel + Ith Rune + 1 Perfect Amethyst -> Caster Belt	1			100					4	"belt,mag,eth"	jew	r06	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	cast1			5	10	ethereal	100		1	1																																																																0
-1 Magic Small Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Amethyst -> Caster Shield	1			100					4	"shld,mag,noe"	jew	r05	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	block			5	10																																																																					0
-1 Magic Small Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Amethyst -> Caster Shield	1			100					4	"shld,mag,eth"	jew	r05	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	block			5	10	ethereal	100		1	1																																																																0
-1 Magic Light Plate + 1 Jewel + 1 Tal Rune + 1 Perfect Amethyst -> Caster Body	1			100					4	"tors,mag,noe"	jew	r07	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
-1 Magic Light Plate + 1 Jewel + 1 Tal Rune + 1 Perfect Amethyst -> Caster Body	1			100					4	"tors,mag,eth"	jew	r07	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3	ethereal	100		1	1																																																																0
-1 Magic Amulet + 1 Jewel + 1 Ral Rune + 1 Perfect Amethyst -> Caster Amulet	1			100					4	"amul,mag"	jew	r08	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
-1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Amethyst -> Caster Ring	1			100					4	"ring,mag"	jew	r11	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	enr			1	5																																																																					0
-1 Magic Rod + 1 Jewel + 1 Tir Rune + 1 Perfect Amethyst -> Caster Weapon	1			100					4	"weap,mag,noe"	jew	r03	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	mana%			1	5																																																																					0
-1 Magic Rod + 1 Jewel + 1 Tir Rune + 1 Perfect Amethyst -> Caster Weapon	1			100					4	"weap,mag,eth"	jew	r03	gpv				usetype,crf		50	50	regen-mana			4	10	mana			10	20	mana%			1	5	ethereal	100		1	1																																																																0
-1 Magic Crown + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1			100					4	"helm,mag,noe"	jew	r06	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	res-ltng			5	10	ac%			10	30																																																																0
-1 Magic Crown + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1			100					4	"helm,mag,eth"	jew	r06	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	res-ltng			5	10	ac%			10	30	ethereal	100		1	1																																																											0
-1 Magic Plated Boots + 1 Jewel + 1 Ort Rune + 1 Perfect Emerald -> Safety Boots	1			100					4	"boot,mag,noe"	jew	r09	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	res-fire			5	10	ac%			10	30																																																																0
-1 Magic Plated Boots + 1 Jewel + 1 Ort Rune + 1 Perfect Emerald -> Safety Boots	1			100					4	"boot,mag,eth"	jew	r09	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	res-fire			5	10	ac%			10	30	ethereal	100		1	1																																																											0
-1 Magic Gauntlets + 1 Jewel + 1 Ral Rune + 1 Perfect Emerald -> Safety Gloves	1			100					4	"glov,mag,noe"	jew	r08	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	res-cold			5	10	ac%			10	30																																																																0
-1 Magic Gauntlets + 1 Jewel + 1 Ral Rune + 1 Perfect Emerald -> Safety Gloves	1			100					4	"glov,mag,eth"	jew	r08	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	res-cold			5	10	ac%			10	30	ethereal	100		1	1																																																											0
-1 Magic Sash + 1 Jewel + 1 Tal Rune + 1 Perfect Emerald -> Safety Belt	1			100					4	"belt,mag,noe"	jew	r07	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	res-pois			5	10	ac%			10	30																																																																0
-1 Magic Sash + 1 Jewel + 1 Tal Rune + 1 Perfect Emerald -> Safety Belt	1			100					4	"belt,mag,eth"	jew	r07	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	res-pois			5	10	ac%			10	30	ethereal	100		1	1																																																											0
-1 Magic Kite Shield + 1 Jewel + 1 Nef Rune + 1 Perfect Emerald -> Safety Shield	1			100					4	"shld,mag,noe"	jew	r04	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	res-mag			5	10	ac%			10	30																																																																0
-1 Magic Kite Shield + 1 Jewel + 1 Nef Rune + 1 Perfect Emerald -> Safety Shield	1			100					4	"shld,mag,eth"	jew	r04	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	res-mag			5	10	ac%			10	30	ethereal	100		1	1																																																											0
-1 Magic Breast Plate + 1 Jewel + 1 Eth Rune + 1 Perfect Emerald -> Safety Body	1			100					4	"tors,mag,noe"	jew	r05	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	half-freeze			1	1	ac%			10	30																																																																0
-1 Magic Breast Plate + 1 Jewel + 1 Eth Rune + 1 Perfect Emerald -> Safety Body	1			100					4	"tors,mag,eth"	jew	r05	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	half-freeze			1	1	ac%			10	30	ethereal	100		1	1																																																											0
-1 Magic Amulet + 1 Jewel + 1 Thul Rune + 1 Perfect Emerald -> Safety Amulet	1			100					4	"amul,mag"	jew	r10	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	block			1	10																																																																					0
-1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Emerald -> Safety Ring	1			100					4	"ring,mag"	jew	r11	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	vit			1	5																																																																					0
-1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1			100					4	"miss,mag,noe"	jew	r12	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10																																																																					0
-1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1			100					4	"miss,mag,eth"	jew	r12	gpg				usetype,crf		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10	ethereal	100		1	1																																																																0
+1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1			100					4	"helm,mag,noe"	jew	r06	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50																																																																					0
+1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1			100					4	"helm,mag,eth"	jew	r06	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50	ethereal	100		1	1																																																																0
+1 Magic Chain Boots + 1 Jewel + 1 Ral Rune + 1 Perfect Sapphire -> Hit Power Boots	1			100					4	"boot,mag,noe"	jew	r08	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-hth			25	60																																																																					0
+1 Magic Chain Boots + 1 Jewel + 1 Ral Rune + 1 Perfect Sapphire -> Hit Power Boots	1			100					4	"boot,mag,eth"	jew	r08	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-hth			25	60	ethereal	100		1	1																																																																0
+1 Magic Chain Gloves + 1 Jewel + 1 Ort Rune + 1 Perfect Sapphire -> Hit Power Gloves	1			100					4	"glov,mag,noe"	jew	r09	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	knock			1	1																																																																					0
+1 Magic Chain Gloves + 1 Jewel + 1 Ort Rune + 1 Perfect Sapphire -> Hit Power Gloves	1			100					4	"glov,mag,eth"	jew	r09	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	knock			1	1	ethereal	100		1	1																																																																0
+1 Magic Heavy Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Sapphire -> Hit Power Belt	1			100					4	"belt,mag,noe"	jew	r07	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg-to-mana			5	10																																																																					0
+1 Magic Heavy Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Sapphire -> Hit Power Belt	1			100					4	"belt,mag,eth"	jew	r07	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg-to-mana			5	10	ethereal	100		1	1																																																																0
+1 Magic Gothic Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Sapphire -> Hit Power Shield	1			100					4	"shld,mag,noe"	jew	r05	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	block			5	10																																																																					0
+1 Magic Gothic Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Sapphire -> Hit Power Shield	1			100					4	"shld,mag,eth"	jew	r05	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	block			5	10	ethereal	100		1	1																																																																0
+1 Magic Field Plate + 1 Jewel + 1 Nef Rune + 1 Perfect Sapphire -> Hit Power Body	1			100					4	"tors,mag,noe"	jew	r04	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	balance1			10	20																																																																					0
+1 Magic Field Plate + 1 Jewel + 1 Nef Rune + 1 Perfect Sapphire -> Hit Power Body	1			100					4	"tors,mag,eth"	jew	r04	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	balance1			10	20	ethereal	100		1	1																																																																0
+1 Magic Amulet + 1 Jewel + Thul Rune + 1 Perfect Sapphire -> Hit Power Amulet	1			100					4	"amul,mag"	jew	r10	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	howl			5	15																																																																					0
+1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Sapphire -> Hit Power Ring	1			100					4	"ring,mag"	jew	r11	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	6	dex			1	5																																																																					0
+1 Magic Blunt Weapon + 1 Jewel + 1 Tir Rune + 1 Perfect Sapphire -> Hit Power Weapon	1			100					4	"weap,mag,noe"	jew	r03	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg%			35	60																																																																					0
+1 Magic Blunt Weapon + 1 Jewel + 1 Tir Rune + 1 Perfect Sapphire -> Hit Power Weapon	1			100					4	"weap,mag,eth"	jew	r03	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg%			35	60	ethereal	100		1	1																																																																0
+1 Magic Helm + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm	1			100					4	"helm,mag,noe"	jew	r08	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	deadly			5	10																																																																					0
+1 Magic Helm + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm	1			100					4	"helm,mag,eth"	jew	r08	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	deadly			5	10	ethereal	100		1	1																																																																0
+1 Magic Light Plated Boots + 1 Jewel + 1 Eth Rune + 1 Perfect Ruby -> Blood Boots	1			100					4	"boot,mag,noe"	jew	r05	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	regen			5	10																																																																					0
+1 Magic Light Plated Boots + 1 Jewel + 1 Eth Rune + 1 Perfect Ruby -> Blood Boots	1			100					4	"boot,mag,eth"	jew	r05	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	regen			5	10	ethereal	100		1	1																																																																0
+1 Magic Heavy Gloves + 1 Jewel + 1 Nef Rune + 1 Perfect Ruby -> Blood Gloves	1			100					4	"glov,mag,noe"	jew	r04	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	crush			5	10																																																																					0
+1 Magic Heavy Gloves + 1 Jewel + 1 Nef Rune + 1 Perfect Ruby -> Blood Gloves	1			100					4	"glov,mag,eth"	jew	r04	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	crush			5	10	ethereal	100		1	1																																																																0
+1 Magic Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Ruby -> Blood Belt	1			100					4	"belt,mag,noe"	jew	r07	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	openwounds			5	10																																																																					0
+1 Magic Belt + 1 Jewel + 1 Tal Rune + 1 Perfect Ruby -> Blood Belt	1			100					4	"belt,mag,eth"	jew	r07	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	openwounds			5	10	ethereal	100		1	1																																																																0
+1 Magic Spiked Shield + 1 Jewel + 1 Ith Rune + 1 Perfect Ruby -> Blood Shield	1			100					4	"shld,mag,noe"	jew	r06	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	thorns			4	7																																																																					0
+1 Magic Spiked Shield + 1 Jewel + 1 Ith Rune + 1 Perfect Ruby -> Blood Shield	1			100					4	"shld,mag,eth"	jew	r06	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	thorns			4	7	ethereal	100		1	1																																																																0
+1 Magic Plate Mail + 1 Jewel + 1 Thul Rune + 1 Perfect Ruby -> Blood Body	1			100					4	"tors,mag,noe"	jew	r10	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	demon-heal			1	3																																																																					0
+1 Magic Plate Mail + 1 Jewel + 1 Thul Rune + 1 Perfect Ruby -> Blood Body	1			100					4	"tors,mag,eth"	jew	r10	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	demon-heal			1	3	ethereal	100		1	1																																																																0
+1 Magic Amulet + 1 Jewel + 1 Amn Rune + 1 Perfect Ruby -> Blood Amulet	1			100					4	"amul,mag"	jew	r11	gpr				"usetype,crf"		50	50	lifesteal			1	4	hp			10	20	move1			5	10																																																																					0
+1 Magic Ring + 1 Jewel + 1 Sol Rune + 1 Perfect Ruby -> Blood Ring	1			100					4	"ring,mag"	jew	r12	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	str			1	5																																																																					0
+1 Magic Axe + 1 Jewel + Ort Rune + 1 Perfect Ruby -> Blood Weapon	1			100					4	"weap,mag,noe"	jew	r09	gpr				"usetype,crf"		50	50	lifesteal			1	4	hp			10	20	dmg%			35	60																																																																					0
+1 Magic Axe + 1 Jewel + Ort Rune + 1 Perfect Ruby -> Blood Weapon	1			100					4	"weap,mag,eth"	jew	r09	gpr				"usetype,crf"		50	50	lifesteal			1	4	hp			10	20	dmg%			35	60	ethereal	100		1	1																																																																0
+1 Magic Mask + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm	1			100					4	"helm,mag,noe"	jew	r04	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	manasteal			1	4																																																																					0
+1 Magic Mask + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm	1			100					4	"helm,mag,eth"	jew	r04	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	manasteal			1	4	ethereal	100		1	1																																																																0
+1 Magic Boots + 1 Jewel + Thul Rune + 1 Perfect Amethyst -> Caster Boots	1			100					4	"boot,mag,noe"	jew	r10	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			2	5																																																																					0
+1 Magic Boots + 1 Jewel + Thul Rune + 1 Perfect Amethyst -> Caster Boots	1			100					4	"boot,mag,eth"	jew	r10	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			2	5	ethereal	100		1	1																																																																0
+1 Magic Leather Gloves + 1 Jewel + Ort Rune + 1 Perfect Amethyst -> Caster Gloves	1			100					4	"glov,mag,noe"	jew	r09	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
+1 Magic Leather Gloves + 1 Jewel + Ort Rune + 1 Perfect Amethyst -> Caster Gloves	1			100					4	"glov,mag,eth"	jew	r09	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3	ethereal	100		1	1																																																																0
+1 Magic Light Belt + 1 Jewel + Ith Rune + 1 Perfect Amethyst -> Caster Belt	1			100					4	"belt,mag,noe"	jew	r06	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
+1 Magic Light Belt + 1 Jewel + Ith Rune + 1 Perfect Amethyst -> Caster Belt	1			100					4	"belt,mag,eth"	jew	r06	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10	ethereal	100		1	1																																																																0
+1 Magic Small Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Amethyst -> Caster Shield	1			100					4	"shld,mag,noe"	jew	r05	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	block			5	10																																																																					0
+1 Magic Small Shield + 1 Jewel + 1 Eth Rune + 1 Perfect Amethyst -> Caster Shield	1			100					4	"shld,mag,eth"	jew	r05	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	block			5	10	ethereal	100		1	1																																																																0
+1 Magic Light Plate + 1 Jewel + 1 Tal Rune + 1 Perfect Amethyst -> Caster Body	1			100					4	"tors,mag,noe"	jew	r07	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
+1 Magic Light Plate + 1 Jewel + 1 Tal Rune + 1 Perfect Amethyst -> Caster Body	1			100					4	"tors,mag,eth"	jew	r07	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3	ethereal	100		1	1																																																																0
+1 Magic Amulet + 1 Jewel + 1 Ral Rune + 1 Perfect Amethyst -> Caster Amulet	1			100					4	"amul,mag"	jew	r08	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
+1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Amethyst -> Caster Ring	1			100					4	"ring,mag"	jew	r11	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	enr			1	5																																																																					0
+1 Magic Rod + 1 Jewel + 1 Tir Rune + 1 Perfect Amethyst -> Caster Weapon	1			100					4	"weap,mag,noe"	jew	r03	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			1	5																																																																					0
+1 Magic Rod + 1 Jewel + 1 Tir Rune + 1 Perfect Amethyst -> Caster Weapon	1			100					4	"weap,mag,eth"	jew	r03	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			1	5	ethereal	100		1	1																																																																0
+1 Magic Crown + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1			100					4	"helm,mag,noe"	jew	r06	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-ltng			5	10	ac%			10	30																																																																0
+1 Magic Crown + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1			100					4	"helm,mag,eth"	jew	r06	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-ltng			5	10	ac%			10	30	ethereal	100		1	1																																																											0
+1 Magic Plated Boots + 1 Jewel + 1 Ort Rune + 1 Perfect Emerald -> Safety Boots	1			100					4	"boot,mag,noe"	jew	r09	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-fire			5	10	ac%			10	30																																																																0
+1 Magic Plated Boots + 1 Jewel + 1 Ort Rune + 1 Perfect Emerald -> Safety Boots	1			100					4	"boot,mag,eth"	jew	r09	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-fire			5	10	ac%			10	30	ethereal	100		1	1																																																											0
+1 Magic Gauntlets + 1 Jewel + 1 Ral Rune + 1 Perfect Emerald -> Safety Gloves	1			100					4	"glov,mag,noe"	jew	r08	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-cold			5	10	ac%			10	30																																																																0
+1 Magic Gauntlets + 1 Jewel + 1 Ral Rune + 1 Perfect Emerald -> Safety Gloves	1			100					4	"glov,mag,eth"	jew	r08	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-cold			5	10	ac%			10	30	ethereal	100		1	1																																																											0
+1 Magic Sash + 1 Jewel + 1 Tal Rune + 1 Perfect Emerald -> Safety Belt	1			100					4	"belt,mag,noe"	jew	r07	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-pois			5	10	ac%			10	30																																																																0
+1 Magic Sash + 1 Jewel + 1 Tal Rune + 1 Perfect Emerald -> Safety Belt	1			100					4	"belt,mag,eth"	jew	r07	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-pois			5	10	ac%			10	30	ethereal	100		1	1																																																											0
+1 Magic Kite Shield + 1 Jewel + 1 Nef Rune + 1 Perfect Emerald -> Safety Shield	1			100					4	"shld,mag,noe"	jew	r04	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-mag			5	10	ac%			10	30																																																																0
+1 Magic Kite Shield + 1 Jewel + 1 Nef Rune + 1 Perfect Emerald -> Safety Shield	1			100					4	"shld,mag,eth"	jew	r04	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-mag			5	10	ac%			10	30	ethereal	100		1	1																																																											0
+1 Magic Breast Plate + 1 Jewel + 1 Eth Rune + 1 Perfect Emerald -> Safety Body	1			100					4	"tors,mag,noe"	jew	r05	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	half-freeze			1	1	ac%			10	30																																																																0
+1 Magic Breast Plate + 1 Jewel + 1 Eth Rune + 1 Perfect Emerald -> Safety Body	1			100					4	"tors,mag,eth"	jew	r05	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	half-freeze			1	1	ac%			10	30	ethereal	100		1	1																																																											0
+1 Magic Amulet + 1 Jewel + 1 Thul Rune + 1 Perfect Emerald -> Safety Amulet	1			100					4	"amul,mag"	jew	r10	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	block			1	10																																																																					0
+1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Emerald -> Safety Ring	1			100					4	"ring,mag"	jew	r11	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	vit			1	5																																																																					0
+1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1			100					4	"miss,mag,noe"	jew	r12	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10																																																																					0
+1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1			100					4	"miss,mag,eth"	jew	r12	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10	ethereal	100		1	1																																																																0
 3 Thul Runes + 1 Chipped Topaz -> Amn Rune	1			100					3	"r10,qty=3"							r11																																																																																							0
 3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1			100					3	"r11,qty=3"							r12																																																																																							0
 3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1			100					3	"r12,qty=3"							r13																																																																																							0
@@ -220,10 +220,10 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Eld + 1 Key -> El Rune	1			100					2	"r02,qty=1"	gem1						r01																																																																																							0
 1 El + 1 Key -> Rejuv	1			100					2	"r01,qty=1"	gem1						rvs																																																																																							0
 3 Twisted Essence of Suffering -> 1 Charged Essence of Hatred	1			100					3	"tes,qty=3"							ceh																																																																																							0
-3 Charged Essence of Hatred -> 1 Burning Essence of Terror 	1			100					3	"ceh,qty=3"							bet																																																																																							0
+3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1			100					3	"ceh,qty=3"							bet																																																																																							0
 3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100					3	"bet,qty=3"							fed																																																																																							0
 3 Festering Essence of Destruction -> Key of Destruction	1			100					3	"fed,qty=3"							pk3																																																																																							0
-3 Key of Terror -> Key of Hate 	1			100					3	"pk1,qty=3"							pk2																																																																																							0
+3 Key of Terror -> Key of Hate	1			100					3	"pk1,qty=3"							pk2																																																																																							0
 3 Key of Hate -> Key of Destruction	1			100					3	"pk2,qty=3"							pk3																																																																																							0
 3 Key of Destruction -> Key of Terror	1			100					3	"pk3,qty=3"							pk1																																																																																							0
 	0																																																																																																							0
@@ -234,7 +234,7 @@ Wand of Life Tap	1		1	100					3	"wand,mag"	voa	hpot					"usetype,mag"				charged
 Staff of Teleportation	1			100					2	"staf,mag"	bgn						"usetype,mag"				charged	100	54	33	1																																																																															0
 	0																																																																																																							0
 TESTING	0																																																																																																							0
-3 Key of Destruction -> Key of Terror	0			100					1	vps							mfc																																																																																							0
+3 Key of Destruction -> Key of Terror	0			100					1	vps							hsm																																																																																							0
 Make Ethereal	0			1					2	"any,mag"	tsc						useitem				ethereal			1	1																																																																															0
 Make Ethereal	0			1					2	"any,rar"	tsc						useitem				ethereal			1	1																																																																															0
 Make Ethereal	0			1					2	"any,set"	tsc						useitem				ethereal			1	1																																																																															0
@@ -280,10 +280,8 @@ Boots Eth Sup	1			100					2	"boot,hiq,eth"	mls						"usetype,rar"	99			ethereal	
 	0																																																																																																							0
 SOCKETS	0																																																																																																							0
 	0																																																																																																							0
-BLOCK Throwing1 	1			100					2	tkni	lmr						useitem			100																										lmr																																																										0
-BLOCK Throwing1 	1			100					2	taxe	lmr						useitem			100																										lmr																																																										0
-BLOCK Throwing1 	1			100					2	jave	lmr						useitem			100																										lmr																																																										0
-	0																																																																																																							0
+Arrows	1			100					2	"aqv,nos"	lmr						useitem				sock			6	6																																																																															0
+Bolts	1			100					2	"cqv,nos"	lmr						useitem				sock			6	6																																																																															0
 NORMAL	0																																																																																																							
 Helm	1			0					2	"helm,nor,nos"	lmr						useitem				sock			6	6																																																																															0
 Helm Inf	1			0					2	"helm,low"	lmr						useitem				sock			6	6																																																																															0
@@ -310,26 +308,41 @@ Helm	1			0					2	"helm,mag,nos"	lmr						useitem				sock			1	2																		
 Weapon	1			0					2	"weap,mag,nos"	lmr						useitem				sock			1	2																																																																															0
 Armor	1			0					2	"tors,mag,nos"	lmr						useitem				sock			1	2																																																																															0
 Shield	1			0					2	"shld,mag,nos"	lmr						useitem				sock			1	2																																																																															0
+Throwing Knives	1			100					2	"tkni,mag,nos"	lmr						useitem				sock			1	2																																																																															0
+Throwing Axes	1			100					2	"taxe,mag,nos"	lmr						useitem				sock			1	2																																																																															0
+Throwing Javelins	1			100					2	"jave,mag,nos"	lmr						useitem				sock			1	2																																																																															0
 RARE	0																																																																																																							0
 Helm	1			0					2	"helm,rar,nos"	lmr						useitem				sock			1	1																																																																															0
 Weapon	1			0					2	"weap,rar,nos"	lmr						useitem				sock			1	1																																																																															0
 Armor	1			0					2	"tors,rar,nos"	lmr						useitem				sock			1	1																																																																															0
 Shield	1			0					2	"shld,rar,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Knives	1			100					2	"tkni,rar,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Axes	1			100					2	"taxe,rar,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Javelins	1			100					2	"jave,rar,nos"	lmr						useitem				sock			1	1																																																																															0
 SET	0																																																																																																							0
 Helm	1			0					2	"helm,set,nos"	lmr						useitem				sock			1	1																																																																															0
 Weapon	1			0					2	"weap,set,nos"	lmr						useitem				sock			1	1																																																																															0
 Armor	1			0					2	"tors,set,nos"	lmr						useitem				sock			1	1																																																																															0
 Shield	1			0					2	"shld,set,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Knives	1			100					2	"tkni,set,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Axes	1			100					2	"taxe,set,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Javelins	1			100					2	"jave,set,nos"	lmr						useitem				sock			1	1																																																																															0
 UNIQUE	0																																																																																																							0
 Helm	1			0					2	"helm,uni,nos"	lmr						useitem				sock			1	1																																																																															0
 Weapon	1			0					2	"weap,uni,nos"	lmr						useitem				sock			1	1																																																																															0
 Armor	1			0					2	"tors,uni,nos"	lmr						useitem				sock			1	1																																																																															0
 Shield	1			0					2	"shld,uni,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Knives	1			100					2	"tkni,uni,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Axes	1			100					2	"taxe,uni,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Javelins	1			100					2	"jave,uni,nos"	lmr						useitem				sock			1	1																																																																															0
 CRAFTS	0																																																																																																							0
 Helm	1			0					2	"helm,crf,nos"	lmr						useitem				sock			1	1																																																																															0
 Weapon	1			0					2	"weap,crf,nos"	lmr						useitem				sock			1	1																																																																															0
 Armor	1			0					2	"tors,crf,nos"	lmr						useitem				sock			1	1																																																																															0
 Shield	1			0					2	"shld,crf,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Knives	1			100					2	"tkni,crf,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Axes	1			100					2	"taxe,crf,nos"	lmr						useitem				sock			1	1																																																																															0
+Throwing Javelins	1			100					2	"jave,crf,nos"	lmr						useitem				sock			1	1																																																																															0
 																																																																																																								
 	0																																																																																																							0
 ENDGAME RECIPES	0																																																																																																							0
@@ -337,9 +350,11 @@ ENDGAME RECIPES	0																																																															
 Hellfire Ashes	1			0					2	Hellfire Torch	lmr						tds																																																																																							0
 Elixir = Small Rejuv	1			0					3	hpot	mpot	elx					rvl																																																																																							0
 Spleen + Jawbone + Quill + Elixir = Magic Find Potion	1			0					4	spe	jaw	qll	elx				mfp																																																																																							0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	tkni	mfp	tds	std	hsm			useitem				rep-quant		30																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	taxe	mfp	tds	std	hsm			useitem				rep-quant		30																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	jave	mfp	tds	std	hsm			useitem				rep-quant		30																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod TEST	1			0					2	aqv	hsm						useitem				rep-quant		40																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod TEST	1			0					2	cqv	hsm						useitem				rep-quant		40																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	tkni	mfp	tds	std	hsm			useitem				rep-quant		40																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	taxe	mfp	tds	std	hsm			useitem				rep-quant		40																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	jave	mfp	tds	std	hsm			useitem				rep-quant		40																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"any,mag"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"any,rar"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"any,uni"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
@@ -358,9 +373,295 @@ MF + GF	1			0					6	belt	r32	r24	r20	std	mls		useitem				light			1	1	mag%			25	2
 ZOD RECIPE																																																																																																								0
 Teleport + MF + GF	1			0					6	tors	r33	r29	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			25	25																																																																0
 	0																																																																																																							0
-CORRUPTIONS	0																																																																																																							0
+MAGIC CORRUPTIONS	0																																																																																																							0
+BLOCK CHARMS	1								2	cm1	std						useitem																													std																																																										BLO
+BLOCK CHARMS	1								2	cm2	std						useitem																													std																																																										BLO
+BLOCK CHARMS	1								2	cm3	std						useitem																													std																																																										BLO
+BLOCK JEWELS	1								2	jew	std						useitem																													std																																																										BLO
+Magic Corruptor	1			0	18	362	0		2	"any,mag"	std						useitem				corruption2			1	1000																					std																																																										0
+Brick	1			0	16	362	400		2	"any,mag"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+																																																																																																								
+6 Socket Bows	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+6 Socket Crossbows	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+2 Handed Sockets	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+1 Socket	0																																																																																																							0
+Rings	1			0	16	362	1000		2	"ring,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+Amulet	1			0	16	362	1000		2	"amu,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket Belts	0																																																																																																							0
+1 Socket	1			0	16	362	910		2	"belt,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	1000		2	"belt,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket Gloves																																																																																																								
+1 Socket	1			0	16	362	832		2	"glov,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"glov,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"glov,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Boots																																																																																																								
+1 Socket	1			0	16	362	832		2	"boot,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"boot,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"boot,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Helm																																																																																																								
+1 Socket	1			0	16	362	832		2	"helm,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"helm,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"helm,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Chest																																																																																																								
+1 Socket	1			0	16	362	832		2	"tors,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"tors,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"tors,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Shield																																																																																																								
+1 Socket	1			0	16	362	832		2	"shld,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"shld,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"shld,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket Weapons	0																																																																																																							0
+1 Socket	1			0	16	362	700		2	"weap,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	860		2	"weap,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	940		2	"weap,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	1000		2	"weap,mag"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+																																																																																																								
+RARE CORRUPTIONS ----------------	0																																																																																																							0
 	0																																																																																																							0
-Corruption Dont Touch	0			0	18	362	0		1	"any,mag"							useitem				corruption2			1	1000																																																																															0
-Mod	0			0	16	362	500		1	"any,mag"							useitem				corruption2			1001	1001	att			100	100	corruption1			1	1																																																																					0
-Brick	0			0	16	362	750		1	"any,mag"							"usetype,rar"				corruption2			1001	1001						corruption1			1	1																																																																					0
-Socket	0			0	16	362	1000		1	"any,mag"							useitem				corruption2			1001	1001	sock			1	6	corruption1			1	1																																																																					0
+Rare Corruptor	1			0	18	362	0		2	"any,rar"	std						useitem				corruption2			1	1000																					std																																																										0
+Brick	1			0	16	362	400		2	"any,rar"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+																																																																																																								
+6 Socket Bows	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+6 Socket Crossbows	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+2 Handed Sockets	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+1 Socket	0																																																																																																							0
+Rings	1			0	16	362	1000		2	"ring,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+Amulet	1			0	16	362	1000		2	"amu,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket Belts	0																																																																																																							0
+1 Socket	1			0	16	362	910		2	"belt,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	1000		2	"belt,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket Gloves																																																																																																								
+1 Socket	1			0	16	362	832		2	"glov,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"glov,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"glov,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Boots																																																																																																								
+1 Socket	1			0	16	362	832		2	"boot,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"boot,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"boot,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Helm																																																																																																								
+1 Socket	1			0	16	362	832		2	"helm,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"helm,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"helm,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Chest																																																																																																								
+1 Socket	1			0	16	362	832		2	"tors,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"tors,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"tors,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Shield																																																																																																								
+1 Socket	1			0	16	362	832		2	"shld,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"shld,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"shld,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket Weapons	0																																																																																																							0
+1 Socket	1			0	16	362	700		2	"weap,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	860		2	"weap,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	940		2	"weap,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	1000		2	"weap,rar"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+																																																																																																								
+SET CORRUPTIONS ----------------	0																																																																																																							0
+	0																																																																																																							0
+Set Corruptor	1			0	18	362	0		2	"any,set"	std						useitem				corruption2			1	1000																					std																																																										0
+Brick	1			0	16	362	400		2	"any,set"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+																																																																																																								
+6 Socket Bows	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+6 Socket Crossbows	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+2 Handed Sockets	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+1 Socket	0																																																																																																							0
+Rings	1			0	16	362	1000		2	"ring,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+Amulet	1			0	16	362	1000		2	"amu,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket Belts	0																																																																																																							0
+1 Socket	1			0	16	362	910		2	"belt,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	1000		2	"belt,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket Gloves																																																																																																								
+1 Socket	1			0	16	362	832		2	"glov,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"glov,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"glov,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Boots																																																																																																								
+1 Socket	1			0	16	362	832		2	"boot,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"boot,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"boot,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Helm																																																																																																								
+1 Socket	1			0	16	362	832		2	"helm,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"helm,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"helm,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Chest																																																																																																								
+1 Socket	1			0	16	362	832		2	"tors,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"tors,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"tors,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Shield																																																																																																								
+1 Socket	1			0	16	362	832		2	"shld,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"shld,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"shld,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket Weapons	0																																																																																																							0
+1 Socket	1			0	16	362	700		2	"weap,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	860		2	"weap,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	940		2	"weap,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	1000		2	"weap,set"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+																																																																																																								
+UNIQUE CORRUPTIONS ----------------	0																																																																																																							0
+	0																																																																																																							0
+Unique Corruptor	1			0	18	362	0		2	"any,uni"	std						useitem				corruption2			1	1000																					std																																																										0
+Brick	1			0	16	362	400		2	"any,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+																																																																																																								
+6 Socket Bows	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+6 Socket Crossbows	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+2 Handed Sockets	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+1 Socket	0																																																																																																							0
+Rings	1			0	16	362	1000		2	"ring,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+Amulet	1			0	16	362	1000		2	"amu,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket Belts	0																																																																																																							0
+1 Socket	1			0	16	362	910		2	"belt,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	1000		2	"belt,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket Gloves																																																																																																								
+1 Socket	1			0	16	362	832		2	"glov,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"glov,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"glov,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Boots																																																																																																								
+1 Socket	1			0	16	362	832		2	"boot,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"boot,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"boot,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Helm									2																																																																																															
+1 Socket	1			0	16	362	832		2	"helm,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"helm,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"helm,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Chest																																																																																																								
+1 Socket	1			0	16	362	832		2	"tors,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"tors,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"tors,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Shield																																																																																																								
+1 Socket	1			0	16	362	832		2	"shld,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"shld,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"shld,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket Weapons	0																																																																																																							0
+1 Socket	1			0	16	362	700		2	"weap,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	860		2	"weap,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	940		2	"weap,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	1000		2	"weap,uni"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+																																																																																																								
+CRAFT CORRUPTIONS ----------------	0																																																																																																							0
+	0																																																																																																							0
+Craft Corruptor	1			0	18	362	0		2	"any,crf"	std						useitem				corruption2			1	1000																					std																																																										0
+Brick	1			0	16	362	400		2	"any,crf"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+																																																																																																								
+6 Socket Bows	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+6 Socket Crossbows	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+2 Handed Sockets	0																																																																																																							0
+1 Socket	1			0	16	362	544		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	676		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	784		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	880		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	952		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+6 Socket	1			0	16	362	1000		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
+1 Socket	0																																																																																																							0
+Rings	1			0	16	362	1000		2	"ring,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+Amulet	1			0	16	362	1000		2	"amu,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket Belts	0																																																																																																							0
+1 Socket	1			0	16	362	910		2	"belt,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	1000		2	"belt,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket Gloves																																																																																																								
+1 Socket	1			0	16	362	832		2	"glov,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"glov,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"glov,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Boots																																																																																																								
+1 Socket	1			0	16	362	832		2	"boot,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"boot,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"boot,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Helm																																																																																																								
+1 Socket	1			0	16	362	832		2	"helm,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"helm,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"helm,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Chest																																																																																																								
+1 Socket	1			0	16	362	832		2	"tors,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"tors,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"tors,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+3 Socket Shield																																																																																																								
+1 Socket	1			0	16	362	832		2	"shld,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	952		2	"shld,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	1000		2	"shld,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket Weapons	0																																																																																																							0
+1 Socket	1			0	16	362	700		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	860		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	940		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	1000		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
