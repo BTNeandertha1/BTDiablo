@@ -71,10 +71,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Unique Charm Corruptions
 
 # Patch Notes XV
-- Added Corruptions
-- Added potential sockets to all equipable items
-- Nerfed Grief's Damage
-- Added Testing Files including Characters and misc.txt
+- Changed how sockets work on Gloves, Belts, Boots (item level and mechanic changes) **SEE DETAILS BEFORE CORRUPTING!**
+- Added Testing Files including Characters, cubemain.txt and misc.txt
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
@@ -196,10 +194,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Amulets and Rings can now have 1 socket
    - socketed items get Armor/Helm modifier
 - Belts can now have up to 2 sockets
+   - ilvl 1-48 = 0 Sockets, 49-84 = 1 Socket, 85+ = 2 Sockets 
    - socketed items get Armor/Helm modifier
 - Gloves and Boots can now have up to 3 Sockets
+   - ilvl 1-48 = 0 Sockets, 49-84 = 1 Socket, 85+ = 3 Sockets
    - socketed items in Gloves get Weapon modifier
-   - socketed items in Boots get Shield modifier
+   - socketed items in Boots get Armor/Helm modifier
 - Throwing Weapons have up to 4 sockets
    - socketed items get Weapon modifier
    - Throwing Axes can have up to 4 Sockets (Exceptional and Elite)
