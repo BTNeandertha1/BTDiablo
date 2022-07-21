@@ -54,6 +54,7 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - Wolfieeiflow: Helping with Spreadsheets and brain power  
 - JeyP: Testing things then walking me through  
 - Kex: First Tester  
+- Stackit (https://www.nexusmods.com/diablo2resurrected/mods/80) on Nexusmods to use the assets and help with functionality of stacking!
 
 # Future Ideas
 Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/16) issue.  
@@ -67,18 +68,20 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 
 # WIP
 - Crafting Buffs
-- Stacking Items
 - Unique Charm Corruptions
+- Additional QOL with stacked items
 
-# Patch Notes XV
-- Changed how sockets work on Gloves, Belts, Boots (item level and mechanic changes) **SEE DETAILS BEFORE CORRUPTING!**
-- Added Testing Files including Characters, cubemain.txt and misc.txt
+# Patch Notes XVI QOL
+- **WARNING Essences in your stash or on your character may cause issues loading up. Please Remove them or use them before Applying this patch.
+- HUGE QOL improvements to Uber Keys and Organs!
+- Stacking is now a thing!
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
 
 ## Game 
 - Item Levels Shown
+- **Runes, Gems, and Essences now Stack!
 - 3 Additional Shared Stash Tabs
 - Negative 30 all res (Only effects the Player)
 - Negative 199 MF
@@ -177,6 +180,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Added 250-300 Minimum Damage
    
 ## Runes
+- **Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
 - Ist and higher Runes now all have 3% Experience Gained
 - Cham Rune
    - Changed Armor and Helmet to 34% Reduced Curse Duration (was Cannot Be Frozen)
@@ -184,6 +188,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Added +1 to All Skills
 
 ## Gems
+- **Gems now have Stack mode and drop stacked from the world! (other than hard coded drops)
 - Topaz Magic Find replaced with Faster Run/Walk
 
 ## Items
@@ -210,6 +215,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Necro shields add 33% Pierce for the Teeth mechanic (was Poison Damage)
 - Necro shields can now have 3 sockets
 - Added Hellfire Ashes (Broken down Hellfire Torches) Torch + Larzuk's Forging Hammer 
+- **Tome of Town Portal, Identify and keys now stack up to 50
+- **All Essences now stack to 50
 
 ## Shop
 - Added Charsi's Malus to Imbue (575k)
@@ -237,8 +244,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Essence Transmuting 3 = 1 of next Tier
    - Blue > Yellow > Red > Green
 - 3 Green Essence = 1 Destruction Key
-- Uber Key Transmuting 3 = 1 of next tier | changed the Colors of the keys
-   - T > H > D > T
+- **Uber Key Transmuting 3+(TP Scroll or ID Scroll) = 1 of a different type | changed the Colors of the keys
+   - **TP Scroll = T > H > D > T
+   - **ID Scroll = T > D > H > T
+- **ANY 3 Uber Organs now open Uber Tristram (Diablo's Horn, Baal's Eye or Mephisto's Brain)
 - 4 Unique Jewerly (Rings, Amulets, Jewels) = SOH
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
@@ -368,3 +377,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Static is Always 60%
 - Removed Frozen Orb Cool Down
 - Teeth can Pierce and removed Next Hit Delay
+
+## Test Mode
+- 1 Stamina cubed = 3 SOH
+- 1 TP Scroll = Hellfire Ashes
+- 1 Thawing = 3 Terror Keys
+- 2 Thawing = 3 Hate Keys
+- 3 Thawing = 3 Destruction Keys

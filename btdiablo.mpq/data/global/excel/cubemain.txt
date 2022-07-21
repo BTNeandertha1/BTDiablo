@@ -180,7 +180,7 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 El Rune + 1 Chipped Gem (Any) + 1 Tempered Weapon -> Weapon With Extra Attack Rating	0			100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 3 Chipped Gems (Any) + 1 Magic Weapon -> Socketed Magic Weapon	1			0					4	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
 1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
-1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
+1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)	1			100	28				3	"orgn,qty=3"							Pandemonium Finale Portal																																																																																							0
 1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
 1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Set Weapon -> Exceptional Set Weapon	1	1		100					4	"weap,bas,set"	r08	r12	gpg				"useitem,mod,exc"																																																																																							0
 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor	1	1		100					4	"armo,bas,set"	r07	r13	gpw				"useitem,mod,exc"																																																																																							0
@@ -223,9 +223,197 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1			100					3	"ceh,qty=3"							bet																																																																																							0
 3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100					3	"bet,qty=3"							fed																																																																																							0
 3 Festering Essence of Destruction -> Key of Destruction	1			100					3	"fed,qty=3"							pk3																																																																																							0
-3 Key of Terror -> Key of Hate	1			100					3	"pk1,qty=3"							pk2																																																																																							0
-3 Key of Hate -> Key of Destruction	1			100					3	"pk2,qty=3"							pk3																																																																																							0
-3 Key of Destruction -> Key of Terror	1			100					3	"pk3,qty=3"							pk1																																																																																							0
+3 Key of Terror -> Key of Hate	1			100					4	"pk1,qty=3"	tsc						pk2																																																																																							0
+3 Key of Terror -> Key of Hate	1			100					4	"pk1,qty=3"	isc						pk3																																																																																							0
+3 Key of Hate -> Key of Destruction	1			100					4	"pk2,qty=3"	tsc						pk3																																																																																							0
+3 Key of Hate -> Key of Destruction	1			100					4	"pk2,qty=3"	isc						pk1																																																																																							0
+3 Key of Destruction -> Key of Terror	1			100					4	"pk3,qty=3"	tsc						pk1																																																																																							0
+3 Key of Destruction -> Key of Terror	1			100					4	"pk3,qty=3"	isc						pk2																																																																																							0
+1cv -> gcv	1			0	18	70	1		1	1cv							gcv																																																																																							0
+gcv -> 1cv	1			0					1	gcv							1cv																																																																																							0
+1cb -> gcb	1			0	18	70	1		1	1cb							gcb																																																																																							0
+gcb -> 1cb	1			0					1	gcb							1cb																																																																																							0
+1cr -> gcr	1			0	18	70	1		1	1cr							gcr																																																																																							0
+gcr -> 1cr	1			0					1	gcr							1cr																																																																																							0
+1cy -> gcy	1			0	18	70	1		1	1cy							gcy																																																																																							0
+gcy -> 1cy	1			0					1	gcy							1cy																																																																																							0
+1cg -> gcg	1			0	18	70	1		1	1cg							gcg																																																																																							0
+gcg -> 1cg	1			0					1	gcg							1cg																																																																																							0
+1cw -> gcw	1			0	18	70	1		1	1cw							gcw																																																																																							0
+gcw -> 1cw	1			0					1	gcw							1cw																																																																																							0
+1kc -> skc	1			0	18	70	1		1	1kc							skc																																																																																							0
+skc -> 1kc	1			0					1	skc							1kc																																																																																							0
+1fv -> gfv (etc)	1			0	18	70	1		1	1fv							gfv																																																																																							0
+->	1			0					1	gfv							1fv																																																																																							0
+1fb ->	1			0	18	70	1		1	1fb							gfb																																																																																							0
+->	1			0					1	gfb							1fb																																																																																							0
+1fr ->	1			0	18	70	1		1	1fr							gfr																																																																																							0
+->	1			0					1	gfr							1fr																																																																																							0
+1fy ->	1			0	18	70	1		1	1fy							gfy																																																																																							0
+->	1			0					1	gfy							1fy																																																																																							0
+1fg ->	1			0	18	70	1		1	1fg							gfg																																																																																							0
+->	1			0					1	gfg							1fg																																																																																							0
+1fw ->	1			0	18	70	1		1	1fw							gfw																																																																																							0
+->	1			0					1	gfw							1fw																																																																																							0
+1kf ->	1			0	18	70	1		1	1kf							skf																																																																																							0
+->	1			0					1	skf							1kf																																																																																							0
+1sv -> gsv	1			0	18	70	1		1	1sv							gsv																																																																																							0
+->	1			0					1	gsv							1sv																																																																																							0
+1sb ->	1			0	18	70	1		1	1sb							gsb																																																																																							0
+->	1			0					1	gsb							1sb																																																																																							0
+1sr ->	1			0	18	70	1		1	1sr							gsr																																																																																							0
+->	1			0					1	gsr							1sr																																																																																							0
+1sy ->	1			0	18	70	1		1	1sy							gsy																																																																																							0
+->	1			0					1	gsy							1sy																																																																																							0
+1sg ->	1			0	18	70	1		1	1sg							gsg																																																																																							0
+->	1			0					1	gsg							1sg																																																																																							0
+1sw ->	1			0	18	70	1		1	1sw							gsw																																																																																							0
+->	1			0					1	gsw							1sw																																																																																							0
+1ku ->	1			0	18	70	1		1	1ku							sku																																																																																							0
+->	1			0					1	sku							1ku																																																																																							0
+1zv -> gzv	1			0	18	70	1		1	1zv							gzv																																																																																							0
+->	1			0					1	gzv							1zv																																																																																							0
+1lb ->	1			0	18	70	1		1	1lb							glb																																																																																							0
+->	1			0					1	glb							1lb																																																																																							0
+1lr ->	1			0	18	70	1		1	1lr							glr																																																																																							0
+->	1			0					1	glr							1lr																																																																																							0
+1ly ->	1			0	18	70	1		1	1ly							gly																																																																																							0
+->	1			0					1	gly							1ly																																																																																							0
+1lg ->	1			0	18	70	1		1	1lg							glg																																																																																							0
+->	1			0					1	glg							1lg																																																																																							0
+1lw ->	1			0	18	70	1		1	1lw							glw																																																																																							0
+->	1			0					1	glw							1lw																																																																																							0
+1kl ->	1			0	18	70	1		1	1kl							skl																																																																																							0
+->	1			0					1	skl							1kl																																																																																							0
+1pv ->	1			0	18	70	1		1	1pv							gpv																																																																																							0
+->	1			0					1	gpv							1pv																																																																																							0
+1pb ->	1			0	18	70	1		1	1pb							gpb																																																																																							0
+->	1			0					1	gpb							1pb																																																																																							0
+1pr ->	1			0	18	70	1		1	1pr							gpr																																																																																							0
+->	1			0					1	gpr							1pr																																																																																							0
+1py ->	1			0	18	70	1		1	1py							gpy																																																																																							0
+->	1			0					1	gpy							1py																																																																																							0
+1pg ->	1			0	18	70	1		1	1pg							gpg																																																																																							0
+->	1			0					1	gpg							1pg																																																																																							0
+1pw ->	1			0	18	70	1		1	1pw							gpw																																																																																							0
+->	1			0					1	gpw							1pw																																																																																							0
+1kz ->	1			0	18	70	1		1	1kz							skz																																																																																							0
+->	1			0					1	skz							1kz																																																																																							0
+r01	1			100	18	70	1		1	101							r01																																																																																							0
+101	1			100					1	r01							101																																																																																							0
+r02	1			100	18	70	1		1	102							r02																																																																																							0
+102	1			100					1	r02							102																																																																																							0
+r	1			100	18	70	1		1	103							r03																																																																																							0
+103	1			100					1	r03							103																																																																																							0
+r	1			100	18	70	1		1	104							r04																																																																																							0
+104	1			100					1	r04							104																																																																																							0
+r	1			100	18	70	1		1	105							r05																																																																																							0
+105	1			100					1	r05							105																																																																																							0
+r	1			100	18	70	1		1	106							r06																																																																																							0
+106	1			100					1	r06							106																																																																																							0
+r	1			100	18	70	1		1	107							r07																																																																																							0
+107	1			100					1	r07							107																																																																																							0
+r	1			100	18	70	1		1	108							r08																																																																																							0
+108	1			100					1	r08							108																																																																																							0
+r	1			100	18	70	1		1	109							r09																																																																																							0
+109	1			100					1	r09							109																																																																																							0
+r	1			100	18	70	1		1	110							r10																																																																																							0
+110	1			100					1	r10							110																																																																																							0
+r	1			100	18	70	1		1	111							r11																																																																																							0
+111	1			100					1	r11							111																																																																																							0
+r	1			100	18	70	1		1	112							r12																																																																																							0
+112	1			100					1	r12							112																																																																																							0
+r	1			100	18	70	1		1	113							r13																																																																																							0
+113	1			100					1	r13							113																																																																																							0
+r	1			100	18	70	1		1	114							r14																																																																																							0
+114	1			100					1	r14							114																																																																																							0
+r	1			100	18	70	1		1	115							r15																																																																																							0
+115	1			100					1	r15							115																																																																																							0
+r	1			100	18	70	1		1	116							r16																																																																																							0
+116	1			100					1	r16							116																																																																																							0
+r	1			100	18	70	1		1	117							r17																																																																																							0
+117	1			100					1	r17							117																																																																																							0
+r	1			100	18	70	1		1	118							r18																																																																																							0
+118	1			100					1	r18							118																																																																																							0
+r	1			100	18	70	1		1	119							r19																																																																																							0
+119	1			100					1	r19							119																																																																																							0
+r	1			100	18	70	1		1	120							r20																																																																																							0
+120	1			100					1	r20							120																																																																																							0
+r	1			100	18	70	1		1	121							r21																																																																																							0
+121	1			100					1	r21							121																																																																																							0
+r	1			100	18	70	1		1	122							r22																																																																																							0
+122	1			100					1	r22							122																																																																																							0
+r	1			100	18	70	1		1	123							r23																																																																																							0
+123	1			100					1	r23							123																																																																																							0
+r	1			100	18	70	1		1	124							r24																																																																																							0
+124	1			100					1	r24							124																																																																																							0
+r	1			100	18	70	1		1	125							r25																																																																																							0
+125	1			100					1	r25							125																																																																																							0
+r	1			100	18	70	1		1	126							r26																																																																																							0
+126	1			100					1	r26							126																																																																																							0
+r	1			100	18	70	1		1	127							r27																																																																																							0
+127	1			100					1	r27							127																																																																																							0
+r	1			100	18	70	1		1	128							r28																																																																																							0
+128	1			100					1	r28							128																																																																																							0
+r	1			100	18	70	1		1	129							r29																																																																																							0
+129	1			100					1	r29							129																																																																																							0
+r	1			100	18	70	1		1	130							r30																																																																																							0
+130	1			100					1	r30							130																																																																																							0
+r	1			100	18	70	1		1	131							r31																																																																																							0
+131	1			100					1	r31							131																																																																																							0
+r	1			100	18	70	1		1	132							r32																																																																																							0
+132	1			100					1	r32							132																																																																																							0
+r33	1			100	18	70	1		1	133							r33																																																																																							0
+133	1			100					1	r33							133																																																																																							0
+Stack of 2 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	2		1	misc							"usetype,qty=1"																													"usetype,qty=1"																																																										0
+Stack of 3 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	3		1	misc							"usetype,qty=2"																													"usetype,qty=1"																																																										0
+Stack of 4 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	4		1	misc							"usetype,qty=3"																													"usetype,qty=1"																																																										0
+Stack of 5 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	5		1	misc							"usetype,qty=4"																													"usetype,qty=1"																																																										0
+Stack of 6 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	6		1	misc							"usetype,qty=5"																													"usetype,qty=1"																																																										0
+Stack of 7 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	7		1	misc							"usetype,qty=6"																													"usetype,qty=1"																																																										0
+Stack of 8 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	8		1	misc							"usetype,qty=7"																													"usetype,qty=1"																																																										0
+Stack of 9 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	9		1	misc							"usetype,qty=8"																													"usetype,qty=1"																																																										0
+Stack of 10 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	10		1	misc							"usetype,qty=9"																													"usetype,qty=1"																																																										0
+Stack of 11 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	11		1	misc							"usetype,qty=10"																													"usetype,qty=1"																																																										0
+Stack of 12 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	12		1	misc							"usetype,qty=11"																													"usetype,qty=1"																																																										0
+Stack of 13 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	13		1	misc							"usetype,qty=12"																													"usetype,qty=1"																																																										0
+Stack of 14 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	14		1	misc							"usetype,qty=13"																													"usetype,qty=1"																																																										0
+Stack of 15 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	15		1	misc							"usetype,qty=14"																													"usetype,qty=1"																																																										0
+Stack of 16 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	16		1	misc							"usetype,qty=15"																													"usetype,qty=1"																																																										0
+Stack of 17 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	17		1	misc							"usetype,qty=16"																													"usetype,qty=1"																																																										0
+Stack of 18 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	18		1	misc							"usetype,qty=17"																													"usetype,qty=1"																																																										0
+Stack of 19 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	19		1	misc							"usetype,qty=18"																													"usetype,qty=1"																																																										0
+Stack of 20 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	20		1	misc							"usetype,qty=19"																													"usetype,qty=1"																																																										0
+Stack of 21 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	21		1	misc							"usetype,qty=20"																													"usetype,qty=1"																																																										0
+Stack of 22 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	22		1	misc							"usetype,qty=21"																													"usetype,qty=1"																																																										0
+Stack of 23 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	23		1	misc							"usetype,qty=22"																													"usetype,qty=1"																																																										0
+Stack of 24 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	24		1	misc							"usetype,qty=23"																													"usetype,qty=1"																																																										0
+Stack of 25 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	25		1	misc							"usetype,qty=24"																													"usetype,qty=1"																																																										0
+Stack of 26 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	26		1	misc							"usetype,qty=25"																													"usetype,qty=1"																																																										0
+Stack of 27 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	27		1	misc							"usetype,qty=26"																													"usetype,qty=1"																																																										0
+Stack of 28 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	28		1	misc							"usetype,qty=27"																													"usetype,qty=1"																																																										0
+Stack of 29 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	29		1	misc							"usetype,qty=28"																													"usetype,qty=1"																																																										0
+Stack of 30 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	30		1	misc							"usetype,qty=29"																													"usetype,qty=1"																																																										0
+Stack of 31 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	31		1	misc							"usetype,qty=30"																													"usetype,qty=1"																																																										0
+Stack of 32 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	32		1	misc							"usetype,qty=31"																													"usetype,qty=1"																																																										0
+Stack of 33 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	33		1	misc							"usetype,qty=32"																													"usetype,qty=1"																																																										0
+Stack of 34 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	34		1	misc							"usetype,qty=33"																													"usetype,qty=1"																																																										0
+Stack of 35 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	35		1	misc							"usetype,qty=34"																													"usetype,qty=1"																																																										0
+Stack of 36 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	36		1	misc							"usetype,qty=35"																													"usetype,qty=1"																																																										0
+Stack of 37 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	37		1	misc							"usetype,qty=36"																													"usetype,qty=1"																																																										0
+Stack of 38 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	38		1	misc							"usetype,qty=37"																													"usetype,qty=1"																																																										0
+Stack of 39 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	39		1	misc							"usetype,qty=38"																													"usetype,qty=1"																																																										0
+Stack of 40 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	40		1	misc							"usetype,qty=39"																													"usetype,qty=1"																																																										0
+Stack of 41 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	41		1	misc							"usetype,qty=40"																													"usetype,qty=1"																																																										0
+Stack of 42 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	42		1	misc							"usetype,qty=41"																													"usetype,qty=1"																																																										0
+Stack of 43 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	43		1	misc							"usetype,qty=42"																													"usetype,qty=1"																																																										0
+Stack of 44 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	44		1	misc							"usetype,qty=43"																													"usetype,qty=1"																																																										0
+Stack of 45 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	45		1	misc							"usetype,qty=44"																													"usetype,qty=1"																																																										0
+Stack of 46 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	46		1	misc							"usetype,qty=45"																													"usetype,qty=1"																																																										0
+Stack of 47 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	47		1	misc							"usetype,qty=46"																													"usetype,qty=1"																																																										0
+Stack of 48 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	48		1	misc							"usetype,qty=47"																													"usetype,qty=1"																																																										0
+Stack of 49 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	49		1	misc							"usetype,qty=48"																													"usetype,qty=1"																																																										0
+Stack of 50 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	50		1	misc							"usetype,qty=49"																													"usetype,qty=1"																																																										0
 	0																																																																																																							0
 SPEEDRUNNING	0																																																																																																							0
 	0																																																																																																							0
@@ -234,7 +422,11 @@ Wand of Life Tap	1		1	100					3	"wand,mag"	voa	hpot					"usetype,mag"				charged
 Staff of Teleportation	1			100					2	"staf,mag"	bgn						"usetype,mag"				charged	100	54	33	1																																																																															0
 	0																																																																																																							0
 TESTING	0																																																																																																							0
-3 Key of Destruction -> Key of Terror	0			100					1	vps							hsm																																																																																							0
+3 Key of Destruction -> Key of Terror	0			100					1	vps							std																													std																													std																													0
+3 Key of Destruction -> Key of Terror	0			100					1	tsc							tds																													tds																													tds																													0
+3 Key of Destruction -> Key of Terror	0			100					1	wms							pk1																													pk1																													pk1																													0
+3 Key of Destruction -> Key of Terror	0			100					2	"wms,qty=2"							pk2																													pk2																													pk2																													0
+3 Key of Destruction -> Key of Terror	0			100					3	"wms,qty=3"							pk3																													pk3																													pk3																													0
 Make Ethereal	0			1					2	"any,mag"	tsc						useitem				ethereal			1	1																																																																															0
 Make Ethereal	0			1					2	"any,rar"	tsc						useitem				ethereal			1	1																																																																															0
 Make Ethereal	0			1					2	"any,set"	tsc						useitem				ethereal			1	1																																																																															0

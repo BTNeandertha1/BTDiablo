@@ -108,3 +108,6 @@ Spears and Polearms	sppl	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0							
 Jewelery	jwly	misc		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
 Charms	chms	char	weap	0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0							weap	0
 2Handed Melee Weapon	2han			1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	1	3			0								0
+Gem Stack	gemx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Rune Stack	runx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Organ	orgn	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
