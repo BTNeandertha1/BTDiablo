@@ -74,6 +74,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 # Patch Notes XVII
 - Fixes Several Bugs involving Uniques and Sockets
 - Buffed Lidless Wall and Grief
+- Removed Quill, Jawbone, and Spleen from Alkor
+- Alkor now sells MF potion for 1.25M
 - Changed Rejuv Recipe to just be 1 Elixir
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
@@ -223,10 +225,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Added Larzuk's Forging Hammer (2.2 Mil)
 - Added Essences for Gold at Akara (150k B, 325k Y, 750k R, 1.5 Mil G)
 - Added Elixir(7k) ingredient at Alkor
-- Added Quill(2.76M) ingredient at Alkor
-- Added Jawbone(2.76M) ingredient at Alkor
-- Added Spleen(2.76M) ingredient at Alkor
-- MF Potion grants +100% MF for 1 Hour (Effect lost on death or S&E)
+- **Added MF Potion grants +100% MF for 1 Hour (Effect lost on death or S&E) at Alkor
 - Added BigDinn at Ormus (90k)
    - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
 - Added Hratli's Spiritual Herb (2.25M)
@@ -252,8 +251,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
 - Removed Gem requirements for Rune Upgrading
-- Elixir + Health Potion + Mana Potion = Rejuvination Potion
-- Elixir + Spleen + Jawbone + Quill = Magic Find Potion
+- **Elixir = Rejuvination Potion
 - Hratli's Spiritual Herb + Arrows or Bolts = Replenish Quantity 
 - Hratli's Spiritual Herb + Magic Find Potion + Hellfire Ashes + SOH
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)

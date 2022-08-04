@@ -4660,7 +4660,7 @@
   {
     "id": 2200,
     "Key": "tsc",
-    "enUS": "ÿc3TP",
+    "enUS": "Scroll of Town Portal",
     "zhTW": "城鎮傳送卷軸",
     "deDE": "Schriftrolle des Stadtportals",
     "esES": "Pergamino del portal de la ciudad",
@@ -4694,7 +4694,7 @@
   {
     "id": 2202,
     "Key": "isc",
-    "enUS": "ÿc1ID",
+    "enUS": "Scroll of Identify",
     "zhTW": "鑑定卷軸",
     "deDE": "Schriftrolle der Identifikation",
     "esES": "Pergamino de identificación",
@@ -4711,7 +4711,7 @@
   {
     "id": 2207,
     "Key": "vps",
-    "enUS": "Stam",
+    "enUS": "Stamina Potion",
     "zhTW": "精力藥水",
     "deDE": "Ausdauerelixier",
     "esES": "Poción de aguante",
@@ -4728,7 +4728,7 @@
   {
     "id": 2208,
     "Key": "yps",
-    "enUS": "ÿc<Anti",
+    "enUS": "Antidote Potion",
     "zhTW": "解毒藥水",
     "deDE": "Gegengiftelixier",
     "esES": "Poción antídoto",
@@ -4745,7 +4745,7 @@
   {
     "id": 2209,
     "Key": "rvs",
-    "enUS": "•ÿc;35%ÿc0•",
+    "enUS": "Rejuvenation Potion",
     "zhTW": "活力藥水",
     "deDE": "Regenerationstrank",
     "esES": "Poción rejuvenecedora",
@@ -4762,7 +4762,7 @@
   {
     "id": 2210,
     "Key": "rvl",
-    "enUS": "•ÿc;FULLÿc0•",
+    "enUS": "Full Rejuvenation Potion",
     "zhTW": "全效活力藥水",
     "deDE": "starker Regenerationstrank",
     "esES": "Poción rejuvenecedora total",
@@ -4779,7 +4779,7 @@
   {
     "id": 2211,
     "Key": "wms",
-    "enUS": "ÿc9Thaw",
+    "enUS": "Thawing Potion",
     "zhTW": "融冰藥水",
     "deDE": "Auftauelixier",
     "esES": "Poción descongelante",
@@ -4845,23 +4845,6 @@
     "zhCN": "戒指"
   },
   {
-    "id": 2215,
-    "Key": "gld",
-    "enUS": "ÿc9G",
-    "zhTW": "金幣",
-    "deDE": "Gold",
-    "esES": "de oro",
-    "frFR": "or",
-    "itIT": "oro",
-    "koKR": "금화",
-    "plPL": "szt. złota",
-    "esMX": "Oro",
-    "jaJP": "ゴールド",
-    "ptBR": "Ouro",
-    "ruRU": "золотых",
-    "zhCN": "金币"
-  },
-  {
     "id": 2216,
     "Key": "bks",
     "enUS": "Scroll of Inifuss",
@@ -4898,7 +4881,7 @@
   {
     "id": 2218,
     "Key": "aqv",
-    "enUS": "ÿc6A",
+    "enUS": "Arrows",
     "zhTW": "弓矢",
     "deDE": "Pfeile",
     "esES": "[fp]Flechas",
@@ -4932,7 +4915,7 @@
   {
     "id": 2220,
     "Key": "cqv",
-    "enUS": "ÿc6B",
+    "enUS": "Bolts",
     "zhTW": "弩箭",
     "deDE": "Bolzen",
     "esES": "[fp]Saetas",
@@ -4949,7 +4932,7 @@
   {
     "id": 2221,
     "Key": "Key",
-    "enUS": "ÿc4Key",
+    "enUS": "Key",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -4966,7 +4949,7 @@
   {
     "id": 2222,
     "Key": "key",
-    "enUS": "ÿc4Key",
+    "enUS": "Key",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -5136,7 +5119,7 @@
   {
     "id": 2236,
     "Key": "gcv",
-    "enUS": "ÿc;Chipped",
+    "enUS": "Chipped Amethyst",
     "zhTW": "碎裂紫寶石",
     "deDE": "lädierter Amethyst",
     "esES": "Amatista fragmentada",
@@ -5153,7 +5136,7 @@
   {
     "id": 2237,
     "Key": "gfv",
-    "enUS": "ÿc;Flawed",
+    "enUS": "Flawed Amethyst",
     "zhTW": "瑕疵紫寶石",
     "deDE": "fehlerhafter Amethyst",
     "esES": "Amatista estropeada",
@@ -5170,7 +5153,7 @@
   {
     "id": 2238,
     "Key": "gsv",
-    "enUS": "ÿc;Amethyst",
+    "enUS": "Amethyst",
     "zhTW": "紫寶石",
     "deDE": "Amethyst",
     "esES": "Amatista",
@@ -5187,7 +5170,7 @@
   {
     "id": 2239,
     "Key": "gzv",
-    "enUS": "ÿc;•Flawless•",
+    "enUS": "Flawless Amethyst",
     "zhTW": "無瑕紫寶石",
     "deDE": "makelloser Amethyst",
     "esES": "Amatista sin defectos",
@@ -5204,7 +5187,7 @@
   {
     "id": 2240,
     "Key": "gpv",
-    "enUS": "ÿc;••Perfect••",
+    "enUS": "Perfect Amethyst",
     "zhTW": "完美紫寶石",
     "deDE": "perfekter Amethyst",
     "esES": "Amatista perfecta",
@@ -5221,7 +5204,7 @@
   {
     "id": 2241,
     "Key": "gcy",
-    "enUS": "ÿc9Chipped",
+    "enUS": "Chipped Topaz",
     "zhTW": "碎裂黃寶石",
     "deDE": "lädierter Topas",
     "esES": "Topacio fragmentado",
@@ -5238,7 +5221,7 @@
   {
     "id": 2242,
     "Key": "gfy",
-    "enUS": "ÿc9Flawed",
+    "enUS": "Flawed Topaz",
     "zhTW": "瑕疵黃寶石",
     "deDE": "fehlerhafter Topas",
     "esES": "Topacio estropeado",
@@ -5255,7 +5238,7 @@
   {
     "id": 2243,
     "Key": "gsy",
-    "enUS": "ÿc9Topaz",
+    "enUS": "Topaz",
     "zhTW": "黃寶石",
     "deDE": "Topas",
     "esES": "Topacio",
@@ -5272,7 +5255,7 @@
   {
     "id": 2244,
     "Key": "gly",
-    "enUS": "ÿc9•Flawless•",
+    "enUS": "Flawless Topaz",
     "zhTW": "無瑕黃寶石",
     "deDE": "makelloser Topas",
     "esES": "Topacio sin defectos",
@@ -5289,7 +5272,7 @@
   {
     "id": 2245,
     "Key": "gpy",
-    "enUS": "ÿc9••Perfect••",
+    "enUS": "Perfect Topaz",
     "zhTW": "完美黃寶石",
     "deDE": "perfekter Topas",
     "esES": "Topacio perfecto",
@@ -5306,7 +5289,7 @@
   {
     "id": 2246,
     "Key": "gcb",
-    "enUS": "ÿc3Chipped",
+    "enUS": "Chipped Sapphire",
     "zhTW": "碎裂藍寶石",
     "deDE": "lädierter Saphir",
     "esES": "Zafiro fragmentado",
@@ -5323,7 +5306,7 @@
   {
     "id": 2247,
     "Key": "gfb",
-    "enUS": "ÿc3Flawed",
+    "enUS": "Flawed Sapphire",
     "zhTW": "瑕疵藍寶石",
     "deDE": "fehlerhafter Saphir",
     "esES": "Zafiro estropeado",
@@ -5338,26 +5321,9 @@
     "zhCN": "有瑕疵的蓝宝石"
   },
   {
-    "id": 2248,
-    "Key": "gsb",
-    "enUS": "ÿc3Sapphire",
-    "zhTW": "藍寶石",
-    "deDE": "Saphir",
-    "esES": "Zafiro",
-    "frFR": "Saphir",
-    "itIT": "Zaffiro",
-    "koKR": "사파이어",
-    "plPL": "Szafir",
-    "esMX": "[ms]Zafiro",
-    "jaJP": "サファイア",
-    "ptBR": "Safira",
-    "ruRU": "[ms]Сапфир",
-    "zhCN": "蓝宝石"
-  },
-  {
     "id": 2249,
     "Key": "glb",
-    "enUS": "ÿc3•Flawless•",
+    "enUS": "Flawless Sapphire",
     "zhTW": "無暇藍寶石",
     "deDE": "makelloser Saphir",
     "esES": "Zafiro sin defectos",
@@ -5374,7 +5340,7 @@
   {
     "id": 2250,
     "Key": "gpb",
-    "enUS": "ÿc3••Perfect••",
+    "enUS": "Perfect Sapphire",
     "zhTW": "完美藍寶石",
     "deDE": "perfekter Saphir",
     "esES": "Zafiro perfecto",
@@ -5391,7 +5357,7 @@
   {
     "id": 2251,
     "Key": "gcg",
-    "enUS": "ÿc2Chipped",
+    "enUS": "Chipped Emerald",
     "zhTW": "碎裂綠寶石",
     "deDE": "lädierter Smaragd",
     "esES": "Esmeralda fragmentada",
@@ -5408,7 +5374,7 @@
   {
     "id": 2252,
     "Key": "gfg",
-    "enUS": "ÿc2Flawed",
+    "enUS": "Flawed Emerald",
     "zhTW": "瑕疵綠寶石",
     "deDE": "fehlerhafter Smaragd",
     "esES": "Esmeralda estropeada",
@@ -5424,25 +5390,8 @@
   },
   {
     "id": 2253,
-    "Key": "gsg",
-    "enUS": "ÿc2Emerald",
-    "zhTW": "綠寶石",
-    "deDE": "Smaragd",
-    "esES": "Esmeralda",
-    "frFR": "Émeraude",
-    "itIT": "Smeraldo",
-    "koKR": "에메랄드",
-    "plPL": "Szmaragd",
-    "esMX": "[fs]Esmeralda",
-    "jaJP": "エメラルド",
-    "ptBR": "Esmeralda",
-    "ruRU": "[ms]Изумруд",
-    "zhCN": "绿宝石"
-  },
-  {
-    "id": 2254,
     "Key": "glg",
-    "enUS": "ÿc2•Flawless•",
+    "enUS": "Flawless Emerald",
     "zhTW": "無瑕綠寶石",
     "deDE": "makelloser Smaragd",
     "esES": "Esmeralda sin defectos",
@@ -5459,7 +5408,7 @@
   {
     "id": 2255,
     "Key": "gpg",
-    "enUS": "ÿc2••Perfect••",
+    "enUS": "Perfect Emerald",
     "zhTW": "完美綠寶石",
     "deDE": "perfekter Smaragd",
     "esES": "Esmeralda perfecta",
@@ -5476,7 +5425,7 @@
   {
     "id": 2256,
     "Key": "gcr",
-    "enUS": "ÿc1Chipped",
+    "enUS": "Chipped Ruby",
     "zhTW": "碎裂紅寶石",
     "deDE": "lädierter Rubin",
     "esES": "Rubí fragmentado",
@@ -5493,7 +5442,7 @@
   {
     "id": 2257,
     "Key": "gfr",
-    "enUS": "ÿc1Flawed",
+    "enUS": "Flawed Ruby",
     "zhTW": "瑕疵紅寶石",
     "deDE": "fehlerhafter Rubin",
     "esES": "Rubí estropeado",
@@ -5508,26 +5457,9 @@
     "zhCN": "有瑕疵的红宝石"
   },
   {
-    "id": 2258,
-    "Key": "gsr",
-    "enUS": "ÿc1Ruby",
-    "zhTW": "紅寶石",
-    "deDE": "Rubin",
-    "esES": "Rubí",
-    "frFR": "Rubis",
-    "itIT": "Rubino",
-    "koKR": "루비",
-    "plPL": "Rubin",
-    "esMX": "[ms]Rubí",
-    "jaJP": "ルビー",
-    "ptBR": "Rubi",
-    "ruRU": "[ms]Рубин",
-    "zhCN": "红宝石"
-  },
-  {
     "id": 2259,
     "Key": "glr",
-    "enUS": "ÿc1•Flawless•",
+    "enUS": "Flawless Ruby",
     "zhTW": "無瑕紅寶石",
     "deDE": "makelloser Rubin",
     "esES": "Rubí sin defectos",
@@ -5544,7 +5476,7 @@
   {
     "id": 2260,
     "Key": "gpr",
-    "enUS": "ÿc1••Perfect••",
+    "enUS": "Perfect Ruby",
     "zhTW": "完美紅寶石",
     "deDE": "perfekter Rubin",
     "esES": "Rubí perfecto",
@@ -5561,7 +5493,7 @@
   {
     "id": 2261,
     "Key": "gcw",
-    "enUS": "Chipped",
+    "enUS": "Chipped Diamond",
     "zhTW": "碎裂鑽石",
     "deDE": "lädierter Diamant",
     "esES": "Diamante fragmentado",
@@ -5578,7 +5510,7 @@
   {
     "id": 2262,
     "Key": "gfw",
-    "enUS": "Flawed",
+    "enUS": "Flawed Diamond",
     "zhTW": "瑕疵鑽石",
     "deDE": "fehlerhafter Diamant",
     "esES": "Diamante estropeado",
@@ -5593,26 +5525,9 @@
     "zhCN": "有瑕疵的钻石"
   },
   {
-    "id": 2263,
-    "Key": "gsw",
-    "enUS": "Diamond",
-    "zhTW": "鑽石",
-    "deDE": "Diamant",
-    "esES": "Diamante",
-    "frFR": "Diamant",
-    "itIT": "Diamante",
-    "koKR": "다이아몬드",
-    "plPL": "Diament",
-    "esMX": "[ms]Diamante",
-    "jaJP": "ダイアモンド",
-    "ptBR": "Diamante",
-    "ruRU": "[ms]Алмаз",
-    "zhCN": "钻石"
-  },
-  {
     "id": 2264,
     "Key": "glw",
-    "enUS": "•Flawless•",
+    "enUS": "Flawless Diamond",
     "zhTW": "無暇鑽石",
     "deDE": "makelloser Diamant",
     "esES": "Diamante sin defectos",
@@ -5629,7 +5544,7 @@
   {
     "id": 2265,
     "Key": "gpw",
-    "enUS": "••Perfect••",
+    "enUS": "Perfect Diamond",
     "zhTW": "完美鑽石",
     "deDE": "perfekter Diamant",
     "esES": "Diamante perfecto",
@@ -5646,7 +5561,7 @@
   {
     "id": 2266,
     "Key": "hp1",
-    "enUS": "ÿc11ÿc0HP",
+    "enUS": "Minor Healing Potion",
     "zhTW": "弱效生命藥水",
     "deDE": "schwacher Heiltrank",
     "esES": "Poción de salud menor",
@@ -5663,7 +5578,7 @@
   {
     "id": 2267,
     "Key": "hp2",
-    "enUS": "ÿc12ÿc0HP",
+    "enUS": "Light Healing Potion",
     "zhTW": "輕效生命藥水",
     "deDE": "leichter Heiltrank",
     "esES": "Poción de salud ligera",
@@ -5680,7 +5595,7 @@
   {
     "id": 2268,
     "Key": "hp3",
-    "enUS": "ÿc13ÿc0HP",
+    "enUS": "Healing Potion",
     "zhTW": "生命藥水",
     "deDE": "Heiltrank",
     "esES": "Poción de salud",
@@ -5697,7 +5612,7 @@
   {
     "id": 2269,
     "Key": "hp4",
-    "enUS": "ÿc14ÿc0HP",
+    "enUS": "Greater Healing Potion",
     "zhTW": "強效生命藥水",
     "deDE": "guter Heiltrank",
     "esES": "Poción de salud superior",
@@ -5714,7 +5629,7 @@
   {
     "id": 2270,
     "Key": "hp5",
-    "enUS": "ÿc15ÿc0HP",
+    "enUS": "Super Healing Potion",
     "zhTW": "特效生命藥水",
     "deDE": "starker Heiltrank",
     "esES": "Superpoción de salud",
@@ -5731,7 +5646,7 @@
   {
     "id": 2271,
     "Key": "mp1",
-    "enUS": "ÿc31ÿc0MP",
+    "enUS": "Minor Mana Potion",
     "zhTW": "弱效法力藥水",
     "deDE": "schwacher Manatrank",
     "esES": "Poción de maná menor",
@@ -5748,7 +5663,7 @@
   {
     "id": 2272,
     "Key": "mp2",
-    "enUS": "ÿc32ÿc0MP",
+    "enUS": "Light Mana Potion",
     "zhTW": "輕效法力藥水",
     "deDE": "leichter Manatrank",
     "esES": "Poción de maná ligera",
@@ -5765,7 +5680,7 @@
   {
     "id": 2273,
     "Key": "mp3",
-    "enUS": "ÿc33ÿc0MP",
+    "enUS": "Mana Potion",
     "zhTW": "法力藥水",
     "deDE": "Manatrank",
     "esES": "Poción de maná",
@@ -5782,7 +5697,7 @@
   {
     "id": 2274,
     "Key": "mp4",
-    "enUS": "ÿc34ÿc0MP",
+    "enUS": "Greater Mana Potion",
     "zhTW": "強效法力藥水",
     "deDE": "guter Manatrank",
     "esES": "Poción de maná superior",
@@ -5799,7 +5714,7 @@
   {
     "id": 2275,
     "Key": "mp5",
-    "enUS": "ÿc35ÿc0MP",
+    "enUS": "Super Mana Potion",
     "zhTW": "特效法力藥水",
     "deDE": "starker Manatrank",
     "esES": "Superpoción de maná",
@@ -5816,7 +5731,7 @@
   {
     "id": 2277,
     "Key": "skc",
-    "enUS": "ÿc5Chipped",
+    "enUS": "Chipped Skull",
     "zhTW": "碎裂骷髏石",
     "deDE": "lädierter Schädel",
     "esES": "Cráneo fragmentado",
@@ -5833,7 +5748,7 @@
   {
     "id": 2278,
     "Key": "skf",
-    "enUS": "ÿc5Flawed",
+    "enUS": "Flawed Skull",
     "zhTW": "瑕疵骷髏石",
     "deDE": "fehlerhafter Schädel",
     "esES": "Cráneo estropeado",
@@ -5850,7 +5765,7 @@
   {
     "id": 2279,
     "Key": "sku",
-    "enUS": "ÿc5Skull",
+    "enUS": "Skull",
     "zhTW": "骷髏石",
     "deDE": "Schädel",
     "esES": "Cráneo",
@@ -5867,7 +5782,7 @@
   {
     "id": 2280,
     "Key": "skl",
-    "enUS": "ÿc5•Flawless•",
+    "enUS": "Flawless Skull",
     "zhTW": "無暇骷髏石",
     "deDE": "makelloser Schädel",
     "esES": "Cráneo sin defectos",
@@ -5884,7 +5799,7 @@
   {
     "id": 2281,
     "Key": "skz",
-    "enUS": "ÿc5••Perfect••",
+    "enUS": "Perfect Skull",
     "zhTW": "完美骷髏石",
     "deDE": "perfekter Schädel",
     "esES": "Cráneo perfecto",
