@@ -230,7 +230,7 @@ Stormchaser	226	100	1		1		43	35	xrg	Scutum		3	5000	cblu	cblu		invxrgu				dmg-ltn
 Tiamat's Rebuke	227	100	1		1		46	38	xit	Dragon Shield		3	5000	lgry	lgry		invkitu				dmg-cold	150	27	53	dmg-fire		35	95	dmg-ltng		1	120	res-all		25	35	ac%		140	200	gethit-skill	44	5	9	gethit-skill	48	5	7	gethit-skill	62	3	6	dur		40	40														0
 Kerke's Sanctuary	228	100	1		1		52	44	xow	Pavise		3	5000	lgrn	lgrn		invtowu				red-dmg		11	16	red-mag		14	18	regen		15	15	ac%		180	240	dur		100	100	block		30	30	res-all		20	30																						0
 Radimant's Sphere	229	100	1		1		58	50	xts	Ancient Shield		3	5000				invgtsu				dmg-pois	100	204	204	gethit-skill	92	5	5	res-pois		75	75	ac%		160	200	block		20	20	block2		20	20	charged	83	40	6	dur		20	20																		0
-Lidless Wall	230	100	1		1		49	41	xsh	Grim Shield		3	5000	dgld	dgld		invxshu				light		1	1	allskills		1	1	cast2		20	20	mana-kill		3	5	ac%		80	130	enr		10	10	mana%		10	10																						0
+Lidless Wall	230	100	1		1		49	41	xsh	Grim Shield		3	5000	dgld	dgld		invxshu				light		1	1	allskills		1	2	cast2		20	20	mana-kill		3	5	ac%		80	130	enr		10	10	mana%		10	10																						0
 Lance Guard	231	100	1		1		43	35	xpk	Barbed Shield		3	5000				invxpku				hp		50	50	balance2		30	30	dmg-to-mana		15	15	thorns		47	47	ac%		70	120	deadly		20	20																										0
 Venom Grip	232	100	1		1		37	29	xlg	Demonhide Gloves		5	5000	dgrn							res-pois		30	30	res-pois-max		5	5	dmg-pois	100	153	153	crush		5	5	lifesteal		5	5	ac		15	25	ac%		130	160																						0
 Gravepalm	233	100	1		1		39	32	xvg	Sharkskin Gloves		5	5000								enr		10	10	str		10	10	dmg-undead		100	200	att-undead		100	200	ac%		140	180																														0

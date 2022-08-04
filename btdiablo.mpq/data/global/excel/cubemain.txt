@@ -422,7 +422,7 @@ Wand of Life Tap	1		1	100					3	"wand,mag"	voa	hpot					"usetype,mag"				charged
 Staff of Teleportation	1			100					2	"staf,mag"	bgn						"usetype,mag"				charged	100	54	33	1																																																																															0
 	0																																																																																																							0
 TESTING	0																																																																																																							0
-3 Key of Destruction -> Key of Terror	0			100					1	vps							std																													std																													std																													0
+3 Key of Destruction -> Key of Terror	1			100					1	vps							std																													std																													std																													0
 3 Key of Destruction -> Key of Terror	0			100					1	tsc							tds																													tds																													tds																													0
 3 Key of Destruction -> Key of Terror	0			100					1	wms							pk1																													pk1																													pk1																													0
 3 Key of Destruction -> Key of Terror	0			100					2	"wms,qty=2"							pk2																													pk2																													pk2																													0
@@ -430,7 +430,8 @@ TESTING	0																																																																							
 Make Ethereal	0			1					2	"any,mag"	tsc						useitem				ethereal			1	1																																																																															0
 Make Ethereal	0			1					2	"any,rar"	tsc						useitem				ethereal			1	1																																																																															0
 Make Ethereal	0			1					2	"any,set"	tsc						useitem				ethereal			1	1																																																																															0
-Make Ethereal	0			1					2	"any,uni"	tsc						useitem				ethereal			1	1																																																																															0
+Make Ethereal	0			1					2	"armo,uni"	tsc						useitem				ethereal			1	1																																																																															0
+Make Ethereal	0			1					2	"weap,uni"	tsc						useitem				ethereal			1	1																																																																															0
 	0																																																																																																							0
 IMBUES	0																																																																																																							0
 	0																																																																																																							0
@@ -540,7 +541,7 @@ Throwing Javelins	1			100					2	"jave,crf,nos"	lmr						useitem				sock			1	1			
 ENDGAME RECIPES	0																																																																																																							0
 																																																																																																								
 Hellfire Ashes	1			0					2	Hellfire Torch	lmr						tds																																																																																							0
-Elixir = Small Rejuv	1			0					3	hpot	mpot	elx					rvl																																																																																							0
+Elixir = Small Rejuv	1			0					1	elx							rvl																																																																																							0
 Spleen + Jawbone + Quill + Elixir = Magic Find Potion	1			0					4	spe	jaw	qll	elx				mfp																																																																																							0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod TEST	1			0					2	aqv	hsm						useitem				rep-quant		40																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod TEST	1			0					2	cqv	hsm						useitem				rep-quant		40																																																																																	0
@@ -549,7 +550,8 @@ Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	jave	mfp	tds	std	hsm			useitem				rep-quant		40																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"any,mag"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"any,rar"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"any,uni"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"armo,uni"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"weap,uni"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					5	"any,crf"	mfp	tds	std	hsm			useitem				rep-dur		25																																																																																	0
 4 Unique Jewerly = SOH	1			0					4	"jwly,uni,qty=4"							std																																																																																							0
 CHAM RECIPE																																																																																																								0
@@ -744,8 +746,14 @@ Amulet	1			0	16	362	1000		2	"amu,set"	std						useitem			100	corruption2			1001	
 																																																																																																								
 UNIQUE CORRUPTIONS ----------------	0																																																																																																							0
 	0																																																																																																							0
-Unique Corruptor	1			0	18	362	0		2	"any,uni"	std						useitem				corruption2			1	1000																					std																																																										0
-Brick	1			0	16	362	400		2	"any,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Unique Corruptor	1			0	18	362	0		2	"armo,uni"	std						useitem				corruption2			1	1000																					std																																																										0
+Unique Corruptor	1			0	18	362	0		2	"weap,uni"	std						useitem				corruption2			1	1000																					std																																																										0
+Unique Corruptor	1			0	18	362	0		2	"ring,uni"	std						useitem				corruption2			1	1000																					std																																																										0
+Unique Corruptor	1			0	18	362	0		2	"amul,uni"	std						useitem				corruption2			1	1000																					std																																																										0
+Brick	1			0	16	362	400		2	"armo,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Brick	1			0	16	362	400		2	"weap,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Brick	1			0	16	362	400		2	"ring,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Brick	1			0	16	362	400		2	"amul,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 																																																																																																								
 6 Socket Bows	0																																																																																																							0
 1 Socket	1			0	16	362	544		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
