@@ -284,28 +284,28 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - **Unique Charm Corruptions
    - Annihilus Small Charm (0% Chance to Brick)
       - Hellfire Ashes + Anni = Corrupted
-	     - 7MF% 10GF%
+	     - 7% Magic Find + 10% Gold Find
 		 - 5 Faster Hit Recovery + 5 Faster Run/Walk
 		 - 5 Attributes
 		 - 5-10% Increased Attack Speed
 		 - 5-10% Faster Cast Rate
-		 - 15% All Resistance
+		 - 5% All Resistance
 		 - 5% Experience
 		 - 20 Life + 17 Mana
 		 
    - Hellfire Torch Large Charm (0% Chance to Brick)
       - 2 Hellfire Ashes + Torch = Stage 1 | Then repeat = Corrupted
-	     - Amp lvl 22 7%
-         - Lower Res lvl 18 20%
-         - Decrep Lvl 20 15%
-         - Weaken lvl 18 12%
-         - Life Tap lvl 21 7%
-		 - Bone Armor Level 21 15%
-         - Cyclone Armor lvl 21 15%
-         - Static Level 20 20%
-         - Frost Nova Level 24 15%
-         - Armegeddon lvl 50 35%
-         - Hurricane lvl 50 35%
+	     - 7% Chance to Cast Level 22 Amplify Damage When Struck
+		 - 20% Chance to Cast Level 18 Lower Resist When Struck
+		 - 15% Chance to Cast Level 20 Decrepify When Struck
+		 - 12% Chance to Cast Level 18 Weaken When Struck
+		 - 7% Chance to Cast Level 21 Life Tap When Struck
+	     - 15% Chance to Cast Level 21 Bone Armor When Struck
+	     - 15% Chance to Cast Level 21 Cyclone Armor When Struck
+		 - 20% Chance to Cast Level 20 Static Field When Struck
+		 - 15% Chance to Cast Level 24 Frost Nova When Struck
+		 - 35% Chance to Cast Level 50 Armegeddon When Struck
+		 - 35% Chance to Cast Level 50 Hurricane When Struck
 		 - Level 17 Meditation Aura when Equipped
          - Level 10 Vigor Aura When Equipped
          - Level 10 Blessed Aim Aura When Equipped
