@@ -68,15 +68,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 
 # WIP
 - Crafting Buffs
-- Unique Charm Corruptions
 - Additional QOL with stacked items
 
-# Patch Notes XVII
-- Fixes Several Bugs involving Uniques and Sockets
-- Buffed Lidless Wall and Grief
-- Removed Quill, Jawbone, and Spleen from Alkor
-- Alkor now sells MF potion for 1.25M
-- Changed Rejuv Recipe to just be 1 Elixir
+# Patch Notes XVIII
+- Players now spawn with the Horadric Cube
+- Added Unique Charm Corruptions
+- Fixed the "item filter" display thing
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
@@ -87,7 +84,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 3 Additional Shared Stash Tabs
 - Negative 30 all res (Only effects the Player)
 - Negative 199 MF
-- Start with nothing
+- **Start with nothing except Horadric Cube
 - Horadric Cube is now 6x6
 
 ## Characters
@@ -178,7 +175,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Grief [Eth Tir Lo Mal Ral]
    - Removed + Damage
    - Removed Venom
-   - **Added 300-350 Minimum Damage and Maximum Damage 
+   - Added 300-350 Minimum Damage and Maximum Damage 
    
 ## Runes
 - Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
@@ -218,14 +215,14 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Added Hellfire Ashes (Broken down Hellfire Torches) Torch + Larzuk's Forging Hammer 
 - Tome of Town Portal, Identify and keys now stack up to 50
 - All Essences now stack to 50
-- **Lidless Wall now rolls 1-2 Skills
+- Lidless Wall now rolls 1-2 Skills
 
 ## Shop
 - Added Charsi's Malus to Imbue (575k)
 - Added Larzuk's Forging Hammer (2.2 Mil)
 - Added Essences for Gold at Akara (150k B, 325k Y, 750k R, 1.5 Mil G)
 - Added Elixir(7k) ingredient at Alkor
-- **Added MF Potion grants +100% MF for 1 Hour (Effect lost on death or S&E) at Alkor
+- Added MF Potion grants +100% MF for 1 Hour (Effect lost on death or S&E) at Alkor
 - Added BigDinn at Ormus (90k)
    - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
 - Added Hratli's Spiritual Herb (2.25M)
@@ -251,7 +248,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
 - Removed Gem requirements for Rune Upgrading
-- **Elixir = Rejuvination Potion
+- Elixir = Rejuvination Potion
 - Hratli's Spiritual Herb + Arrows or Bolts = Replenish Quantity 
 - Hratli's Spiritual Herb + Magic Find Potion + Hellfire Ashes + SOH
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
@@ -284,6 +281,43 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
       - 5 socket 12%
       - 6 socket 8% 
 
+- **Unique Charm Corruptions
+   - Annihilus Small Charm (0% Chance to Brick)
+      - Hellfire Ashes + Anni = Corrupted
+	     - 7MF% 10GF%
+		 - 5 Faster Hit Recovery + 5 Faster Run/Walk
+		 - 5 Attributes
+		 - 5-10% Increased Attack Speed
+		 - 5-10% Faster Cast Rate
+		 - 15% All Resistance
+		 - 5% Experience
+		 - 20 Life + 17 Mana
+		 
+   - Hellfire Torch Large Charm (0% Chance to Brick)
+      - 2 Hellfire Ashes + Torch = Stage 1 | Then repeat = Corrupted
+	     - Amp lvl 22 7%
+         - Lower Res lvl 18 20%
+         - Decrep Lvl 20 15%
+         - Weaken lvl 18 12%
+         - Life Tap lvl 21 7%
+		 - Bone Armor Level 21 15%
+         - Cyclone Armor lvl 21 15%
+         - Static Level 20 20%
+         - Frost Nova Level 24 15%
+         - Armegeddon lvl 50 35%
+         - Hurricane lvl 50 35%
+		 - Level 17 Meditation Aura when Equipped
+         - Level 10 Vigor Aura When Equipped
+         - Level 10 Blessed Aim Aura When Equipped
+	  
+   - Gheed's Fortune Grand Charm (32.5% Chance to Brick into a random Magic Grand Charm)
+      - Hellfire Ashes + Gheed's = Corrupted
+	     - Adds + 1 to Skill Tree
+		 - 20-40% Gold Find + 5-10% Magic Find + 5% Vendor Prices
+		 - 7% Faster Run/Walk
+		 - 12% Faster Hit Recovery
+		 - 15% All Resistance
+		 
 ## Monsters
 - Mephisto can fly now
 - Summoner has 3x HP and crits 3x as often
@@ -377,7 +411,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Teeth can Pierce and removed Next Hit Delay
 
 ## Test Mode
-**Removed Test Mode
+Removed Test Mode
 - 1 Stamina cubed = 3 SOH
 - 1 TP Scroll = Hellfire Ashes
 - 1 Thawing = 3 Terror Keys
