@@ -781,7 +781,7 @@ Static	1			0	16	362	568		3	Hellfire Torch	"tds,qty=2"						useitem			100	corrupt
 Frost Nova	1			0	16	362	639		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		44	15	24	corruption1			1	1																																																																					0
 Hurricane	1			0	16	362	710		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		250	35	50	corruption1			1	1																																																																					0
 Armageddon	1			0	16	362	781		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		249	35	50	corruption1			1	1																																																																					0
-Meditation	1			0	16	362	852		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	aura		120	17	17	corruption1			1	1																																																																					0
+Prayer	1			0	16	362	852		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	aura		99	31	31	corruption1			1	1																																																																					0
 Blessed Aim	1			0	16	362	923		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	aura		113	10	10	corruption1			1	1																																																																					0
 Vigor	1			0	16	362	1000		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	aura		115	10	10	corruption1			1	1																																																																					0
 	0																																																																																																							0

@@ -409,6 +409,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Static is Always 60%
 - Removed Frozen Orb Cool Down
 - Teeth can Pierce and removed Next Hit Delay
+- Prayer doesnt cost Mana
 
 ## Test Mode
 Removed Test Mode
