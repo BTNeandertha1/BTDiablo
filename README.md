@@ -70,10 +70,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Crafting Buffs
 - Additional QOL with stacked items
 
-# Patch Notes XVIII
-- Players now spawn with the Horadric Cube
-- Added Unique Charm Corruptions
-- Fixed the "item filter" display thing
+# Patch Notes XIX
+- Added and Removed Rare and Magic Affixes
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
@@ -84,7 +82,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 3 Additional Shared Stash Tabs
 - Negative 30 all res (Only effects the Player)
 - Negative 199 MF
-- **Start with nothing except Horadric Cube
+- Start with nothing except Horadric Cube
 - Horadric Cube is now 6x6
 
 ## Characters
@@ -217,6 +215,36 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - All Essences now stack to 50
 - Lidless Wall now rolls 1-2 Skills
 
+## Affixes
+- **Added Rare Affixes
+   - Jewels
+      - 40 Enhanced Damage
+      - 15 Max Damage (Prefix and Suffix)
+      - 20 Mana
+      - 20 Life
+      - 15 All Res
+      - 4-5 Cold min
+      - 15 IAS
+   - Weapons
+      - 300 Enhanced Damage
+   - Boots
+      - 30 Faster Run/Walk + Stamina Drain
+      - 40 Faster Run/Walk
+   - Belts
+      - 100 Life
+   - Shield + Pelts
+      - 60 Life
+   - Gear
+      - 3 Socket Potential
+      - Indestructible 
+- **Removed 
+   - All Items
+      - Stamina
+      - Regen Stamina
+   - Jewels
+      - Defense   
+      - Regen Life
+
 ## Shop
 - Added Charsi's Malus to Imbue (575k)
 - Added Larzuk's Forging Hammer (2.2 Mil)
@@ -253,6 +281,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Hratli's Spiritual Herb + Magic Find Potion + Hellfire Ashes + SOH
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
    - Replenishes Quantity for Any Throwing Weapons
+- **9 Jewels + Charsi's Malus = 1 Rare Jewel
 
 ## Endgame
 - OP Repeatable recipes:
@@ -261,6 +290,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    
 ## Corruptions
 - Corruptions have a 40% Chance to reroll as a random rare and 60% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + SOH)
+   - Amulets, Rings
+      - 1 Socket 100%
    - Belts
       - 1 socket 85%
       - 2 socket 15%
@@ -306,7 +337,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 		 - 15% Chance to Cast Level 24 Frost Nova When Struck
 		 - 35% Chance to Cast Level 50 Armegeddon When Struck
 		 - 35% Chance to Cast Level 50 Hurricane When Struck
-		 - Level 17 Meditation Aura when Equipped
+		 - Level 31 Prayer Aura when Equipped
          - Level 10 Vigor Aura When Equipped
          - Level 10 Blessed Aim Aura When Equipped
 	  
@@ -409,7 +440,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Static is Always 60%
 - Removed Frozen Orb Cool Down
 - Teeth can Pierce and removed Next Hit Delay
-- Prayer doesnt cost Mana
+- **Prayer no longer costs Mana
 
 ## Test Mode
 Removed Test Mode

@@ -470,6 +470,7 @@ Boots Inf	1			100					2	"boot,low"	mls						"usetype,rar"	99																				
 Boots Sup	1			100					2	"boot,hiq,noe"	mls						"usetype,rar"	99																																																																																						0
 Boots Eth	1			100					2	"boot,nor,eth"	mls						"usetype,rar"	99			ethereal	100		1	1																																																																															0
 Boots Eth Sup	1			100					2	"boot,hiq,eth"	mls						"usetype,rar"	99			ethereal	100		1	1																																																																															0
+Jewels	1			100					10	"jew,qty=9"	mls						"usetype,rar"	99																																																																																						0
 	0																																																																																																							0
 SOCKETS	0																																																																																																							0
 	0																																																																																																							0
