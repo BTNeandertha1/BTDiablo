@@ -228,3 +228,5 @@ swapweapons	0	0	0	0	2		SkillNameSwapWeapons	SkillDescSwapWeapons	SkillDescSwapWe
 map	0	0	0	0	2		SkillNameMap	SkillDescMap	SkillDescMap	SkillNameMap																																																																																																											0
 showitems	0	0	0	0	2		SkillNameShowItems	SkillDescShowItems	SkillDescShowItems	SkillNameShowItems																																																																																																											0
 runtoggle	0	0	0	0	2		SkillNameRunToggle	SkillDescRunToggle	SkillDescRunToggle	SkillNameRunToggle																																																																																																											0
+cubeloot	0	0	0	0	2		SkillNameCubeLoot	SkillDescCubeLoot	SkillDescCubeLoot	SkillNameCubeLoot																																																																																																											0
+hammertime	0	0	0	0	32		Skillname371	skillld371	skillld371	skillan371	5																36	StrSkill3		usmc	256	75	StrSkill39		enma	exma																					74	StrSkillDamageToUndead		50																																																									0

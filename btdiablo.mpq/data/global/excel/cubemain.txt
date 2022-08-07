@@ -754,7 +754,7 @@ Unique Corruptor	1			0	18	362	0		2	"armo,uni"	std						useitem				corruption2			
 Unique Corruptor	1			0	18	362	0		2	"weap,uni"	std						useitem				corruption2			1	1000																					std																																																										0
 Unique Corruptor	1			0	18	362	0		2	"ring,uni"	std						useitem				corruption2			1	1000																					std																																																										0
 Unique Corruptor	1			0	18	362	0		2	"amul,uni"	std						useitem				corruption2			1	1000																					std																																																										0
-Brick	1			0	16	362	325		2	Gheed's Fortune	tds						"usetype,mag"	99			corruption2			1001	1001						corruption1			1	1																																																																					ttd
+Brick	1			0	16	362	325		2	Gheed's Fortune	tds						"usetype,mag"	99			corruption2			1001	1001						corruption1			1	1																																																																					0
 Brick	1			0	16	362	400		2	"armo,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 Brick	1			0	16	362	400		2	"weap,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 Brick	1			0	16	362	400		2	"ring,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
@@ -923,3 +923,4 @@ Amulet	1			0	16	362	1000		2	"amu,crf"	std						useitem			100	corruption2			1001	
 2 Socket	1			0	16	362	860		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	940		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 4 Socket	1			0	16	362	1000		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+Hammertime test	0			0					3	weap	tsc	isc					useitem				oskill		371	1	1	light			1	1																																																																										0
