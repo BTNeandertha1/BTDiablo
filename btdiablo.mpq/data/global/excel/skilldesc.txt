@@ -230,3 +230,4 @@ showitems	0	0	0	0	2		SkillNameShowItems	SkillDescShowItems	SkillDescShowItems	Sk
 runtoggle	0	0	0	0	2		SkillNameRunToggle	SkillDescRunToggle	SkillDescRunToggle	SkillNameRunToggle																																																																																																											0
 cubeloot	0	0	0	0	2		SkillNameCubeLoot	SkillDescCubeLoot	SkillDescCubeLoot	SkillNameCubeLoot																																																																																																											0
 hammertime	0	0	0	0	32		Skillname371	skillld371	skillld371	skillan371	5																36	StrSkill3		usmc	256	75	StrSkill39		enma	exma																					74	StrSkillDamageToUndead		50																																																									0
+lssparkdesc	0	0	0	0	2		Skillname372	Runeword22	Runeword22	Runeword22																																																																																																											0
