@@ -419,9 +419,9 @@ Jade	100	1	1	19		14				4	117	res-pois		16	30									cgrn	jewl												0	0
 Triumphant	1	1	1	3		2				4	121	mana-kill		1	1										weap	ring	circ										0	0
 Victorious	100	1	1	17		12				4	121	mana-kill		2	5										weap	circ											0	0
 Aureolin	100	1	1	22		16				4	121	mana-kill		1	3										jewl												0	0
-Mechanist's	100	1	1	10		7				3	122	sock		1	2										weap	shld	helm	tors	circ			thro					0	0
-Artificer's	100	1	1	33		25				2	122	sock	3												weap	shld	helm	tors				thro					0	0
-Jeweler's	100	1		55		47				1	122	sock	4												weap	shld	helm	tors				thro					0	0
+Mechanist's	100	1	1	10		7				3	122	sock		1	2										weap	shld	helm	tors	circ								0	0
+Artificer's	100	1	1	33		25				2	122	sock	3												weap	shld	helm	tors									0	0
+Jeweler's	100	1		55		47				1	122	sock	4												weap	shld	helm	tors									0	0
 Assamic	100	1	1	3		1				2	123	att-demon		25	50	dmg-demon		10	25						weap	circ						wand	orb				0	0
 Arcadian	100	1	1	15		11				2	123	att-demon		51	100	dmg-demon		26	50						weap	circ						wand	orb				0	0
 Unearthly	100	1	1	25		18				1	123	att-demon		101	150	dmg-demon		51	100						weap							wand	orb				0	0

@@ -4,8 +4,8 @@ None	none			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Shield	shie	shld		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	3	40	4	0	3			0							armo	0
 Armor	tors	armo		1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
 Gold	gold	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0								0
-Bow Quiver	bowq	misl	seco	1	1	rarm	larm		bow	1	1	1	1			1	0	1	25	2	40	3	0	3			0							misc	0
-Crossbow Quiver	xboq	misl	seco	1	1	rarm	larm		xbow	0	1	0	1			1	0	1	25	2	40	3	0	3			0							misc	0
+Bow Quiver	bowq	misl	seco	1	1	rarm	larm		bow	1	1	0	1			1	0	1	25	2	40	3	0	3			0							misc	0
+Crossbow Quiver	xboq	misl	seco	1	1	rarm	larm		xbow	1	1	0	1			1	0	1	25	2	40	3	0	3			0							misc	0
 Player Body Part	play	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Herb	herb	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0							misc	0
 Potion	poti	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
@@ -91,18 +91,18 @@ Amazon Javelin	ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	1		am
 Hand to Hand 2	h2h2	h2h		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	2	ass	ass	0							weap	0
 Magic Bow Quiv	mboq	bowq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
 Magic Xbow Quiv	mxbq	xboq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Chipped Gem	gem0	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Flawed Gem	gem1	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Standard Gem	gem2	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Flawless Gem	gem3	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Perfect Gem	gem4	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Amethyst	gema	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Diamond	gemd	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Emerald	geme	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Ruby	gemr	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Sapphire	gems	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Topaz	gemt	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Skull	gemz	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Chipped Gem	gem0	gem	ggm0	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Flawed Gem	gem1	gem	ggm1	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Standard Gem	gem2	gem	ggm2	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Flawless Gem	gem3	gem	ggm3	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Perfect Gem	gem4	gem	ggm4	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Amethyst	gema	gem	ggma	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Diamond	gemd	gem	ggmd	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Emerald	geme	gem	ggme	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Ruby	gemr	gem	ggmr	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Sapphire	gems	gem	ggms	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Topaz	gemt	gem	ggmt	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Skull	gemz	gem	ggmz	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Swords and Knives	blde	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 Spears and Polearms	sppl	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
 Jewelery	jwly	misc		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
@@ -111,3 +111,97 @@ Charms	chms	char	weap	0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0							weap	0
 Gem Stack	gemx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Rune Stack	runx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Organ	orgn	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Stack Chipped Gem	gxm0	gemx	ggm0	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Stack Flawed Gem	gxm1	gemx	ggm1	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Stack Standard Gem	gxm2	gemx	ggm2	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Stack Flawless Gem	gxm3	gemx	ggm3	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Stack Perfect Gem	gxm4	gemx	ggm4	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Stack Amethyst	gxma	gemx	ggma	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Stack Diamond	gxmd	gemx	ggmd	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Stack Emerald	gxme	gemx	ggme	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Stack Ruby	gxmr	gemx	ggmr	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Stack Sapphire	gxms	gemx	ggms	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Stack Topaz	gxmt	gemx	ggmt	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Stack Skull	gxmz	gemx	ggmz	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Gem	ggm			0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Chipped Gem	ggm0	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Flawed Gem	ggm1	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Standard Gem	ggm2	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Flawless Gem	ggm3	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Perfect Gem	ggm4	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Amethyst	ggma	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Diamond	ggmd	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Emerald	ggme	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Ruby	ggmr	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Sapphire	ggms	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Topaz	ggmt	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Skull	ggmz	ggm		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic Rune	rung			0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic C Amethyst	gg0a	ggma	ggm0	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic C Diamond	gg0d	ggmd	ggm0	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic C Emerald	gg0e	ggme	ggm0	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic C Ruby	gg0r	ggmr	ggm0	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic C Sapphire	gg0s	ggms	ggm0	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic C Topaz	gg0t	ggmt	ggm0	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic C Skull	gg0z	ggmz	ggm0	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic W Amethyst	gg1a	ggma	ggm1	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic W Diamond	gg1d	ggmd	ggm1	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic W Emerald	gg1e	ggme	ggm1	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic W Ruby	gg1r	ggmr	ggm1	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic W Sapphire	gg1s	ggms	ggm1	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic W Topaz	gg1t	ggmt	ggm1	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic W Skull	gg1z	ggmz	ggm1	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic S Amethyst	gg2a	ggma	ggm2	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic S Diamond	gg2d	ggmd	ggm2	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic S Emerald	gg2e	ggme	ggm2	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic S Ruby	gg2r	ggmr	ggm2	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic S Sapphire	gg2s	ggms	ggm2	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic S Topaz	gg2t	ggmt	ggm2	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic S Skull	gg2z	ggmz	ggm2	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic F Amethyst	gg3a	ggma	ggm3	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic F Diamond	gg3d	ggmd	ggm3	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic F Emerald	gg3e	ggme	ggm3	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic F Ruby	gg3r	ggmr	ggm3	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic F Sapphire	gg3s	ggms	ggm3	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic F Topaz	gg3t	ggmt	ggm3	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic F Skull	gg3z	ggmz	ggm3	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic P Amethyst	gg4a	ggma	ggm4	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic P Diamond	gg4d	ggmd	ggm4	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic P Emerald	gg4e	ggme	ggm4	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic P Ruby	gg4r	ggmr	ggm4	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic P Sapphire	gg4s	ggms	ggm4	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic P Topaz	gg4t	ggmt	ggm4	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Generic P Skull	gg4z	ggmz	ggm4	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+El Rune Generic	r01g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Eld Rune Generic	r02g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Tir Rune Generic	r03g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Nef Rune Generic	r04g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Eth Rune Generic	r05g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ith Rune Generic	r06g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Tal Rune Generic	r07g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ral Rune Generic	r08g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ort Rune Generic	r09g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Thul Rune Generic	r10g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Amn Rune Generic	r11g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Sol Rune Generic	r12g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Shael Rune Generic	r13g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Dol Rune Generic	r14g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Hel Rune Generic	r15g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Io Rune Generic	r16g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Lum Rune Generic	r17g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ko Rune Generic	r18g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Fal Rune Generic	r19g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Lem Rune Generic	r20g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Pul Rune Generic	r21g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Um Rune Generic	r22g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Mal Rune Generic	r23g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ist Rune Generic	r24g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Gul Rune Generic	r25g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Vex Rune Generic	r26g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ohm Rune Generic	r27g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Lo Rune Generic	r28g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Sur Rune Generic	r29g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ber Rune Generic	r30g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Jah Rune Generic	r31g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Cham Rune Generic	r32g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Zod Rune Generic	r33g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0

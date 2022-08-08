@@ -70,8 +70,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Crafting Buffs
 - Additional QOL with stacked items
 
-# Patch Notes XIX
-- Added and Removed Rare and Magic Affixes
+# Patch Notes XX
+- Added Socket Affix to Throwing Weapons
+- Added Full Rejuvs at Alkor
+- Eth Repair Recipe is Cheaper
+- Charsi's Malus + Quiver = Replenish Quantity
+- All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
@@ -237,6 +241,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Gear
       - 3 Socket Potential
       - Indestructible 
+   - Throwing Weapons
+      - 3 Socket Potential
 - **Removed 
    - All Items
       - Stamina
@@ -249,7 +255,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Added Charsi's Malus to Imbue (575k)
 - Added Larzuk's Forging Hammer (2.2 Mil)
 - Added Essences for Gold at Akara (150k B, 325k Y, 750k R, 1.5 Mil G)
-- Added Elixir(7k) ingredient at Alkor
+- **Added Full Rejuvination Potions at Alkor
 - Added MF Potion grants +100% MF for 1 Hour (Effect lost on death or S&E) at Alkor
 - Added BigDinn at Ormus (90k)
    - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
@@ -278,9 +284,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Removed Gem requirements for Rune Upgrading
 - Elixir = Rejuvination Potion
 - Hratli's Spiritual Herb + Arrows or Bolts = Replenish Quantity 
-- Hratli's Spiritual Herb + Magic Find Potion + Hellfire Ashes + SOH
+- **Hratli's Spiritual Herb + SOH
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
    - Replenishes Quantity for Any Throwing Weapons
+- **Charsi's Malus + Quiver = Replenish Quantity
 - **9 Jewels + Charsi's Malus = 1 Rare Jewel
 
 ## Endgame
