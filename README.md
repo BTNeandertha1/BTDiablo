@@ -53,8 +53,11 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - Warren: Helping in the very beginning with Theory Crafting  
 - Wolfieeiflow: Helping with Spreadsheets and brain power  
 - JeyP: Testing things then walking me through  
-- Kex: First Tester  
+- Kex: First Tester and first to Kill HC Hell Baal
 - Stackit (https://www.nexusmods.com/diablo2resurrected/mods/80) on Nexusmods to use the assets and help with functionality of stacking!
+- G1oomey Various testing and Bug fixes
+- Stucifer "loot filter" display
+- MrBrooksGaming Added UI Controller Support
 
 # Future Ideas
 Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/16) issue.  
