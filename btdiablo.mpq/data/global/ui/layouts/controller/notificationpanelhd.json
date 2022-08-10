@@ -1,0 +1,21 @@
+{
+    "basedOn": "NotificationPanelHD.json",
+    "type": "NotificationPanel", "name": "NotificationPanel",
+    "fields": { 
+        "priority": 9002,
+        "rect": { "x": 0, "y": -500, "width": 1200, "height": 244 },
+    },
+    "children": [
+        {
+            "type": "NineTileImageWidget", "name": "NotificationBorder",
+            "children": [
+                {
+                    "type": "TextBoxWidget", "name": "Prompt",
+                },
+                {
+                    "type": "ButtonWidget", "name": "Confirm",
+                },
+            ]
+        },
+    ]
+}

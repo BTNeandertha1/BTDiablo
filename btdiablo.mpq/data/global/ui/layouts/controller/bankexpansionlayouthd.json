@@ -1,0 +1,69 @@
+{
+    "basedOn": "Controller/BankOriginalLayoutHD.json",
+    "type": "BankPanel", "name": "BankExpansionLayout",
+    "children": [
+        {
+            "type": "ClickCatcherWidget", "name": "click_catcher"
+        },
+        {
+            "type": "ImageWidget", "name": "background",
+            "fields": {
+                "rect": { "x": -2, "y": 100 },
+                "filename": "Controller/Panel/Stash/V2/StashPanelBG"
+            }
+        },
+        {
+            "type": "TextBoxWidget", "name": "gold_max",
+            "fields": {
+                "rect": { "x": 454, "y": 1362, "width": 393, "height": 50 }
+            }
+        },
+        {
+            "type": "TextBoxWidget", "name": "gold_amount",
+            "fields": {
+                "rect": { "x": 542, "y": 1256, "width": 270, "height": 57 }
+                ,"style": "$StyleGoldAmount"
+            }
+        },
+        {
+            "type": "ButtonWidget", "name": "gold_withdraw",
+            "fields": {
+                "rect": { "x": 493, "y": 1260, "width": 317, "height": 46 },
+                "focusIndicatorFilename": "Controller/HoverImages/GoldButton_Hover",
+                "focusIndicatorOffset": { "x": 0, "y": 0 }
+            }
+        },
+        {
+            "type": "InventoryGridWidget", "name": "grid",
+            "fields": {
+                "rect": { "x": 162, "y": 159 },
+                "cellCount": { "x": 10, "y": 10 }
+            }
+        },
+        {
+            "type": "TabBarWidget", "name": "BankTabs",
+            "fields": {
+                "rect": { "x": 150, "y": 35 },
+                "tabCount": 7,
+                "filename": "Controller/Panel/Stash/V2/Stash_Tabs_Small",
+                "inactiveFrames": [ 0, 0, 0, 0, 0, 0 ],
+                "activeFrames": [ 1, 1, 1, 1, 1, 1, 1],
+                "disabledFrames": [-1, 0, 0, 0, 0, 0, 0],
+                "textStrings": [ "@personal", "@shared", "@shared", "@shared", "@shared", "@shared", "@shared"],
+                "textStyle": { "pointSize": "$SmallPanelFontSize" },
+                "focusIndicatorFilename": "Controller/HoverImages/StashTab_Hover",
+                "focusIndicatorOffset": { "x": 0, "y": -6 },
+                "activeTextColor": "$TabsActiveTextColor",
+                "inactiveTextColor": "$TabsInactiveTextColor",
+                "tabSize": { "x": 142, "y": 75 },
+                "tabPadding": "$PanelTabPadding",
+                "onSwitchTabMessage": "BankPanelMessage:SelectTab",
+                "tabLeftIndicatorPosition": "$HalfPanelLeftTabButtonPromptPosition",
+                "tabRightIndicatorPosition": "$HalfPanelRightTabButtonPromptPosition",
+                "focusOnMouseOver": true
+            }
+        }
+        
+        
+    ]
+}

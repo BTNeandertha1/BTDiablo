@@ -1,0 +1,65 @@
+{
+    "basedOn": "BankOriginalLayoutHD.json",
+    "type": "BankPanel", "name": "BankOriginalLayout",
+    "fields": {
+        "rect": "$ConsoleLeftPanelRect",
+        "defaultWidget": "grid",
+    },
+    "children": [
+        {
+            "type": "ClickCatcherWidget", "name": "click_catcher",
+        },
+        {
+            "type": "ImageWidget", "name": "background",
+            "fields": {
+                "rect": { "x": 114, "y": 0 },
+                "filename": "Controller/Panel/Stash/V2/Classic_StashPanelBG",
+            },
+        },
+        {
+            "type": "TextBoxWidget", "name": "gold_max",
+            "fields": {
+                "rect": { "x": 458, "y": 1336, "width": 393, "height": 50 },
+                "style": {
+                    "fontColor": "$FontColorLightGray",
+                    "pointSize": "$SmallFontSize",
+                    "spacing": "$ReducedSpacing",
+                    "alignment": { "v": "center", "h": "center" }
+                }
+            },
+        },
+        {
+            "type": "TextBoxWidget", "name": "gold_amount",
+            "fields": {
+                "rect": { "x": 550, "y": 1224, "width": 259, "height": 57 },
+                "style": "$StyleGoldAmount",
+            },
+        },
+        {
+            "type": "ButtonWidget", "name": "gold_withdraw",
+            "fields": {
+                "rect": { "x": 500, "y": 1230, "width":314, "height": 47 },
+                "filename": "Controller/Panel/Stash/V2/Button_Small",
+                "focusIndicatorFilename": "Controller/HoverImages/GoldButton_Hover",
+                "focusIndicatorOffset": { "x": 0, "y": 0 },
+                "navigation": {
+                    "right": { "panelBoundary": true },
+                    "up": { "name": "grid" },
+                },
+                "buttonLegendAction": "select",
+                "buttonLegendString": "@strGoldWithdraw",
+            },
+        },
+        {
+            "type": "InventoryGridWidget", "name": "grid",
+            "fields": {
+                "rect": { "x": 362, "y": 606 },
+                "gemSocketFilename": "PANEL/gemsocket",
+                "navigation": {
+                    "right": { "panelBoundary": true },
+                    "down": { "name": "gold_withdraw" },
+                },
+            },
+        },
+    ]
+}
