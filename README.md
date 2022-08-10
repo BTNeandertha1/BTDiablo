@@ -71,7 +71,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Additional QOL with stacked items
 
 # Patch Notes XX
-- Added Socket Affix to Throwing Weapons
+- Adjusted Item Level Socket Requirements for Belts Boots Gloves
 - Added Full Rejuvs at Alkor
 - Eth Repair Recipe is Cheaper
 - Charsi's Malus + Quiver = Replenish Quantity
@@ -199,10 +199,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Amulets and Rings can now have 1 socket
    - socketed items get Armor/Helm modifier
 - Belts can now have up to 2 sockets
-   - ilvl 1-48 = 0 Sockets, 49-84 = 1 Socket, 85+ = 2 Sockets 
+   - ilvl 1 = 1 Sockets, 49+ = 2 Sockets 
    - socketed items get Armor/Helm modifier
 - Gloves and Boots can now have up to 3 Sockets
-   - ilvl 1-48 = 0 Sockets, 49-84 = 1 Socket, 85+ = 3 Sockets
+   - ilvl 1 = 1 Sockets, 49+ = 2 Socket, 75+ = 3 Sockets
    - socketed items in Gloves get Weapon modifier
    - socketed items in Boots get Armor/Helm modifier
 - Throwing Weapons have up to 4 sockets

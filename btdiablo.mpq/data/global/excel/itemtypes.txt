@@ -14,11 +14,11 @@ Elixir	elix	misc		0	0					0	0	0	0			0	1	0	25	0	40	0	0	3			0							misc	0
 Amulet	amul	misc		0	1	neck	neck			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			3	invamu1	invamu2	invamu3				misc	0
 Charm	char	misc		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
 Not Used				0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Boots	boot	armo		1	1	feet	feet			0	0	0	0		1	0	0	0	48	1	84	3	0	3			0							armo	0
-Gloves	glov	armo		1	1	glov	glov			0	0	0	0		1	0	0	0	48	1	84	3	0	3			0							armo	0
+Boots	boot	armo		1	1	feet	feet			0	0	0	0		1	0	0	1	48	2	74	3	0	3			0							armo	0
+Gloves	glov	armo		1	1	glov	glov			0	0	0	0		1	0	0	1	48	2	74	3	0	3			0							armo	0
 Not Used				0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Book	book	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Belt	belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	0	48	1	84	2	0	3			0							armo	0
+Belt	belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	1	48	2	74	2	0	3			0							armo	0
 Gem	gem	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Torch	torc	misc		0	1					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Scroll	scro	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
