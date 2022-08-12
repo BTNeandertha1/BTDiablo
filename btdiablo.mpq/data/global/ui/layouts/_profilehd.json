@@ -92,6 +92,7 @@
     "TooltipFontSize": 36,
     "CinematicsFontSize": 32,
     "AddFriendModalFontSize": 26, // Usage: AddFriendModal needs to be the same size in all profiles to support IME
+    "GameNameFilterFontSize": 28, // Usage: it needs to be the same size in all profiles
 
     // K&M LV-mode in-game panels are just scaled up, thus we need
     // versions of fonts which can be used in panels.
@@ -301,9 +302,9 @@
         "TemperedColor": "$FontColorDarkGreen",
         "MagicColor": "$FontColorBlue",
         "SetColor": "$FontColorGreen",
-        "UniqueColor": "$FontColorBetterGold",
-        "SocketedColor": "$FontColorAqua",
-        "EtherealColor": "$FontColorGrey",
+        "UniqueColor": "$FontColorGoldYellow",
+        "EtherealColor": "$FontColorAqua",
+        "SocketedColor": "$FontColorGrey",
         "HealthPotionColor": "$FontColorRed",
         "ManaPotionColor": "$FontColorBlue",
         "RejuvPotionColor": "$FontColorLightPurple",
@@ -433,7 +434,7 @@
             "shadowColor": { "r": 0, "g": 0, "b": 0, "a": 200 },
             "offset": { "x": 4, "y": 4 },
         },
-        "pointSize": "$FontSize",
+        "pointSize": "$MediumFontSize",
         "alignment": { "h": "right" },
     },
     "SkillHotkeyTextAltStyle": {
@@ -486,6 +487,7 @@
 
     // Account Linking
     "AccountLinkingTileRect": { "x": -875, "y": 561, "width": 1750, "height": 930 },
+    "AccountLinkingActiveUserRect": { "x": 50 , "y": 10, "width": 1650, "height": 160 },
     "AccountLinkingDescriptionRect": { "x": 50 , "y": 180, "width": 1650, "height": 160 },
     "AccountLinkingUserCodeRect": { "x": 50 , "y": 390, "width": 1650, "height": 215 },
     "AccountLinkingUrlRect": { "x": 50 , "y": 625, "width": 1650, "height": 110 },
@@ -515,8 +517,9 @@
     "TutorialTooltipConsoleTabsRect": { "x": -675, "y": 751, "width": 900, "height": 700 },
     "TutorialTooltipConsoleOnlineRect": { "x": -1375, "y": 451, "width": 900, "height": 1150 },
     "TutorialTooltipConsoleOfflineRect": { "x": -1375, "y": 451, "width": 900, "height": 1150 },
-    "TutorialTooltipConsoleSoloRect": { "x": 275, "y": 451, "width": 900, "height": 700 },
-    "TutorialTooltipConsoleMultiRect": { "x": -1375, "y": 451, "width": 900, "height": 700 },
+    "TutorialTooltipConsoleSoloRect": { "x": -200, "y": 451, "width": 900, "height": 700 },
+    "TutorialTooltipConsoleGameCreatorRect": { "x": -1600, "y": 451, "width": 900, "height": 700 },
+    "TutorialTooltipConsoleGameListRect": { "x": -700, "y": 451, "width": 900, "height": 700 },
 
     "TooltipConfirmSmall": { "x": 200, "y": 250 },
     "TooltipDismissSmall": { "x": 200, "y": 400 },
@@ -540,4 +543,8 @@
     "JoinGameNarrowRect": { "x": 455, "y": 80 },
     "LadderRect": { "x": 1210, "y": 105 },
     "LadderNarrowRect": { "x": 840, "y": 80 },
+
+    // Join game tweaks.
+    "JoinGamePlayerEntryHeight": 100,
+    "JoinGamePlayerNameHeight": 60
 }
