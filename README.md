@@ -67,11 +67,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 - Add Unique Jewels?
-- Fix Jewel Affix Pool
 
 # WIP
 - Crafting Buffs
-- Additional QOL with stacked items
 
 # Patch Notes XX
 - Adjusted Item Level Socket Requirements for Belts Boots Gloves
@@ -221,6 +219,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Tome of Town Portal, Identify and keys now stack up to 50
 - All Essences now stack to 50
 - Lidless Wall now rolls 1-2 Skills
+- **All Weapons have 50% increased base damage values**
+   - **Exceptional and Elite "BOWS" (NOT Crossbows) have 15% increased Maximum Base Damage instead**
 
 ## Affixes
 - **Added Rare Affixes
@@ -451,6 +451,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Removed Frozen Orb Cool Down
 - Teeth can Pierce and removed Next Hit Delay
 - **Prayer no longer costs Mana
+- **Multiple Shot Range decreased by ~50%
+- **Guided Arrow Skill Pierces
 
 ## Test Mode
 Removed Test Mode
