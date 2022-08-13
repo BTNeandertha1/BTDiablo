@@ -55,7 +55,7 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - JeyP: Testing things then walking me through  
 - Kex: First Tester and first to Kill HC Hell Baal
 - Stackit (https://www.nexusmods.com/diablo2resurrected/mods/80) on Nexusmods to use the assets and help with functionality of stacking!
-- G1oomey Various testing and Bug fixes
+- G1oomey Various testing, Bug Fixes and Help
 - Stucifer "loot filter" display
 - MrBrooksGaming Added UI Controller Support
 
@@ -285,7 +285,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
 - Removed Gem requirements for Rune Upgrading
-- Elixir = Rejuvination Potion
 - Hratli's Spiritual Herb + Arrows or Bolts = Replenish Quantity 
 - **Hratli's Spiritual Herb + SOH
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
