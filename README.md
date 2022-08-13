@@ -71,11 +71,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 # WIP
 - Crafting Buffs
 
-# Patch Notes XX
-- Adjusted Item Level Socket Requirements for Belts Boots Gloves
-- Added Full Rejuvs at Alkor
-- Eth Repair Recipe is Cheaper
-- Charsi's Malus + Quiver = Replenish Quantity
+# Patch Notes XXII
+- 99 Stacked Flawless Gems + Stamina Potion = 33 Perfect Gems of the same type
+- Changed some item descriptions
+- Added Neverfrost (Unique Jewel)
+- Buffed Attack build base damage ~50%
+- Increased Density of Mausoleum + Crypt + Cave Level 1 and 2 ~50%
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
@@ -221,9 +222,13 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Lidless Wall now rolls 1-2 Skills
 - **All Weapons have 50% increased base damage values**
    - **Exceptional and Elite "BOWS" (NOT Crossbows) have 15% increased Maximum Base Damage instead**
+- **Added Neverfrost (Unique Jewel) [qlvl 78]
+   - 1-5 Faster Cast Rate
+   - 1-5 Increased Attack Speed
+   - Cannot Be frozen
 
 ## Affixes
-- **Added Rare Affixes
+- Added Rare Affixes
    - Jewels
       - 40 Enhanced Damage
       - 15 Max Damage (Prefix and Suffix)
@@ -246,7 +251,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
       - Indestructible 
    - Throwing Weapons
       - 3 Socket Potential
-- **Removed 
+- Removed 
    - All Items
       - Stamina
       - Regen Stamina
@@ -258,7 +263,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Added Charsi's Malus to Imbue (575k)
 - Added Larzuk's Forging Hammer (2.2 Mil)
 - Added Essences for Gold at Akara (150k B, 325k Y, 750k R, 1.5 Mil G)
-- **Added Full Rejuvination Potions at Alkor
+- Added Full Rejuvination Potions at Alkor
 - Added MF Potion grants +100% MF for 1 Hour (Effect lost on death or S&E) at Alkor
 - Added BigDinn at Ormus (90k)
    - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
@@ -286,11 +291,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
 - Removed Gem requirements for Rune Upgrading
 - Hratli's Spiritual Herb + Arrows or Bolts = Replenish Quantity 
-- **Hratli's Spiritual Herb + SOH
+- Hratli's Spiritual Herb + SOH
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
    - Replenishes Quantity for Any Throwing Weapons
-- **Charsi's Malus + Quiver = Replenish Quantity
-- **9 Jewels + Charsi's Malus = 1 Rare Jewel
+- Charsi's Malus + Quiver = Replenish Quantity
+- 9 Jewels + Charsi's Malus = 1 Rare Jewel
+- **99 Stacked Flawless Gems + Stamina Potion = 33 Perfect Gems of the same type**
 
 ## Endgame
 - OP Repeatable recipes:
@@ -400,7 +406,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 (Level changes are for Insanity Only)
 
 ### Act 1
-- 85 Cave Level (Both Levels)
+- 85 Cave Level (Both Levels) Increased Density by ~25%
+- 85 Mausoleum Increased Density by ~25%
+- 85 Crypt Increased Density by ~25%
 - 85 Hole Level (Both Levels)
 - 85 Tristram
 - 81 Tower 1	

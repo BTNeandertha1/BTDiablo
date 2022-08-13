@@ -685,7 +685,15 @@ Throwing Javelins	1			100					2	"jave,crf,nos"	lmr						useitem				sock			1	1			
 ENDGAME RECIPES	0																																																																																																							0
 																																																																																																								0
 Hellfire Ashes	1			0					2	Hellfire Torch	lmr						tds																																																																																							0
-Elixir = Small Rejuv	0			0					1	elx							rvl																																																																																							0
+Break down Anni to SOH	1			0					2	Annihilus	mls						std																																																																																							0
+Break down Gheeds to MF potion	1			0					2	Gheed's Fortune	mls						mfp																													mfp																																																										0
+Generic F Amethyst	1			0	18	70	99		2	gg3a	vps						"1pv,qty=33"																																																																																							0
+Generic F Diamond	1			0	18	70	99		2	gg3d	vps						"1pw,qty=33"																																																																																							0
+Generic F Emerald	1			0	18	70	99		2	gg3e	vps						"1pg,qty=33"																																																																																							0
+Generic F Ruby	1pr			0	18	70	99		2	gg3r	vps						"1pr,qty=33"																																																																																							0
+Generic F Sapphire	1			0	18	70	99		2	gg3s	vps						"1pb,qty=33"																																																																																							0
+Generic F Topaz	1			0	18	70	99		2	gg3t	vps						"1py,qty=33"																																																																																							0
+Generic F Skull	1			0	18	70	99		2	gg3z	vps						"1kz,qty=33"																																																																																							0
 Spleen + Jawbone + Quill + Elixir = Magic Find Potion	0			0					4	spe	jaw	qll	elx				mfp																																																																																							0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod TEST	1			0					2	aqv	mls						useitem				rep-quant		40																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod TEST	1			0					2	cqv	mls						useitem				rep-quant		40																																																																																	0
