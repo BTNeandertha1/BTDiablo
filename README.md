@@ -68,6 +68,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Add more evil urns?
 
 # Patch Notes XXIII
+- Fixed a bug where the Horadric Cube inventory was too big
+- Optimized Town destinations for Act 2-5
 - Buffed Crafting greatly
 - Buffed Many Uniques and Set Items
 - Nerfed Rune Exp but Decreased Death Penalty to 10% all difficulties
@@ -221,7 +223,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 1-5 Faster Cast Rate
    - 1-5 Increased Attack Speed
    - Cannot Be frozen
-- ** Ogre Axe Now gets up to 5 Sockets
+- **Ogre Axe Now gets up to 5 Sockets
    
 ## UNIQUES
 - Cranium Basher
@@ -396,6 +398,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Ignore Target's Defense
    - 3 to Blade Shield
    - Removed Frost Nova and Freeze Target
+- Arkaine's Valor
+   - Always 2 Skills
+   - -20% Requirements
 
 ## SETS
 - BK Sacred Charge
@@ -455,7 +460,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
       - 3 Socket Potential
    - Rings
       - 2 Mana After Each Kill
-	  
 - Removed 
    - All Items
       - Stamina
@@ -665,7 +669,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 85 Tower 5
 - 83 Cow Level and increased density an additional 10% (was 81)
 
-### Act 2 
+### Act 2
+- **Town spawn and Town Portal locations changed 
 - 85 Sewers (All Levels)
 - 85 Halls of the Dead (All Levels)
 - 85 Maggot Lair (All Levels)
@@ -673,6 +678,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 85 Tombs
 
 ### Act 3
+- **Town Spawn location changed
 - 85 Great Marsh
 - 85 Flayer Dungeon (All Levels)
 - 85 Spider Cavern
@@ -682,12 +688,14 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Added Aura to Wyand Voidbringer
 
 ### Act 4
+- **Stash and Deckard Cain locations Changed
 - 84 Outer Steps 
 - 85 Plains of Despair
 - 85 City of the Damned
 - Chaos Seal Bosses Same TC as Baal Waves
 
 ### Act 5
+- **Stash and Deckard Cain locations Changed
 - 85 All Zones
 - Madawc is always Aura Enchanted
 - 87 Uber Areas (Forgotten Sands, Furnace of Pain and Matron’s Den) Also greatly increased Elite packs and density
@@ -704,9 +712,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Static is Always 60%
 - Removed Frozen Orb Cool Down
 - Teeth can Pierce and removed Next Hit Delay
-- **Prayer no longer costs Mana
-- **Multiple Shot Range decreased by ~50%
-- **Guided Arrow Skill Pierces
+- Prayer no longer costs Mana
+- Multiple Shot Range decreased by ~50%
+- Guided Arrow Skill Pierces
 
 ## Test Mode
 Removed Test Mode
