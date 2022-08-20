@@ -58,14 +58,14 @@ Lem Rune	r20L	18	r20	gold%		75	75									gold%		50	50									gold%		50	50					
 Pul Rune	r21L	18	r21	att-demon		100	100	dmg-demon		75	75					ac%		30	30									ac%		30	30								0
 Um Rune	r22L	18	r22	openwounds		25	25									res-all		15	15									res-all		22	22								0
 Mal Rune	r23L	18	r23	noheal		1	1									red-mag		7	7									red-mag		7	7								0
-Ist Rune	r24L	18	r24	mag%		30	30	addxp		3	3					mag%		25	25	addxp		3	3					mag%		25	25	addxp		3	3				0
-Gul Rune	r25L	18	r25	att%		20	20	addxp		3	3					res-pois-max		5	5	addxp		3	3					res-pois-max		5	5	addxp		3	3				0
-Vex Rune	r26L	18	r26	manasteal		7	7	addxp		3	3					res-fire-max		5	5	addxp		3	3					res-fire-max		5	5	addxp		3	3				0
-Ohm Rune	r27L	18	r27	dmg%		50	50	addxp		3	3					res-cold-max		5	5	addxp		3	3					res-cold-max		5	5	addxp		3	3				0
-Lo Rune	r28L	18	r28	deadly		20	20	addxp		3	3					res-ltng-max		5	5	addxp		3	3					res-ltng-max		5	5	addxp		3	3				0
-Sur Rune	r29L	18	r29	stupidity		1	1	addxp		3	3					mana%		5	5	addxp		3	3					mana		50	50	addxp		3	3				0
-Ber Rune	r30L	18	r30	crush		20	20	addxp		3	3					red-dmg%		8	8	addxp		3	3					red-dmg%		8	8	addxp		3	3				0
-Jah Rune	r31L	18	r31	ignore-ac		1	1	addxp		3	3					hp%		5	5	addxp		3	3					hp		50	50	addxp		3	3				0
-Cham Rune	r32L	18	r32	freeze		3	3	addxp		3	3					res-curse		34	34	addxp		3	3					res-curse		34	34	addxp		3	3				0
-Zod Rune	r33L	18	r33	indestruct		1	1	allskills		1	1	addxp		3	3	indestruct		1	1	allskills		1	1	addxp		3	3	indestruct		1	1	allskills		1	1	addxp		3	3
+Ist Rune	r24L	18	r24	mag%		30	30	addxp		1	1					mag%		25	25	addxp		1	1					mag%		25	25	addxp		1	1				0
+Gul Rune	r25L	18	r25	att%		20	20	addxp		1	1					res-pois-max		5	5	addxp		1	1					res-pois-max		5	5	addxp		1	1				0
+Vex Rune	r26L	18	r26	manasteal		7	7	addxp		1	1					res-fire-max		5	5	addxp		1	1					res-fire-max		5	5	addxp		1	1				0
+Ohm Rune	r27L	18	r27	dmg%		50	50	addxp		1	1					res-cold-max		5	5	addxp		1	1					res-cold-max		5	5	addxp		1	1				0
+Lo Rune	r28L	18	r28	deadly		20	20	addxp		1	1					res-ltng-max		5	5	addxp		1	1					res-ltng-max		5	5	addxp		1	1				0
+Sur Rune	r29L	18	r29	stupidity		1	1	addxp		1	1					mana%		5	5	addxp		1	1					mana		50	50	addxp		1	1				0
+Ber Rune	r30L	18	r30	crush		20	20	addxp		1	1					red-dmg%		8	8	addxp		1	1					red-dmg%		8	8	addxp		1	1				0
+Jah Rune	r31L	18	r31	ignore-ac		1	1	addxp		1	1					hp%		5	5	addxp		1	1					hp		50	50	addxp		1	1				0
+Cham Rune	r32L	18	r32	freeze		3	3	addxp		1	1					res-curse		34	34	addxp		1	1					res-curse		34	34	addxp		1	1				0
+Zod Rune	r33L	18	r33	indestruct		1	1	allskills		1	1	addxp		1	1	indestruct		1	1	allskills		1	1	addxp		1	1	indestruct		1	1	allskills		1	1	addxp		1	1
 																																							0

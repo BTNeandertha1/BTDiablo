@@ -66,17 +66,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Add a "Challenge area"
 - Make wanderer do something?
 - Add more evil urns?
-- Add Unique Jewels?
 
-# WIP
-- Crafting Buffs
-
-# Patch Notes XXII
-- 99 Stacked Flawless Gems + Stamina Potion = 33 Perfect Gems of the same type
-- Changed some item descriptions
-- Added Neverfrost (Unique Jewel)
-- Buffed Attack build base damage ~50%
-- Increased Density of Mausoleum + Crypt + Cave Level 1 and 2 ~50%
+# Patch Notes XXIII
+- Buffed Crafting greatly
+- Buffed Many Uniques and Set Items
+- Nerfed Rune Exp but Decreased Death Penalty to 10% all difficulties
+- Amazon's Bow Skills no longer consume Arrow Quantity
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
@@ -183,7 +178,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    
 ## Runes
 - Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
-- Ist and higher Runes now all have 3% Experience Gained
+- Ist and higher Runes now all have 1% Experience Gained
 - Cham Rune
    - Changed Armor and Helmet to 34% Reduced Curse Duration (was Cannot Be Frozen)
 - Zod
@@ -220,12 +215,219 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Tome of Town Portal, Identify and keys now stack up to 50
 - All Essences now stack to 50
 - Lidless Wall now rolls 1-2 Skills
-- **All Weapons have 50% increased base damage values**
-   - **Exceptional and Elite "BOWS" (NOT Crossbows) have 15% increased Maximum Base Damage instead**
-- **Added Neverfrost (Unique Jewel) [qlvl 78]
+- All Weapons have 50% increased base damage values**
+   - Exceptional and Elite "BOWS" (NOT Crossbows) have 15% increased Maximum Base Damage instead**
+- Added Neverfrost (Unique Jewel) [qlvl 78]
    - 1-5 Faster Cast Rate
    - 1-5 Increased Attack Speed
    - Cannot Be frozen
+- ** Ogre Axe Now gets up to 5 Sockets
+   
+## UNIQUES
+- Cranium Basher
+   - 60 IAS
+   - 10% Level 3 Amp
+   - Repair Durability
+- Mang's Song Lesson
+   - 85 FCR
+   - 6 All Skills
+   - 20-25 Cold Fire Light Pierce
+   - 40-50 All Res
+   - 30 Regen Mana
+   - 40% Increased Maximum Mana
+- Executioner's Justice
+   - Decrep on striking instead
+   - 50% Crushing Blow
+   - 50% Deadly Strike
+- Steel Carapace
+   - 30-40% Damage Reduction
+   - 2 sockets
+- Templar's Might
+   - 4-6 offensive Auras
+   - 20-30 Strength
+   - 20-30 Vitality
+- Tyreal's Might
+   - 1 to Teleport
+   - 45% Faster Run/Walk
+   - 200-250 Damage to Demons
+   - 200-250 Damage to Undead
+   - Removed Slain Monsters Rest in Peace
+- Shadow Dancer's
+   - 1-2 Traps, Shadow Disciplins, Martial Arts
+   - 40 Faster Run/Walk
+- Waterwalk
+   - 40 Faster Run/Walk
+- Ghostflame
+   - 4 Fire Skills
+   - 30 FCR
+   - 5-10 Fire Pierce
+   - 5-10 Fire Skill Damage
+   - 5 Maximum Fire Res
+   - Removed
+      - Ignore Targets Defense
+	  - Enhanced Damage
+	  - Mana Steal
+- Steelrends
+   - 70-100 ED
+   - 15-20 Deadly Strike
+   - 15 Crushing blow
+   - -30 Requirements
+- Earth Shifter
+   - 60 Faster Cast Rate
+   - 60 Increased Attack Speed
+   - Level 28 Fissure
+- Schaefer's Hammer
+   - Level 20 Static Field
+   - 200-230 ED
+   - 60% IAS
+   - Repairs Durability
+- Stone Crusher
+   - 20% IAS
+- Steel Shade
+   - Replenish Life 30-50
+   - 2 Skills 
+   - 20% FBR
+   - 20% Increased Block
+- Gargoyle's Bite
+   - -20-25% Poison Pierce
+   - 180-330 ED
+   - 3-4 Plauge Jav + 3-4 Poison Jav
+- Stormlash
+   - Level 20 Static Field
+- The Oculus 
+   - 5% Chance to cast Teleport
+- Stormspire
+   - 8-10 Lifesteal
+   - 30% Level 10 Lower Resist on striking
+   - 200-300 ED
+   - 20 Strength
+   - 150% Bonus Attack Rating
+- Demonhorn's Edge
+   - 3-4 Warcries, Combat Skills, Masteries
+   - 20 Attack Speed
+   - 100-150 Damage to Demons
+- Wolfhowl
+   - 3-6 Fury
+- Halaberd's Reign
+   - 2-3 Barbarian Skills
+   - 15 Life Per Kill instead of Rep Life
+   - 10-15% Damage Reduction
+- Astreon's Iron Ward
+   - 3-4 Combat Skills
+- Head Hunter's Glory
+   - 15-25 All res instead
+   - 10-15 Life Per Kill
+   - 25 Faster Run/Walk
+- Medusa's Gaze
+   - 20% Level 10 Decrep When Struck
+   - 40% Slow Targets
+- Spirit Ward
+   - 2 to class skill
+   - 35% CTC Fade when Struck
+   - -30 Requirements
+- Steel Pillar
+   - Repair Durability
+- Ondal's Wisdom
+   - 85% Faster Cast Rate
+   - 50% Experience Gained
+- Azurewrath
+   - Holy Freeze instead
+   - 2 Skills
+- Grandfather
+   - 200-300
+   - Repairs Durability
+- Frostwind
+   - 1 to Cold Mastery
+- Doombringer
+   - Repair Durability
+- Boneshade
+   - 30 FCR
+- Darkforce Spawn
+   - 2-3 Curses, Summon, Bone Skills
+   - +5 to Bone Spear, Teeth, Bone Spirit, Bone Armor
+   - 50% Pierce
+- Boneflame
+   - 50% Pierce
+   - 3-5 Vigor 
+   - Remove Run/Walk
+- Homunculus
+   - 50% Pierce
+- Blood Raven's Charge
+   - 3-5 Bow Skills
+   - 30 Increased Attack Speed
+- Dragon Scale
+   - Fire Mastry
+   - 30 FCR
+- Alma Negra
+   - Level 1 Salvation
+   - 100-300% ED 
+   - 75-150% Attack Rating
+- Carrion Wind
+   - 100 Poison Length Reduction
+   - Poison Nova on Striking
+   - 150-250 Attack Rating
+   - 40% Damage taken goes to mana
+- Nature's Peace
+   - 5 to Oak
+   - 20% Open Wounds
+- Wisp Projecter
+   - 1 to Heart of Wolverine
+   - Remove Oak and Spirit of barbs charges
+- Atma's Scarab
+   - 10% Level 3 Amp
+- Metalgrid
+   - 20 to Iron golem, Summon Resist, and Golem Mastery
+- Seraph's Hymn
+   - 50-100 Damage to Demons
+   - 50-100 Damage to Undead
+- Cerebus Bite
+   - 3-4 Shape Shifting
+- Spirit Keeper
+   - 3-4 Summoning
+- Firelizard's Talons
+   - 2-3 Martial Arts
+   - 3-4 Wake of Fire and Inferno + 3-4 Death Sentry
+- Jade Talon
+   - 3-4 Shadow and Martial Art Skills
+   - 1 to Dragon Flight
+- Shadow Killer
+   - 3-4 Shadow Disciplins
+   - 20 Increased Attack Speed
+   - Ignore Target's Defense
+   - 3 to Blade Shield
+   - Removed Frost Nova and Freeze Target
+
+## SETS
+- BK Sacred Charge
+   - Remove knockback
+   - 3 Sockets
+- BK Tribal Guardian is now a Colosus Sword
+   - 3 Sockets
+- Griswolds Armor
+   - 1 to Paladin Skills
+- Griswolds Helm
+   - 25 All res
+- Ondal's Almighty
+   - 2 to Skills
+- Taebaek's Glory
+   - 40 Faster Cast Rate
+- Mav's Armor
+   - 1 Amazon Skills
+- Mav's Gloves
+   - Cannot be Frozen
+- Natalya's Mark
+   - 2 Assassin Skills
+- Laying of Hands
+   - 150-200 Damage to Demons
+- Rite of Passage
+   - Cannot be frozen
+- Aldur's Armor
+   - 1 Druid Skills
+- Aldur's Helm
+   - 1-2 Druid Skills
+- Sazabi's Sword
+   - 250 ED
+- Trang Set no longer turns you into a Goul
 
 ## Affixes
 - Added Rare Affixes
@@ -234,9 +436,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
       - 15 Max Damage (Prefix and Suffix)
       - 20 Mana
       - 20 Life
-      - 15 All Res
       - 4-5 Cold min
       - 15 IAS
+	  - 1-3 Life After Each Kill
    - Weapons
       - 300 Enhanced Damage
    - Boots
@@ -251,6 +453,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
       - Indestructible 
    - Throwing Weapons
       - 3 Socket Potential
+   - Rings
+      - 2 Mana After Each Kill
+	  
 - Removed 
    - All Items
       - Stamina
@@ -259,12 +464,55 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
       - Defense   
       - Regen Life
 
+##Crafting 
+- Any base Crafting including Eth Items
+   - Crafted Items can now be Upped
+- Hit Power Crafts
+   - Helm 20 Faster Hit Recovery + 150-200 Attack Rating + 5% Level 4 Frost Nova When Struck
+   - Boots 10 FHR + 10-15 Dexerity + 5% Level 4 Frost Nova When Struck
+   - Gloves -15-20% target defense + 5% Level 4 Frost Nova When Struck
+   - Belt 20 FHR + 20 Damage to mana + 5% Level 4 Frost Nova When Struck
+   - Shield 30 FBR + 20 Block Chance + 5% Level 4 Frost Nova When Struck
+   - Armor 30-40 FHR + 35-60 Enhanced Damage + 5% Level 4 Frost Nova When Struck
+   - Amulet 200-250 Attack Rating + 15-20 FHR + 5% Level 4 Frost Nova When Struck
+   - Ring 3-5 Max dmg + 5-10 Dexterity + 5% Level 4 Frost Nova When Struck
+- Blood Crafts
+   - Helm 2-4 Life Steal + 30-40 life + 15-20 Deadly strike
+   - Boots 2-4 Life Steal + 30-40 life + 3-6 Life Per Kill
+   - Gloves 2-4 Life Steal + 30-40 life + 5-10 Crushing Blow
+   - Belt 2-4 Life Steal + 30-40 life + 15-20 Open Wounds
+   - Shield 3-6 Life Steal + 50-60 life + 20 Block Chance
+   - Body 3-6 Life Steal + 50-60 life + 3-6 Life Per Kill
+   - Amulet 2-4 Life Steal + 30-40 life + 10 Faster Run/Walk
+   - Ring 2-4 Life Steal + 30-40 life + 5-10 Strength
+   - Weapon 3-6 Life Steal + 30-40 life + 50-80 ED
+- Caster Crafts 10-20 Mana on all
+   - Helm 4-10 Regen Mana + 10 Faster Cast Rate
+   - Boots 4-10 Regen Mana + 5-10% Maximum Mana
+   - Gloves 4-10 Regen Mana + 10 Faster Cast Rate
+   - Belt 4-10 Regen Mana + 10 Faster Cast Rate
+   - Shield 15 Faster Cast Rate + 20 Block Chance
+   - Body 15 Faster Cast Rate + 5-8 Mana Per Kill
+   - Amulet Untouched
+   - Ring 1-2 Mana Per Kill + 5-10 Energy
+   - Weapon 1 Skill + 10-20 Faster Cast Rate
+- Safety
+   - Helm 3-5 MDR/PDR + 50-60% Enhanced Defense + 10-20 Lightning Resist
+   - Boots 3-5 MDR/PDR + 50-60% Enhanced Defense + 10-20 Fire Resist
+   - Gloves 3-5 MDR/PDR + 10-30% Enhanced Defense + 10-20 Cold Resist
+   - Belt 3-5 MDR/PDR+ 10-30% Enhanced Defense + 75-100% Poison Length Reduction
+   - Shield 5-10% Physical Damage Reduction + 10-20 Magic Resist + 50-60% Enhanced Defense
+   - Body 5-10% Physical Damage Reduction + 25-50 Defense + Half Freeze Duration + 50-60% Enhanced Defense
+   - Amulet 3-5 MDR/PDR + 10-20% Enhanced Defense + 10 Block Chance
+   - Ring 3-5 MDR/PDR + 10-20% Enhanced Defense + 5-10 Vitality
+   - Weapon 3-5 MDR/PDR + 50-60% Enhanced Defense + 20-30% Enhanced Damage + 10-20 Increased Attack Speed
+   
 ## Shop
 - Added Charsi's Malus to Imbue (575k)
 - Added Larzuk's Forging Hammer (2.2 Mil)
 - Added Essences for Gold at Akara (150k B, 325k Y, 750k R, 1.5 Mil G)
 - Added Full Rejuvination Potions at Alkor
-- Added MF Potion grants +100% MF for 1 Hour (Effect lost on death or S&E) at Alkor
+- Added MF Potion grants +100% MF for 1 Hour (Effect lost on death or S&E) at Alkor (750k)
 - Added BigDinn at Ormus (90k)
    - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
 - Added Hratli's Spiritual Herb (2.25M)
@@ -277,8 +525,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 ## Recipes
 - Rune Downgrading 1 to 1 (Flawed Gem + Rune = Downgrade)
 - Removed Level Requirement increase upon Upping and item.
-- Any base Crafting including Eth Items
-   - Crafted Items can now be Upped
 - Essence Transmuting 3 = 1 of next Tier
    - Blue > Yellow > Red > Green
 - 3 Green Essence = 1 Destruction Key
@@ -290,7 +536,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
 - Removed Gem requirements for Rune Upgrading
-- Hratli's Spiritual Herb + Arrows or Bolts = Replenish Quantity 
+- Charsi's Malus + Arrows or Bolts = Replenish Quantity 
 - Hratli's Spiritual Herb + SOH
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
    - Replenishes Quantity for Any Throwing Weapons
@@ -386,6 +632,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 ## Difficulties
 
 ### Pain (was Normal)
+- Only you start with -30% Resistance
 - 10% Experience loss on death
 
 ### Agony (was Nightmare) 
@@ -393,13 +640,13 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - -45% Resistance (was -40)
 - 5% more density
 - 10% more Elites
-- 25% Experience loss on death
+- 10% Experience loss on death
 
 ### Insanity (was Hell)
 - Sell Max 50k (was 35k)
 - -110% Resistance (was -100)
 - 25% more Density and Elites
-- 50% Experience loss on death
+- 10% Experience loss on death
 - Monsters React 15% Faster
 
 ## Area Changes

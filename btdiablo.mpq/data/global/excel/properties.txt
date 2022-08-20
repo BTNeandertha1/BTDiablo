@@ -14,7 +14,7 @@ mana	1	1	maxmana																											+# to Mana		Min #	Max #		0
 mana%	1	1	item_maxmana_percent																											Increase Maximum Mana #%		Min %	Max %		0
 hp	1	1	maxhp																											+# to Life		Min #	Max #		0
 hp%	1	1	item_maxhp_percent																											Increase Maximum Life #%		Min %	Max %		0
-att	1	1	tohit																											+# to Attack Rating		Min #	Max #		0
+att	1	1	tohit																											+# to Attack Rating		Min #	Max #		att
 block	1	1	toblock																											#% Increased Chance of Blocking		Min %	Max %		0
 cold-min	1	1	coldmindam																											+# to Minimum Cold Damage		Min #	Max #		0
 cold-max	1	1	coldmaxdam																											+# to Maximum Cold Damage		Min #	Max #		0
@@ -267,8 +267,9 @@ levelreq	1	1	item_levelreq																											Required Level: #		Min #	Ma
 ethereal	1	23																												Ethereal		1	1		0
 oskill	1	22	item_nonclassskill																											+# to [Skill]	Skill	Min #	Max #		0
 state	1	24	state																												State	1	1	Applies a State on the unit	0
-randclassskill	1	36	item_addclassskills		3																									+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0
+randclassskill1	1	36	item_addclassskills		3																									+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0
 noconsume		1	item_noconsume																											+# to not Consume Quantity		Min %	Max %		0
 res-curse	1	1	curse_resistance																											Curse Resist +#%		Min %	Max %		0
 corruption1	1	1	corrupted																																0
 corruption2	1	1	corruptordesc																																0
+randclassskill2	1	36	item_addclassskills		2																									+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0

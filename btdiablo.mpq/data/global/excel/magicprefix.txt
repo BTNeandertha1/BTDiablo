@@ -116,7 +116,7 @@ Berserker's	0	1	1	40		30				0	129	bar	0	2	2									cgrn	mele							rod	h2h				0
 Berserker's	0	1	1	90		67				0	129	bar	0	2	2									cgrn	amul												0	0
 																																					0	0
 																																					0	0
-Triumphant	0	1	1	3		2				0	132	mana-kill	0	1	1										mele	ring											0	0
+Triumphant	0	1	1	3		2				0	132	mana-kill	0	1	2										mele	ring											0	0
 Expansion																																						
 Stout	100	1	1	1		1				4	101	ac		3	5										lcha												0	0
 Stout	100	1	1	7		5				4	101	ac		6	9										lcha												0	0
@@ -336,7 +336,7 @@ Shimmering	100	1	1	45		37				3	116	res-all		3	7									lpur	ring												128
 Rainbow	100	1	1	56		48				2	116	res-all		8	11									lpur	ring												1280	8000
 Scintillating	100	1		67		59				2	116	res-all		12	15									lpur	ring												1280	16000
 Shimmering	100	1	1	16		12				1	116	res-all		5	10									lpur	jewl												1280	3000
-Scintillating	100	1	1	34		26				1	116	res-all		11	15									lpur	jewl												1280	8000
+Scintillating	100	1		34		26				1	116	res-all		11	15									lpur	jewl												1280	8000
 Azure	100	1	1	1		1				2	117	res-cold		7	15										lcha												0	0
 Lapis	100	1	1	10		7				2	117	res-cold		16	20										lcha												0	0
 Cobalt	100	1	1	20		15				2	117	res-cold		21	25									lblu	lcha												0	0
@@ -416,7 +416,7 @@ Jade	1	1	1	55		41				1	120	res-pois		21	30										weap							orb					0	0
 Emerald	1	1	1	25		18				3	120	res-pois		31	40									cgrn	rod	boot	amul	orb	circ								0	0
 Beryl	100	1	1	2		1				4	117	res-pois		5	15									cgrn	jewl												0	0
 Jade	100	1	1	19		14				4	117	res-pois		16	30									cgrn	jewl												0	0
-Triumphant	1	1	1	3		2				4	121	mana-kill		1	1										weap	ring	circ										0	0
+Triumphant	1	1	1	3		2				4	121	mana-kill		1	2										weap	ring	circ										0	0
 Victorious	100	1	1	17		12				4	121	mana-kill		2	5										weap	circ											0	0
 Aureolin	100	1	1	22		16				4	121	mana-kill		1	3										jewl												0	0
 Mechanist's	100	1	1	10		7				3	122	sock		1	2										weap	shld	helm	tors	circ								0	0
@@ -669,3 +669,4 @@ Tangerine	1	1	1	1	4	1				3	119	res-ltng		5	5										armo	ring	amul	orb	circ			
 Beryl	1	1	1	1	4	1				3	120	res-pois		5	5										armo	ring	amul	orb	circ								0	0
 Godly	100	1	1	50		43				1	101	ac%		101	200									dgld	armo												0	0
 Cruel	100	1	1	56		48				1	105	dmg%		201	300									blac	weap							staf	wand	orb			0	0
+Blood Sucking	100	1	1	32		26				2	200	heal-kill		1	3										jewl												0	0
