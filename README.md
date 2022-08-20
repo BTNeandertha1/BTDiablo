@@ -180,6 +180,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    
 ## Runes
 - Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
+- **Dol Rune has 2 Life After Each Kill for all slots
 - Ist and higher Runes now all have 1% Experience Gained
 - Cham Rune
    - Changed Armor and Helmet to 34% Reduced Curse Duration (was Cannot Be Frozen)
