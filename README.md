@@ -310,6 +310,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 100-150 Damage to Demons
 - Wolfhowl
    - 3-6 Fury
+   - Oskill Dire Wolves
 - Halaberd's Reign
    - 2-3 Barbarian Skills
    - 15 Life Per Kill instead of Rep Life
@@ -480,6 +481,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Armor 30-40 FHR + 35-60 Enhanced Damage + 5% Level 4 Frost Nova When Struck
    - Amulet 200-250 Attack Rating + 15-20 FHR + 5% Level 4 Frost Nova When Struck
    - Ring 3-5 Max dmg + 5-10 Dexterity + 5% Level 4 Frost Nova When Struck
+   - Weapon Gloves -15-20% target defense + 50-80% Enhanced Damage + 5% Level 4 Frost Nova When Struck
 - Blood Crafts
    - Helm 2-4 Life Steal + 30-40 life + 15-20 Deadly strike
    - Boots 2-4 Life Steal + 30-40 life + 3-6 Life Per Kill
