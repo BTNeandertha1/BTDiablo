@@ -45,6 +45,7 @@ Please follow BTN's [YouTube guide](https://youtu.be/uyRgLlxcew8) to install the
 Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) section of GitHub or the [Discord Bug Reports](https://discord.gg/GUTuZHkzwz) channel!
 
 # Credits 
+- G1oomey Various testing, Bug Fixes and lots of help throughout the project
 - Inspiration from ALL modders and Diablo Mods over the years  
 - [HighTechLowIQ](https://www.youtube.com/c/HighTechLowIQ) on YouTube for educational Videos and some Files  
 - MRCelSynap: For Helping with Corruptions and various modding  
@@ -55,7 +56,6 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - JeyP: Testing things then walking me through  
 - Kex: First Tester and first to Kill HC Hell Baal
 - Stackit (https://www.nexusmods.com/diablo2resurrected/mods/80) on Nexusmods to use the assets and help with functionality of stacking!
-- G1oomey Various testing, Bug Fixes and Help
 - Stucifer "loot filter" display
 - MrBrooksGaming Added UI Controller Support
 
