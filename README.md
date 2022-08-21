@@ -69,6 +69,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 
 # Patch Notes XXIII
 - Fixed a bug where the Horadric Cube inventory was too big
+- Fixed a bug where Misc items were too big for their slots
 - Optimized Town destinations for Act 2-5
 - Buffed Crafting greatly
 - Buffed Many Uniques and Set Items
