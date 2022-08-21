@@ -74,6 +74,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Optimized Town destinations for Act 2-5
 - Buffed Crafting greatly
 - Buffed Many Uniques and Set Items
+- Can Hold Multiple Wirts Legs!
 - Nerfed Rune Exp but Decreased Death Penalty to 10% all difficulties
 - Amazon's Bow Skills no longer consume Arrow Quantity
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**

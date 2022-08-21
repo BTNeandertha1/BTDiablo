@@ -15,7 +15,7 @@ Make Ethereal	0			1					2	"any,rar"	tsc						useitem				ethereal			1	1										
 Make Ethereal	0			1					2	"any,set"	tsc						useitem				ethereal			1	1																																																																															0
 Make Ethereal	0			1					2	"armo,uni"	tsc						useitem				ethereal			1	1																																																																															0
 Make Ethereal	0			1					2	"weap,uni"	tsc						useitem				ethereal			1	1																																																																															0
-																																																																																																								
+																																																																																																								0
 Staff of Kings + Amulet of the Viper -> Horadric Staff	1			0	28				2	msf	vip						hst																																																																																							0
 Khalim's Flail + Khalim's Heart + Khalim's Eye + Khalim's Brain -> Khalim's Will	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
 Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
