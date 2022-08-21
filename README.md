@@ -326,6 +326,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Medusa's Gaze
    - 20% Level 10 Decrep When Struck
    - 40% Slow Targets
+   - -30% Requirements
 - Spirit Ward
    - 2 to class skill
    - 35% CTC Fade when Struck
