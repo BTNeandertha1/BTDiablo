@@ -68,15 +68,15 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Add more evil urns?
 
 # Patch Notes XXIII
-- Fixed a bug where the Horadric Cube inventory was too big
-- Fixed a bug where Misc items were too big for their slots
-- Fixed a bug where Tyrael's Might didn't have Damage to Undead
+- Following Bosses can now drop Uber Keys
+   - Blood Raven = Terror
+   - Radament = Hate
+   - Izual = Destruction
+- Reduced Gold Drop chance from Nihlathak and Izual
 - Optimized Town destinations for Act 2-5
 - Buffed Crafting greatly
 - Buffed Many Uniques and Set Items
 - Can Hold Multiple Wirts Legs!
-- Nerfed Rune Exp but Decreased Death Penalty to 10% all difficulties
-- Amazon's Bow Skills no longer consume Arrow Quantity
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
@@ -625,6 +625,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Mephisto can fly now
 - Summoner has 3x HP and crits 3x as often
 - Eldritch the Rectifier is now a Soul Pack
+- Nihlathak and Izual have less of a chance to drop gold
+- Following Bosses can now drop Uber Keys
+   - Blood Raven = Terror  | Base Drop Chance 1:14
+   - Radament = Hate | Base Drop Chance 1:13.4
+   - Izual = Destruction | Base Drop Chance 1:12.2
 
 ## Elites
 - 2x Aura Range

@@ -682,7 +682,7 @@ Durielq (N) - Base			7	993	993	1024	1024	19	Act 3 (N) Equip A	19	Act 3 (N) Good	
 Durielq (H) - Base			7	993	993	1024	1024	19	Act 3 (H) Equip A	19	Act 3 (H) Good	3	tes	2																		0
 Radament			5	900	900	900	1024	19	"gld,mul=1280"	11	Act 3 Equip B	19	Act 3 Junk	15	Act 3 Good	3																0
 Radament (N)			5	900	900	900	1024	19	"gld,mul=1536"	11	Act 3 (N) Equip B	19	Act 3 (N) Junk	15	Act 3 (N) Good	3																0
-Radament (H)			5	900	900	900	1024	19	"gld,mul=2048"	11	Act 3 (H) Equip C	19	Act 3 (H) Junk	15	Act 3 (H) Good	3																0
+Radament (H)			5	900	900	900	1024	19	"gld,mul=2048"	9	Act 3 (H) Equip C	19	Act 3 (H) Junk	16	Act 3 (H) Good	3	pk2	1														0
 Flying Scimitar			1					100	Act 2 Good	3	scm	57																				0
 Flying Scimitar (N)			1					100	Act 2 (N) Good	3	scm	25	9sm	32																		0
 Flying Scimitar (H)			1					100	Act 2 (H) Good	3	scm	7	9sm	18	7sm	32																0
@@ -718,7 +718,7 @@ Haphesto (N)			5	800	800	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip A	19	Act 
 Haphesto (H)			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																0
 Nihlathak			5	900	900	900	1024	19	"gld,mul=1280"	14	Act 5 Equip B	19	Act 5 Junk	5	Act 5 Good	3																0
 Nihlathak (N)			5	900	900	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip B	19	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
-Nihlathak (H)			5	900	900	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip B	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	pk3	1														0
+Nihlathak (H)			5	900	900	900	1024	19	"gld,mul=2048"	10	Act 5 (H) Equip B	19	Act 5 (H) Junk	9	Act 5 (H) Good	3	pk3	1														0
 Baal			7	983	983	983	1024	15	"gld,mul=1280"	5	Act 1 (N) Equip A	52	Act 1 (N) Junk	5	Act 1 (N) Good	3																0
 Baal (N)			7	983	983	983	1024	15	"gld,mul=1536"	5	Act 1 (H) Equip A	52	Act 1 (H) Junk	5	Act 1 (H) Good	3																0
 Baal (H)			7	983	983	983	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip B	52	Act 5 (H) Junk	5	Act 5 (H) Good	3	fed	1														0
@@ -727,13 +727,13 @@ Baalq (N)			7	993	993	1024	1024	15	Act 1 (H) Equip A	52	Act 1 (H) Good	3								
 Baalq (H)			7	993	993	1024	1024	15	Act 5 (H) Equip B	52	Act 5 (H) Good	3	fed	1																		0
 Blood Raven			5	800	800	972	1024	19	"gld,mul=1280"	14	Act 1 Equip B	19	Act 1 Junk	5	Act 1 Good	3																0
 Blood Raven (N)			5	800	800	972	1024	19	"gld,mul=1536"	14	Act 1 (N) Equip B	19	Act 1 (N) Junk	5	Act 1 (N) Good	3																0
-Blood Raven (H)			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 1 (H) Equip B	19	Act 1 (H) Junk	5	Act 1 (H) Good	3																0
+Blood Raven (H)			5	800	800	972	1024	19	"gld,mul=2048"	11	Act 1 (H) Equip B	20	Act 1 (H) Junk	16	Act 1 (H) Good	3	pk1	1														0
 Smith			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Smith (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Smith (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
 Izual			5	800	800	972	1024	19	"gld,mul=1280"	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3																0
 Izual (N)			5	800	800	972	1024	19	"gld,mul=1536"	14	Act 4 (N) Equip B	19	Act 4 (N) Junk	5	Act 4 (N) Good	3																0
-Izual (H)			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 4 (H) Equip B	19	Act 4 (H) Junk	5	Act 4 (H) Good	3																0
+Izual (H)			5	800	800	972	1024	19	"gld,mul=2048"	10	Act 4 (H) Equip B	19	Act 4 (H) Junk	9	Act 4 (H) Good	3	pk3	1														0
 Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																				0
 Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																				0
 Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																				0
