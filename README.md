@@ -67,15 +67,14 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 
-# Patch Notes XXIII
+# Patch Notes XXIV
+- Duriel Drops Adjusted
 - Following Bosses can now drop Uber Keys
    - Blood Raven = Terror
    - Radament = Hate
    - Izual = Destruction
-- Reduced Gold Drop chance from Nihlathak and Izual
+- Reduced Gold Drop chance from Nihlathak, Countess and Izual
 - Optimized Town destinations for Act 2-5
-- Buffed Crafting greatly
-- Buffed Many Uniques and Set Items
 - Can Hold Multiple Wirts Legs!
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -229,7 +228,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Cannot Be frozen
 - **Ogre Axe Now gets up to 5 Sockets
    
-## UNIQUES
+## Uniques
 - Cranium Basher
    - 60 IAS
    - 10% Level 3 Amp
@@ -408,11 +407,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Always 2 Skills
    - -20% Requirements
 
-## SETS
+## Sets
 - BK Sacred Charge
    - Remove knockback
    - 3 Sockets
-- BK Tribal Guardian is now a Colosus Sword
+- **BK Tribal Guardian is now a Colosus Sword
    - 3 Sockets
 - Griswolds Armor
    - 1 to Paladin Skills
@@ -474,7 +473,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
       - Defense   
       - Regen Life
 
-##Crafting 
+## Crafting 
 - Any base Crafting including Eth Items
    - Crafted Items can now be Upped
 - Hit Power Crafts
@@ -553,7 +552,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Replenishes Quantity for Any Throwing Weapons
 - Charsi's Malus + Quiver = Replenish Quantity
 - 9 Jewels + Charsi's Malus = 1 Rare Jewel
-- **99 Stacked Flawless Gems + Stamina Potion = 33 Perfect Gems of the same type**
+- 99 Stacked Flawless Gems + Stamina Potion = 33 Perfect Gems of the same type**
 
 ## Endgame
 - OP Repeatable recipes:
@@ -584,7 +583,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
       - 5 socket 12%
       - 6 socket 8% 
 
-- **Unique Charm Corruptions
+- Unique Charm Corruptions
    - Annihilus Small Charm (0% Chance to Brick)
       - Hellfire Ashes + Anni = Corrupted
 	     - 7% Magic Find + 10% Gold Find
@@ -625,7 +624,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Mephisto can fly now
 - Summoner has 3x HP and crits 3x as often
 - Eldritch the Rectifier is now a Soul Pack
-- Nihlathak and Izual have less of a chance to drop gold
+- **Duriel's Town Portal Scroll Drop rate decreased significantly
+- **Nihlathak, Countess and Izual have less of a chance to drop gold
+   - Countess has her drop table fixed P8 now is best for not only keys but also Runes
 - Following Bosses can now drop Uber Keys
    - Blood Raven = Terror  | Base Drop Chance 1:14
    - Radament = Hate | Base Drop Chance 1:13.4
@@ -682,7 +683,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 83 Cow Level and increased density an additional 10% (was 81)
 
 ### Act 2
-- **Town spawn and Town Portal locations changed 
+- Town spawn and Town Portal locations changed 
 - 85 Sewers (All Levels)
 - 85 Halls of the Dead (All Levels)
 - 85 Maggot Lair (All Levels)
@@ -690,7 +691,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 85 Tombs
 
 ### Act 3
-- **Town Spawn location changed
+- Town Spawn location changed
 - 85 Great Marsh
 - 85 Flayer Dungeon (All Levels)
 - 85 Spider Cavern
@@ -700,14 +701,14 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Added Aura to Wyand Voidbringer
 
 ### Act 4
-- **Stash and Deckard Cain locations Changed
+- Stash and Deckard Cain locations Changed
 - 84 Outer Steps 
 - 85 Plains of Despair
 - 85 City of the Damned
 - Chaos Seal Bosses Same TC as Baal Waves
 
 ### Act 5
-- **Stash and Deckard Cain locations Changed
+- Stash and Deckard Cain locations Changed
 - 85 All Zones
 - Madawc is always Aura Enchanted
 - 87 Uber Areas (Forgotten Sands, Furnace of Pain and Matron’s Den) Also greatly increased Elite packs and density

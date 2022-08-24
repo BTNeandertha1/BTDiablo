@@ -827,12 +827,12 @@ Act 5 (H) Super Cx	18	96	-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpo
 Cow King			5	850	983	983	1024	0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Cow King (N)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Cow King (H)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
-Duriel			5					0	tsc	1	Duriel - Base	2																				0
-Duriel (N)			5					0	tsc	1	Duriel (N) - Base	2																				0
-Duriel (H)			5					0	tsc	1	Duriel (H) - Base	2																				0
-Durielq			5					0	tsc	1	Durielq - Base	2																				0
-Durielq (N)			5					0	tsc	1	Durielq (N) - Base	2																				0
-Durielq (H)			5					0	tsc	1	Durielq (H) - Base	2																				0
+Duriel			5					0	Duriel - Base	1																						0
+Duriel (N)			5					0	Duriel (N) - Base	1																						0
+Duriel (H)			5					0	Duriel (H) - Base	1																						0
+Durielq			5					0	Durielq - Base	1																						0
+Durielq (N)			5					0	Durielq (N) - Base	1																						0
+Durielq (H)			5					0	Durielq (H) - Base	1																						0
 ROP			1	1024				0	Diablo	1																						0
 ROP (N)			1	1024				0	Diablo (N)	4	Annihilus	1																				0
 ROP (H)			1	1024				0	Annihilus	1																						0
@@ -841,10 +841,10 @@ Countess Rune (N)			3					5	Runes 8	15																						0
 Countess Rune (H)			3					5	Runes 12	15																						0
 Countess Item			5					19	"gld,mul=1280"	11	Act 1 Equip C	19	Act 2 Junk	15	Act 2 Good	3																0
 Countess Item (N)			5					19	"gld,mul=1536"	11	Act 1 (N) Equip C	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
-Countess Item (H)			5					19	"gld,mul=2048"	11	Act 1 (H) Equip C	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	pk1	1														0
-Countess			-2	883	883	883	1024	0	Countess Item	1	Countess Rune	1																				0
-Countess (N)			-2	883	883	983	1024	0	Countess Item (N)	1	Countess Rune (N)	1																				0
-Countess (H)			-2	883	883	983	1024	0	Countess Item (H)	1	Countess Rune (H)	1																				0
+Countess Item (H)			5					19	pk1	1	"gld,mul=2048"	5	Act 1 (H) Equip C	22	Act 2 (H) Junk	18	Act 2 (H) Good	3														0
+Countess			-2	883	883	883	1024	0	Countess Rune	1	Countess Item	1																				0
+Countess (N)			-2	883	883	983	1024	0	Countess Rune (N)	1	Countess Item (N)	1																				0
+Countess (H)			-2	883	883	983	1024	0	Countess Rune (H)	1	Countess Item (H)	1																				0
 Uber Andariel			1	1024				0	dhn	1																						0
 Uber Duriel			1	1024				0	bey	1																						0
 Uber Izual			1	1024				0	mbr	1																						0

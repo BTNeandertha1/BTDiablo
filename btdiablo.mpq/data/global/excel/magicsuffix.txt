@@ -403,7 +403,7 @@ of Inertia	100	1	1	24		18				4	35	move2		5	5										mcha												0	0
 of Inertia	100	1		35		27				4	35	move1		3	3										scha												0	0
 of Self-Repair	100	1	1	3		1				3	37	rep-dur	3												weap	armo						thro	miss				0	0
 of Fast Repair	100	1	1	20		12				2	37	rep-dur	5												weap	armo						thro	miss				0	0
-of Ages	100	1	1	50		42				1	39	indestruct													weap	armo						thro	miss				0	0
+of Ages	100	1		50		42				1	39	indestruct													weap	armo						thro	miss				0	0
 of Replenishing	100	1	1	5		3				6	39	rep-quant	5												thro												0	0
 of Propogation	100	1	1	24		18				5	39	rep-quant	10												thro												0	0
 of the Kraken	100	1		20		1				1	41	hp/lvl	6											cred	tors	amul	pelt	phlm									0	0
