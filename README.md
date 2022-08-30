@@ -67,15 +67,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 
-# Patch Notes XXIV
-- Duriel Drops Adjusted
-- Following Bosses can now drop Uber Keys
-   - Blood Raven = Terror
-   - Radament = Hate
-   - Izual = Destruction
-- Reduced Gold Drop chance from Nihlathak, Countess and Izual
-- Optimized Town destinations for Act 2-5
-- Can Hold Multiple Wirts Legs!
+# Patch Notes XXIV.2
+- Changed names of gems slightly
+- Made Insanity Den of Evil and Burial Grounds Slightly harder
+- Fixed a String with Life after kill on items
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
@@ -223,8 +218,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - All Weapons have 50% increased base damage values**
    - Exceptional and Elite "BOWS" (NOT Crossbows) have 15% increased Maximum Base Damage instead**
 - Added Neverfrost (Unique Jewel) [qlvl 78]
-   - 1-5 Faster Cast Rate
-   - 1-5 Increased Attack Speed
+   - 1-3 Faster Cast Rate
+   - 5-10 Increased Attack Speed
    - Cannot Be frozen
 - **Ogre Axe Now gets up to 5 Sockets
    
@@ -522,7 +517,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Added Larzuk's Forging Hammer (2.2 Mil)
 - Added Essences for Gold at Akara (150k B, 325k Y, 750k R, 1.5 Mil G)
 - Added Full Rejuvination Potions at Alkor
-- Added MF Potion grants +100% MF for 1 Hour (Effect lost on death or S&E) at Alkor (750k)
+- Added MF Potion grants +100% MF for 20 Hour (Effect lost on death or S&E) at Alkor (750k)
 - Added BigDinn at Ormus (90k)
    - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
 - Added Hratli's Spiritual Herb (2.25M)
@@ -550,7 +545,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Hratli's Spiritual Herb + SOH
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
    - Replenishes Quantity for Any Throwing Weapons
-- Charsi's Malus + Quiver = Replenish Quantity
 - 9 Jewels + Charsi's Malus = 1 Rare Jewel
 - 99 Stacked Flawless Gems + Stamina Potion = 33 Perfect Gems of the same type**
 

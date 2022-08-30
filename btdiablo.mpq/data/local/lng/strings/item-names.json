@@ -5136,7 +5136,7 @@
   {
     "id": 2236,
     "Key": "gcv",
-    "enUS": "ÿc;Chipped",
+    "enUS": "ÿc;Chipped A",
     "zhTW": "碎裂紫寶石",
     "deDE": "lädierter Amethyst",
     "esES": "Amatista fragmentada",
@@ -5153,7 +5153,7 @@
   {
     "id": 2237,
     "Key": "gfv",
-    "enUS": "ÿc;Flawed",
+    "enUS": "ÿc;Flawed A",
     "zhTW": "瑕疵紫寶石",
     "deDE": "fehlerhafter Amethyst",
     "esES": "Amatista estropeada",
@@ -5187,7 +5187,7 @@
   {
     "id": 2239,
     "Key": "gzv",
-    "enUS": "ÿc;•Flawless•",
+    "enUS": "ÿc;•Flawless A•",
     "zhTW": "無瑕紫寶石",
     "deDE": "makelloser Amethyst",
     "esES": "Amatista sin defectos",
@@ -5204,7 +5204,7 @@
   {
     "id": 2240,
     "Key": "gpv",
-    "enUS": "ÿc;••Perfect••",
+    "enUS": "ÿc;••Perfect A••",
     "zhTW": "完美紫寶石",
     "deDE": "perfekter Amethyst",
     "esES": "Amatista perfecta",
@@ -5221,7 +5221,7 @@
   {
     "id": 2241,
     "Key": "gcy",
-    "enUS": "ÿc9Chipped",
+    "enUS": "ÿc9Chipped T",
     "zhTW": "碎裂黃寶石",
     "deDE": "lädierter Topas",
     "esES": "Topacio fragmentado",
@@ -5238,7 +5238,7 @@
   {
     "id": 2242,
     "Key": "gfy",
-    "enUS": "ÿc9Flawed",
+    "enUS": "ÿc9Flawed T",
     "zhTW": "瑕疵黃寶石",
     "deDE": "fehlerhafter Topas",
     "esES": "Topacio estropeado",
@@ -5272,7 +5272,7 @@
   {
     "id": 2244,
     "Key": "gly",
-    "enUS": "ÿc9•Flawless•",
+    "enUS": "ÿc9•Flawless T•",
     "zhTW": "無瑕黃寶石",
     "deDE": "makelloser Topas",
     "esES": "Topacio sin defectos",
@@ -5289,7 +5289,7 @@
   {
     "id": 2245,
     "Key": "gpy",
-    "enUS": "ÿc9••Perfect••",
+    "enUS": "ÿc9••Perfect T••",
     "zhTW": "完美黃寶石",
     "deDE": "perfekter Topas",
     "esES": "Topacio perfecto",
@@ -5306,7 +5306,7 @@
   {
     "id": 2246,
     "Key": "gcb",
-    "enUS": "ÿc3Chipped",
+    "enUS": "ÿc3Chipped S",
     "zhTW": "碎裂藍寶石",
     "deDE": "lädierter Saphir",
     "esES": "Zafiro fragmentado",
@@ -5323,7 +5323,7 @@
   {
     "id": 2247,
     "Key": "gfb",
-    "enUS": "ÿc3Flawed",
+    "enUS": "ÿc3Flawed S",
     "zhTW": "瑕疵藍寶石",
     "deDE": "fehlerhafter Saphir",
     "esES": "Zafiro estropeado",
@@ -5357,7 +5357,7 @@
   {
     "id": 2249,
     "Key": "glb",
-    "enUS": "ÿc3•Flawless•",
+    "enUS": "ÿc3•Flawless S•",
     "zhTW": "無暇藍寶石",
     "deDE": "makelloser Saphir",
     "esES": "Zafiro sin defectos",
@@ -5374,7 +5374,7 @@
   {
     "id": 2250,
     "Key": "gpb",
-    "enUS": "ÿc3••Perfect••",
+    "enUS": "ÿc3••Perfect S••",
     "zhTW": "完美藍寶石",
     "deDE": "perfekter Saphir",
     "esES": "Zafiro perfecto",
@@ -5391,7 +5391,7 @@
   {
     "id": 2251,
     "Key": "gcg",
-    "enUS": "ÿc2Chipped",
+    "enUS": "ÿc2Chipped E",
     "zhTW": "碎裂綠寶石",
     "deDE": "lädierter Smaragd",
     "esES": "Esmeralda fragmentada",
@@ -5408,7 +5408,7 @@
   {
     "id": 2252,
     "Key": "gfg",
-    "enUS": "ÿc2Flawed",
+    "enUS": "ÿc2Flawed E",
     "zhTW": "瑕疵綠寶石",
     "deDE": "fehlerhafter Smaragd",
     "esES": "Esmeralda estropeada",
@@ -5442,7 +5442,7 @@
   {
     "id": 2254,
     "Key": "glg",
-    "enUS": "ÿc2•Flawless•",
+    "enUS": "ÿc2•Flawless E•",
     "zhTW": "無瑕綠寶石",
     "deDE": "makelloser Smaragd",
     "esES": "Esmeralda sin defectos",
@@ -5459,7 +5459,7 @@
   {
     "id": 2255,
     "Key": "gpg",
-    "enUS": "ÿc2••Perfect••",
+    "enUS": "ÿc2••Perfect E••",
     "zhTW": "完美綠寶石",
     "deDE": "perfekter Smaragd",
     "esES": "Esmeralda perfecta",
@@ -5476,7 +5476,7 @@
   {
     "id": 2256,
     "Key": "gcr",
-    "enUS": "ÿc1Chipped",
+    "enUS": "ÿc1Chipped R",
     "zhTW": "碎裂紅寶石",
     "deDE": "lädierter Rubin",
     "esES": "Rubí fragmentado",
@@ -5493,7 +5493,7 @@
   {
     "id": 2257,
     "Key": "gfr",
-    "enUS": "ÿc1Flawed",
+    "enUS": "ÿc1Flawed R",
     "zhTW": "瑕疵紅寶石",
     "deDE": "fehlerhafter Rubin",
     "esES": "Rubí estropeado",
@@ -5527,7 +5527,7 @@
   {
     "id": 2259,
     "Key": "glr",
-    "enUS": "ÿc1•Flawless•",
+    "enUS": "ÿc1•Flawless R•",
     "zhTW": "無瑕紅寶石",
     "deDE": "makelloser Rubin",
     "esES": "Rubí sin defectos",
@@ -5544,7 +5544,7 @@
   {
     "id": 2260,
     "Key": "gpr",
-    "enUS": "ÿc1••Perfect••",
+    "enUS": "ÿc1••Perfect R••",
     "zhTW": "完美紅寶石",
     "deDE": "perfekter Rubin",
     "esES": "Rubí perfecto",
@@ -5561,7 +5561,7 @@
   {
     "id": 2261,
     "Key": "gcw",
-    "enUS": "Chipped",
+    "enUS": "Chipped D",
     "zhTW": "碎裂鑽石",
     "deDE": "lädierter Diamant",
     "esES": "Diamante fragmentado",
@@ -5578,7 +5578,7 @@
   {
     "id": 2262,
     "Key": "gfw",
-    "enUS": "Flawed",
+    "enUS": "Flawed D",
     "zhTW": "瑕疵鑽石",
     "deDE": "fehlerhafter Diamant",
     "esES": "Diamante estropeado",
@@ -5612,7 +5612,7 @@
   {
     "id": 2264,
     "Key": "glw",
-    "enUS": "•Flawless•",
+    "enUS": "•Flawless D•",
     "zhTW": "無暇鑽石",
     "deDE": "makelloser Diamant",
     "esES": "Diamante sin defectos",
@@ -5629,7 +5629,7 @@
   {
     "id": 2265,
     "Key": "gpw",
-    "enUS": "••Perfect••",
+    "enUS": "••Perfect D••",
     "zhTW": "完美鑽石",
     "deDE": "perfekter Diamant",
     "esES": "Diamante perfecto",
@@ -5816,7 +5816,7 @@
   {
     "id": 2277,
     "Key": "skc",
-    "enUS": "ÿc5Chipped",
+    "enUS": "ÿc5Chipped Sk",
     "zhTW": "碎裂骷髏石",
     "deDE": "lädierter Schädel",
     "esES": "Cráneo fragmentado",
@@ -5833,7 +5833,7 @@
   {
     "id": 2278,
     "Key": "skf",
-    "enUS": "ÿc5Flawed",
+    "enUS": "ÿc5Flawed Sk",
     "zhTW": "瑕疵骷髏石",
     "deDE": "fehlerhafter Schädel",
     "esES": "Cráneo estropeado",
@@ -5867,7 +5867,7 @@
   {
     "id": 2280,
     "Key": "skl",
-    "enUS": "ÿc5•Flawless•",
+    "enUS": "ÿc5•Flawless Skull•",
     "zhTW": "無暇骷髏石",
     "deDE": "makelloser Schädel",
     "esES": "Cráneo sin defectos",
@@ -5884,7 +5884,7 @@
   {
     "id": 2281,
     "Key": "skz",
-    "enUS": "ÿc5••Perfect••",
+    "enUS": "ÿc5••Perfect Skull••",
     "zhTW": "完美骷髏石",
     "deDE": "perfekter Schädel",
     "esES": "Cráneo perfecto",
@@ -26416,5 +26416,39 @@
     "ptBR": "Neverfrost",
     "ruRU": "Neverfrost",
     "zhCN": "Neverfrost"
+  },
+  {
+    "id": 71019,
+    "Key": "StackDesc",
+    "enUS": "Cube to Unstack or Use",
+    "zhTW": "Cube to Unstack or Use",
+    "deDE": "Cube to Unstack or Use",
+    "esES": "Cube to Unstack or Use",
+    "frFR": "Cube to Unstack or Use",
+    "itIT": "Cube to Unstack or Use",
+    "koKR": "Cube to Unstack or Use",
+    "plPL": "Cube to Unstack or Use",
+    "esMX": "Cube to Unstack or Use",
+    "jaJP": "Cube to Unstack or Use",
+    "ptBR": "Cube to Unstack or Use",
+    "ruRU": "Cube to Unstack or Use",
+    "zhCN": "Cube to Unstack or Use"
+  },
+  {
+    "id": 71020,
+    "Key": "RecipeDesc",
+    "enUS": "Warning! Use 1 Quantity For Recipes",
+    "zhTW": "Warning! Use 1 Quantity For Recipes",
+    "deDE": "Warning! Use 1 Quantity For Recipes",
+    "esES": "Warning! Use 1 Quantity For Recipes",
+    "frFR": "Warning! Use 1 Quantity For Recipes",
+    "itIT": "Warning! Use 1 Quantity For Recipes",
+    "koKR": "Warning! Use 1 Quantity For Recipes",
+    "plPL": "Warning! Use 1 Quantity For Recipes",
+    "esMX": "Warning! Use 1 Quantity For Recipes",
+    "jaJP": "Warning! Use 1 Quantity For Recipes",
+    "ptBR": "Warning! Use 1 Quantity For Recipes",
+    "ruRU": "Warning! Use 1 Quantity For Recipes",
+    "zhCN": "Warning! Use 1 Quantity For Recipes"
   }
 ]
