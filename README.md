@@ -67,10 +67,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 
-# Patch Notes XXIV.2
-- Changed names of gems slightly
-- Made Insanity Den of Evil and Burial Grounds Slightly harder
-- Fixed a String with Life after kill on items
+# Patch Notes XXIV.3
+- Removed Chip and Flawed gem requirement for fully repairing charges
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
@@ -540,7 +538,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 4 Unique Jewerly (Rings, Amulets, Jewels) = SOH
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
-- Removed Gem requirements for Rune Upgrading
+- Removed Gem requirements for Rune Upgrading ** and repairing charges on items**
 - Charsi's Malus + Arrows or Bolts = Replenish Quantity 
 - Hratli's Spiritual Herb + SOH
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
