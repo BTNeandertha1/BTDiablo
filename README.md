@@ -545,6 +545,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Replenishes Quantity for Any Throwing Weapons
 - 9 Jewels + Charsi's Malus = 1 Rare Jewel
 - 99 Stacked Flawless Gems + Stamina Potion = 33 Perfect Gems of the same type**
+- 99 Stacked Runes El-Lem + Stamina Potion = 33 Runes of the next tier**
+- 100 Stacked Runes Pul-Cham + Stamina Potion = 50 Runes of the next tier**
+- 99 Stacked Essences + Stamina Potion = 33 of the next tier**
 
 ## Endgame
 - OP Repeatable recipes:
