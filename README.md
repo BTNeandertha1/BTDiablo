@@ -74,7 +74,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 
-# Patch Notes XXIV.3
+# Patch Notes XXIV.5
+- Buffed MF Potion to 150% Magic Find
+- 99 Stacked Runes El-Lem + Stamina Potion = 33 Runes of the next tier**
+- 100 Stacked Runes Pul-Cham + Stamina Potion = 50 Runes of the next tier**
+- 99 Stacked Essences + Stamina Potion = 33 of the next tier**
 - Removed Chip and Flawed gem requirement for fully repairing charges
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -522,7 +526,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Added Larzuk's Forging Hammer (2.2 Mil)
 - Added Essences for Gold at Akara (150k B, 325k Y, 750k R, 1.5 Mil G)
 - Added Full Rejuvination Potions at Alkor
-- Added MF Potion grants +100% MF for 20 Hour (Effect lost on death or S&E) at Alkor (750k)
+- Added MF Potion grants +150% MF for 20 Hour (Effect lost on death or S&E) at Alkor (750k)
 - Added BigDinn at Ormus (90k)
    - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
 - Added Hratli's Spiritual Herb (2.25M)
