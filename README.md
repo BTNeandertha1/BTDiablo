@@ -13,7 +13,6 @@ BTNeandertha1 Social Media Links:
 2. [Bug Reporting](https://github.com/BTNeandertha1/BTDiablo#bug-reporting)
 3. [Credits](https://github.com/BTNeandertha1/BTDiablo#credits)
 4. [Future Ideas](https://github.com/BTNeandertha1/BTDiablo#future-ideas)
-5. [Corruption Ideas](https://github.com/BTNeandertha1/BTDiablo#corruption-ideas)
 6. [WIP](https://github.com/BTNeandertha1/BTDiablo#wip)
 7. [Changes](https://github.com/BTNeandertha1/BTDiablo#changes)
    - [Game](https://github.com/BTNeandertha1/BTDiablo#game)
