@@ -75,6 +75,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Add more evil urns?
 
 # Patch Notes XXIV.5
+- Buffed Uber zones to be Area Level 96 (Trist is 99)
 - Buffed MF Potion to 150% Magic Find
 - 99 Stacked Runes El-Lem + Stamina Potion = 33 Runes of the next tier**
 - 100 Stacked Runes Pul-Cham + Stamina Potion = 50 Runes of the next tier**
@@ -717,8 +718,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Stash and Deckard Cain locations Changed
 - 85 All Zones
 - Madawc is always Aura Enchanted
-- 87 Uber Areas (Forgotten Sands, Furnace of Pain and Matron’s Den) Also greatly increased Elite packs and density
-- 87 Uber Tristram 
+- 96 Uber Areas (Forgotten Sands, Furnace of Pain and Matron’s Den) Also greatly increased Elite packs and density
+- 99 Uber Tristram 
    - Balanced Resistances of Swarms and Pit Lords
 - Baal Waves:
    - W1 = Extra Fast Dolls
