@@ -74,13 +74,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 
-# Patch Notes XXIV.5
-- Buffed Uber zones to be Area Level 96 (Trist is 99)
-- Buffed MF Potion to 150% Magic Find
-- 99 Stacked Runes El-Lem + Stamina Potion = 33 Runes of the next tier**
-- 100 Stacked Runes Pul-Cham + Stamina Potion = 50 Runes of the next tier**
-- 99 Stacked Essences + Stamina Potion = 33 of the next tier**
-- Removed Chip and Flawed gem requirement for fully repairing charges
+# Patch Notes XXV
+- Doubled Mercenary HP per level
+- Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
+- Fixed a bug with Safety weapons not working with all bases
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
@@ -479,8 +476,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
       - Regen Life
 
 ## Crafting 
+- Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
 - Any base Crafting including Eth Items
    - Crafted Items can now be Upped
+- Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
 - Hit Power Crafts
    - Helm 20 Faster Hit Recovery + 150-200 Attack Rating + 5% Level 4 Frost Nova When Struck
    - Boots 10 FHR + 10-15 Dexerity + 5% Level 4 Frost Nova When Struck
@@ -652,6 +651,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Lord De Seis always Extra fast in addition to regular mods
    - Ismail Vilehand is now Always Aura Enchanted (Travincal)
    - Bremm Sparkfist is now always Cursed (Durance of Hate Level 3)
+
+## Mercenary
+- Doubled Mercenary HP per level
 
 ## Difficulties
 
