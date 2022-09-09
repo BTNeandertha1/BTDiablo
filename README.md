@@ -74,11 +74,14 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 
-# Patch Notes XXVI
+# Patch Notes XXVI.1
 - Added Skills that "Always Hit" for all classes except Sorceress
 - Added Hunger to Beast Runeword
 - Fixed ingame graphic for BK's Tribal Guardian
+- Burial Grounds Has Elite Spawns now and also includes Chargers
+- Blood Raven and Eldritch monsters changed
 - All Insanity Difficulty has Area Level 85
+   - Worldstone Chamber 87 Has Death Lords and Venom Lords in Insanity
    - Uber Areas 96
    - Uber Trist 99
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
@@ -634,11 +637,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 ## Monsters
 - Mephisto can fly now
 - Summoner has 3x HP and crits 3x as often
-- Eldritch the Rectifier is now a Soul Pack
+- Eldritch the Rectifier is now a Death Lord Pack
 - **Duriel's Town Portal Scroll Drop rate decreased significantly
 - **Nihlathak, Countess and Izual have less of a chance to drop gold
    - Countess has her drop table fixed P8 now is best for not only keys but also Runes
 - Following Bosses can now drop Uber Keys
+- Blood Raven now summons Uber Dolls and Has Charger Minions
    - Blood Raven = Terror  | Base Drop Chance 1:14
    - Radament = Hate | Base Drop Chance 1:13.4
    - Izual = Destruction | Base Drop Chance 1:12.2
@@ -687,6 +691,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 85 All Zones
 - Cave Level (Both Levels) Increased Density by ~25%
 - Mausoleum Increased Density by ~25%
+- Burial Grounds Has Elite Spawns now and also includes Chargers
 - Crypt Increased Density by ~25%
 - Cow Level and increased density an additional 10% (was 81)
 
