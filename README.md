@@ -728,7 +728,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Prayer no longer costs Mana
 - Multiple Shot Range decreased by ~50%
 - Guided Arrow Skill Pierces
-- Poison dagger Uniteruptable and Always Hits
+- Poison dagger Uninterruptable and Always Hits
 - Tiger Strike Always Hits
 - Bash Always Hits
 - Leap Attack Always Hits
