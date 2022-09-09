@@ -74,13 +74,13 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 
-# Patch Notes XXV.1
-- Adjusted Countess Key Drop Rate to be more like D2R Values
-- Endgame Augments now have 50% GF was 25% GF
-- Guided Arrow Corrected and does not use Quantity
-- Doubled Mercenary HP per level
-- Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
-- Fixed a bug with Safety weapons not working with all bases
+# Patch Notes XXVI
+- Added Skills that "Always Hit" for all classes except Sorceress
+- Added Hunger to Beast Runeword
+- Fixed ingame graphic for BK's Tribal Guardian
+- All Insanity Difficulty has Area Level 85
+   - Uber Areas 96
+   - Uber Trist 99
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
@@ -184,6 +184,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Removed + Damage
    - Removed Venom
    - Added 300-350 Minimum Damage and Maximum Damage 
+- Beast [Ber Tir Um Mal Lum]
+   - Grizzly Charges Changed to oskill Hunger
    
 ## Runes
 - Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
@@ -682,46 +684,32 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 (Level changes are for Insanity Only)
 
 ### Act 1
-- 85 Cave Level (Both Levels) Increased Density by ~25%
-- 85 Mausoleum Increased Density by ~25%
-- 85 Crypt Increased Density by ~25%
-- 85 Hole Level (Both Levels)
-- 85 Tristram
-- 81 Tower 1	
-- 82 Tower 2
-- 83 Tower 3
-- 84 Tower 4
-- 85 Tower 5
-- 83 Cow Level and increased density an additional 10% (was 81)
+- 85 All Zones
+- Cave Level (Both Levels) Increased Density by ~25%
+- Mausoleum Increased Density by ~25%
+- Crypt Increased Density by ~25%
+- Cow Level and increased density an additional 10% (was 81)
 
 ### Act 2
+- 85 All Zones
 - Town spawn and Town Portal locations changed 
-- 85 Sewers (All Levels)
-- 85 Halls of the Dead (All Levels)
-- 85 Maggot Lair (All Levels)
-- 85 Claw Viper Temple (Both Levels)
-- 85 Tombs
 
 ### Act 3
+- 85 All Zones
 - Town Spawn location changed
-- 85 Great Marsh
-- 85 Flayer Dungeon (All Levels)
-- 85 Spider Cavern
 - Lower Kurast is DANGEROUS in Agony and Insanity... Like really...
 - Durance of Hate Level 3 
    - Added Aura to Maffer Dragonhand
    - Added Aura to Wyand Voidbringer
 
 ### Act 4
+- 85 All Zones
 - Stash and Deckard Cain locations Changed
-- 84 Outer Steps 
-- 85 Plains of Despair
-- 85 City of the Damned
 - Chaos Seal Bosses Same TC as Baal Waves
 
 ### Act 5
-- Stash and Deckard Cain locations Changed
 - 85 All Zones
+- Stash and Deckard Cain locations Changed
 - Madawc is always Aura Enchanted
 - 96 Uber Areas (Forgotten Sands, Furnace of Pain and Matron’s Den) Also greatly increased Elite packs and density
 - 99 Uber Tristram 
@@ -740,11 +728,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Prayer no longer costs Mana
 - Multiple Shot Range decreased by ~50%
 - Guided Arrow Skill Pierces
-
-## Test Mode
-Removed Test Mode
-- 1 Stamina cubed = 3 SOH
-- 1 TP Scroll = Hellfire Ashes
-- 1 Thawing = 3 Terror Keys
-- 2 Thawing = 3 Hate Keys
-- 3 Thawing = 3 Destruction Keys
+- Poison dagger Uniteruptable and Always Hits
+- Tiger Strike Always Hits
+- Bash Always Hits
+- Leap Attack Always Hits
+- Hunger Always Hits
