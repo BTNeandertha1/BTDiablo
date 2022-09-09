@@ -841,7 +841,7 @@ Countess Rune (N)			3					5	Runes 8	15																						0
 Countess Rune (H)			3					5	Runes 12	15																						0
 Countess Item			5					19	"gld,mul=1280"	11	Act 1 Equip C	19	Act 2 Junk	15	Act 2 Good	3																0
 Countess Item (N)			5					19	"gld,mul=1536"	11	Act 1 (N) Equip C	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
-Countess Item (H)			5					19	pk1	1	"gld,mul=2048"	5	Act 1 (H) Equip C	22	Act 2 (H) Junk	18	Act 2 (H) Good	3														0
+Countess Item (H)			5					19	"gld,mul=2048"	5	Act 1 (H) Equip C	21	Act 2 (H) Junk	18	Act 2 (H) Good	3	pk1	2														0
 Countess			-2	883	883	883	1024	0	Countess Rune	1	Countess Item	1																				0
 Countess (N)			-2	883	883	983	1024	0	Countess Rune (N)	1	Countess Item (N)	1																				0
 Countess (H)			-2	883	883	983	1024	0	Countess Rune (H)	1	Countess Item (H)	1																				0

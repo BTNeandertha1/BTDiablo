@@ -74,7 +74,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 
-# Patch Notes XXV
+# Patch Notes XXV.1
+- Adjusted Countess Key Drop Rate to be more like D2R Values
+- Endgame Augments now have 50% GF was 25% GF
+- Guided Arrow Corrected and does not use Quantity
 - Doubled Mercenary HP per level
 - Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
 - Fixed a bug with Safety weapons not working with all bases
@@ -561,9 +564,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 99 Stacked Essences + Stamina Potion = 33 of the next tier**
 
 ## Endgame
-- OP Repeatable recipes:
-   - Zod + SOJ + Sur + SOH + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 25GF + 1 Light Radius
-   - Cham + SOH + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 25%GF + 1 Light Radius
+- Augment Recipes:
+   - Zod + SOJ + Sur + SOH + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1 Light Radius
+   - Cham + SOH + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1 Light Radius
    
 ## Corruptions
 - Corruptions have a 40% Chance to reroll as a random rare and 60% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + SOH)
