@@ -74,16 +74,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 
-# Patch Notes XXVI.1
-- Added Skills that "Always Hit" for all classes except Sorceress
-- Added Hunger to Beast Runeword
-- Fixed ingame graphic for BK's Tribal Guardian
-- Burial Grounds Has Elite Spawns now and also includes Chargers
-- Blood Raven and Eldritch monsters changed
-- All Insanity Difficulty has Area Level 85
-   - Worldstone Chamber 87 Has Death Lords and Venom Lords in Insanity
-   - Uber Areas 96
-   - Uber Trist 99
+# Patch Notes XXVI.2
+- Radament's Hate Key Drop Table is the same as Summoner's Now
+- Great Marsh
+   - Removed Frogs and Hulks
+   - Added Ghosts
+   
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
@@ -702,6 +698,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 ### Act 3
 - 85 All Zones
 - Town Spawn location changed
+- Great Marsh
+   - Removed Frogs and Hulks
+   - Added Ghosts
 - Lower Kurast is DANGEROUS in Agony and Insanity... Like really...
 - Durance of Hate Level 3 
    - Added Aura to Maffer Dragonhand
