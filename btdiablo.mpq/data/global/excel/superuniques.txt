@@ -53,7 +53,7 @@ Megaflow Rectifier	Megaflow Rectifier	bloodlord4	49		3	6	30	8	8	1	0	1	21	21	21	A
 Eyeback Unleashed	Eyeback Unleashed	deathmauler1	50		5	6	30	2	2	0	0		8	8	8	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
 Threash Socket	Threash Socket	siegebeast3	51		7	30	0	0	0	0	0		37	37	37	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	0
 Pindleskin	Pindleskin	reanimatedhorde5	52		9	30	0	6	6	0	0		22	22	22	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	0
-Snapchip Shatter	Snapchip Shatter	frozenhorror1	53		7	18	30	4	4	0	0		23	23	23	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+Snapchip Shatter	Snapchip Shatter	frozenhorror1	53		7	18	30	4	4	0	0		23	23	23	Act 5 Super C	Act 5 (N) Super C	Snapchip (H)	0
 Anodized Elite	Anodized Elite	succubus4	54		9	7	30	6	6	0	0		38	38	38	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Vinvear Molech	Vinvear Molech	succubuswitch2	55		30	5	18	0	0	0	0		23	23	23	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
 Sharp Tooth Sayer	Sharp Tooth Sayer	overseer3	56		6	30	0	3	3	0	0	1	24	24	24	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0

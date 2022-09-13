@@ -9,16 +9,16 @@ Crossbow Quiver	xboq	misl	seco	1	1	rarm	larm		xbow	1	1	0	1			1	0	1	25	2	40	3	0	3
 Player Body Part	play	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Herb	herb	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0							misc	0
 Potion	poti	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Ring	ring	misc		0	1	rrin	lrin			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
+Ring	ring	misc	merc	0	1	rrin	lrin			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
 Elixir	elix	misc		0	0					0	0	0	0			0	1	0	25	0	40	0	0	3			0							misc	0
-Amulet	amul	misc		0	1	neck	neck			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			3	invamu1	invamu2	invamu3				misc	0
+Amulet	amul	misc	merc	0	1	neck	neck			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			3	invamu1	invamu2	invamu3				misc	0
 Charm	char	misc		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
 Not Used				0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Boots	boot	armo		1	1	feet	feet			0	0	0	0		1	0	0	1	48	2	74	3	0	3			0							armo	0
 Gloves	glov	armo		1	1	glov	glov			0	0	0	0		1	0	0	1	48	2	74	3	0	3			0							armo	0
 Not Used				0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Book	book	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Belt	belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	1	48	2	74	2	0	3			0							armo	0
+Belt	belt	armo	merc	1	1	belt	belt			0	0	0	0		1	0	0	1	48	2	74	2	0	3			0							armo	0
 Gem	gem	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Torch	torc	misc		0	1					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Scroll	scro	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
@@ -36,7 +36,7 @@ Spear	spea	sppl		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Polearm	pole	sppl		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Crossbow	xbow	miss		1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Mace	mace	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Helm	helm	armo		1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0
+Helm	merc			1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0
 Missile Potion	tpot	thro		0	1	rarm	larm			1	1	1	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Quest	ques			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Body Part	body	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
@@ -205,3 +205,4 @@ Ber Rune Generic	r30g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc
 Jah Rune Generic	r31g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Cham Rune Generic	r32g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Zod Rune Generic	r33g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Merc Equip	helm	armo	merc	1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0

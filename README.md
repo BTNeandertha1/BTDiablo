@@ -65,6 +65,7 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - Stackit (https://www.nexusmods.com/diablo2resurrected/mods/80) on Nexusmods to use the assets and help with functionality of stacking!
 - Stucifer "loot filter" display
 - MrBrooksGaming Added UI Controller Support
+- Bonesy for some Merc Gear files
 
 # Future Ideas
 Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/16) issue.  
@@ -74,11 +75,14 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 
-# Patch Notes XXVI.2
-- Radament's Hate Key Drop Table is the same as Summoner's Now
-- Great Marsh
-   - Removed Frogs and Hulks
-   - Added Ghosts
+# Patch Notes XXVII
+- After First Quest Kill, All Act Bosses Always Drop their Essence (only 1)
+- Key Bosses
+   - The Smith ( Terror Key)
+   - Hephasto (Hate Key)
+   - Snapchip Shatter (Destruction Key)
+- Mercenaries can now use Rings + Amulets + Belts
+- Reduced Essence Prices at Akara
    
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -93,6 +97,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Negative 199 MF
 - Start with nothing except Horadric Cube
 - Horadric Cube is now 6x6
+- More Uber Key Bosses
+- Insanity Difficulty is Level 85!
+- Additional Merc Gear
 
 ## Characters
 - Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
@@ -188,7 +195,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    
 ## Runes
 - Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
-- **Dol Rune has 2 Life After Each Kill for all slots
+- Dol Rune has 2 Life After Each Kill for all slots
 - Ist and higher Runes now all have 1% Experience Gained
 - Cham Rune
    - Changed Armor and Helmet to 34% Reduced Curse Duration (was Cannot Be Frozen)
@@ -232,7 +239,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 1-3 Faster Cast Rate
    - 5-10 Increased Attack Speed
    - Cannot Be frozen
-- **Ogre Axe Now gets up to 5 Sockets
+- Ogre Axe Now gets up to 5 Sockets
    
 ## Uniques
 - Cranium Basher
@@ -417,7 +424,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - BK Sacred Charge
    - Remove knockback
    - 3 Sockets
-- **BK Tribal Guardian is now a Colosus Sword
+- BK Tribal Guardian is now a Colosus Sword
    - 3 Sockets
 - Griswolds Armor
    - 1 to Paladin Skills
@@ -528,7 +535,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 ## Shop
 - Added Charsi's Malus to Imbue (575k)
 - Added Larzuk's Forging Hammer (2.2 Mil)
-- Added Essences for Gold at Akara (150k B, 325k Y, 750k R, 1.5 Mil G)
+- Added Essences for Gold at Akara (125k B, 250k Y, 500k R, 1 Mil G)
 - Added Full Rejuvination Potions at Alkor
 - Added MF Potion grants +150% MF for 20 Hour (Effect lost on death or S&E) at Alkor (750k)
 - Added BigDinn at Ormus (90k)
@@ -631,17 +638,25 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 		 - 15% All Resistance
 		 
 ## Monsters
+- After First Quest Kill, All Act Bosses Always Drop their Essence (only 1)
 - Mephisto can fly now
 - Summoner has 3x HP and crits 3x as often
 - Eldritch the Rectifier is now a Death Lord Pack
-- **Duriel's Town Portal Scroll Drop rate decreased significantly
-- **Nihlathak, Countess and Izual have less of a chance to drop gold
+- Duriel's Town Portal Scroll Drop rate decreased significantly
+- Nihlathak, Countess and Izual have less of a chance to drop gold
    - Countess has her drop table fixed P8 now is best for not only keys but also Runes
 - Following Bosses can now drop Uber Keys
 - Blood Raven now summons Uber Dolls and Has Charger Minions
-   - Blood Raven = Terror  | Base Drop Chance 1:14
-   - Radament = Hate | Base Drop Chance 1:13.4
-   - Izual = Destruction | Base Drop Chance 1:12.2
+- Key Bosses
+   - Blood Raven = Terror
+   - Countess = Terror
+   - The Smith = Terror
+   - Radament = Hate
+   - The Summoner = Hate
+   - Hephasto = Hate
+   - Izual = Destruction
+   - Nihlathak = Destruction
+   - Snapchip Shatter = Destruction
 
 ## Elites
 - 2x Aura Range
@@ -659,6 +674,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 
 ## Mercenary
 - Doubled Mercenary HP per level
+- Mercenaries can now use Rings + Amulets + Belts
 
 ## Difficulties
 
