@@ -83,6 +83,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Snapchip Shatter (Destruction Key)
 - Mercenaries can now use Rings + Amulets + Belts
 - Reduced Essence Prices at Akara
+- Restored Regular Mercenary Life per level
    
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
