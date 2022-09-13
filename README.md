@@ -674,7 +674,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Bremm Sparkfist is now always Cursed (Durance of Hate Level 3)
 
 ## Mercenary
-- Doubled Mercenary HP per level
 - Mercenaries can now use Rings + Amulets + Belts
 
 ## Difficulties
