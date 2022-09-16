@@ -412,7 +412,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 3-4 Shadow and Martial Art Skills
    - 1 to Dragon Flight
 - Shadow Killer
-   - 3-4 Shadow Disciplins
+   - 3-5 Shadow Disciplins
    - 20 Increased Attack Speed
    - Ignore Target's Defense
    - 3 to Blade Shield
