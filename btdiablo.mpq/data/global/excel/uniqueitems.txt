@@ -334,7 +334,7 @@ Darkforge Spawn	330	100	1		1		72	64	nef	bloodlord skull		5	5000	cred	cred						a
 Widowmaker	331	100	1		1		73	65	6sw	ward bow		5	5000	dred	dred		invswbu				dmg%		150	200	deadly		33	33	ignore-ac		1	1	magicarrow		11	11	oskill	Guided Arrow	3	5																														0
 Bloodraven's Charge	332	100	1		1		79	71	amb	matriarchal bow		5	5000	dgld	dgld		invswbu				dmg%		180	230	att%		200	300	explosivearrow		13	13	skilltab	0	4	6	charged	Revive	30	5	swing2		30	30																										0
 Ghostflame	333	100	1		1		70	62	7bl	legend spike		5	5000	cblu	cblu						fireskill		4	4	pierce-fire		5	10	dmg-mag		108	108	extra-fire		5	10	ethereal		1	1	indestruct		1	1	light		2	2	cast2		30	30	res-fire-max		5	5														0
-Shadowkiller	334	100	1		1		85	78	7cs	battle cestus		5	5000				invaxfu				dmg%		170	220	reduce-ac		25	25	swing2		20	20	mana-kill		10	15	skilltab	19	4	6	ethereal		1	1	indestruct		1	1	skill	Blade Shield	3	3	ignore-ac		1	1														0
+Shadowkiller	334	100	1		1		85	78	7cs	battle cestus		5	5000				invaxfu				dmg%		170	220	reduce-ac		25	25	swing2		20	20	mana-kill		10	15	skilltab	19	3	5	ethereal		1	1	indestruct		1	1	skill	Blade Shield	3	3	ignore-ac		1	1														0
 Gimmershred	335	100	1		1		78	70	7ta	flying axe		5	5000	lgrn							dmg%		160	210	dmg-fire		218	483	dmg-cold	100	176	397	dmg-ltng		29	501	stack		60	60	swing2		30	30																										0
 Griffon's Eye	336	100	1		1		84	76	ci3	diadem		5	5000								ac		100	200	cast2		25	25	allskills		1	1	extra-ltng		10	15	pierce-ltng		15	20																														0
 Windhammer	337	100	1		1		76	68	7m7	ogre maul		5	5000	cblu	cblu		invmau				dmg%		180	230	crush		50	50	swing2		60	60	hit-skill	Twister	33	22																																		0
