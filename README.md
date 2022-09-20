@@ -78,7 +78,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 # Patch Notes XXVII
 - Duration of Skills Adjusted
 - Adjusted Some Filter Stuff for QOL
-- Changed Full Juvs to Ormus/Jamella/Malah
+- Changed Full Juvs to Akara/Lysander/Ormus/Jamella/Malah
+- Increased Uber Key drops slightly on all bosses
    
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?

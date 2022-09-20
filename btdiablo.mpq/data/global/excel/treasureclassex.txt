@@ -687,7 +687,7 @@ Durielq (N) - Base			7	993	993	1024	1024	19	Act 3 (N) Equip A	19	Act 3 (N) Good	
 Durielq (H) - Base			7	993	993	1024	1024	19	Act 3 (H) Equip A	19	Act 3 (H) Good	3	tes	2																		0
 Radament			5	900	900	900	1024	19	"gld,mul=1280"	11	Act 3 Equip B	19	Act 3 Junk	15	Act 3 Good	3																0
 Radament (N)			5	900	900	900	1024	19	"gld,mul=1536"	11	Act 3 (N) Equip B	19	Act 3 (N) Junk	15	Act 3 (N) Good	3																0
-Radament (H)			5	900	900	900	1024	19	"gld,mul=2048"	9	Act 3 (H) Equip C	15	Act 3 (H) Junk	9	Act 3 (H) Good	3	pk2	1														0
+Radament (H)			5	900	900	900	1024	19	"gld,mul=2048"	9	Act 3 (H) Equip C	15	Act 3 (H) Junk	9	Act 3 (H) Good	3	pk2	2														0
 Flying Scimitar			1					100	Act 2 Good	3	scm	57																				0
 Flying Scimitar (N)			1					100	Act 2 (N) Good	3	scm	25	9sm	32																		0
 Flying Scimitar (H)			1					100	Act 2 (H) Good	3	scm	7	9sm	18	7sm	32																0
@@ -709,7 +709,7 @@ Diabloq (N)			7	993	993	1024	1024	15	Act 5 (N) Equip A	52	Act 5 (N) Good	3						
 Diabloq (H)			7	993	993	1024	1024	15	Act 5 (H) Equip A	52	Act 5 (H) Good	3	bet	1																		0
 Summoner			5	900	900	972	1024	19	"gld,mul=1280"	9	Act 2 Equip C	15	Act 3 Junk	5	Act 2 Good	3	Act 3 Magic A	4														0
 Summoner (N)			5	900	900	972	1024	19	"gld,mul=1536"	9	Act 2 (N) Equip C	15	Act 3 (N) Junk	5	Act 2 (N) Good	3	Act 3 (N) Magic A	4														0
-Summoner (H)			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 2 (H) Equip C	15	Act 3 (H) Junk	5	Act 2 (H) Good	3	Act 3 (H) Magic A	4	pk2	1												0
+Summoner (H)			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 2 (H) Equip C	15	Act 3 (H) Junk	5	Act 2 (H) Good	3	Act 3 (H) Magic A	4	pk2	2												0
 Council			3	650	800	800	1024	19	"gld,mul=1280"	9	Act 4 Equip A	15	Act 4 Junk	5	Act 4 Good	3	Act 4 Magic A	4														0
 Council (N)			3	650	800	800	1024	19	"gld,mul=1536"	9	Act 4 (N) Equip A	15	Act 4 (N) Junk	5	Act 4 (N) Good	3	Act 4 (N) Magic A	4														0
 Council (H)			3	650	800	800	1024	19	"gld,mul=2048"	9	Act 4 (H) Equip A	15	Act 4 (H) Junk	5	Act 4 (H) Good	3	Act 4 (H) Magic A	4														0
@@ -724,10 +724,10 @@ Trapped Soul (N)			1					100	gld	19	Act 4 (N) Equip A	8	Act 4 (N) Junk	33							
 Trapped Soul (H)			1					100	gld	19	Act 4 (H) Equip A	8	Act 4 (H) Junk	33																		0
 Haphesto			5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3																0
 Haphesto (N)			5	800	800	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip A	19	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
-Haphesto (H)			5	800	800	900	1024	19	"gld,mul=2048"	10	Act 5 (H) Equip A	19	Act 5 (H) Junk	9	Act 5 (H) Good	3	pk2	1														0
+Haphesto (H)			5	800	800	900	1024	19	"gld,mul=2048"	10	Act 5 (H) Equip A	19	Act 5 (H) Junk	9	Act 5 (H) Good	3	pk2	2														0
 Nihlathak			5	900	900	900	1024	19	"gld,mul=1280"	14	Act 5 Equip B	19	Act 5 Junk	5	Act 5 Good	3																0
 Nihlathak (N)			5	900	900	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip B	19	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
-Nihlathak (H)			5	900	900	900	1024	19	"gld,mul=2048"	10	Act 5 (H) Equip B	19	Act 5 (H) Junk	9	Act 5 (H) Good	3	pk3	1														0
+Nihlathak (H)			5	900	900	900	1024	19	"gld,mul=2048"	10	Act 5 (H) Equip B	19	Act 5 (H) Junk	9	Act 5 (H) Good	3	pk3	2														0
 Baal			7	983	983	983	1024	15	"gld,mul=1280"	5	Act 1 (N) Equip A	52	Act 1 (N) Junk	5	Act 1 (N) Good	3																0
 Baal (N)			7	983	983	983	1024	15	"gld,mul=1536"	5	Act 1 (H) Equip A	52	Act 1 (H) Junk	5	Act 1 (H) Good	3																0
 Baal Essence (H)			1					0	fed	1																						0
@@ -738,13 +738,13 @@ Baalq (N)			7	993	993	1024	1024	15	Act 1 (H) Equip A	52	Act 1 (H) Good	3								
 Baalq (H)			7	993	993	1024	1024	15	Act 5 (H) Equip B	52	Act 5 (H) Good	3	fed	1																		0
 Blood Raven			5	800	800	972	1024	19	"gld,mul=1280"	14	Act 1 Equip B	19	Act 1 Junk	5	Act 1 Good	3																0
 Blood Raven (N)			5	800	800	972	1024	19	"gld,mul=1536"	14	Act 1 (N) Equip B	19	Act 1 (N) Junk	5	Act 1 (N) Good	3																0
-Blood Raven (H)			5	800	800	972	1024	19	"gld,mul=2048"	10	Act 1 (H) Equip B	19	Act 1 (H) Junk	9	Act 1 (H) Good	3	pk1	1														0
+Blood Raven (H)			5	800	800	972	1024	19	"gld,mul=2048"	10	Act 1 (H) Equip B	19	Act 1 (H) Junk	9	Act 1 (H) Good	3	pk1	2														0
 Smith			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Smith (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
-Smith (H)			5	800	800	972	1024	19	"gld,mul=2048"	10	Act 1 (H) Equip B	19	Act 1 (H) Junk	9	Act 1 (H) Good	3	pk1	1														0
+Smith (H)			5	800	800	972	1024	19	"gld,mul=2048"	10	Act 1 (H) Equip B	19	Act 1 (H) Junk	9	Act 1 (H) Good	3	pk1	2														0
 Izual			5	800	800	972	1024	19	"gld,mul=1280"	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3																0
 Izual (N)			5	800	800	972	1024	19	"gld,mul=1536"	14	Act 4 (N) Equip B	19	Act 4 (N) Junk	5	Act 4 (N) Good	3																0
-Izual (H)			5	800	800	972	1024	19	"gld,mul=2048"	10	Act 4 (H) Equip B	19	Act 4 (H) Junk	9	Act 4 (H) Good	3	pk3	1														0
+Izual (H)			5	800	800	972	1024	19	"gld,mul=2048"	10	Act 4 (H) Equip B	19	Act 4 (H) Junk	9	Act 4 (H) Good	3	pk3	2														0
 Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																				0
 Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																				0
 Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																				0
@@ -852,7 +852,7 @@ Countess Rune (N)			3					5	Runes 8	15																						0
 Countess Rune (H)			3					5	Runes 12	15																						0
 Countess Item			5					19	"gld,mul=1280"	11	Act 1 Equip C	19	Act 2 Junk	15	Act 2 Good	3																0
 Countess Item (N)			5					19	"gld,mul=1536"	11	Act 1 (N) Equip C	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
-Countess Item (H)			5					19	"gld,mul=2048"	5	Act 1 (H) Equip C	21	Act 2 (H) Junk	18	Act 2 (H) Good	3	pk1	2														0
+Countess Item (H)			5					19	"gld,mul=2048"	5	Act 1 (H) Equip C	21	Act 2 (H) Junk	18	Act 2 (H) Good	3	pk1	3														0
 Countess			-2	883	883	883	1024	0	Countess Rune	1	Countess Item	1																				0
 Countess (N)			-2	883	883	983	1024	0	Countess Rune (N)	1	Countess Item (N)	1																				0
 Countess (H)			-2	883	883	983	1024	0	Countess Rune (H)	1	Countess Item (H)	1																				0
@@ -862,4 +862,4 @@ Uber Izual			1	1024				0	mbr	1																						0
 Pandemonium Key A			1	1024				0	pk1	1																						0
 Pandemonium Key B			1	1024				0	pk2	1																						0
 Pandemonium Key C			1	1024				0	pk3	1																						0
-Snapchip (H)			5	900	900	900	1024	19	"gld,mul=2048"	10	Act 5 (H) Equip B	19	Act 5 (H) Junk	9	Act 5 (H) Good	3	pk3	1														0
+Snapchip (H)			5	900	900	900	1024	19	"gld,mul=2048"	10	Act 5 (H) Equip B	19	Act 5 (H) Junk	9	Act 5 (H) Good	3	pk3	2														0
