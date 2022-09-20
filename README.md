@@ -80,6 +80,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjusted Some Filter Stuff for QOL
 - Changed Full Juvs to Akara/Lysander/Ormus/Jamella/Malah
 - Increased Uber Key drops slightly on all bosses
+- Essence Recipe changed 2 Blue and 2 Yellow to Up to next essence
    
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -547,8 +548,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 ## Recipes
 - Rune Downgrading 1 to 1 (Flawed Gem + Rune = Downgrade)
 - Removed Level Requirement increase upon Upping and item.
-- Essence Transmuting 3 = 1 of next Tier
-   - Blue > Yellow > Red > Green
+- Essence Transmuting to next Tier
+   - 2 Blue > 2 Yellow > 3 Red > 3 Green
 - 3 Green Essence = 1 Destruction Key
 - Uber Key Transmuting 3+(TP Scroll or ID Scroll) = 1 of a different type | changed the Colors of the keys
    - TP Scroll = T > H > D > T

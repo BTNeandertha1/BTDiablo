@@ -369,8 +369,8 @@ not used	0			100					3	"weap,tmp"	r01g	gcv					useitem				levelreq			2	2	att			3
 1 Tir + 1 Key -> Eld Rune	1			100	18	70	1		2	"103,qty=1"	"ggm1,qty=1"						102																																																																																							0
 1 Eld + 1 Key -> El Rune	1			100	18	70	1		2	"102,qty=1"	"ggm1,qty=1"						101																																																																																							0
 1 El + 1 Key -> Rejuv	1			100	18	70	1		2	"101,qty=1"	"ggm1,qty=1"						rvl																																																																																							0
-3 Twisted Essence of Suffering -> 1 Charged Essence of Hatred	1			100					3	"tes,qty=3"							ceh																																																																																							0
-3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1			100					3	"ceh,qty=3"							bet																																																																																							0
+3 Twisted Essence of Suffering -> 1 Charged Essence of Hatred	1			100					2	"tes,qty=2"							ceh																																																																																							0
+3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1			100					2	"ceh,qty=2"							bet																																																																																							0
 3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100					3	"bet,qty=3"							fed																																																																																							0
 3 Festering Essence of Destruction -> Key of Destruction	1			100					3	"fed,qty=3"							pk3																																																																																							0
 3 Twisted Essence of Suffering -> 1 Charged Essence of Hatred	1			100	18	70	99		2	tes	vps						"ceh,qty=33"																																																																																							0
