@@ -76,14 +76,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Add more evil urns?
 
 # Patch Notes XXVII
-- After First Quest Kill, All Act Bosses Always Drop their Essence (only 1)
-- Key Bosses
-   - The Smith ( Terror Key)
-   - Hephasto (Hate Key)
-   - Snapchip Shatter (Destruction Key)
-- Mercenaries can now use Rings + Amulets + Belts
-- Reduced Essence Prices at Akara
-- Restored Regular Mercenary Life per level
+- Duration of Skills Adjusted
+- Adjusted Some Filter Stuff for QOL
+- Changed Full Juvs to Ormus/Jamella/Malah
    
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -537,7 +532,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Added Charsi's Malus to Imbue (575k)
 - Added Larzuk's Forging Hammer (2.2 Mil)
 - Added Essences for Gold at Akara (125k B, 250k Y, 500k R, 1 Mil G)
-- Added Full Rejuvination Potions at Alkor
+- Added Full Rejuvination Potions at Ormus, Jamella and Malah
 - Added MF Potion grants +150% MF for 20 Hour (Effect lost on death or S&E) at Alkor (750k)
 - Added BigDinn at Ormus (90k)
    - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
@@ -753,3 +748,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Bash Always Hits
 - Leap Attack Always Hits
 - Hunger Always Hits
+- Infinite Durations changes
+   - Frozen Armor
+   - Chilling Armor
+   - Shivering Armor
+   - Energy Shield
+   - Enchant
+   - Revives
+- Barb Shout Buffs have baseline 5 min duration

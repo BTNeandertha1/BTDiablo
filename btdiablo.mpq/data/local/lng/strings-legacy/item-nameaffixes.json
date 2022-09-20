@@ -2,7 +2,7 @@
   {
     "id": 1723,
     "Key": "Low Quality",
-    "enUS": "ÿc5•ÿc6",
+    "enUS": "Low Quality",
     "zhTW": "劣等的",
     "deDE": "[ms]schlechter[fs]schlechte[ns]schlechtes[pl]schlechte",
     "esES": "de baja calidad",
@@ -19,7 +19,7 @@
   {
     "id": 1724,
     "Key": "Damaged",
-    "enUS": "ÿc5•ÿc6",
+    "enUS": "Ø",
     "zhTW": "損壞的",
     "deDE": "[ms]beschädigter[fs]beschädigte[ns]beschädigtes[pl]beschädigte",
     "esES": "[fs]dañada[ms]dañado[fp]dañadas[mp]dañados",
@@ -36,7 +36,7 @@
   {
     "id": 1725,
     "Key": "Cracked",
-    "enUS": "ÿc5•ÿc6",
+    "enUS": "Ø",
     "zhTW": "破舊的",
     "deDE": "[ms]rissiger[fs]rissige[ns]rissiges[pl]rissige",
     "esES": "[fs]agrietada[ms]agrietado[fp]agrietadas[mp]agrietados",
@@ -53,7 +53,7 @@
   {
     "id": 1727,
     "Key": "Hiquality",
-    "enUS": "Superior",
+    "enUS": "Ø",
     "zhTW": "特等的",
     "deDE": "[fs]gute[ms]guter[ns]gutes[pl]gute",
     "esES": "[fs]superior[ms]superior[fp]superiores[mp]superiores",
@@ -11732,7 +11732,7 @@
   {
     "id": 20910,
     "Key": "Crude",
-    "enUS": "ÿc5•ÿc6",
+    "enUS": "Crude",
     "zhTW": "粗製的",
     "deDE": "[ms]einfacher[fs]einfache[ns]einfaches[pl]einfache",
     "esES": "[fs]basta[ms]basto[fp]bastas[mp]bastos",
