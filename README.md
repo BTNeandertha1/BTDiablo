@@ -98,6 +98,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - More Uber Key Bosses
 - Insanity Difficulty is Level 85!
 - Additional Merc Gear
+- Gold has a huge demand
+- Crafting is very good
 
 ## Characters
 - Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
