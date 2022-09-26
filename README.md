@@ -77,7 +77,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes XXVII
-- Fixed Crashes related to your mercenary dying.
+- Removed
+   - 35% Chance to Cast Level 50 Armegeddon When Struck
+   - 35% Chance to Cast Level 50 Hurricane When Struck
+- Monsters target Spirits/Wisps less (oak sage etc)
    
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -620,8 +623,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 	     - 15% Chance to Cast Level 21 Cyclone Armor When Struck
 		 - 20% Chance to Cast Level 20 Static Field When Struck
 		 - 15% Chance to Cast Level 24 Frost Nova When Struck
-		 - 35% Chance to Cast Level 50 Armegeddon When Struck
-		 - 35% Chance to Cast Level 50 Hurricane When Struck
 		 - Level 31 Prayer Aura when Equipped
          - Level 10 Vigor Aura When Equipped
          - Level 10 Blessed Aim Aura When Equipped
