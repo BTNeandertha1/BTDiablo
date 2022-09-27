@@ -732,6 +732,9 @@ Throwing Javelins	1			100					2	"jave,crf,nos"	lmr						useitem				sock			1	1			
 	0																																																																																																							0
 ENDGAME RECIPES	0																																																																																																							0
 																																																																																																								0
+Reroll Charms	1			0					3	"cm1,mag,qty=3"							"cm1,mag"		95																																																																																					0
+Reroll Charms	1			0					3	"cm2,mag,qty=3"							"cm2,mag"		95																																																																																					0
+Reroll Charms	1			0					3	"cm3,mag,qty=3"							"cm3,mag"		95																																																																																					0
 Hellfire Ashes	1			0					2	Hellfire Torch	lmr						tds																																																																																							0
 Break down Anni to SOH	1			0					2	Annihilus	mls						std																																																																																							0
 Break down Gheeds to MF potion	1			0					2	Gheed's Fortune	mls						mfp																													mfp																																																										0
