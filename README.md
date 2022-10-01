@@ -77,11 +77,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Removed
-   - 35% Chance to Cast Level 50 Armegeddon When Struck
-   - 35% Chance to Cast Level 50 Hurricane When Struck
-- Monsters target Spirits/Wisps less (oak sage etc)
-- 3 Charms cubed = 1 of the same charm type
+- Meteor fall time is 18 frames (was 60)
+- Fixed the Stamina + Essence transmute recipe for Blue and Yellow essences
+- Fixed MF potion graphic being too large for some players
+- Adjusted item filter colors for gems and keys
+- Blood Raven Summons are souls
    
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -538,7 +538,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Added Larzuk's Forging Hammer (2.2 Mil)
 - Added Essences for Gold at Akara (125k B, 250k Y, 500k R, 1 Mil G)
 - Added Full Rejuvination Potions at Ormus, Jamella and Malah
-- Added MF Potion grants +150% MF for 20 Hour (Effect lost on death or S&E) at Alkor (750k)
+- Added MF Potion grants +150% MF for 20 Minutes (Effect lost on death or S&E) at Alkor (750k)
 - Added BigDinn at Ormus (90k)
    - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
 - Added Hratli's Spiritual Herb (2.25M)
@@ -561,16 +561,18 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 4 Unique Jewerly (Rings, Amulets, Jewels) = SOH
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
-- Removed Gem requirements for Rune Upgrading ** and repairing charges on items**
+- Removed Gem requirements for Rune Upgrading and repairing charges on items
 - Charsi's Malus + Arrows or Bolts = Replenish Quantity 
 - Hratli's Spiritual Herb + SOH
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
    - Replenishes Quantity for Any Throwing Weapons
 - 9 Jewels + Charsi's Malus = 1 Rare Jewel
-- 99 Stacked Flawless Gems + Stamina Potion = 33 Perfect Gems of the same type**
-- 99 Stacked Runes El-Lem + Stamina Potion = 33 Runes of the next tier**
-- 100 Stacked Runes Pul-Cham + Stamina Potion = 50 Runes of the next tier**
-- 99 Stacked Essences + Stamina Potion = 33 of the next tier**
+- 99 Stacked Flawless Gems + Stamina Potion = 33 Perfect Gems of the same type
+- 99 Stacked Runes El-Lem + Stamina Potion = 33 Runes of the next tier
+- 100 Stacked Runes Pul-Cham + Stamina Potion = 50 Runes of the next tier
+- 100 Stacked Blue and Yellow Essences + Stamina Potion = 50 of the next tier
+- 99 Stacked Red Essences + Stamina Potion = 33 of the next tier
+- 3 Charms cubed = 1 of the same charm type
 
 ## Endgame
 - Augment Recipes:
@@ -645,7 +647,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Nihlathak, Countess and Izual have less of a chance to drop gold
    - Countess has her drop table fixed P8 now is best for not only keys but also Runes
 - Following Bosses can now drop Uber Keys
-- Blood Raven now summons Uber Dolls and Has Charger Minions
+- Blood Raven now summons Souls and Has Charger Minions
 - Key Bosses
    - Blood Raven = Terror
    - Countess = Terror
@@ -759,3 +761,5 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Enchant
    - Revives
 - Barb Shout Buffs have baseline 5 min duration
+- Monsters target Spirits/Wisps less and are way more tanky (oak sage etc)
+- Meteor fall time is 18 frames (was 60)

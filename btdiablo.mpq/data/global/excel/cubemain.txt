@@ -373,8 +373,8 @@ not used	0			100					3	"weap,tmp"	r01g	gcv					useitem				levelreq			2	2	att			3
 3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1			100					2	"ceh,qty=2"							bet																																																																																							0
 3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100					3	"bet,qty=3"							fed																																																																																							0
 3 Festering Essence of Destruction -> Key of Destruction	1			100					3	"fed,qty=3"							pk3																																																																																							0
-3 Twisted Essence of Suffering -> 1 Charged Essence of Hatred	1			100	18	70	99		2	tes	vps						"ceh,qty=33"																																																																																							0
-3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1			100	18	70	99		2	ceh	vps						"bet,qty=33"																																																																																							0
+3 Twisted Essence of Suffering -> 1 Charged Essence of Hatred	1			100	18	70	100		2	tes	vps						"ceh,qty=50"																																																																																							0
+3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1			100	18	70	100		2	ceh	vps						"bet,qty=50"																																																																																							0
 3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100	18	70	99		2	bet	vps						"fed,qty=33"																																																																																							0
 3 Key of Terror -> Key of Hate	1			100					4	"pk1,qty=3"	tsc						pk2																																																																																							0
 3 Key of Terror -> Key of Hate	1			100					4	"pk1,qty=3"	isc						pk3																																																																																							0
