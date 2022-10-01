@@ -45,8 +45,7 @@ BTNeandertha1 Social Media Links:
    - [Test Mode](https://github.com/BTNeandertha1/BTDiablo#test-mode)
 
 # How to Install
-Please follow BTN's [YouTube guide](https://youtu.be/uyRgLlxcew8) to install the mod.  
-**Please note** all files can be found here on GitHub now instead of on Google Drive.
+Please follow BTN's [YouTube guide](https://youtu.be/xyD7uAtOBAQ) to install the mod.
 
 # Bug Reporting
 Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) section of GitHub or the [Discord Bug Reports](https://discord.gg/GUTuZHkzwz) channel!
@@ -763,3 +762,4 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Barb Shout Buffs have baseline 5 min duration
 - Monsters target Spirits/Wisps less and are way more tanky (oak sage etc)
 - Meteor fall time is 18 frames (was 60)
+
