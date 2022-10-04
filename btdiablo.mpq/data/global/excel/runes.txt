@@ -60,7 +60,7 @@ Runeword58	Hunger																																																0
 Runeword59	Ice	1		Previously Ladder Only	miss									AmnShaelJahLo	r11	r13	r31	r28			dmg%		140	210	aura	Holy Freeze	18	18	extra-cold		25	30	hit-skill	Frost Nova	25	22	levelup-skill	Blizzard	100	40	pierce-cold		20	20	gold%/lvl	25			0
 Runeword60	Infinity	1		Previously Ladder Only	pole	spea								BerMalBerIst	r30	r23	r30	r24			dmg%		255	325	move3		35	35	vit/lvl	4			aura	Conviction	12	12	kill-skill	Chain Lightning	50	20	pierce-ltng		45	55	charged	Cyclone Armor	30	21	0
 Runeword61	Innocence																																																0
-Runeword62	Insight	1		Previously Ladder Only	pole	staf	miss							RalTirTalSol	r08	r03	r07	r12			dmg%		200	260	att%		180	250	mag%		23	23	oskill	Critical Strike	1	6	cast2		35	35	aura	Meditation	12	17	all-stats		5	5	0
+Runeword62	Insight	1		Previously Ladder Only	pole	staf	miss	spea						RalTirTalSol	r08	r03	r07	r12			dmg%		200	260	att%		180	250	mag%		23	23	oskill	Critical Strike	1	6	cast2		35	35	aura	Meditation	12	17	all-stats		5	5	0
 Runeword63	Jealousy																																																0
 Runeword64	Judgment																																																0
 Runeword65	King's Grace	1		109	swor	scep								AmnRalThul	r11	r08	r10				dmg%		100	100	att		150	150	dmg-demon		100	100	dmg-undead		50	50	att-demon		100	100	att-undead		100	100					0
