@@ -76,9 +76,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Added Insight Runeword to Spears
-- Fixed Items not dropping and various bugs introduced with the latest 2.5 patch on october 3rd
-   
+- More Bug fixes
+   - Not being able to spec Blessed Aim
+   - Enemy Auras not getting correct stats
+   - Duration of skills readjusted after being reset to default values
+
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
