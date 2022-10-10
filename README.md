@@ -76,10 +76,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- More Bug fixes
-   - Not being able to spec Blessed Aim
-   - Enemy Auras not getting correct stats
-   - Duration of skills readjusted after being reset to default values
+- All Monster resistances that were 116+% are now reduced to 115% (Infinity can break all immunes)
+- New Recipe 9 Stacked Perfect Gems + Active Perfect Gem of your choosing = 4 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
+   - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -572,6 +571,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 100 Stacked Blue and Yellow Essences + Stamina Potion = 50 of the next tier
 - 99 Stacked Red Essences + Stamina Potion = 33 of the next tier
 - 3 Charms cubed = 1 of the same charm type
+- New Recipe 9 Stacked Perfect Gems + Active Perfect Gem of your choosing = 4 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
+   - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
 
 ## Endgame
 - Augment Recipes:
@@ -638,6 +639,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 		 - 15% All Resistance
 		 
 ## Monsters
+- All Monster resistances that were 116+% are now reduced to 115% (Infinity can break all immunes)
 - After First Quest Kill, All Act Bosses Always Drop their Essence (only 1)
 - Mephisto can fly now
 - Summoner has 3x HP and crits 3x as often
@@ -732,7 +734,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Madawc is always Aura Enchanted
 - 96 Uber Areas (Forgotten Sands, Furnace of Pain and Matron’s Den) Also greatly increased Elite packs and density
 - 99 Uber Tristram 
-   - Balanced Resistances of Swarms and Pit Lords
 - Baal Waves:
    - W1 = Extra Fast Dolls
    - W2 = Extra Fast Deathlords

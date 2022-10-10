@@ -738,10 +738,16 @@ Reroll Charms	1			0					3	"cm3,mag,qty=3"							"cm3,mag"		95																			
 Hellfire Ashes	1			0					2	Hellfire Torch	lmr						tds																																																																																							0
 Break down Anni to SOH	1			0					2	Annihilus	mls						std																																																																																							0
 Break down Gheeds to MF potion	1			0					2	Gheed's Fortune	mls						mfp																													mfp																																																										0
+Generic F Amethyst	1			0	18	70	9		2	gxm4	gpv						"1pv,qty=4"																																																																																							0
+Generic F Diamond	1			0	18	70	9		2	gxm4	gpw						"1pw,qty=4"																																																																																							0
+Generic F Emerald	1			0	18	70	9		2	gxm4	gpg						"1pg,qty=4"																																																																																							0
+Generic F Ruby	1			0	18	70	9		2	gxm4	gpr						"1pr,qty=4"																																																																																							0
+Generic F Sapphire	1			0	18	70	9		2	gxm4	gpb						"1pb,qty=4"																																																																																							0
+Generic F Topaz	1			0	18	70	9		2	gxm4	gpy						"1py,qty=4"																																																																																							0
 Generic F Amethyst	1			0	18	70	99		2	gg3a	vps						"1pv,qty=33"																																																																																							0
 Generic F Diamond	1			0	18	70	99		2	gg3d	vps						"1pw,qty=33"																																																																																							0
 Generic F Emerald	1			0	18	70	99		2	gg3e	vps						"1pg,qty=33"																																																																																							0
-Generic F Ruby	1pr			0	18	70	99		2	gg3r	vps						"1pr,qty=33"																																																																																							0
+Generic F Ruby	1			0	18	70	99		2	gg3r	vps						"1pr,qty=33"																																																																																							0
 Generic F Sapphire	1			0	18	70	99		2	gg3s	vps						"1pb,qty=33"																																																																																							0
 Generic F Topaz	1			0	18	70	99		2	gg3t	vps						"1py,qty=33"																																																																																							0
 Generic F Skull	1			0	18	70	99		2	gg3z	vps						"1kz,qty=33"																																																																																							0
