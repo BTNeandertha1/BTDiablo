@@ -620,8 +620,8 @@ Stack of 50 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	50		1	misc							"us
 	0																																																																																																							0
 SPEEDRUNNING	0																																																																																																							0
 	0																																																																																																							0
-Wand of Lower Res	1		1	100					3	"wand,mag"	voa	mpot					"usetype,mag"				charged	100	91	67	1																																																																															0
-Wand of Life Tap	1		1	100					3	"wand,mag"	voa	hpot					"usetype,mag"				charged	100	82	67	1																																																																															0
+Wand of Lower Res	1		1	100					3	"wand,mag"	voa	mpot					"usetype,mag"				oskill	100	91	1	1																																																																															0
+Wand of Life Tap	1		1	100					3	"wand,mag"	voa	hpot					"usetype,mag"				oskill	100	82	1	1																																																																															0
 Staff of Teleportation	1			100					2	"staf,mag"	bgn						"usetype,mag"				charged	100	54	33	1																																																																															0
 	0																																																																																																							0
 IMBUES	0																																																																																																							0
@@ -630,7 +630,9 @@ Helm	1			100					2	"helm,nor,nos"	mls						"usetype,rar"	99																					
 Helm Inf	1			100					2	"helm,low"	mls						"usetype,rar"	99																																																																																						0
 Helm Sup	1			100					2	"helm,hiq,noe,nos"	mls						"usetype,rar"	99																																																																																						0
 Helm Eth	1			100					2	"helm,nor,eth,nos"	mls						"usetype,rar"	99			ethereal	100		1	1																																																																															0
+circ Eth	1			100					2	"circ,nor,eth,nos"	mls						"usetype,rar"	99			ethereal	100		1	1																																																																															0
 Helm Eth Sup	1			100					2	"helm,hiq,eth,nos"	mls						"usetype,rar"	99			ethereal	100		1	1																																																																															0
+circ Eth Sup	1			100					2	"circ,hiq,eth,nos"	mls						"usetype,rar"	99			ethereal	100		1	1																																																																															0
 Weapon	1			100					2	"weap,nor,noe,nos"	mls						"usetype,rar"	99																																																																																						0
 Weapon Inf	1			100					2	"weap,low"	mls						"usetype,rar"	99																																																																																						0
 Weapon Sup	1			100					2	"weap,hiq,noe,nos"	mls						"usetype,rar"	99																																																																																						0

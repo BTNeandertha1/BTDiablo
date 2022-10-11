@@ -79,7 +79,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - All Monster resistances that were 116+% are now reduced to 115% (Infinity can break all immunes)
 - New Recipe 9 Stacked Perfect Gems + Active Perfect Gem of your choosing = 4 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
    - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
-- Changed Telekinesis Charges on Rings to be oskill instead
+- Changed Charges on items to be oskill (exceptions include Teleport, Runewords, and Hellfire Torch)
+   - Example: Telekinesis Charges on a ring now spawn with +1 Telekinesis for any character
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -87,7 +88,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Paste New btdiablo.mpq folder
 
 ## Game 
-- Item Levels Shown
+- More Challenging
+- Built Loot Filter like interface
 - Runes, Gems, and Essences now Stack!
 - 3 Additional Shared Stash Tabs
 - Negative 30 all res (Only effects the Player)
@@ -95,10 +97,15 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Start with nothing except Horadric Cube
 - Horadric Cube is now 6x6
 - More Uber Key Bosses
-- Insanity Difficulty is Level 85!
+- Insanity (was Hell) Difficulty is All Area Level 85!
 - Additional Merc Gear
 - Gold has a huge demand
 - Crafting is very good
+- Corruptions
+- Endgame Farming Areas
+- Charges on items are now oskills (exceptions include Teleport, Runewords, and Hellfire Torch)
+- QOL improvements
+- Endless Itemization... Literally
 
 ## Characters
 - Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
@@ -485,7 +492,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Jewels
       - Defense   
       - Regen Life
-- Changed Telekinesis Charges on Rings to be oskill instead
+- Changed skills on all items except teleport are now +1 oskill
 
 ## Crafting 
 - Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
@@ -765,4 +772,4 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Barb Shout Buffs have baseline 5 min duration
 - Monsters target Spirits/Wisps less and are way more tanky (oak sage etc)
 - Meteor fall time is 18 frames (was 60)
-
+- Immolation Arrow Casting Removed
