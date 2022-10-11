@@ -510,7 +510,7 @@ of Frozen Armor	100			14		14		sor	1	1	44	charged	40	-20	-6										knif	tors			
 of Static Field	100			12		12		sor	6	1	44	charged	42	-30	-8										staf	orb											0	0
 of Static Field	100			24		24		sor	6	1	44	charged	42	-20	-5										hamm	mace	scep	ring	circ								0	0
 of Telekinesis	100	1	1	12		12		sor	6	1	44	charged	43	-30	-8										staf	orb											0	0
-of Telekinesis	100	1	1	24		24		sor	6	1	44	charged	43	-20	-5										hamm	mace	scep	ring	circ								0	0
+of Telekinesis	100	1	1	24		24		sor	6	1	44	charged	43	-20	-5										hamm	mace	scep	circ									0	0
 of Frost Novas	100	1	1	12		12		sor	6	1	44	charged	44	-30	-8										staf	orb											0	0
 of Frost Novas	100	1	1	24		24		sor	6	1	44	charged	44	-20	-5										knif	amul	circ										0	0
 of Ice Blasts	100	1	1	12		12		sor	6	1	44	charged	45	-30	-8										staf	orb											0	0
@@ -747,3 +747,4 @@ of the Lamprey	100	1	1	85		73				2	27	lifesteal		6	6									cred	amul										
 of the Bat	1	1	1	25		21				2	28	manasteal		2	3										ring												0	0
 of the Wraith	1	1	1	58		46				2	28	manasteal		4	5										ring												0	0
 of the Vampire	100	1	1	86		74				2	28	manasteal		6	6									cred	ring												0	0
+of Telekinesis	100	1	1	24		24		sor	6	1	44	oskill	43	1	1										ring												0	0

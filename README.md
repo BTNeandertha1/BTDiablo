@@ -79,6 +79,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - All Monster resistances that were 116+% are now reduced to 115% (Infinity can break all immunes)
 - New Recipe 9 Stacked Perfect Gems + Active Perfect Gem of your choosing = 4 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
    - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
+- Changed Telekinesis Charges on Rings to be oskill instead
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -484,6 +485,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Jewels
       - Defense   
       - Regen Life
+- Changed Telekinesis Charges on Rings to be oskill instead
 
 ## Crafting 
 - Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
