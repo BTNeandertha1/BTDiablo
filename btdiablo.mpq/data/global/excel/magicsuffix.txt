@@ -80,9 +80,9 @@ of Brilliance	0	1	1	18		13					24	mana		11	15										rod	ring	amul										0	
 of Sorcery	0	1	1	22		16					24	mana		16	20									dgld	rod	amul											0	0
 of Wizardry	0	1	1	30		22					24	mana		21	30									dgld	rod	ring	amul										0	0
 of the Bear	0	1	1	8		6					25	knock		1	1										mele												0	0
-of Light	0	1	1	6		4					26	light		1	1										armo	rod	miss	ring	amul								0	0
-of Radiance	0	1	1	15		11					26	light		3	3										rod	miss	ring	amul									0	0
-of the Sun	0	1	1	17		12					26	light		5	5										rod	miss	glov	ring	amul								0	0
+of Light	0			6		4					26	light		1	1										armo	rod	miss	ring	amul								0	0
+of Radiance	0			15		11					26	light		3	3										rod	miss	ring	amul									0	0
+of the Sun	0			17		12					26	light		5	5										rod	miss	glov	ring	amul								0	0
 of Life	0	1	1	23		17					27	hp		5	5										tors	helm	shld	belt	amul								0	0
 of the Jackal	0	1	1	3		2					27	hp		1	5										armo	rod	ring	amul									0	0
 of the Fox	0	1	1	6		4					27	hp		5	10										armo	rod	ring	amul									0	0
@@ -309,9 +309,9 @@ of Brilliance	1	1	1	16		12				3	23	enr		7	10										helm	scep											0	0
 of Sorcery	100	1		26		21				3	23	enr		11	15									dgld	helm	scep											0	0
 of Knowledge	100	1	1	9		6				3	23	enr		1	5										jewl												0	0
 of the Bear	1	1	1	8		6				3	24	knock		1	1										mele												0	0
-of Light	1	1	1	6		4				1	25	light		1	1	att		15	15						armo	rod	ring	amul									0	0
-of Radiance	1	1	1	15		11				1	25	light		3	3	att		30	30						rod	miss	ring	amul	helm								0	0
-of the Sun	1	1	1	17		12				1	25	light		5	5	att%		5	5						rod	miss	glov	ring	amul	helm							0	0
+of Light	1	1	1	6		4				1	25	att		15	15										armo	rod	ring	amul									0	0
+of Radiance	1	1	1	15		11				1	25	att		30	30										rod	miss	ring	amul	helm								0	0
+of the Sun	1	1	1	17		12				1	25	att%		5	5										rod	miss	glov	ring	amul	helm							0	0
 of the Jackal	1	1	1	1		1				3	26	hp		1	5										tors	belt	amul	phlm	circ								0	0
 of the Fox	1	1	1	7		5				3	26	hp		6	10										tors	belt	amul	phlm	circ								0	0
 of the Wolf	1	1	1	15		11				3	26	hp		11	20										tors	belt	amul	phlm	circ								0	0
@@ -396,7 +396,7 @@ of Virility	100	1	1	18		13				4	31	str		1	4										jewl												0	0
 of Pacing	1	1	1	12		8				3	35	move1		10	10										boot	circ											0	0
 of Haste	1	1	1	22		16				4	35	move2		20	20										boot	circ											0	0
 of Speed	1	1	1	37		29				4	35	move3		30	30										boot	circ											0	0
-of Traveling	100	1	1	65		57				4	35	move3		30	30	stamdrain		80	90						boot												0	0
+of Traveling	100	1	1	65		57				4	35	move3		30	30										boot												0	0
 of Acceleration	100	1	1	51		43				4	35	move3		40	40										boot												0	0
 of Inertia	100	1	1	19		14				4	35	move3		7	7										lcha												0	0
 of Inertia	100	1	1	24		18				4	35	move2		5	5										mcha												0	0
@@ -740,7 +740,7 @@ of Blight	1	1	1	1	4	1				4	16	dmg-pois	50	8	8										weap							scep	staf	orb	
 of Shock	1	1	1	1	3	1				4	13	dmg-ltng		1	3										weap							staf	wand	orb			0	0
 of Regeneration	1	1	1	1	9	1				3	19	regen		2	2										amul	circ											0	0
 of Energy	1	1	1	1	4	1				4	23	enr		1	1										amul	orb	circ	wand	staf	helm	ring						0	0
-of Light	1	1	1	1	5	1				4	25	light		1	1	att		10	10						ring	amul											0	0
+of Light	1	1	1	1	5	1				4	25	att		10	10										ring	amul											0	0
 of the Leech	100	1	1	24		20				2	27	lifesteal		2	3										amul												0	0
 of the Locust	100	1	1	57		45				2	27	lifesteal		4	5										amul												0	0
 of the Lamprey	100	1	1	85		73				2	27	lifesteal		6	6									cred	amul												0	0

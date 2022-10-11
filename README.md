@@ -81,6 +81,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
 - Changed Charges on items to be oskill (exceptions include Teleport, Runewords, and Hellfire Torch)
    - Example: Telekinesis Charges on a ring now spawn with +1 Telekinesis for any character
+- Removed Immolation Casting Delay
+- Removed Light Radius From Items (reserved for Augmeents now)
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -472,7 +474,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Weapons
       - 300 Enhanced Damage
    - Boots
-      - 30 Faster Run/Walk + Stamina Drain
+      - 30 Faster Run/Walk An additional affix
       - 40 Faster Run/Walk
    - Belts
       - 100 Life
@@ -489,6 +491,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - All Items
       - Stamina
       - Regen Stamina
+	  - Light Radius
    - Jewels
       - Defense   
       - Regen Life

@@ -47,8 +47,8 @@ Fortuitous	0	1	1	5		3				0	114	mag%	0	10	15										ring	amul											0	0
 																																					0	0
 																																					0	0
 																																					0	0
-Glimmering	0	1	1	1		1				0	116	light	0	1	1										armo	wand	staf	ring	amul								0	0
-Glowing	0	1	1	6		4				0	116	light	0	2	2									lyel	armo	wand	staf	ring	amul								0	0
+Glimmering	0			1		1				0	116	light	0	1	1										armo	wand	staf	ring	amul								0	0
+Glowing	0			6		4				0	116	light	0	2	2									lyel	armo	wand	staf	ring	amul								0	0
 																																					0	0
 																																					0	0
 Lizard's	0	1	1	3		2				0	118	mana	0	1	5										armo	ring	amul	rod				boot	glov				0	0
@@ -265,9 +265,9 @@ Lord's	1	1	1	47		39				6	111	att		101	120	dmg%		66	80					dgld	weap							staf	w
 King's	1	1	1	56		48				5	111	att		121	150	dmg%		81	100					dgld	weap							staf	wand	orb			0	0
 Master's	100	1	1	56		48				5	111	att		151	250	dmg%		101	150					dgld	weap							staf	wand	orb			0	0
 Grandmaster's	100	1		69		61				4	111	att		251	300	dmg%		151	200					dgld	weap							staf	wand	orb			0	0
-Glimmering	1	1	1	1		1				1	112	light		1	1										armo	wand	staf	ring	amul	orb							0	0
-Glowing	1	1	1	6		4				1	112	light		2	2									lyel	armo	wand	staf	ring	amul	orb							0	0
-Bright	100	1	1	1		1				1	112	light		1	1	att		10	10						jewl												0	0
+Glimmering	1	0		1		1				1	112	light		1	1										armo	wand	staf	ring	amul	orb							0	0
+Glowing	1	0		6		4				1	112	light		2	2									lyel	armo	wand	staf	ring	amul	orb							0	0
+Bright	100	1	1	1		1				1	112	att		10	10										jewl												0	0
 Screaming	100	1	1	10		7				3	113	howl		32	32									oran	weap							miss	swor	axe	pole	spea	0	0
 Howling	1	1	1	16		12				3	113	howl		64	64									oran	weap							miss	swor	axe	pole	spea	0	0
 Wailing	100	1	1	20		13				3	113	howl		128	128									oran	weap							miss	swor	axe	pole	spea	0	0
