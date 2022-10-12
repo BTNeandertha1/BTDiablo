@@ -76,13 +76,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- All Monster resistances that were 116+% are now reduced to 115% (Infinity can break all immunes)
-- New Recipe 9 Stacked Perfect Gems + Active Perfect Gem of your choosing = 4 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
-   - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
-- Changed Charges on items to be oskill (exceptions include Teleport, Runewords, and Hellfire Torch)
-   - Example: Telekinesis Charges on a ring now spawn with +1 Telekinesis for any character
-- Removed Immolation Casting Delay
-- Removed Light Radius From Items (reserved for Augmeents now)
+- Fixed and issue where Pit lords in the furnace of pain were not dropping items
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
