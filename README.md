@@ -45,7 +45,7 @@ BTNeandertha1 Social Media Links:
    - [Test Mode](https://github.com/BTNeandertha1/BTDiablo#test-mode)
 
 # How to Install
-Please follow BTN's [YouTube guide](https://youtu.be/xyD7uAtOBAQ) to install the mod.
+Please follow BTN's [YouTube guide](https://rumble.com/v1ngrpk-how-to-install-my-new-diablo-2-resurrected-mod-btdiablo.html) to install the mod.
 
 # Bug Reporting
 Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) section of GitHub or the [Discord Bug Reports](https://discord.gg/GUTuZHkzwz) channel!
