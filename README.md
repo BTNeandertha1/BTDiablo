@@ -76,7 +76,19 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Fixed and issue where Pit lords in the furnace of pain were not dropping items
+- Grand Charm Affixes
+   - 6-17 Magic find on Grand Charm (was 1-12)
+- Large Charm Affixes
+   - 6-20 Individual Resistance [Fire, Cold, Light, and Poison] (was 4-15)
+   - 4-9 All Resistances (was 3-8)
+   - 4-12 Magic Find (was 1-6)
+   - 1-3 Damage/10-48 Attack Rating (was 1-6 Max Dmg/10-48 Attack Rating)
+- New Recipe
+   - 100 Stacked Perfect Topaz + Stamina Potion = 1 Vex
+- Adjusted the Key Conversion to 2 Keys instead of 3
+- Larzuk's Forging hammer + Hellfire Torch = Hellfire Ash
+- Gheed's Fortune + Charsi's Malus = 3 Magic Find Potions
+
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -102,6 +114,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Charges on items are now oskills (exceptions include Teleport, Runewords, and Hellfire Torch)
 - QOL improvements
 - Endless Itemization... Literally
+- Improved Melee
 
 ## Characters
 - Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
@@ -490,6 +503,13 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
       - Defense   
       - Regen Life
 - Changed skills on all items except teleport are now +1 oskill
+- Grand Charm Affixes
+   - 6-17 Magic find on Grand Charm (was 1-12)
+- Large Charm Affixes
+   - 6-20 Individual Resistance [Fire, Cold, Light, and Poison] (was 4-15)
+   - 4-9 All Resistances (was 3-8)
+   - 4-12 Magic Find (was 1-6)
+   - 1-3 Damage/10-48 Attack Rating (was 1-6 Max Dmg/10-48 Attack Rating)
 
 ## Crafting 
 - Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
@@ -558,7 +578,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Essence Transmuting to next Tier
    - 2 Blue > 2 Yellow > 3 Red > 3 Green
 - 3 Green Essence = 1 Destruction Key
-- Uber Key Transmuting 3+(TP Scroll or ID Scroll) = 1 of a different type | changed the Colors of the keys
+- Uber Key Transmuting 2+(TP Scroll or ID Scroll) = 1 of a different type | changed the Colors of the keys
    - TP Scroll = T > H > D > T
    - ID Scroll = T > D > H > T
 - ANY 3 Uber Organs now open Uber Tristram (Diablo's Horn, Baal's Eye or Mephisto's Brain)
@@ -577,8 +597,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 100 Stacked Blue and Yellow Essences + Stamina Potion = 50 of the next tier
 - 99 Stacked Red Essences + Stamina Potion = 33 of the next tier
 - 3 Charms cubed = 1 of the same charm type
-- New Recipe 9 Stacked Perfect Gems + Active Perfect Gem of your choosing = 4 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
+- 9 Stacked Perfect Gems + Active Perfect Gem of your choosing = 4 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
    - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
+- Larzuk's Forging hammer + Hellfire Torch = Hellfire Ash
+- Gheed's Fortune + Charsi's Malus = 3 Magic Find Potions
+- 100 Stacked Perfect Topaz + Stamina Potion = 1 Vex
 
 ## Endgame
 - Augment Recipes:
