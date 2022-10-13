@@ -2,20 +2,20 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 	0																																																																																																							0
 Dye Test	0			100					2	armo	vps						useitem																																																																																							0
 Dye Test	0			100					2	weap	vps						useitem																																																																																							0
-3 Key of Destruction -> Key of Terror	0			100					2	"vps,qty=2"							"cm1,mag"	99		99																																																																																				0
-3 Key of Destruction -> Key of Terror	0			100					3	"vps,qty=3"							"cm1,mag"	99		99																																																																																				0
-3 Key of Destruction -> Key of Terror	0			100					4	"vps,qty=4"							"cm1,mag"	99		99	allskills			99	99	cast2			200	200	res-all			500	500	move2			500	500	cheap			1000	1000																																																											0
-3 Key of Destruction -> Key of Terror	0			100					2	aqv	vps						useitem				rep-quant		63																							std																													std																													0
-3 Key of Destruction -> Key of Terror	1			100					1	vps							std																													std																													std																													0
-3 Key of Destruction -> Key of Terror	1			100					1	tsc							Thunderstroke	99		99																										tds																													tds																													0
-3 Key of Destruction -> Key of Terror	0			100					1	wms							pk1																													pk1																													pk1																													0
-3 Key of Destruction -> Key of Terror	0			100					2	"wms,qty=2"							pk2																													pk2																													pk2																													0
-3 Key of Destruction -> Key of Terror	0			100					3	wms,qty=3							pk3																													pk3																													pk3																													0
-Make Ethereal	0			1					2	"any,mag"	tsc						useitem				ethereal			1	1																																																																															0
-Make Ethereal	0			1					2	"any,rar"	tsc						useitem				ethereal			1	1																																																																															0
-Make Ethereal	0			1					2	"any,set"	tsc						useitem				ethereal			1	1																																																																															0
-Make Ethereal	0			1					2	"armo,uni"	tsc						useitem				ethereal			1	1																																																																															0
-Make Ethereal	0			1					2	"weap,uni"	tsc						useitem				ethereal			1	1																																																																															0
+Test	0			100					2	"vps,qty=2"							"cm1,mag"	99		99																																																																																				0
+Test	0			100					3	"vps,qty=3"							"cm1,mag"	99		99																																																																																				0
+Test	0			100					4	"vps,qty=4"							"cm1,mag"	99		99	allskills			99	99	cast2			200	200	res-all			500	500	move2			500	500	cheap			1000	1000																																																											0
+Test	0			100					2	aqv	vps						useitem				rep-quant		63																							std																													std																													0
+Test	0			100					1	vps							std																													std																													std																													0
+Test	0			100					1	tsc							Thunderstroke	99		99																										tds																													tds																													0
+Test	0			100					1	wms							pk1																													pk1																													pk1																													0
+Test	0			100					2	"wms,qty=2"							pk2																													pk2																													pk2																													0
+Test	0			100					3	wms,qty=3							pk3																													pk3																													pk3																													0
+Test	0			1					2	"any,mag"	tsc						useitem				ethereal			1	1																																																																															0
+Test	0			1					2	"any,rar"	tsc						useitem				ethereal			1	1																																																																															0
+Test	0			1					2	"any,set"	tsc						useitem				ethereal			1	1																																																																															0
+Test	0			1					2	"armo,uni"	tsc						useitem				ethereal			1	1																																																																															0
+Test	0			1					2	"weap,uni"	tsc						useitem				ethereal			1	1																																																																															0
 																																																																																																								0
 Staff of Kings + Amulet of the Viper -> Horadric Staff	1			0	28				2	msf	vip						hst																																																																																							0
 Khalim's Flail + Khalim's Heart + Khalim's Eye + Khalim's Brain -> Khalim's Will	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
