@@ -818,7 +818,7 @@ BLOCK CHARMS	1								2	"cm2,mag"	std						useitem																													s
 BLOCK CHARMS	1								2	"cm3,mag"	std						useitem																													std																																																										0
 BLOCK JEWELS	1								2	jew	std						useitem																													std																																																										0
 Magic Corruptor	1			0	18	362	0		2	"any,mag"	std						useitem				corruption2			1	1000																					std																																																										0
-Brick	1			0	16	362	400		2	"any,mag"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Brick	1			0	16	362	300		2	"any,mag"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 																																																																																																								0
 6 Socket Bows	0																																																																																																							0
 1 Socket	1			0	16	362	544		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
@@ -876,7 +876,7 @@ Amulet	1			0	16	362	1000		2	"amu,mag"	std						useitem			100	corruption2			1001	
 RARE CORRUPTIONS ----------------	0																																																																																																							0
 	0																																																																																																							0
 Rare Corruptor	1			0	18	362	0		2	"any,rar"	std						useitem				corruption2			1	1000																					std																																																										0
-Brick	1			0	16	362	400		2	"any,rar"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Brick	1			0	16	362	300		2	"any,rar"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 																																																																																																								0
 6 Socket Bows	0																																																																																																							0
 1 Socket	1			0	16	362	544		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
@@ -934,7 +934,7 @@ Amulet	1			0	16	362	1000		2	"amu,rar"	std						useitem			100	corruption2			1001	
 SET CORRUPTIONS ----------------	0																																																																																																							0
 	0																																																																																																							0
 Set Corruptor	1			0	18	362	0		2	"any,set"	std						useitem				corruption2			1	1000																					std																																																										0
-Brick	1			0	16	362	400		2	"any,set"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Brick	1			0	16	362	300		2	"any,set"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 																																																																																																								0
 6 Socket Bows	0																																																																																																							0
 1 Socket	1			0	16	362	544		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
@@ -998,11 +998,11 @@ Unique Corruptor	1			0	18	362	0		2	"armo,uni"	std						useitem				corruption2			
 Unique Corruptor	1			0	18	362	0		2	"weap,uni"	std						useitem				corruption2			1	1000																					std																																																										0
 Unique Corruptor	1			0	18	362	0		2	"ring,uni"	std						useitem				corruption2			1	1000																					std																																																										0
 Unique Corruptor	1			0	18	362	0		2	"amul,uni"	std						useitem				corruption2			1	1000																					std																																																										0
-Brick	1			0	16	362	325		2	Gheed's Fortune	tds						"usetype,mag"	99			corruption2			1001	1001						corruption1			1	1																																																																					ttd
-Brick	1			0	16	362	400		2	"armo,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
-Brick	1			0	16	362	400		2	"weap,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
-Brick	1			0	16	362	400		2	"ring,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
-Brick	1			0	16	362	400		2	"amul,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Brick	1			0	16	362	300		2	Gheed's Fortune	tds						"usetype,mag"	99			corruption2			1001	1001						corruption1			1	1																																																																					ttd
+Brick	1			0	16	362	300		2	"armo,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Brick	1			0	16	362	300		2	"weap,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Brick	1			0	16	362	300		2	"ring,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Brick	1			0	16	362	300		2	"amul,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 	0																																																																																																							0
 Annihilus	0																																																																																																							0
 MF +  GF	1			0	16	362	125		2	Annihilus	tds						useitem			100	corruption2			1001	1001	gold%			10	10	corruption1			1	1	mag%			7	7																																																																0
@@ -1029,10 +1029,10 @@ Blessed Aim	1			0	16	362	915		3	Hellfire Torch	"tds,qty=2"						useitem			100	co
 Vigor	1			0	16	362	1000		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	aura		115	10	10	corruption1			1	1																																																																					0
 	0																																																																																																							0
 Gheed's Fortune	0																																																																																																							0
-Faster Run/Walk	1			0	16	362	352		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	move2			7	7	corruption1			1	1																																																																					0
+Gheed's Blessing	1			0	16	362	352		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	gold%			20	40	corruption1			1	1	mag%			5	10	cheap			5	5																																																											0
 Faster Hit Recovery	1			0	16	362	379		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	balance2			12	12	corruption1			1	1																																																																					0
 All Resistances	1			0	16	362	406		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	res-all			15	15	corruption1			1	1																																																																					0
-Gheed's Blessing	1			0	16	362	433		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	gold%			20	40	corruption1			1	1	mag%			5	10	cheap			5	5																																																											0
+Faster Run/Walk	1			0	16	362	433		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	move2			7	7	corruption1			1	1																																																																					0
 Bow and Crossbow	1			0	16	362	460		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		0	1	1	corruption1			1	1																																																																					0
 Passive and Magic	1			0	16	362	487		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		1	1	1	corruption1			1	1																																																																					0
 Jav and Spear	1			0	16	362	514		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		2	1	1	corruption1			1	1																																																																					0
@@ -1111,7 +1111,7 @@ Amulet	1			0	16	362	1000		2	"amu,uni"	std						useitem			100	corruption2			1001	
 CRAFT CORRUPTIONS ----------------	0																																																																																																							0
 	0																																																																																																							0
 Craft Corruptor	1			0	18	362	0		2	"any,crf"	std						useitem				corruption2			1	1000																					std																																																										0
-Brick	1			0	16	362	400		2	"any,crf"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
+Brick	1			0	16	362	300		2	"any,crf"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 																																																																																																								0
 6 Socket Bows	0																																																																																																							0
 1 Socket	1			0	16	362	544		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0

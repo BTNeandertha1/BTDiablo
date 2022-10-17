@@ -2,11 +2,33 @@
 
 BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Diablo II Resurrected. As such, it is only to be used in Single Player.
 
+## Game 
+- More Challenging
+- Built Loot Filter like interface
+- Runes, Gems, and Essences now Stack!
+- 3 Additional Shared Stash Tabs
+- Negative 30 all res (Only effects the Player)
+- Negative 199 MF
+- Start with nothing except Horadric Cube
+- Horadric Cube is now 6x6
+- More Uber Key Bosses
+- Insanity (was Hell) Difficulty is All Area Level 85!
+- Additional Merc Gear
+- Gold has a huge demand
+- Crafting is very good
+- Corruptions
+- Endgame Farming Areas
+- Charges on items are now oskills (exceptions include Teleport, Runewords, and Hellfire Torch)
+- QOL improvements
+- Endless Itemization... Literally
+- Improved Melee
+
 BTNeandertha1 Social Media Links:  
 - [Twitch](https://www.twitch.tv/btneandertha1)
 - [YouTube](https://www.youtube.com/c/BTNeanderthal?sub_confirmation=1)
 - [Twitter](https://twitter.com/BTNeandertha1)
 - [Discord](https://discord.gg/BTNeandertha1)
+- [Patreon](https://www.patreon.com/BTNeanderthal)
 
 # Table of Contents
 1. [How to Install](https://github.com/BTNeandertha1/BTDiablo#how-to-install)
@@ -45,7 +67,7 @@ BTNeandertha1 Social Media Links:
    - [Test Mode](https://github.com/BTNeandertha1/BTDiablo#test-mode)
 
 # How to Install
-Please follow BTN's [YouTube guide](https://rumble.com/v1ngrpk-how-to-install-my-new-diablo-2-resurrected-mod-btdiablo.html) to install the mod.
+Please follow BTN's [Install guide](https://rumble.com/v1ngrpk-how-to-install-my-new-diablo-2-resurrected-mod-btdiablo.html)
 
 # Bug Reporting
 Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) section of GitHub or the [Discord Bug Reports](https://discord.gg/GUTuZHkzwz) channel!
@@ -76,45 +98,18 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Grand Charm Affixes
-   - 6-17 Magic find on Grand Charm (was 1-12)
-- Large Charm Affixes
-   - 6-20 Individual Resistance [Fire, Cold, Light, and Poison] (was 4-15)
-   - 4-9 All Resistances (was 3-8)
-   - 4-12 Magic Find (was 1-6)
-   - 1-3 Damage/10-48 Attack Rating (was 1-6 Max Dmg/10-48 Attack Rating)
-- New Recipe
-   - 100 Stacked Perfect Topaz + Stamina Potion = 1 Vex
-- Adjusted the Key Conversion to 2 Keys instead of 3
-- Larzuk's Forging hammer + Hellfire Torch = Hellfire Ash
-- Gheed's Fortune + Charsi's Malus = 3 Magic Find Potions
-
+- Corruption Brick Chance Adjusted to 30% across the board (was 40%)
+- Amazon Javelins can now have 3 Sockets
+- Whirlwind now Procs (Example: Amplify Damage on Striking)
+- Holy Shield Infinite Duration
+- Pit Lords in WorldStone Chamber (Was bugged)
+- Annihilus + Charsi's Malus = Standard of Heros
+- New Treachery is 20% Fade Proc Chance
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
-
-## Game 
-- More Challenging
-- Built Loot Filter like interface
-- Runes, Gems, and Essences now Stack!
-- 3 Additional Shared Stash Tabs
-- Negative 30 all res (Only effects the Player)
-- Negative 199 MF
-- Start with nothing except Horadric Cube
-- Horadric Cube is now 6x6
-- More Uber Key Bosses
-- Insanity (was Hell) Difficulty is All Area Level 85!
-- Additional Merc Gear
-- Gold has a huge demand
-- Crafting is very good
-- Corruptions
-- Endgame Farming Areas
-- Charges on items are now oskills (exceptions include Teleport, Runewords, and Hellfire Torch)
-- QOL improvements
-- Endless Itemization... Literally
-- Improved Melee
 
 ## Characters
 - Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
@@ -208,6 +203,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Beast [Ber Tir Um Mal Lum]
    - Grizzly Charges Changed to oskill Hunger
 - Insight Works in Spears [Ral Tir Tal Sol]
+- Treachery [Shael Thul Lem]
+   - 20% Fade Proc Chance (was 5%)
    
 ## Runes
 - Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
@@ -601,6 +598,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
 - Larzuk's Forging hammer + Hellfire Torch = Hellfire Ash
 - Gheed's Fortune + Charsi's Malus = 3 Magic Find Potions
+- Annihilus + Charsi's Malus = Standard of Heros
 - 100 Stacked Perfect Topaz + Stamina Potion = 1 Vex
 
 ## Endgame
@@ -609,7 +607,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Cham + SOH + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1 Light Radius
    
 ## Corruptions
-- Corruptions have a 40% Chance to reroll as a random rare and 60% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + SOH)
+- Corruptions have a 30% Chance to reroll as a random rare and 70% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + SOH)
    - Amulets, Rings
       - 1 Socket 100%
    - Belts
@@ -659,7 +657,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
          - Level 10 Vigor Aura When Equipped
          - Level 10 Blessed Aim Aura When Equipped
 	  
-   - Gheed's Fortune Grand Charm (32.5% Chance to Brick into a random Magic Grand Charm)
+   - Gheed's Fortune Grand Charm 30% Chance to brick into a random Magic Charm
       - Hellfire Ashes + Gheed's = Corrupted
 	     - Adds + 1 to Skill Tree
 		 - 20-40% Gold Find + 5-10% Magic Find + 5% Vendor Prices
@@ -769,6 +767,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - W3 = Teleporation Souls
    - W4 = Extra Fast Venom Lords
    - W5 = Extra Fast Minions of Destruction
+- Area Level 90 Pit Lords in WorldStone Chamber (Was bugged)
 
 ## Skills
 - Static is Always 60%
@@ -793,3 +792,5 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Monsters target Spirits/Wisps less and are way more tanky (oak sage etc)
 - Meteor fall time is 18 frames (was 60)
 - Immolation Arrow Casting Removed
+- Whirlwind now Procs (Example: Amplify Damage on Striking)
+- Holy Shield Infinite Duration
