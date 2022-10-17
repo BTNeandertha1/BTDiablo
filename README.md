@@ -100,7 +100,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 # Patch Notes 
 - Corruption Brick Chance Adjusted to 30% across the board (was 40%)
 - Amazon Javelins can now have 3 Sockets
-- Whirlwind now Procs (Example: Amplify Damage on Striking)
 - Holy Shield Infinite Duration
 - Pit Lords in WorldStone Chamber (Was bugged)
 - Annihilus + Charsi's Malus = Standard of Heros
@@ -792,5 +791,4 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Monsters target Spirits/Wisps less and are way more tanky (oak sage etc)
 - Meteor fall time is 18 frames (was 60)
 - Immolation Arrow Casting Removed
-- Whirlwind now Procs (Example: Amplify Damage on Striking)
 - Holy Shield Infinite Duration
