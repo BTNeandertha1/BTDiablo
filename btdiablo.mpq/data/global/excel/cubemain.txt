@@ -2,7 +2,7 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 	0																																																																																																							0
 Dye Test	0			100					2	armo	vps						useitem																																																																																							0
 Dye Test	0			100					2	weap	vps						useitem																																																																																							0
-Test	0			100					2	"vps,qty=2"							"cm1,mag"	99		99																																																																																				0
+Test	0			100					1	vps							"cm1,mag"	99		99	swing2		255	255																																																																																0
 Test	0			100					3	"vps,qty=3"							"cm1,mag"	99		99																																																																																				0
 Test	0			100					4	"vps,qty=4"							"cm1,mag"	99		99	allskills			99	99	cast2			200	200	res-all			500	500	move2			500	500	cheap			1000	1000																																																											0
 Test	0			100					2	aqv	vps						useitem				rep-quant		63																							std																													std																													0
@@ -821,56 +821,56 @@ Magic Corruptor	1			0	18	362	0		2	"any,mag"	std						useitem				corruption2			1	
 Brick	1			0	16	362	300		2	"any,mag"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 																																																																																																								0
 6 Socket Bows	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"bow,mag"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 6 Socket Crossbows	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"xbow,mag"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 2 Handed Sockets	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"2han,mag"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 1 Socket	0																																																																																																							0
 Rings	1			0	16	362	1000		2	"ring,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 Amulet	1			0	16	362	1000		2	"amu,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 2 Socket Belts	0																																																																																																							0
-1 Socket	1			0	16	362	910		2	"belt,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	895		2	"belt,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 2 Socket	1			0	16	362	1000		2	"belt,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket Gloves																																																																																																								0
-1 Socket	1			0	16	362	832		2	"glov,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"glov,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"glov,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"glov,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"glov,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Boots																																																																																																								0
-1 Socket	1			0	16	362	832		2	"boot,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"boot,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"boot,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"boot,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"boot,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Helm																																																																																																								0
-1 Socket	1			0	16	362	832		2	"helm,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"helm,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"helm,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"helm,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"helm,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Chest																																																																																																								0
-1 Socket	1			0	16	362	832		2	"tors,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"tors,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"tors,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"tors,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"tors,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Shield																																																																																																								0
-1 Socket	1			0	16	362	832		2	"shld,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"shld,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"shld,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"shld,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"shld,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 4 Socket Weapons	0																																																																																																							0
-1 Socket	1			0	16	362	700		2	"weap,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	860		2	"weap,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	940		2	"weap,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	580		2	"weap,mag"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	804		2	"weap,mag"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	916		2	"weap,mag"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 4 Socket	1			0	16	362	1000		2	"weap,mag"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
 																																																																																																								0
 RARE CORRUPTIONS ----------------	0																																																																																																							0
@@ -879,56 +879,56 @@ Rare Corruptor	1			0	18	362	0		2	"any,rar"	std						useitem				corruption2			1	1
 Brick	1			0	16	362	300		2	"any,rar"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 																																																																																																								0
 6 Socket Bows	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"bow,rar"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 6 Socket Crossbows	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"xbow,rar"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 2 Handed Sockets	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"2han,rar"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 1 Socket	0																																																																																																							0
 Rings	1			0	16	362	1000		2	"ring,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 Amulet	1			0	16	362	1000		2	"amu,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 2 Socket Belts	0																																																																																																							0
-1 Socket	1			0	16	362	910		2	"belt,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	895		2	"belt,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 2 Socket	1			0	16	362	1000		2	"belt,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket Gloves																																																																																																								0
-1 Socket	1			0	16	362	832		2	"glov,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"glov,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"glov,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"glov,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"glov,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Boots																																																																																																								0
-1 Socket	1			0	16	362	832		2	"boot,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"boot,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"boot,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"boot,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"boot,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Helm																																																																																																								0
-1 Socket	1			0	16	362	832		2	"helm,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"helm,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"helm,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"helm,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"helm,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Chest																																																																																																								0
-1 Socket	1			0	16	362	832		2	"tors,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"tors,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"tors,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"tors,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"tors,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Shield																																																																																																								0
-1 Socket	1			0	16	362	832		2	"shld,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"shld,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"shld,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"shld,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"shld,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 4 Socket Weapons	0																																																																																																							0
-1 Socket	1			0	16	362	700		2	"weap,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	860		2	"weap,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	940		2	"weap,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	580		2	"weap,rar"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	804		2	"weap,rar"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	916		2	"weap,rar"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 4 Socket	1			0	16	362	1000		2	"weap,rar"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
 																																																																																																								0
 SET CORRUPTIONS ----------------	0																																																																																																							0
@@ -937,56 +937,56 @@ Set Corruptor	1			0	18	362	0		2	"any,set"	std						useitem				corruption2			1	10
 Brick	1			0	16	362	300		2	"any,set"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 																																																																																																								0
 6 Socket Bows	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"bow,set"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 6 Socket Crossbows	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"xbow,set"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 2 Handed Sockets	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"2han,set"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 1 Socket	0																																																																																																							0
 Rings	1			0	16	362	1000		2	"ring,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 Amulet	1			0	16	362	1000		2	"amu,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 2 Socket Belts	0																																																																																																							0
-1 Socket	1			0	16	362	910		2	"belt,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	895		2	"belt,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 2 Socket	1			0	16	362	1000		2	"belt,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket Gloves																																																																																																								0
-1 Socket	1			0	16	362	832		2	"glov,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"glov,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"glov,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"glov,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"glov,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Boots																																																																																																								0
-1 Socket	1			0	16	362	832		2	"boot,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"boot,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"boot,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"boot,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"boot,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Helm																																																																																																								0
-1 Socket	1			0	16	362	832		2	"helm,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"helm,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"helm,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"helm,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"helm,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Chest																																																																																																								0
-1 Socket	1			0	16	362	832		2	"tors,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"tors,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"tors,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"tors,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"tors,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Shield																																																																																																								0
-1 Socket	1			0	16	362	832		2	"shld,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"shld,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"shld,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"shld,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"shld,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 4 Socket Weapons	0																																																																																																							0
-1 Socket	1			0	16	362	700		2	"weap,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	860		2	"weap,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	940		2	"weap,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	580		2	"weap,set"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	804		2	"weap,set"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	916		2	"weap,set"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 4 Socket	1			0	16	362	1000		2	"weap,set"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
 	0																																																																																																							0
 UNIQUE CORRUPTIONS ----------------	0																																																																																																							0
@@ -1016,96 +1016,96 @@ Experience	1			0	16	362	1000		2	Annihilus	tds						useitem			100	corruption2			1
 	0																																																																																																							0
 Hellfire Torch	0																																																																																																							0
 Amplify Damage	1			0	16	362	83		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		66	7	22	corruption1			1	1																																																																					0
-Lower Resist	1			0	16	362	166		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		91	20	18	corruption1			1	1																																																																					0
-Life Tap	1			0	16	362	249		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		82	7	21	corruption1			1	1																																																																					0
-Weaken	1			0	16	362	332		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		72	12	18	corruption1			1	1																																																																					0
-Decrepify	1			0	16	362	415		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		87	15	20	corruption1			1	1																																																																					0
+Lower Resist	1			0	16	362	167		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		91	20	18	corruption1			1	1																																																																					0
+Life Tap	1			0	16	362	250		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		82	7	21	corruption1			1	1																																																																					0
+Weaken	1			0	16	362	333		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		72	12	18	corruption1			1	1																																																																					0
+Decrepify	1			0	16	362	417		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		87	15	20	corruption1			1	1																																																																					0
 Bone Armor	1			0	16	362	500		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		68	15	21	corruption1			1	1																																																																					0
 Cyclone Armor	1			0	16	362	583		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		235	15	21	corruption1			1	1																																																																					0
-Static	1			0	16	362	666		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		42	20	20	corruption1			1	1																																																																					0
-Frost Nova	1			0	16	362	749		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		44	15	24	corruption1			1	1																																																																					0
-Prayer	1			0	16	362	832		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	aura		99	31	31	corruption1			1	1																																																																					0
-Blessed Aim	1			0	16	362	915		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	aura		113	10	10	corruption1			1	1																																																																					0
+Static	1			0	16	362	667		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		42	20	20	corruption1			1	1																																																																					0
+Frost Nova	1			0	16	362	750		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	gethit-skill		44	15	24	corruption1			1	1																																																																					0
+Prayer	1			0	16	362	833		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	aura		99	31	31	corruption1			1	1																																																																					0
+Blessed Aim	1			0	16	362	917		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	aura		113	10	10	corruption1			1	1																																																																					0
 Vigor	1			0	16	362	1000		3	Hellfire Torch	"tds,qty=2"						useitem			100	corruption2			1001	1001	aura		115	10	10	corruption1			1	1																																																																					0
 	0																																																																																																							0
 Gheed's Fortune	0																																																																																																							0
-Gheed's Blessing	1			0	16	362	352		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	gold%			20	40	corruption1			1	1	mag%			5	10	cheap			5	5																																																											0
-Faster Hit Recovery	1			0	16	362	379		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	balance2			12	12	corruption1			1	1																																																																					0
-All Resistances	1			0	16	362	406		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	res-all			15	15	corruption1			1	1																																																																					0
-Faster Run/Walk	1			0	16	362	433		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	move2			7	7	corruption1			1	1																																																																					0
-Bow and Crossbow	1			0	16	362	460		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		0	1	1	corruption1			1	1																																																																					0
-Passive and Magic	1			0	16	362	487		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		1	1	1	corruption1			1	1																																																																					0
-Jav and Spear	1			0	16	362	514		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		2	1	1	corruption1			1	1																																																																					0
-Traps	1			0	16	362	541		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		18	1	1	corruption1			1	1																																																																					0
-Martial Arts	1			0	16	362	568		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		20	1	1	corruption1			1	1																																																																					0
-Shadow Disciplines	1			0	16	362	595		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		19	1	1	corruption1			1	1																																																																					0
-Curses	1			0	16	362	622		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		6	1	1	corruption1			1	1																																																																					0
-Necro Summoning Skills	1			0	16	362	649		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		8	1	1	corruption1			1	1																																																																					0
-Poison and Bone	1			0	16	362	676		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		7	1	1	corruption1			1	1																																																																					0
-Masteries	1			0	16	362	703		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		12	1	1	corruption1			1	1																																																																					0
-Barb Combat	1			0	16	362	730		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		13	1	1	corruption1			1	1																																																																					0
-Warcries	1			0	16	362	757		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		14	1	1	corruption1			1	1																																																																					0
-Offensive Auras	1			0	16	362	784		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		10	1	1	corruption1			1	1																																																																					0
-Defensive Auras	1			0	16	362	811		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		11	1	1	corruption1			1	1																																																																					0
-Pally Combat	1			0	16	362	838		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		9	1	1	corruption1			1	1																																																																					0
-Fire Skills	1			0	16	362	865		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		3	1	1	corruption1			1	1																																																																					0
-Lightning Skills	1			0	16	362	892		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		4	1	1	corruption1			1	1																																																																					0
-Cold Skills	1			0	16	362	919		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		5	1	1	corruption1			1	1																																																																					0
-Druid Summoning	1			0	16	362	946		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		15	1	1	corruption1			1	1																																																																					0
-Elemental Skills	1			0	16	362	973		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		17	1	1	corruption1			1	1																																																																					0
+Gheed's Blessing	1			0	16	362	328		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	gold%			20	40	corruption1			1	1	mag%			5	10	cheap			5	5																																																											0
+Faster Hit Recovery	1			0	16	362	356		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	balance2			12	12	corruption1			1	1																																																																					0
+All Resistances	1			0	16	362	384		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	res-all			15	15	corruption1			1	1																																																																					0
+Faster Run/Walk	1			0	16	362	412		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	move2			7	7	corruption1			1	1																																																																					0
+Bow and Crossbow	1			0	16	362	440		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		0	1	1	corruption1			1	1																																																																					0
+Passive and Magic	1			0	16	362	468		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		1	1	1	corruption1			1	1																																																																					0
+Jav and Spear	1			0	16	362	496		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		2	1	1	corruption1			1	1																																																																					0
+Traps	1			0	16	362	524		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		18	1	1	corruption1			1	1																																																																					0
+Martial Arts	1			0	16	362	552		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		20	1	1	corruption1			1	1																																																																					0
+Shadow Disciplines	1			0	16	362	580		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		19	1	1	corruption1			1	1																																																																					0
+Curses	1			0	16	362	608		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		6	1	1	corruption1			1	1																																																																					0
+Necro Summoning Skills	1			0	16	362	636		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		8	1	1	corruption1			1	1																																																																					0
+Poison and Bone	1			0	16	362	664		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		7	1	1	corruption1			1	1																																																																					0
+Masteries	1			0	16	362	692		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		12	1	1	corruption1			1	1																																																																					0
+Barb Combat	1			0	16	362	720		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		13	1	1	corruption1			1	1																																																																					0
+Warcries	1			0	16	362	748		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		14	1	1	corruption1			1	1																																																																					0
+Offensive Auras	1			0	16	362	776		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		10	1	1	corruption1			1	1																																																																					0
+Defensive Auras	1			0	16	362	804		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		11	1	1	corruption1			1	1																																																																					0
+Pally Combat	1			0	16	362	832		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		9	1	1	corruption1			1	1																																																																					0
+Fire Skills	1			0	16	362	860		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		3	1	1	corruption1			1	1																																																																					0
+Lightning Skills	1			0	16	362	888		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		4	1	1	corruption1			1	1																																																																					0
+Cold Skills	1			0	16	362	916		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		5	1	1	corruption1			1	1																																																																					0
+Druid Summoning	1			0	16	362	944		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		15	1	1	corruption1			1	1																																																																					0
+Elemental Skills	1			0	16	362	972		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		17	1	1	corruption1			1	1																																																																					0
 Shapeshifting Skills	1			0	16	362	1000		2	Gheed's Fortune	tds						useitem			100	corruption2			1001	1001	skilltab		16	1	1	corruption1			1	1																																																																					0
 	0																																																																																																							0
 6 Socket Bows	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"bow,uni"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 6 Socket Crossbows	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"xbow,uni"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 2 Handed Sockets	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"2han,uni"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 1 Socket	0																																																																																																							0
 Rings	1			0	16	362	1000		2	"ring,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 Amulet	1			0	16	362	1000		2	"amu,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 2 Socket Belts	0																																																																																																							0
-1 Socket	1			0	16	362	910		2	"belt,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	895		2	"belt,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 2 Socket	1			0	16	362	1000		2	"belt,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket Gloves																																																																																																								0
-1 Socket	1			0	16	362	832		2	"glov,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"glov,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"glov,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"glov,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"glov,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Boots																																																																																																								0
-1 Socket	1			0	16	362	832		2	"boot,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"boot,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"boot,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"boot,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"boot,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Helm									2																																																																																															0
-1 Socket	1			0	16	362	832		2	"helm,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"helm,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"helm,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"helm,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"helm,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Chest																																																																																																								0
-1 Socket	1			0	16	362	832		2	"tors,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"tors,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"tors,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"tors,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"tors,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Shield																																																																																																								0
-1 Socket	1			0	16	362	832		2	"shld,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"shld,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"shld,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"shld,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"shld,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 4 Socket Weapons	0																																																																																																							0
-1 Socket	1			0	16	362	700		2	"weap,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	860		2	"weap,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	940		2	"weap,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	580		2	"weap,uni"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	804		2	"weap,uni"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	916		2	"weap,uni"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 4 Socket	1			0	16	362	1000		2	"weap,uni"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
 																																																																																																								0
 CRAFT CORRUPTIONS ----------------	0																																																																																																							0
@@ -1114,54 +1114,54 @@ Craft Corruptor	1			0	18	362	0		2	"any,crf"	std						useitem				corruption2			1	
 Brick	1			0	16	362	300		2	"any,crf"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 																																																																																																								0
 6 Socket Bows	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"bow,crf"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 6 Socket Crossbows	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"xbow,crf"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 2 Handed Sockets	0																																																																																																							0
-1 Socket	1			0	16	362	544		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	676		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	784		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
-4 Socket	1			0	16	362	880		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
-5 Socket	1			0	16	362	952		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	468		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	622		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	748		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+4 Socket	1			0	16	362	860		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0
+5 Socket	1			0	16	362	944		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			5	5	corruption1			1	1																																																																					0
 6 Socket	1			0	16	362	1000		2	"2han,crf"	std						useitem			100	corruption2			1001	1001	sock			6	6	corruption1			1	1																																																																					0
 1 Socket	0																																																																																																							0
 Rings	1			0	16	362	1000		2	"ring,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 Amulet	1			0	16	362	1000		2	"amu,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 2 Socket Belts	0																																																																																																							0
-1 Socket	1			0	16	362	910		2	"belt,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	895		2	"belt,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
 2 Socket	1			0	16	362	1000		2	"belt,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket Gloves																																																																																																								0
-1 Socket	1			0	16	362	832		2	"glov,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"glov,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"glov,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"glov,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"glov,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Boots																																																																																																								0
-1 Socket	1			0	16	362	832		2	"boot,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"boot,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"boot,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"boot,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"boot,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Helm																																																																																																								0
-1 Socket	1			0	16	362	832		2	"helm,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"helm,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"helm,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"helm,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"helm,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Chest																																																																																																								0
-1 Socket	1			0	16	362	832		2	"tors,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"tors,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"tors,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"tors,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"tors,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 3 Socket Shield																																																																																																								0
-1 Socket	1			0	16	362	832		2	"shld,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	952		2	"shld,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	804		2	"shld,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	944		2	"shld,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
 3 Socket	1			0	16	362	1000		2	"shld,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 4 Socket Weapons	0																																																																																																							0
-1 Socket	1			0	16	362	700		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
-2 Socket	1			0	16	362	860		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
-3 Socket	1			0	16	362	940		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
+1 Socket	1			0	16	362	580		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			1	1	corruption1			1	1																																																																					0
+2 Socket	1			0	16	362	804		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			2	2	corruption1			1	1																																																																					0
+3 Socket	1			0	16	362	916		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			3	3	corruption1			1	1																																																																					0
 4 Socket	1			0	16	362	1000		2	"weap,crf"	std						useitem			100	corruption2			1001	1001	sock			4	4	corruption1			1	1																																																																					0

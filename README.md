@@ -104,6 +104,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Pit Lords in WorldStone Chamber (Was bugged)
 - Annihilus + Charsi's Malus = Standard of Heros
 - New Treachery is 20% Fade Proc Chance
+- Whirlwind Buff 50 (was 30%) Base Dmg and 17% Dmg Per Level (was 5%)
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -792,3 +793,4 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Meteor fall time is 18 frames (was 60)
 - Immolation Arrow Casting Removed
 - Holy Shield Infinite Duration
+- Whirlwind Buff 50 (was 30%) Base Dmg and 17% Dmg Per Level (was 5%)
