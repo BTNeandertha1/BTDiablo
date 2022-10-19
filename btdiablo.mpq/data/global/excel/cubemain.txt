@@ -739,7 +739,8 @@ Reroll Charms	1			0					3	"cm1,mag,qty=3"							"cm1,mag"		95																			
 Reroll Charms	1			0					3	"cm2,mag,qty=3"							"cm2,mag"		95																																																																																					0
 Reroll Charms	1			0					3	"cm3,mag,qty=3"							"cm3,mag"		95																																																																																					0
 Hellfire Ashes	1			0					2	Hellfire Torch	lmr						tds																																																																																							0
-Break down Anni to SOH	1			0					2	Annihilus	mls						std																																																																																							0
+2 Hellfire Ashes + Stam = SOH	1			0					3	"tds,qty=2"	vps						std																																																																																							0
+Break down Anni to SOH	1			0					2	Annihilus	mls						std																													std																													std																													0
 Break down Gheeds to MF potion	1			0					2	Gheed's Fortune	mls						mfp																													mfp																													mfp																													0
 100 P Topaz to Vex	1			0	18	70	100		2	gg4t	vps						126																																																																																							0
 Generic F Amethyst	1			0	18	70	9		2	gxm4	gpv						"1pv,qty=4"																																																																																							0
@@ -798,7 +799,7 @@ Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	"armo,uni"	std	hsm					useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	"weap,uni"	std	hsm					useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	"any,crf"	std	hsm					useitem				rep-dur		25																																																																																	0
-4 Unique Jewerly = SOH	1			0					4	"jwly,uni,qty=4"							std																																																																																							0
+3 Unique Jewerly = SOH	1			0					3	"jwly,uni,qty=3"							std																																																																																							0
 CHAM RECIPE																																																																																																								0
 MF + GF	1			0					6	helm	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
 MF + GF	1			0					6	weap	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0

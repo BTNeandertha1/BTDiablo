@@ -98,13 +98,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Corruption Brick Chance Adjusted to 30% across the board (was 40%)
-- Amazon Javelins can now have 3 Sockets
-- Holy Shield Infinite Duration
-- Pit Lords in WorldStone Chamber (Was bugged)
-- Annihilus + Charsi's Malus = Standard of Heros
-- New Treachery is 20% Fade Proc Chance
-- Whirlwind Buff 50 (was 30%) Base Dmg and 17% Dmg Per Level (was 5%)
+- Drognan also Sells Full Rejuvs
+- Adjusted 4 Unique Jewelery for standard of heros to require only 3
+- Added recipe for 2 hellfire Ashes + Stamina = SOH
+- Breaking down Anni is now 3 SOH
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -579,7 +576,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - TP Scroll = T > H > D > T
    - ID Scroll = T > D > H > T
 - ANY 3 Uber Organs now open Uber Tristram (Diablo's Horn, Baal's Eye or Mephisto's Brain)
-- 4 Unique Jewerly (Rings, Amulets, Jewels) = SOH
+- 3 Unique Jewerly (Rings, Amulets, Jewels) = SOH
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
 - Removed Gem requirements for Rune Upgrading and repairing charges on items
@@ -598,8 +595,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
 - Larzuk's Forging hammer + Hellfire Torch = Hellfire Ash
 - Gheed's Fortune + Charsi's Malus = 3 Magic Find Potions
-- Annihilus + Charsi's Malus = Standard of Heros
+- Annihilus + Charsi's Malus = 3 Standard of Heros
 - 100 Stacked Perfect Topaz + Stamina Potion = 1 Vex
+- Added recipe for 2 hellfire Ashes + Stamina = SOH
 
 ## Endgame
 - Augment Recipes:
