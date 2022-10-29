@@ -131,7 +131,7 @@ CIRCLET BLOCKING	0																																																														
 1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1			100					4	"circ,mag,noe"	jew	r06g	gg4s																																																																																											0
 1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1			100					6	"circ,mag,noe"	jew	r06g	gg4s	r05g	mls																																																																																									0
 1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1			100					4	"circ,mag,eth"	jew	r06g	gg4s																																																																																											0
-CRAFTING																																																																																																								0
+CRAFTING	0																																																																																																							0
 1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1			100					4	"helm,mag,noe"	jew	r06g	gg4s				"usetype,crf"		50	50	gethit-skill		44	5	4	balance1			20	20	att			150	200																																																																					0
 1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1			100					6	"helm,mag,noe"	jew	r06g	gg4s	r05g	mls		"usetype,crf"		50	50	gethit-skill		44	5	4	balance1			20	20	att			150	200	ethereal	100		1	1																																																																0
 1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1			100					4	"helm,mag,eth"	jew	r06g	gg4s				"usetype,crf"		50	50	gethit-skill		44	5	4	balance1			20	20	att			150	200	ethereal	100		1	1																																																																0
@@ -297,7 +297,7 @@ not used	0			100					3	"ring,mag"	jew	r08g					"usetype,tmp"				levelreq			3	3		
 not used	0			100					3	"amu,mag"	jew	r08g					"usetype,tmp"				levelreq			5	5																																																																															0
 not used	0			100					3	"weap,tmp"	r01g	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 3 Chipped Gems (Any) + 1 Magic Weapon -> Socketed Magic Weapon	1			0					4	"weap,mag"	"ggm0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
-1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
+1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)	1			100	28				3	"ukey,qty=3"							Pandemonium Portal																																																																																							0
 1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)	1			100	28				3	"orgn,qty=3"							Pandemonium Finale Portal																																																																																							0
 1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
 1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Set Weapon -> Exceptional Set Weapon	1	1		100					4	"weap,bas,set"	r08g	r12g	gg4e				"useitem,mod,exc"																																																																																							0
@@ -344,29 +344,29 @@ not used	0			100					3	"weap,tmp"	r01g	gcv					useitem				levelreq			2	2	att			3
 1 Sur + 1 Key -> Lo  Rune	1			100	18	70	1		2	"129,qty=1"	"ggm1,qty=1"						128																																																																																							0
 1 Lo + 1 Key -> Ohm Rune	1			100	18	70	1		2	"128,qty=1"	"ggm1,qty=1"						127																																																																																							0
 1 Ohm + 1 Key -> Vex Rune	1			100	18	70	1		2	"127,qty=1"	"ggm1,qty=1"						126																																																																																							0
-1 Vex + 1 Key -> Gul Rune	1			100	18	70	1		2	"126,qty=1"	"ggm1,qty=1"						125																																																																																							
-1 Gul + 1 Key -> Ist Rune	1			100	18	70	1		2	"125,qty=1"	"ggm1,qty=1"						124																																																																																							
-1 Ist + 1 Key -> Mal Rune	1			100	18	70	1		2	"124,qty=1"	"ggm1,qty=1"						123																																																																																							
-1 Mal + 1 Key -> Um Rune	1			100	18	70	1		2	"123,qty=1"	"ggm1,qty=1"						122																																																																																							
-1 Um + 1 Key -> Pul Rune	1			100	18	70	1		2	"122,qty=1"	"ggm1,qty=1"						121																																																																																							
-1 Pul + 1 Key -> Lem Rune	1			100	18	70	1		2	"121,qty=1"	"ggm1,qty=1"						120																																																																																							
-1 Lem + 1 Key -> Fal Rune	1			100	18	70	1		2	"120,qty=1"	"ggm1,qty=1"						119																																																																																							
-1 Fal + 1 Key -> Ko Rune	1			100	18	70	1		2	"119,qty=1"	"ggm1,qty=1"						118																																																																																							
-1 Ko + 1 Key -> Lum Rune	1			100	18	70	1		2	"118,qty=1"	"ggm1,qty=1"						117																																																																																							
-1 Lum + 1 Key -> Io Rune	1			100	18	70	1		2	"117,qty=1"	"ggm1,qty=1"						116																																																																																							
-1 Io + 1 Key -> Hel Rune	1			100	18	70	1		2	"116,qty=1"	"ggm1,qty=1"						115																																																																																							
-1 Hel + 1 Key -> Dol  Rune	1			100	18	70	1		2	"115,qty=1"	"ggm1,qty=1"						114																																																																																							
-1 Dol + 1 Key -> Shael Rune	1			100	18	70	1		2	"114,qty=1"	"ggm1,qty=1"						113																																																																																							
-1 Shael + 1 Key -> Sol Rune	1			100	18	70	1		2	"113,qty=1"	"ggm1,qty=1"						112																																																																																							
-1 Sol + 1 Key -> Amn Rune	1			100	18	70	1		2	"112,qty=1"	"ggm1,qty=1"						111																																																																																							
-1 Amn + 1 Key -> Thul Rune	1			100	18	70	1		2	"111,qty=1"	"ggm1,qty=1"						110																																																																																							
-1 Thul + 1 Key -> Ort Rune	1			100	18	70	1		2	"110,qty=1"	"ggm1,qty=1"						109																																																																																							
-1 Ort + 1 Key -> Ral Rune	1			100	18	70	1		2	"109,qty=1"	"ggm1,qty=1"						108																																																																																							
-1 Ral + 1 Key -> Tal Rune	1			100	18	70	1		2	"108,qty=1"	"ggm1,qty=1"						107																																																																																							
-1 Tal + 1 Key -> Ith Rune	1			100	18	70	1		2	"107,qty=1"	"ggm1,qty=1"						106																																																																																							
-1 Ith + 1 Key -> Eth Rune	1			100	18	70	1		2	"106,qty=1"	"ggm1,qty=1"						105																																																																																							
-1 Eth + 1 Key -> Nef Rune	1			100	18	70	1		2	"105,qty=1"	"ggm1,qty=1"						104																																																																																							
-1 Nef + 1 Key -> Tir Rune	1			100	18	70	1		2	"104,qty=1"	"ggm1,qty=1"						103																																																																																							
+1 Vex + 1 Key -> Gul Rune	1			100	18	70	1		2	"126,qty=1"	"ggm1,qty=1"						125																																																																																							0
+1 Gul + 1 Key -> Ist Rune	1			100	18	70	1		2	"125,qty=1"	"ggm1,qty=1"						124																																																																																							0
+1 Ist + 1 Key -> Mal Rune	1			100	18	70	1		2	"124,qty=1"	"ggm1,qty=1"						123																																																																																							0
+1 Mal + 1 Key -> Um Rune	1			100	18	70	1		2	"123,qty=1"	"ggm1,qty=1"						122																																																																																							0
+1 Um + 1 Key -> Pul Rune	1			100	18	70	1		2	"122,qty=1"	"ggm1,qty=1"						121																																																																																							0
+1 Pul + 1 Key -> Lem Rune	1			100	18	70	1		2	"121,qty=1"	"ggm1,qty=1"						120																																																																																							0
+1 Lem + 1 Key -> Fal Rune	1			100	18	70	1		2	"120,qty=1"	"ggm1,qty=1"						119																																																																																							0
+1 Fal + 1 Key -> Ko Rune	1			100	18	70	1		2	"119,qty=1"	"ggm1,qty=1"						118																																																																																							0
+1 Ko + 1 Key -> Lum Rune	1			100	18	70	1		2	"118,qty=1"	"ggm1,qty=1"						117																																																																																							0
+1 Lum + 1 Key -> Io Rune	1			100	18	70	1		2	"117,qty=1"	"ggm1,qty=1"						116																																																																																							0
+1 Io + 1 Key -> Hel Rune	1			100	18	70	1		2	"116,qty=1"	"ggm1,qty=1"						115																																																																																							0
+1 Hel + 1 Key -> Dol  Rune	1			100	18	70	1		2	"115,qty=1"	"ggm1,qty=1"						114																																																																																							0
+1 Dol + 1 Key -> Shael Rune	1			100	18	70	1		2	"114,qty=1"	"ggm1,qty=1"						113																																																																																							0
+1 Shael + 1 Key -> Sol Rune	1			100	18	70	1		2	"113,qty=1"	"ggm1,qty=1"						112																																																																																							0
+1 Sol + 1 Key -> Amn Rune	1			100	18	70	1		2	"112,qty=1"	"ggm1,qty=1"						111																																																																																							0
+1 Amn + 1 Key -> Thul Rune	1			100	18	70	1		2	"111,qty=1"	"ggm1,qty=1"						110																																																																																							0
+1 Thul + 1 Key -> Ort Rune	1			100	18	70	1		2	"110,qty=1"	"ggm1,qty=1"						109																																																																																							0
+1 Ort + 1 Key -> Ral Rune	1			100	18	70	1		2	"109,qty=1"	"ggm1,qty=1"						108																																																																																							0
+1 Ral + 1 Key -> Tal Rune	1			100	18	70	1		2	"108,qty=1"	"ggm1,qty=1"						107																																																																																							0
+1 Tal + 1 Key -> Ith Rune	1			100	18	70	1		2	"107,qty=1"	"ggm1,qty=1"						106																																																																																							0
+1 Ith + 1 Key -> Eth Rune	1			100	18	70	1		2	"106,qty=1"	"ggm1,qty=1"						105																																																																																							0
+1 Eth + 1 Key -> Nef Rune	1			100	18	70	1		2	"105,qty=1"	"ggm1,qty=1"						104																																																																																							0
+1 Nef + 1 Key -> Tir Rune	1			100	18	70	1		2	"104,qty=1"	"ggm1,qty=1"						103																																																																																							0
 1 Tir + 1 Key -> Eld Rune	1			100	18	70	1		2	"103,qty=1"	"ggm1,qty=1"						102																																																																																							0
 1 Eld + 1 Key -> El Rune	1			100	18	70	1		2	"102,qty=1"	"ggm1,qty=1"						101																																																																																							0
 1 El + 1 Key -> Rejuv	1			100	18	70	1		2	"101,qty=1"	"ggm1,qty=1"						rvl																																																																																							0
@@ -377,12 +377,12 @@ not used	0			100					3	"weap,tmp"	r01g	gcv					useitem				levelreq			2	2	att			3
 3 Twisted Essence of Suffering -> 1 Charged Essence of Hatred	1			100	18	70	100		2	tes	vps						"ceh,qty=50"																																																																																							0
 3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1			100	18	70	100		2	ceh	vps						"bet,qty=50"																																																																																							0
 3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100	18	70	99		2	bet	vps						"fed,qty=33"																																																																																							0
-3 Key of Terror -> Key of Hate	1			100					3	"pk1,qty=2"	tsc						pk2																																																																																							0
-3 Key of Terror -> Key of Hate	1			100					3	"pk1,qty=2"	isc						pk3																																																																																							0
-3 Key of Hate -> Key of Destruction	1			100					3	"pk2,qty=2"	tsc						pk3																																																																																							0
-3 Key of Hate -> Key of Destruction	1			100					3	"pk2,qty=2"	isc						pk1																																																																																							0
-3 Key of Destruction -> Key of Terror	1			100					3	"pk3,qty=2"	tsc						pk1																																																																																							0
-3 Key of Destruction -> Key of Terror	1			100					3	"pk3,qty=2"	isc						pk2																																																																																							0
+3 Key of Terror -> Key of Hate	0			100					3	"pk1,qty=2"	tsc						pk2																																																																																							0
+3 Key of Terror -> Key of Hate	0			100					3	"pk1,qty=2"	isc						pk3																																																																																							0
+3 Key of Hate -> Key of Destruction	0			100					3	"pk2,qty=2"	tsc						pk3																																																																																							0
+3 Key of Hate -> Key of Destruction	0			100					3	"pk2,qty=2"	isc						pk1																																																																																							0
+3 Key of Destruction -> Key of Terror	0			100					3	"pk3,qty=2"	tsc						pk1																																																																																							0
+3 Key of Destruction -> Key of Terror	0			100					3	"pk3,qty=2"	isc						pk2																																																																																							0
 1cv -> gcv	1			0	18	70	1		1	1cv							gcv																																																																																							0
 gcv -> 1cv	1			0					1	gcv							1cv																																																																																							0
 1cb -> gcb	1			0	18	70	1		1	1cb							gcb																																																																																							0
@@ -738,7 +738,7 @@ ENDGAME RECIPES	0																																																															
 Reroll Charms	1			0					3	"cm1,mag,qty=3"							"cm1,mag"		95																																																																																					0
 Reroll Charms	1			0					3	"cm2,mag,qty=3"							"cm2,mag"		95																																																																																					0
 Reroll Charms	1			0					3	"cm3,mag,qty=3"							"cm3,mag"		95																																																																																					0
-Hellfire Ashes	1			0					2	Hellfire Torch	lmr						tds																																																																																							0
+Hellfire Ashes break down	1			0					2	Hellfire Torch	mls						tds																																																																																							0
 2 Hellfire Ashes + Stam = SOH	1			0					3	"tds,qty=2"	vps						std																																																																																							0
 Break down Anni to SOH	1			0					2	Annihilus	mls						std																													std																													std																													0
 Break down Gheeds to MF potion	1			0					2	Gheed's Fortune	mls						mfp																													mfp																													mfp																													0
@@ -999,7 +999,7 @@ Unique Corruptor	1			0	18	362	0		2	"armo,uni"	std						useitem				corruption2			
 Unique Corruptor	1			0	18	362	0		2	"weap,uni"	std						useitem				corruption2			1	1000																					std																																																										0
 Unique Corruptor	1			0	18	362	0		2	"ring,uni"	std						useitem				corruption2			1	1000																					std																																																										0
 Unique Corruptor	1			0	18	362	0		2	"amul,uni"	std						useitem				corruption2			1	1000																					std																																																										0
-Brick	1			0	16	362	300		2	Gheed's Fortune	tds						"usetype,mag"	99			corruption2			1001	1001						corruption1			1	1																																																																					ttd
+Brick	1			0	16	362	300		2	Gheed's Fortune	tds						"usetype,mag"	99			corruption2			1001	1001						corruption1			1	1																																																																					0
 Brick	1			0	16	362	300		2	"armo,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 Brick	1			0	16	362	300		2	"weap,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0
 Brick	1			0	16	362	300		2	"ring,uni"	std						"usetype,rar"			100	corruption2			1001	1001						corruption1			1	1																																																																					0

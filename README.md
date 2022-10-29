@@ -98,10 +98,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Drognan also Sells Full Rejuvs
-- Adjusted 4 Unique Jewelery for standard of heros to require only 3
-- Added recipe for 2 hellfire Ashes + Stamina = SOH
-- Breaking down Anni is now 3 SOH
+- Class Specific Chest Armors roll 1-2 Class Skills (Immortal kings, Mavs etc)
+- Ondals Almighty
+   - Added 10 Faster Cast Rate
+- Any 3 Uber Keys Spawn the red portals
+- Removed Key converting
+- Charsi's Malus Now Breaks down the torch instead of Larzuk's Forging Hammer
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -437,30 +439,37 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - BK Tribal Guardian is now a Colosus Sword
    - 3 Sockets
 - Griswolds Armor
-   - 1 to Paladin Skills
+   - 1-2 to Paladin Skills
 - Griswolds Helm
    - 25 All res
 - Ondal's Almighty
    - 2 to Skills
+   - 10 Faster Cast Rate
 - Taebaek's Glory
    - 40 Faster Cast Rate
 - Mav's Armor
-   - 1 Amazon Skills
+   - 1-2 Amazon Skills
 - Mav's Gloves
    - Cannot be Frozen
 - Natalya's Mark
    - 2 Assassin Skills
+- Natalya's Armor
+   - 1-2 Assassin Skills
 - Laying of Hands
    - 150-200 Damage to Demons
 - Rite of Passage
    - Cannot be frozen
 - Aldur's Armor
-   - 1 Druid Skills
+   - 1-2 Druid Skills
 - Aldur's Helm
    - 1-2 Druid Skills
 - Sazabi's Sword
    - 250 ED
 - Trang Set no longer turns you into a Goul
+- Trang's Armor
+   - 1-2 Necromancer Skills
+- Immortal King's Armor
+   - 1-2 Barbarian Skills 
 
 ## Affixes
 - Added Rare Affixes
@@ -572,9 +581,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Essence Transmuting to next Tier
    - 2 Blue > 2 Yellow > 3 Red > 3 Green
 - 3 Green Essence = 1 Destruction Key
-- Uber Key Transmuting 2+(TP Scroll or ID Scroll) = 1 of a different type | changed the Colors of the keys
-   - TP Scroll = T > H > D > T
-   - ID Scroll = T > D > H > T
 - ANY 3 Uber Organs now open Uber Tristram (Diablo's Horn, Baal's Eye or Mephisto's Brain)
 - 3 Unique Jewerly (Rings, Amulets, Jewels) = SOH
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
@@ -593,11 +599,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 3 Charms cubed = 1 of the same charm type
 - 9 Stacked Perfect Gems + Active Perfect Gem of your choosing = 4 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
    - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
-- Larzuk's Forging hammer + Hellfire Torch = Hellfire Ash
+- Charsi's Malus + Hellfire Torch = Hellfire Ash
 - Gheed's Fortune + Charsi's Malus = 3 Magic Find Potions
 - Annihilus + Charsi's Malus = 3 Standard of Heros
 - 100 Stacked Perfect Topaz + Stamina Potion = 1 Vex
 - Added recipe for 2 hellfire Ashes + Stamina = SOH
+- Any 3 Uber Keys Spawn the Red Portals
 
 ## Endgame
 - Augment Recipes:
