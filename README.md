@@ -98,12 +98,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Class Specific Chest Armors roll 1-2 Class Skills (Immortal kings, Mavs etc)
-- Ondals Almighty
-   - Added 10 Faster Cast Rate
-- Any 3 Uber Keys Spawn the red portals
-- Removed Key converting
-- Charsi's Malus Now Breaks down the torch instead of Larzuk's Forging Hammer
+- Removed Fist of Heavens cooldown
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -799,3 +794,4 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Immolation Arrow Casting Removed
 - Holy Shield Infinite Duration
 - Whirlwind Buff 50 (was 30%) Base Dmg and 17% Dmg Per Level (was 5%)
+- Removed Fist of Heavens cooldown
