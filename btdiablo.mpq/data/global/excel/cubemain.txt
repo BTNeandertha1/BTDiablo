@@ -801,17 +801,17 @@ Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	"any,crf"	std	hsm					useitem				rep-dur		25																																																																																	0
 3 Unique Jewerly = SOH	1			0					3	"jwly,uni,qty=3"							std																																																																																							0
 CHAM RECIPE																																																																																																								0
-MF + GF	1			0					6	helm	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
-MF + GF	1			0					6	weap	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
-MF + GF	1			0					6	amu	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
-MF + GF	1			0					6	shld	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
-MF + GF	1			0					6	ring	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
-MF + GF	1			0					6	glov	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
-MF + GF	1			0					6	boots	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
-MF + GF	1			0					6	tors	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
-MF + GF	1			0					6	belt	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			25	25																																																																					0
+MF + GF	1			0					6	helm	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
+MF + GF	1			0					6	weap	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
+MF + GF	1			0					6	amu	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
+MF + GF	1			0					6	shld	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
+MF + GF	1			0					6	ring	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
+MF + GF	1			0					6	glov	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
+MF + GF	1			0					6	boots	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
+MF + GF	1			0					6	tors	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
+MF + GF	1			0					6	belt	r32g	r24g	r20g	std	mls		useitem				light			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
 ZOD RECIPE																																																																																																								0
-Teleport + MF + GF	1			0					6	tors	r33g	r29g	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			25	25																																																																0
+Teleport + MF + GF	1			0					6	tors	r33g	r29g	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	light			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																											0
 	0																																																																																																							0
 MAGIC CORRUPTIONS	0																																																																																																							0
 BLOCK CHARMS	1								2	"cm1,mag"	std						useitem																													std																																																										0

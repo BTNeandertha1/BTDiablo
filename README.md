@@ -98,6 +98,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
+- Fixed a bug with Augments not having 50% gold find and added 1% Experience Gained to them
+- Unique Jewels now drop with 1% Experience Gained
 - Removed Fist of Heavens cooldown
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
@@ -246,7 +248,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 1-3 Faster Cast Rate
    - 5-10 Increased Attack Speed
    - Cannot Be frozen
+   - 1% Experience Gained
 - Ogre Axe Now gets up to 5 Sockets
+- Facets now drop with 1% Experience Gained
    
 ## Uniques
 - Cranium Basher
@@ -603,8 +607,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 
 ## Endgame
 - Augment Recipes:
-   - Zod + SOJ + Sur + SOH + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1 Light Radius
-   - Cham + SOH + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1 Light Radius
+   - Zod + SOJ + Sur + SOH + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1 Light Radius + 1% Exp Gained
+   - Cham + SOH + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1 Light Radius + 1% Exp Gained
    
 ## Corruptions
 - Corruptions have a 30% Chance to reroll as a random rare and 70% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + SOH)
