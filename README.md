@@ -98,12 +98,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Fixed a bug with Augments not having 50% gold find and added 1% Experience Gained to them
-- Unique Jewels now drop with 1% Experience Gained
-- Removed Fist of Heavens cooldown
-- Iron Golem now has takes 70% less dmg across the board
-- Adjusted Torch Corruptions % Chances
-- Reduced Torch Corruptions to 2 Hellfire ashes
+- Fixed Tooltip for FOH
+- Increased Act 5 Red Portal Density 
+- Increased Act 5 Outside areas Density
+- Increased Density for Forgotten Sands and Furnace of Pain
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -764,6 +762,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 
 ### Act 5
 - 85 All Zones
+- Increased Act 5 Red Portal Density 
+- Increased Act 5 Outside areas Density
 - Stash and Deckard Cain locations Changed
 - Madawc is always Aura Enchanted
 - 96 Uber Areas (Forgotten Sands, Furnace of Pain and Matron’s Den) Also greatly increased Elite packs and density
@@ -774,7 +774,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - W3 = Teleporation Souls
    - W4 = Extra Fast Venom Lords
    - W5 = Extra Fast Minions of Destruction
-- Area Level 90 Pit Lords in WorldStone Chamber (Was bugged)
+- Area Level 90 Pit Lords in WorldStone Chamber
 
 ## Skills
 - Static is Always 60%
