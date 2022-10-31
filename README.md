@@ -101,6 +101,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Fixed a bug with Augments not having 50% gold find and added 1% Experience Gained to them
 - Unique Jewels now drop with 1% Experience Gained
 - Removed Fist of Heavens cooldown
+- Iron Golem now has takes 70% less dmg across the board
+- Adjusted Torch Corruptions % Chances
+- Reduced Torch Corruptions to 2 Hellfire ashes
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -647,16 +650,16 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 		 - 20 Life + 17 Mana
 		 
    - Hellfire Torch Large Charm (0% Chance to Brick)
-      - 2 Hellfire Ashes + Torch = Stage 1 | Then repeat = Corrupted
-	     - 7% Chance to Cast Level 22 Amplify Damage When Struck
-		 - 20% Chance to Cast Level 18 Lower Resist When Struck
-		 - 15% Chance to Cast Level 20 Decrepify When Struck
-		 - 12% Chance to Cast Level 18 Weaken When Struck
-		 - 7% Chance to Cast Level 21 Life Tap When Struck
-	     - 15% Chance to Cast Level 21 Bone Armor When Struck
-	     - 15% Chance to Cast Level 21 Cyclone Armor When Struck
-		 - 20% Chance to Cast Level 20 Static Field When Struck
-		 - 15% Chance to Cast Level 24 Frost Nova When Struck
+      - 2 Hellfire Ashes + Torch = Corrupted
+	     - 40% Chance to Cast Level 22 Amplify Damage When Struck
+		 - 75% Chance to Cast Level 18 Lower Resist When Struck
+		 - 60% Chance to Cast Level 20 Decrepify When Struck
+		 - 50% Chance to Cast Level 18 Weaken When Struck
+		 - 25% Chance to Cast Level 21 Life Tap When Struck
+	     - 60% Chance to Cast Level 21 Bone Armor When Struck
+	     - 60% Chance to Cast Level 21 Cyclone Armor When Struck
+		 - 60% Chance to Cast Level 20 Static Field When Struck
+		 - 75% Chance to Cast Level 24 Frost Nova When Struck
 		 - Level 31 Prayer Aura when Equipped
          - Level 10 Vigor Aura When Equipped
          - Level 10 Blessed Aim Aura When Equipped
@@ -799,3 +802,4 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Holy Shield Infinite Duration
 - Whirlwind Buff 50 (was 30%) Base Dmg and 17% Dmg Per Level (was 5%)
 - Removed Fist of Heavens cooldown
+- Iron Golem now has takes 70% less dmg across the board
