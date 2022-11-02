@@ -98,10 +98,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Fixed Tooltip for FOH
-- Increased Act 5 Red Portal Density 
-- Increased Act 5 Outside areas Density
-- Increased Density for Forgotten Sands and Furnace of Pain
+- Fixed Blizzards Patch for BTDiablo
+- Added Socket Recipes for Superior Items
+- Shrines now stack and dont interfere with curses
+- Battle Cry does not interfere with curses
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -605,6 +605,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - 100 Stacked Perfect Topaz + Stamina Potion = 1 Vex
 - Added recipe for 2 hellfire Ashes + Stamina = SOH
 - Any 3 Uber Keys Spawn the Red Portals
+- Added Socket Recipes for Superior Items
 
 ## Endgame
 - Augment Recipes:
@@ -803,3 +804,5 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Whirlwind Buff 50 (was 30%) Base Dmg and 17% Dmg Per Level (was 5%)
 - Removed Fist of Heavens cooldown
 - Iron Golem now has takes 70% less dmg across the board
+- Shrines now stack and dont interfere with curses
+- Battle Cry does not interfere with curses

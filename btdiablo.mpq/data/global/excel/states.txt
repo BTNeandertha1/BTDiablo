@@ -88,7 +88,7 @@ nomanaregen	85			1																																																														
 justhit	86	1		1																																																																			0
 slowmissiles	87																																										innersight							skill_handofathena																					0
 shiverarmor	88	1							1					1																													shiverarmor							skill_armor_percent																		87			0
-battlecry	89							1					1	1																													battlecry							skill_armor_percent												barbarian_battlecry_state									0
+battlecry	89												1	1																													battlecry							skill_armor_percent												barbarian_battlecry_state									0
 blue	90																																																								100	108	150	215	255										0
 red	91																																																								70	100	255	255	255										0
 death_delay	92																																																																						0
@@ -127,16 +127,16 @@ progressive_other	124																																				1										progressive_
 progressive_fire	125																																				1										progressive_fire_1			progressive_fire	1	1																			0
 progressive_cold	126																																				1										progressive_cold_1			progressive_cold	1	1																			0
 progressive_lightning	127																																				1										progressive_lightning_1			progressive_lightning	1	1																			0
-shrine_armor	128							1						1																													shrine_armor	shrine_shimmer00						armorclass																					0
-shrine_combat	129							1				1	1																														shrine_combat	shrine_shimmer00						tohit																					0
-shrine_resist_lightning	130							1								1																											shrine_resist_lightning	shrine_shimmer01						lightresist																					0
-shrine_resist_fire	131							1							1																												shrine_resist_fire	shrine_shimmer00						fireresist																					0
-shrine_resist_cold	132							1									1																										shrine_resist_cold	shrine_shimmer01						coldresist																					0
-shrine_resist_poison	133							1											1																								shrine_resist_poison	shrine_shimmer01						poisonresist																					0
-shrine_skill	134							1																																			shrine_skill	shrine_shimmer00							9	6																			0
-shrine_mana_regen	135							1																																			shrine_mana_regen	shrine_shimmer01																											0
-shrine_stamina	136							1										1																									shrine_stamina	shrine_shimmer01						stamina																					0
-shrine_experience	137							1																																			shrine_experience	shrine_shimmer00																											0
+shrine_armor	128													1																													shrine_armor	shrine_shimmer00						armorclass																					0
+shrine_combat	129											1	1																														shrine_combat	shrine_shimmer00						tohit																					0
+shrine_resist_lightning	130															1																											shrine_resist_lightning	shrine_shimmer01						lightresist																					0
+shrine_resist_fire	131														1																												shrine_resist_fire	shrine_shimmer00						fireresist																					0
+shrine_resist_cold	132																1																										shrine_resist_cold	shrine_shimmer01						coldresist																					0
+shrine_resist_poison	133																		1																								shrine_resist_poison	shrine_shimmer01						poisonresist																					0
+shrine_skill	134																																										shrine_skill	shrine_shimmer00							9	6																			0
+shrine_mana_regen	135																																										shrine_mana_regen	shrine_shimmer01																											0
+shrine_stamina	136																	1																									shrine_stamina	shrine_shimmer01						stamina																					0
+shrine_experience	137																																										shrine_experience	shrine_shimmer00																											0
 fenris_rage	138																																										direwolfcharged	direwolfcharged																											0
 wolf	139	3			1					1	1	1																													1										14											druid_morph	druid_morph	1	430						0
 bear	140	3			1					1	1		1	1																											1										14											druid_morph	druid_morph	1	431						0
