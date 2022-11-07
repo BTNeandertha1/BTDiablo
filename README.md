@@ -98,10 +98,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Fixed Blizzards Patch for BTDiablo
-- Added Socket Recipes for Superior Items
-- Shrines now stack and dont interfere with curses
-- Battle Cry does not interfere with curses
+- Grim ward no longer Terrors but instead uses Innersite
+- Poison Dagger Mana cost reduced and generates mana at higher levels
+- FOH's Holy Bolt Synergy Reduced to 4%
+- Buffed Rabies (synergies 26%)
+   - Added 26% Feral Rage Synergy
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -510,7 +511,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 6-17 Magic find on Grand Charm (was 1-12)
 - Large Charm Affixes
    - 6-20 Individual Resistance [Fire, Cold, Light, and Poison] (was 4-15)
-   - 4-9 All Resistances (was 3-8)
+   - 4-10 All Resistances (was 3-8)
    - 4-12 Magic Find (was 1-6)
    - 1-3 Damage/10-48 Attack Rating (was 1-6 Max Dmg/10-48 Attack Rating)
 
@@ -803,6 +804,14 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Holy Shield Infinite Duration
 - Whirlwind Buff 50 (was 30%) Base Dmg and 17% Dmg Per Level (was 5%)
 - Removed Fist of Heavens cooldown
+   - FOH's Holy Bolt Damage Reduced
 - Iron Golem now has takes 70% less dmg across the board
 - Shrines now stack and dont interfere with curses
 - Battle Cry does not interfere with curses
+- Grim ward no longer Terrors but instead uses Innersite
+- Poison Dagger Mana cost reduced and generates mana at higher levels
+- Grim ward no longer Terrors but instead uses Innersite
+- Poison Dagger Mana cost reduced and generates mana at higher levels
+- FOH's Holy Bolt Synergy Reduced to 4%
+- Buffed Rabies (synergies 26%)
+   - Added 26% Feral Rage Synergy
