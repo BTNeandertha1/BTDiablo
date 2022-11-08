@@ -2,7 +2,7 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 	0																																																																																																							0
 Dye Test	0			100					2	armo	vps						useitem																																																																																							0
 Dye Test	0			100					2	weap	vps						useitem																																																																																							0
-Test	0			100	28				1	tsc							Pandemonium Portal																																																																																							0
+Test	0			100	28				1	tsc							Pandemonium Finale Portal																																																																																							0
 Test	0			100					3	"vps,qty=3"							"cm1,mag"	99		99																																																																																				0
 Test	0			100					4	"vps,qty=4"							"cm1,mag"	99		99	allskills			99	99	cast2			200	200	res-all			500	500	move2			500	500	cheap			1000	1000																																																											0
 Test	0			100					2	aqv	vps						useitem				rep-quant		63																							std																													std																													0
