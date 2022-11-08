@@ -98,11 +98,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Grim ward no longer Terrors but instead uses Innersite
-- Poison Dagger Mana cost reduced and generates mana at higher levels
-- FOH's Holy Bolt Synergy Reduced to 4%
-- Buffed Rabies (synergies 26%)
-   - Added 26% Feral Rage Synergy
+- Ubers Updated
+   - Mephisto Drops a Standard of Heros
+   - Diablo Drops a Standard of Heros
+   - Baal Drops a Grand Charm
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -693,6 +692,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Izual = Destruction
    - Nihlathak = Destruction
    - Snapchip Shatter = Destruction
+- Ubers Updated
+   - Mephisto Drops a Standard of Heros
+   - Diablo Drops a Standard of Heros
+   - Baal Drops a Grand Charm
 
 ## Elites
 - 2x Aura Range
