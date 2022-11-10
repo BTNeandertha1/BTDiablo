@@ -98,10 +98,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Ubers Updated
-   - Mephisto Drops a Standard of Heros
-   - Diablo Drops a Standard of Heros
-   - Baal Drops a Grand Charm
+- Rabies Spreads like Corona Virus
+- Lower Resist Always breaks Poison Immunity (All Monsters Have a maximum psn res of 105%)
+- Feral Rage now has 30 Second Duration
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -818,3 +817,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - FOH's Holy Bolt Synergy Reduced to 4%
 - Buffed Rabies (synergies 26%)
    - Added 26% Feral Rage Synergy
+   - Rabies Spreads like Corona Virus
+- Lower Resist Always breaks Poison Immunity (All Monsters Have a maximum psn res of 105%)
+- Feral Rage now has 30 Second Duration
