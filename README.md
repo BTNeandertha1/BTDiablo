@@ -98,9 +98,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Rabies Spreads like Corona Virus
-- Lower Resist Always breaks Poison Immunity (All Monsters Have a maximum psn res of 105%)
-- Feral Rage now has 30 Second Duration
+- Doubled Dexterity and Strength Bonuses for Weapons
+- Removed Faster Run/Walk Pentalty on Gear
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -110,6 +109,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 ## Characters
 - Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
 - Greatly improved Attack Rating for all classes (All classes start with 750 AR was -15 to 20)
+- Doubled the Effect of Strength and Dexterity Bonuses on Weapons
 
 ## Shrines
 - Made Gem Shrines Much more common
@@ -251,6 +251,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 1% Experience Gained
 - Ogre Axe Now gets up to 5 Sockets
 - Facets now drop with 1% Experience Gained
+- Removed Faster Run/Walk Pentalty on Gear
    
 ## Uniques
 - Cranium Basher
