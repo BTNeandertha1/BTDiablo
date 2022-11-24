@@ -22,6 +22,7 @@ BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Di
 - QOL improvements
 - Endless Itemization... Literally
 - Improved Melee
+- Keep Wirt's Leg upon making the Secret Cow Level!
 
 BTNeandertha1 Social Media Links:  
 - [Twitch](https://www.twitch.tv/btneandertha1)
@@ -98,8 +99,14 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Doubled Dexterity and Strength Bonuses for Weapons
-- Removed Faster Run/Walk Pentalty on Gear
+- Swarms in Forgotten Sands Physical Resistance reduced to 60% (was 99%)
+- Succubus Birds in Matron's Den have their damage halfed
+- Keep Wirt's Leg upon making the Secret Cow Level!
+- New Recipes
+   - 3 Terror Keys + TP Scroll = Matrons Den
+   - 3 Hate Keys + TP Scroll = Forgotten Sands
+   - 3 Destruction Keys + TP Scroll = Furnace of Pain
+- Lilith Also Drops a Destruction Key!
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -606,12 +613,15 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Added recipe for 2 hellfire Ashes + Stamina = SOH
 - Any 3 Uber Keys Spawn the Red Portals
 - Added Socket Recipes for Superior Items
+- 3 Terror Keys + TP Scroll = Matrons Den
+- 3 Hate Keys + TP Scroll = Forgotten Sands
+- 3 Destruction Keys + TP Scroll = Furnace of Pain
 
 ## Endgame
 - Augment Recipes:
    - Zod + SOJ + Sur + SOH + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1 Light Radius + 1% Exp Gained
    - Cham + SOH + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1 Light Radius + 1% Exp Gained
-   
+   - Gul + Fal + Charsi's Malus + SOH + Any Gear Piece = 200 Attack Rating + 10% Bonus AR + 1 Light Radius
 ## Corruptions
 - Corruptions have a 30% Chance to reroll as a random rare and 70% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + SOH)
    - Amulets, Rings
@@ -696,6 +706,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Mephisto Drops a Standard of Heros
    - Diablo Drops a Standard of Heros
    - Baal Drops a Grand Charm
+- Swarms in Forgotten Sands Physical Resistance reduced to 60% (was 99%)
+- Succubus Birds in Matron's Den have their damage halfed
+- Lilith Also Drops a Destruction Key!
 
 ## Elites
 - 2x Aura Range
@@ -821,3 +834,4 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Rabies Spreads like Corona Virus
 - Lower Resist Always breaks Poison Immunity (All Monsters Have a maximum psn res of 105%)
 - Feral Rage now has 30 Second Duration
+- Increased Battle Cry Range Slightly and removed Radius Description

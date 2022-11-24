@@ -2,7 +2,9 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 	0																																																																																																							0
 Dye Test	0			100					2	armo	vps						useitem																																																																																							0
 Dye Test	0			100					2	weap	vps						useitem																																																																																							0
-Test	0			100	28				1	tsc							Pandemonium Finale Portal																																																																																							0
+Test	0			100	28				1	tsc							Red Portal,qty=133																																																																																							0
+Test	0			100	28				2	"tsc,qty=2"							Red Portal,qty=134																																																																																							0
+Test	0			100	28				3	"tsc,qty=3"							Red Portal,qty=135																																																																																							0
 Test	0			100					3	"vps,qty=3"							"cm1,mag"	99		99																																																																																				0
 Test	0			100					4	"vps,qty=4"							"cm1,mag"	99		99	allskills			99	99	cast2			200	200	res-all			500	500	move2			500	500	cheap			1000	1000																																																											0
 Test	0			100					2	aqv	vps						useitem				rep-quant		63																							std																													std																													0
@@ -10,7 +12,7 @@ Teleport + MF + GF	0			100					2	weap	vps						useitem				red-dmg%			-200	-200	i
 																																																																																																								0
 Staff of Kings + Amulet of the Viper -> Horadric Staff	1			0	28				2	msf	vip						hst																																																																																							0
 Khalim's Flail + Khalim's Heart + Khalim's Eye + Khalim's Brain -> Khalim's Will	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
-Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
+Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2	leg	tbk						Cow Portal																													leg																																																										0
 3 Healing Potions (Any) + 3 Mana Potions (Any) + 1 Standard Gem (Any) -> Full Rejuvenation Potion	1			0					7	"hpot,qty=3"	"mpot,qty=3"	ggm2					rvl																																																																																							0
 3 Healing Potions (Any) + 3 Mana Potions (Any)  + 1 Chipped Gem (Any) -> Rejuvenation Potion	1			0					7	"hpot,qty=3"	"mpot,qty=3"	ggm0					rvs																																																																																							0
 3 Rejuvenation Potions -> Full Rejuvenation Potion	1			0					3	"rvs,qty=3"							rvl																																																																																							0
@@ -292,6 +294,9 @@ not used	0			100					3	"ring,mag"	jew	r08g					"usetype,tmp"				levelreq			3	3		
 not used	0			100					3	"amu,mag"	jew	r08g					"usetype,tmp"				levelreq			5	5																																																																															0
 not used	0			100					3	"weap,tmp"	r01g	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 3 Chipped Gems (Any) + 1 Magic Weapon -> Socketed Magic Weapon	1			0					4	"weap,mag"	"ggm0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
+Matrons Den	1			100	28				4	tsc	"pk1,qty=3"						Red Portal,qty=133																																																																																							0
+Forgotten Sands	1			100	28				4	tsc	"pk2,qty=3"						Red Portal,qty=134																																																																																							0
+Furnace of pain	1			100	28				4	tsc	"pk3,qty=3"						Red Portal,qty=135																																																																																							0
 1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)	1			100	28				3	"ukey,qty=3"							Pandemonium Portal																																																																																							0
 1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)	1			100	28				3	"orgn,qty=3"							Pandemonium Finale Portal																																																																																							0
 1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
