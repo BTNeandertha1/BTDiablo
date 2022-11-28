@@ -589,12 +589,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 2 Blue > 2 Yellow > 3 Red > 3 Green
 - 3 Green Essence = 1 Destruction Key
 - ANY 3 Uber Organs now open Uber Tristram (Diablo's Horn, Baal's Eye or Mephisto's Brain)
-- 3 Unique Jewerly (Rings, Amulets, Jewels) = SOH
+- 3 Unique Jewerly (Rings, Amulets, Jewels) = Standard of Heroes
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
 - Removed Gem requirements for Rune Upgrading and repairing charges on items
 - Charsi's Malus + Arrows or Bolts = Replenish Quantity 
-- Hratli's Spiritual Herb + SOH
+- Hratli's Spiritual Herb + Standard of Heroes
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
    - Replenishes Quantity for Any Throwing Weapons
 - 9 Jewels + Charsi's Malus = 1 Rare Jewel
@@ -610,7 +610,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Gheed's Fortune + Charsi's Malus = 3 Magic Find Potions
 - Annihilus + Charsi's Malus = 3 Standard of Heros
 - 100 Stacked Perfect Topaz + Stamina Potion = 1 Vex
-- Added recipe for 2 hellfire Ashes + Stamina = SOH
+- Added recipe for 2 hellfire Ashes + Stamina = Standard of Heroes
 - Any 3 Uber Keys Spawn the Red Portals
 - Added Socket Recipes for Superior Items
 - 3 Terror Keys + TP Scroll = Matrons Den
@@ -619,11 +619,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 
 ## Endgame
 - Augment Recipes:
-   - Zod + SOJ + Sur + SOH + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1 Light Radius + 1% Exp Gained
-   - Cham + SOH + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1 Light Radius + 1% Exp Gained
-   - Gul + Fal + Charsi's Malus + SOH + Any Gear Piece = 200 Attack Rating + 10% Bonus AR + 1 Light Radius
+   - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1 Light Radius + 1% Exp Gained
+   - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1 Light Radius + 1% Exp Gained
+   - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR + 1 Light Radius
 ## Corruptions
-- Corruptions have a 30% Chance to reroll as a random rare and 70% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + SOH)
+- Corruptions have a 30% Chance to reroll as a random rare and 70% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + Standard of Heroes)
    - Amulets, Rings
       - 1 Socket 100%
    - Belts
