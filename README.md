@@ -99,14 +99,379 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI and Itemization
 
 # Patch Notes 
-- Swarms in Forgotten Sands Physical Resistance reduced to 60% (was 99%)
-- Succubus Birds in Matron's Den have their damage halfed
-- Keep Wirt's Leg upon making the Secret Cow Level!
-- New Recipes
-   - 3 Terror Keys + TP Scroll = Matrons Den
-   - 3 Hate Keys + TP Scroll = Forgotten Sands
-   - 3 Destruction Keys + TP Scroll = Furnace of Pain
-- Lilith Also Drops a Destruction Key!
+Bug Fixes
+- BoneSlayer Blade
+   - Fixed a bug where you get level 63 Holy Bolt (Now Level 20)
+
+Removed Light Radius all Unique and Set items (exception Hellfire Torch)
+Removed Indestructible From all Unique and Set items (exceptions Shadow Killer, Ethereal Edge and Ghost Flame)
+Removed Stamina from all Unique and Set items
+
+Skills
+- Phoenix Strike Always Hits and Meteor is much faster now
+- Fists of Fire Always Hits
+- Claws of Thunder Always Hits
+- Blades of Ice Always Hits
+- Cobra Strike Always Hits
+
+Base Items
+- Tulwar can now get 3 sockets (was 2)
+- Glaive and Throwing Spear get up to 3 sockets (was 2)
+- Throwing Weapons now get up to 4 sockets with Corruptions (was 3)
+
+Unique Items
+
+- Rune Master
+   - Removed Sockets
+   - 270-320 Increased Enhanced Damage (was 220-270 ED)
+   - Added Ignore Target's Defense
+   - Added 20% Increased Attack Speed
+- Black Hades
+   - Removed Sockets
+   - Cannot Be Frozen (was Half Freeze Duration)
+   - 180%-220% Damage to Demons (was 30%-60%)
+- Spirit Forge
+   - Removed Sockets
+   - 100 Life (was 10 Life/Level)
+   - 50-70 Damage (was 20-65 Fire Damage)
+   - 15-20 Strength (was 15)
+- Witchwild String
+   - Removed Sockets
+   - Added 20% Increased Attack Speed
+   - 20% Chance to Cast Level 22 Amplify Damage on Striking (was 2% level 5)
+- Hellrack
+   - Removed Sockets
+   - 30 Increased Attack Speed (was 20)
+   - 400 Elemental Damage (was 63-324)
+   - Added 20% Chance to Cast Level 10 Lower Resist On Striking
+- Crown of Ages
+   - Removed Sockets
+   - Repairs Durability 5 (was Indestructible)
+   - Added 12-15 Magic Damage Reduced
+   - Added 7-9 Life After Each Kill
+- Leviathan
+   - Repairs Durability 5 (was Indestructible)
+- Giant Skull
+   - Removed Sockets 
+   - Removed Knockback 
+   - 25% Crushing Blow (was 10%)
+   - Added 30-60% Enhanched Damage
+   - Added 12-21 Flat Physical Damage Reduction
+   - Added 25-35 Dexterity
+- Bonehew
+   - Removed Sockets
+   - 50% Chance to Cast Level 40 Bonespear (was Level 16)
+   - Added 7% Life Leech
+- Tomb Reaver
+   - Removed Sockets
+   - Added Level 7-9 Fanatacism Aura when Equipped
+- Heaven's Light
+   - Removed Sockets
+   - 300-350 Enhanced Damage (was 250-300)
+   - Always 3 Paladin Skills (was 2-3)
+   - -66% Target Defense (was 33)
+   - 15-20 Life after Kill (was life after Demon Kill)
+- Headhunter's Glory
+   - Removed Sockets
+   - Added 50% Faster Run/Walk
+   - Added 40% Increased Attack Speed
+   - Added Cannot Be Frozen
+   - Added Hit Blinds Target
+- Moser's Blessed Circle
+   - 55% Increased Block Chance
+   - 60% Faster Block Rate
+   - 40 All Resistances (was 25)   
+- Hone Sundan
+   - Removed Sockets
+   - Added 80 Increased Attack Speed
+- Blade of Ali Baba
+   - Removed Sockets
+   - Added 150% Gold Find
+- The Patriarch
+   - 250% Gold Find (was 100)
+   - Added 50% Faster Cast Rate
+   - 6 Magic and Physical Damage Reduction (was 3)
+- Djinn Slayer
+   - Removed Sockets And Reworked
+   - 300-400% Damage to Demons
+   - 500 Magic Damage
+   - 200-300 Attack Rating against Demons
+   - Level 7-9 Redemption Aura when Equipped
+   - 25% Crushing Blow
+   - 20% Increased Attack Speed
+- Eschuta's Temper
+   - 2-3 Sorceress Skills (was 1-3)
+   - -5 to -15 To enemy Fire and Lightning Resistance (was 10-20 Fire and Lightning Skill Damage)
+- Axe of Fechmar
+   - Removed Light Radius
+   - Added 20% Increased Attack Speed
+   
+SETS
+Aldur's Watchtower (Full Set)
+   - Removed Defense
+   - 100 MF 3 Pieces (was 50) 
+   - Added 20% Physical Damage Reduction with full set
+   - Added + 7 Grizzly
+- Aldur's Rhythm (Weapon)
+   - Removed Sockets
+   - 300 Enhanced Damage (was 200 Damage to Demons)
+   - 45 Increased Attack Speed (was 30)
+- Aldur's Stoney Gaze (Helm)
+   - Removed Sockets and Light Radius
+   - 75 Mana (was Regen 17% Mana)
+   - 1-2 All Skills (was Druid Skills)
+   - Added 40-50 Lightning Resist
+- Aldur's Deception (Armor)
+   - 2-3 All Skill Tabs (was 1-2 Druid Skills)
+   - 20-30 Strength (was 20)
+   - 15-25 Dexterity (was 15)
+   - Added 50 Life
+- Aldur's Advance (Boots)
+   - Removed Stamina
+   - Added 10 Life Regen
+   - Added 10% Mana Regen
+Griswold's Legacy (Full Set)
+   - Removed Flat Attack Rating
+   - Added 40 Faster Run/Walk (3 Items)
+   - Added + 7 Holy Shield
+   - Added 300 Enhanced Damage
+   - Added 25% Physical Damage Reduction
+- Griswold's Heart (Armor)
+   - Removed Sockets
+   - 1-3 All Skill Tabs (was 1-2 Paladin Skills)
+   - 20-30 Strength (was 20)
+   - 600 Defense (was 500)
+   - Added 6-9 Mana After Each Kill
+   2 Items = 2 To Defensive Skills
+   3 Items = 27% Increased Maximum Life
+   4 Items = 5% Increased Maximum Lightning Resistance
+- Griswold's Valor (Helmet)
+   - Removed Sockets
+   - 25% All Resistance (was 5%)
+   - 1-2 All Skills
+   - .33% Deadly Strike Based On Character Level
+   - 100% Poison Length Reduction
+   2 Items = 2 to Offensive Aura
+   3 Items = 15% Mana Stolen Per Hit
+   4 Items = 5% Increased Maximum Poison Resistance
+- Griswold's Redemption (Weapon)
+   - Removed Sockets and Damage to Demons
+   - 300-350% Enhanced Damage (was 200-240)
+   - 60% Increased Attack Speed (was 40%)
+   - Added +190 to 250 Damage
+   - -50% to Target Defense
+   - 15% Chance to Cast Level 5 Frost Nova
+   2 Items = 2 to Combat Skills
+   3 Items = 15% Life Stolen Per Hit
+   4 Items = 5% Increased Maximum Cold Resistance
+- Griswold's Honor (Shield)
+   - Removed Sockets
+   - Added 45% Faster Cast Rate
+   - Added 3 All Skills 
+   - 60% Increased Block Chance (was 20)
+   - 20-30 Flat Physical and Magic Damage Reduction
+   - 150-200 Enhanced Defense
+   2 Items = 15 Strength
+   3 Items = 25% Faster Hit Recovery
+   4 Items = 5% Increased Maximum Fire Resistance
+
+Immortal King (Full Set)
+   - Added 100% Magic Find
+   - Added 300% Enhanced Damage
+   - 30 Magic Damage Reduction (was 10)
+   - Added + 7 Item Find
+- Immortal King's Will (Helm)
+   - 30-45 Magic Find (25-40)
+   - 40-50 Gold Find (was 37)
+   - 1-3 Warcries (was 2)
+   - Added 30 Fire Resistance
+   - 2 Items = 15 Energy
+   - 3 Items = 15 Vitality
+   - 4 Items = 15 Strength
+   - 5 Items = 15 Dexterity
+   - 6 Items = 20 Faster Cast Rate
+- Immortal King Stone Crusher (Weapon)
+   - 250-300% Enhanced Damage (was 200)
+   - 250% Damage to Demons and Undead (was 200)
+   - Added -40% requirements
+   - Added 2 to Combat Materies
+   - 4 Items = Poison Damage (was Cold)
+   - 5 Items = Magic Damage (was Poison)
+   - 6 Items = + 250 Damage (was Magic Damage)
+- Immortal King's Detail (Belt)
+   - 2 Items = 30% Physical Damage Reduction
+- Immortal King's Soul Cage (Armor)
+   - 20% Chance to Cast Level 5 Enchant (was 5% Chance)
+- Immortal King's Pillar (Boots)
+   - Added 3-5% Physical Damage Reduction
+   - Added 30-40% Magic Resistance
+   - 6 Items = 15 Strength
+- Immortal King's Forge (Gloves)
+   - 12% Chance to Cast Level 20 Static Field when Struck (was level 4 Charge Bolt)
+   - 6 Items = 34% Curse Reduction
+   
+Natalya's Odium (Full Set)
+   - Removed Defense
+   - Magic Damage Reduced by 30 (was 15)
+   - Added 100% Magic Find
+   - Added +7 to Phoenix Strike
+- Natalya's Shadow
+   - Removed Sockets
+   - 500-600 Defense (was 150-225)
+   - 1-1.5 Life Based on Char level (was 1per level)
+   - 1-3 All Skill Tabs (was 1-2 Assassin Skills)
+   - 75-150 Poison Length Reduction
+- Natalya's Soul (Boots)
+   - Removed Stamina and Durability
+   - Added 3-5 Pierce All
+- Natalya's Totem (Helm)
+   - Added 1-2 All Skills
+- Natalya's Mark (Weapon)
+   - 2 All Skills
+   - 100 Cold Damage (was 50)
+   - 100 Fire Damage (was 12-17)
+   
+Bul-Kathos' Children (Full Set)
+   - 4 All Skills (was 2)
+   - +300 Damage (was 200 Fire)
+   - 300% Enhanced Damage (was 200 demons and undead)
+   - 35% Deadly Strike (was 20)
+   - Added 50% All resistances
+   - Added 100% Magic Find
+- Bul-Kathos' Sacred Charge
+   - Removed Sockets
+   - 300-350 Enhanced Damage (was 200)
+   - 20-30 All Resistances (was 20)
+   - Added Hit Blinds Target
+   - Added 20-30 Dexterity
+   - Added 10% Mana Stolen Per Hit
+- Bul-Kathos' Tribal Guardian
+   - Removed Sockets
+   - 300-350 Enhanced Damage (was 200)
+   - 20-30 All Resistances (was 50 Fire Res)
+   - 20% Chance to Cast Level 10 Poison Nova on Striking (was 50 poison damage)
+   - Added 20-30 Strength
+   - Added 10% Life Stolen Per Hit
+   - Added 35% Chance to Open Wounds
+   
+M'avina's Battle Hymn (Full Set)
+   - Removed Defense
+   - Added 40 Faster Run/Walk
+   - Added +3 to Cold Mastery
+   - Added 10 Mana After Each Kill
+   - Added + 7 Valkyrie
+M'avina's Icy Clutch (Gloves)
+   - +100 Cold Damage (was 6-18)
+   - Cannot Be Frozen (was Half Freeze Duration)
+   - 100-150% Gold Find
+   - 20-30 Dexterity and Strength
+   - 2 Items = 15 Vitality
+   - 3 Items = 25 Increased Attack Speed
+   - 4 Items = 20% Cold Pierce
+   - 5 Items = 20% Cold Skill Damage
+M'avina's True Sight (Helm)
+   - 2 Items = 2 All Skills (was 1)
+   - 5 Items = 5% Maximum Cold Resistance
+M'avina's Embrace (Armor)
+   - 2-3 All Skill Tabs (was 1-2 Amazon Skills)
+   - 2 Items = 15 Energy
+   - 3 Items = 30% Faster Hit Recovery
+   - 4 Items = 20% Physical Damage Reduction
+   - 5 Items = 5% Maximum Fire Resistance
+M'avina's Caster (Weapon)
+   - Added 4-5 Bow and Cross Bow Skills
+   - 34% Chance to Pierce
+   - 2 Items = 15 Dexterity
+   - 3 Items = 114-377 Magic Damage
+   - 4 Items = 2 Bow and Crossbow Skills
+   - 5 Items = 5% Maximum Lightning Resistance
+M'avina's Tenet (Belt)
+   - 30 Faster Run/Walk (was 20)  
+   - Added 10-20 All Resistances
+   - Added 3-5 Mana After Each Kill
+   - 2 Items = 20% Fire Pierce
+   - 3 Items = 15 Strength
+   - 4 Items = 25% All Resistances
+   - 5 Items = 5% Maximum Poison Resistance
+   
+Trang-Oul's Avatar (Full Set)
+   - Added + 7 Lower Resist
+- Trang-Oul's Guise (Helm)
+   - Defense 100
+   - Faster Hit Recovery 25
+   - Level 15 Thorns When Equipped
+   - +2 to Summon Skills (Druid and Necromancer)
+   - +2 to all Skills
+   - 2 Items = 15 Energy
+   - 3 Items = 25% Fire Pierce
+   - 4 Items = 15 Dexterity
+   - 5 Items = 5% Maximum Lightning Resistance
+- Trang-Oul's Scales (Armor)
+   - -40% Requirements
+   - 30% Faster Hit Recovery
+   - 1-3 All Skilltabs (was 1-2 Necromancer Skills)
+   - 150% Enhanced Defense
+   - 2 Items = 15 Strength
+   - 3 Items = 50% Lightning Resistance
+   - 4 Items = 15 Vitality 
+   - 5 Items = 25% Physical Damage Reduction
+- Trang-Oul's Wing (Shield)
+   - 125 Defense
+   - 20-30 Dexterity and Strength
+   - 35-50 Fire Resistance
+   - 30% Chance to Block
+   - 40% Poison Resistance
+   - +2 to Poison and Bone Skills
+   - 35% Faster Cast Rate
+   - 2 Items = 35% Faster Block Rate
+   - 3 Items = 25% Poison Pierce
+   - 4 Items = 15 Strength
+   - 5 Items = 5% Maximum Fire Resistance
+- Trang-Oul's Claws (Gloves)
+   - 2 Items = 15 Dexterity
+   - 3 Items = 15 Energy
+   - 4 Items = 25% Poison Skill Damage
+   - 5 Items = 5% Maximum Poison Resistance
+- Trang-Oul's Girth (Belt)
+   - 100 Defense
+   - Replenish Life 25 (was 5)
+   - 66 Life
+   - Cannot Be Frozen
+   - -40% Requirements
+   - 25-50 Mana
+   - 20% Faster Cast Rate
+   - 2 Items = 15 Vitality
+   - 3 Items = 40 Cold Resistance
+   - 4 Items = 15% Lightning Absorb
+   - 5 Items = 5% Maximum Cold Resistance
+   
+Vidala's Fetlock
+   - 10 Vitality (was Stamina)
+
+Tancred's Hobnails
+   - 25 Life (was Stamina
+
+Rite of Passage
+   - 15-25 Life
+   
+Steeldriver
+   - Removed Stamina
+   - 25 Life
+   
+The Centurion
+   - Removed Stamina
+   - 30 Life (was 15)
+   - 30 Mana (was 15)
+   - Added 10 Life Regen
+   - Added 10% Mana Regen
+   
+Treads of Cthon
+   - Removed Stamina
+   - 20 Life (was 10)
+   
+Zakarum's Hand
+   - Removed Stamina
+   - 15 Replenish Life
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
@@ -835,3 +1200,4 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Lower Resist Always breaks Poison Immunity (All Monsters Have a maximum psn res of 105%)
 - Feral Rage now has 30 Second Duration
 - Increased Battle Cry Range Slightly and removed Radius Description
+- Phoenix Strike's Meteor's are much faster

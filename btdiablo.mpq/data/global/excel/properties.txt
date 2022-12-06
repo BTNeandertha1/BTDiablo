@@ -14,7 +14,7 @@ mana	1	1	maxmana																											+# to Mana		Min #	Max #		0
 mana%	1	1	item_maxmana_percent																											Increase Maximum Mana #%		Min %	Max %		0
 hp	1	1	maxhp																											+# to Life		Min #	Max #		0
 hp%	1	1	item_maxhp_percent																											Increase Maximum Life #%		Min %	Max %		0
-att	1	1	tohit																											+# to Attack Rating		Min #	Max #		att
+att	1	1	tohit																											+# to Attack Rating		Min #	Max #		0
 block	1	1	toblock																											#% Increased Chance of Blocking		Min %	Max %		0
 cold-min	1	1	coldmindam																											+# to Minimum Cold Damage		Min #	Max #		0
 cold-max	1	1	coldmaxdam																											+# to Maximum Cold Damage		Min #	Max #		0
@@ -120,7 +120,7 @@ reanimate	1	24	item_reanimate																											Reanimate As: [Returned]
 pierce	1	1	item_pierce																											Piercing Attack		Min %	Max %		0
 magicarrow	1	1	item_magicarrow																											Fires Magic Arrows		Min #	Max #		0
 explosivearrow	1	1	item_explosivearrow																											Fires Explosive Arrows or Bolts		Min #	Max #		0
-Expansion																																			
+Expansion																																			0
 dru	1	21	item_addclassskills		5																									+# to Druid Skill Levels		Min #	Max #		0
 ass	1	21	item_addclassskills		6																									+# to Assassin Skill Levels		Min #	Max #		0
 skill	1	22	item_singleskill																											+# to [Skill] ([Class] only)	Skill	Min #	Max #		0
