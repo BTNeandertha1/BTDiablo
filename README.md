@@ -205,6 +205,21 @@ Unique Items
 - Axe of Fechmar
    - Removed Light Radius
    - Added 20% Increased Attack Speed
+- Steeldriver
+   - Removed Stamina
+   - 25 Life 
+- The Centurion
+   - Removed Stamina
+   - 30 Life (was 15)
+   - 30 Mana (was 15)
+   - Added 10 Life Regen
+   - Added 10% Mana Regen
+- Treads of Cthon
+   - Removed Stamina
+   - 20 Life (was 10)  
+- Zakarum's Hand
+   - Removed Stamina
+   - 15 Replenish Life
    
 SETS
 Aldur's Watchtower (Full Set)
@@ -444,34 +459,12 @@ Trang-Oul's Avatar (Full Set)
    - 3 Items = 40 Cold Resistance
    - 4 Items = 15% Lightning Absorb
    - 5 Items = 5% Maximum Cold Resistance
-   
-Vidala's Fetlock
+- Vidala's Fetlock
    - 10 Vitality (was Stamina)
-
-Tancred's Hobnails
-   - 25 Life (was Stamina
-
-Rite of Passage
-   - 15-25 Life
-   
-Steeldriver
-   - Removed Stamina
-   - 25 Life
-   
-The Centurion
-   - Removed Stamina
-   - 30 Life (was 15)
-   - 30 Mana (was 15)
-   - Added 10 Life Regen
-   - Added 10% Mana Regen
-   
-Treads of Cthon
-   - Removed Stamina
-   - 20 Life (was 10)
-   
-Zakarum's Hand
-   - Removed Stamina
-   - 15 Replenish Life
+- Tancred's Hobnails
+   - 25 Life (was Stamina)
+- Rite of Passage
+   - 15-25 Life 
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
