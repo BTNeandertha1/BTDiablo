@@ -84,10 +84,10 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - Wolfieeiflow: Helping with Spreadsheets and brain power  
 - JeyP: Testing things then walking me through  
 - Kex: First Tester and first to Kill HC Hell Baal
-- Stackit (https://www.nexusmods.com/diablo2resurrected/mods/80) on Nexusmods to use the assets and help with functionality of stacking!
+- Stackit (https://www.nexusmods.com/diablo2resurrected/mods/80) on Nexusmods to help with functionality of stacking!
 - Stucifer "loot filter" display
 - MrBrooksGaming Added UI Controller Support
-- Bonesy for some Merc Gear files
+- Bonesy for being an actual god and helping with a ton of various stuff! Check out their website (https://www.d2rmodding.com/)
 
 # Future Ideas
 Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/16) issue.  
