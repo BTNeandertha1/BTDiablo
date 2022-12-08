@@ -26095,7 +26095,7 @@
     "zhCN": "莫伊"
   },
   {
-    "id": 71000,
+    "id": 61000,
     "Key": "mfp",
     "enUS": "ÿc;Magic Find Potion",
     "zhTW": "ÿc;Magic Find Potion",
@@ -26112,7 +26112,7 @@
     "zhCN": "ÿc;Magic Find Potion"
   },
   {
-    "id": 71001,
+    "id": 61001,
     "Key": "PotionMagicFindDesc",
     "enUS": "+150% Magic Find For 20 Minutes",
     "zhTW": "+150% Magic Find For 20 Minutes",
@@ -26129,7 +26129,7 @@
     "zhCN": "+150% Magic Find For 20 Minutes"
   },
   {
-    "id": 71002,
+    "id": 61002,
     "Key": "mls",
     "enUS": "ÿc7Charsi's Malus",
     "zhTW": "ÿc7Charsi's Malus",
@@ -26146,7 +26146,7 @@
     "zhCN": "ÿc7Charsi's Malus"
   },
   {
-    "id": 71003,
+    "id": 61003,
     "Key": "CharsiMalusDesc",
     "enUS": "Imbue With Cube",
     "zhTW": "Imbue With Cube",
@@ -26163,7 +26163,7 @@
     "zhCN": "Imbue With Cube"
   },
   {
-    "id": 71004,
+    "id": 61004,
     "Key": "lmr",
     "enUS": "ÿc7Larzuk's Forging Hammer",
     "zhTW": "ÿc7Larzuk's Forging Hammer",
@@ -26180,7 +26180,7 @@
     "zhCN": "ÿc7Larzuk's Forging Hammer"
   },
   {
-    "id": 71005,
+    "id": 61005,
     "Key": "LarzukHammerDesc",
     "enUS": "Add Sockets With Cube",
     "zhTW": "Add Sockets With Cube",
@@ -26197,7 +26197,7 @@
     "zhCN": "Add Sockets With Cube"
   },
   {
-    "id": 71006,
+    "id": 61006,
     "Key": "bgn",
     "enUS": "ÿc7BigDinn",
     "zhTW": "ÿc7BigDinn",
@@ -26214,7 +26214,7 @@
     "zhCN": "ÿc7BigDinn"
   },
   {
-    "id": 71007,
+    "id": 61007,
     "Key": "BigDinnDesc",
     "enUS": "Cube With Magic Staff",
     "zhTW": "Cube With Magic Staff",
@@ -26231,7 +26231,7 @@
     "zhCN": "Cube With Magic Staff"
   },
   {
-    "id": 71008,
+    "id": 61008,
     "Key": "ElixirDesc",
     "enUS": "A Special Ethereal Ingredient",
     "zhTW": "A Special Ethereal Ingredient",
@@ -26248,7 +26248,7 @@
     "zhCN": "A Special Ethereal Ingredient"
   },
   {
-    "id": 71009,
+    "id": 61009,
     "Key": "SpleenDesc",
     "enUS": "Ingredient",
     "zhTW": "Ingredient",
@@ -26265,7 +26265,7 @@
     "zhCN": "Ingredient"
   },
   {
-    "id": 71010,
+    "id": 61010,
     "Key": "JawboneDesc",
     "enUS": "Ingredient",
     "zhTW": "Ingredient",
@@ -26282,7 +26282,7 @@
     "zhCN": "Ingredient"
   },
   {
-    "id": 71011,
+    "id": 61011,
     "Key": "QuillDesc",
     "enUS": "Ingredient",
     "zhTW": "Ingredient",
@@ -26299,7 +26299,7 @@
     "zhCN": "Ingredient"
   },
   {
-    "id": 71012,
+    "id": 61012,
     "Key": "voa",
     "enUS": "ÿc7Viper of the Amulet",
     "zhTW": "ÿc7Viper of the Amulet",
@@ -26316,7 +26316,7 @@
     "zhCN": "ÿc7Viper of the Amulet"
   },
   {
-    "id": 71013,
+    "id": 61013,
     "Key": "ViperDesc",
     "enUS": "Mana = Lower Res, Life = Life Tap",
     "zhTW": "Mana = Lower Res, Life = Life Tap",
@@ -26333,7 +26333,7 @@
     "zhCN": "Mana = Lower Res, Life = Life Tap"
   },
   {
-    "id": 71014,
+    "id": 61014,
     "Key": "hsm",
     "enUS": "ÿc7Hratli's Spiritual Herb",
     "zhTW": "ÿc7Hratli's Spiritual Herb",
@@ -26350,7 +26350,7 @@
     "zhCN": "ÿc7Hratli's Spiritual Herb"
   },
   {
-    "id": 71015,
+    "id": 61015,
     "Key": "HratliHerbDesc",
     "enUS": "A Special Ethereal Ingredient",
     "zhTW": "A Special Ethereal Ingredient",
@@ -26367,7 +26367,7 @@
     "zhCN": "A Special Ethereal Ingredient"
   },
   {
-    "id": 71016,
+    "id": 61016,
     "Key": "tds",
     "enUS": "ÿc7Hellfire Ashes",
     "zhTW": "ÿc7Hellfire Ashes",
@@ -26384,7 +26384,7 @@
     "zhCN": "ÿc7Hellfire Ashes"
   },
   {
-    "id": 71017,
+    "id": 61017,
     "Key": "TorchDustDesc",
     "enUS": "Powerful Cube Ingredients",
     "zhTW": "Powerful Cube Ingredients",
@@ -26401,7 +26401,7 @@
     "zhCN": "Powerful Cube Ingredients"
   },
   {
-    "id": 71018,
+    "id": 61018,
     "Key": "Neverfrost",
     "enUS": "Neverfrost",
     "zhTW": "Neverfrost",
@@ -26418,24 +26418,24 @@
     "zhCN": "Neverfrost"
   },
   {
-    "id": 71019,
+    "id": 61019,
     "Key": "StackDesc",
-    "enUS": "Cube to Unstack or Use",
-    "zhTW": "Cube to Unstack or Use",
-    "deDE": "Cube to Unstack or Use",
-    "esES": "Cube to Unstack or Use",
-    "frFR": "Cube to Unstack or Use",
-    "itIT": "Cube to Unstack or Use",
-    "koKR": "Cube to Unstack or Use",
-    "plPL": "Cube to Unstack or Use",
-    "esMX": "Cube to Unstack or Use",
-    "jaJP": "Cube to Unstack or Use",
-    "ptBR": "Cube to Unstack or Use",
-    "ruRU": "Cube to Unstack or Use",
-    "zhCN": "Cube to Unstack or Use"
+    "enUS": "ÿc1Cube alone when socketing or using recipes",
+    "zhTW": "ÿc1Cube alone when socketing or using recipes",
+    "deDE": "ÿc1Cube alone when socketing or using recipes",
+    "esES": "ÿc1Cube alone when socketing or using recipes",
+    "frFR": "ÿc1Cube alone when socketing or using recipes",
+    "itIT": "ÿc1Cube alone when socketing or using recipes",
+    "koKR": "ÿc1Cube alone when socketing or using recipes",
+    "plPL": "ÿc1Cube alone when socketing or using recipes",
+    "esMX": "ÿc1Cube alone when socketing or using recipes",
+    "jaJP": "ÿc1Cube alone when socketing or using recipes",
+    "ptBR": "ÿc1Cube alone when socketing or using recipes",
+    "ruRU": "ÿc1Cube alone when socketing or using recipes",
+    "zhCN": "ÿc1Cube alone when socketing or using recipes"
   },
   {
-    "id": 71020,
+    "id": 61020,
     "Key": "RecipeDesc",
     "enUS": "Warning! Use 1 Quantity For Recipes",
     "zhTW": "Warning! Use 1 Quantity For Recipes",
@@ -26450,5 +26450,73 @@
     "ptBR": "Warning! Use 1 Quantity For Recipes",
     "ruRU": "Warning! Use 1 Quantity For Recipes",
     "zhCN": "Warning! Use 1 Quantity For Recipes"
+  },
+  {
+    "id": 61021,
+    "Key": "pbk",
+    "enUS": "Place Holder TP",
+    "zhTW": "ÿc7Larzuk's Forging Hammer",
+    "deDE": "ÿc7Larzuk's Forging Hammer",
+    "esES": "ÿc7Larzuk's Forging Hammer",
+    "frFR": "ÿc7Larzuk's Forging Hammer",
+    "itIT": "ÿc7Larzuk's Forging Hammer",
+    "koKR": "ÿc7Larzuk's Forging Hammer",
+    "plPL": "ÿc7Larzuk's Forging Hammer",
+    "esMX": "ÿc7Larzuk's Forging Hammer",
+    "jaJP": "ÿc7Larzuk's Forging Hammer",
+    "ptBR": "ÿc7Larzuk's Forging Hammer",
+    "ruRU": "ÿc7Larzuk's Forging Hammer",
+    "zhCN": "ÿc7Larzuk's Forging Hammer"
+  },
+  {
+    "id": 61022,
+    "Key": "LarzukHammerDesc",
+    "enUS": "Add Sockets With Cube",
+    "zhTW": "Add Sockets With Cube",
+    "deDE": "Add Sockets With Cube",
+    "esES": "Add Sockets With Cube",
+    "frFR": "Add Sockets With Cube",
+    "itIT": "Add Sockets With Cube",
+    "koKR": "Add Sockets With Cube",
+    "plPL": "Add Sockets With Cube",
+    "esMX": "Add Sockets With Cube",
+    "jaJP": "Add Sockets With Cube",
+    "ptBR": "Add Sockets With Cube",
+    "ruRU": "Add Sockets With Cube",
+    "zhCN": "Add Sockets With Cube"
+  },
+  {
+    "id": 61023,
+    "Key": "dbk",
+    "enUS": "Place Holder ID",
+    "zhTW": "ÿc7Larzuk's Forging Hammer",
+    "deDE": "ÿc7Larzuk's Forging Hammer",
+    "esES": "ÿc7Larzuk's Forging Hammer",
+    "frFR": "ÿc7Larzuk's Forging Hammer",
+    "itIT": "ÿc7Larzuk's Forging Hammer",
+    "koKR": "ÿc7Larzuk's Forging Hammer",
+    "plPL": "ÿc7Larzuk's Forging Hammer",
+    "esMX": "ÿc7Larzuk's Forging Hammer",
+    "jaJP": "ÿc7Larzuk's Forging Hammer",
+    "ptBR": "ÿc7Larzuk's Forging Hammer",
+    "ruRU": "ÿc7Larzuk's Forging Hammer",
+    "zhCN": "ÿc7Larzuk's Forging Hammer"
+  },
+  {
+    "id": 61024,
+    "Key": "LarzukHammerDesc",
+    "enUS": "Add Sockets With Cube",
+    "zhTW": "Add Sockets With Cube",
+    "deDE": "Add Sockets With Cube",
+    "esES": "Add Sockets With Cube",
+    "frFR": "Add Sockets With Cube",
+    "itIT": "Add Sockets With Cube",
+    "koKR": "Add Sockets With Cube",
+    "plPL": "Add Sockets With Cube",
+    "esMX": "Add Sockets With Cube",
+    "jaJP": "Add Sockets With Cube",
+    "ptBR": "Add Sockets With Cube",
+    "ruRU": "Add Sockets With Cube",
+    "zhCN": "Add Sockets With Cube"
   }
 ]

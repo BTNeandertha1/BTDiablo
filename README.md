@@ -97,8 +97,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 - Adjust Merc AI and Itemization
+# Patch Notes
+- Walk mode is now just as fast as run (allowing you to run and have defense)
+- Changed the graphic of stacked items and their descriptions
 
-# Patch Notes 
+# Recent Patch Notes 
 Bug Fixes
 - BoneSlayer Blade
    - Fixed a bug where you get level 63 Holy Bolt (Now Level 20)
