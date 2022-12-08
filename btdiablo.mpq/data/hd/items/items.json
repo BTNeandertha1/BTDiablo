@@ -732,6 +732,5 @@
   { "mfp": { "asset": "potion/magic_find_potion" } },
   { "hsm": { "asset": "herb/herb" } },
   { "voa": { "asset": "key/viper_key" } },
-  { "tds": { "asset": "key/hellfire_ashes" } },
-  { "mfc": { "asset": "herb/herb" } }
+  { "tds": { "asset": "key/hellfire_ashes" } }
 ]
