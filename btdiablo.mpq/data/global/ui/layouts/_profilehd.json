@@ -10,6 +10,24 @@
     "RightPanelRect": { "x": -1394, "y": -651, "width": 1162, "height": 1507 },
     "PanelClickCatcherRect": { "x": 0, "y": 0, "width": 1162, "height": 1507 },
     "InGamePanelTitleRect" : { "x": 91, "y": 64, "width": 972, "height": 71 },
+
+    //ModStart ExpandedStorageMod
+    //
+    //modcomment: New variables to allow changes for _profile_lv
+    //
+    "BankPanelRect" : { "x": 236, "y": 210, "width": 1750, "height": 1799 },
+    "BankPanelGoldAmountRect": { "x": 777, "y": 1596, "width": 249, "height": 48 },
+    "BankPanelGoldWithdrawRect": { "x": 717, "y": 1593 },
+
+    "PlayerInventoryPanelRect" : { "x": -1394, "y": 0, "width": 1162, "height": 1737 },
+    "PlayerInventoryPanelGoldAmountRect": { "x": 529, "y": 1343, "width": 249, "height": 48 },
+    "PlayerInventoryPanelGoldButtonRect": { "x": 465, "y": 1343 },
+
+    "HoradricCubePanelRect" : { "x": 236, "y": 210, "width": 1744, "height": 1737 },
+    "HoradricCubePanelConvert": { "x": 810, "y": 1508 },
+    //
+    //ModEnd ExpandedStorageMod
+
     "ScrollSpeechWidth": 700,
     "ScrollSpeechBorderWidth": 800,
     "ScrollSpeechOffset": -400, // This is negative and half of the width; Used as the horizontal offset.
@@ -58,8 +76,6 @@
     "FontColorTransparent": { "r": 0, "g": 0, "b": 0, "a": 0 },
     "FontColorPartyOrange": { "r": 196, "g": 129, "b": 0, "a": 255 },
     "FontColorPartyGreen": {"r": 79, "g": 194, "b": 56, "a": 255 },
-    "FontColorAqua": {"r": 125, "g": 255, "b": 252, "a": 255 },
-    "FontColorBetterGold": {"r": 255, "g": 213, "b": 0, "a": 255 },
 
     // Text color presets
     "CarouselEnabledColor": "$FontColorLightGold",
@@ -92,7 +108,6 @@
     "TooltipFontSize": 36,
     "CinematicsFontSize": 32,
     "AddFriendModalFontSize": 26, // Usage: AddFriendModal needs to be the same size in all profiles to support IME
-    "GameNameFilterFontSize": 28, // Usage: it needs to be the same size in all profiles
 
     // K&M LV-mode in-game panels are just scaled up, thus we need
     // versions of fonts which can be used in panels.
@@ -146,8 +161,9 @@
         "spacing": { "leading": 1.0 },
     },
     "StyleButtonLegend": {
-        "fontColor": "$FontColorLightGray",
+        "fontColor": "$FontColorOrange",
         "pointSize": "$MediumFontSize",
+        "dropShadow": "$DefaultDropShadow",
         "spacing": { "leading": 1.2, "kerning": 0.95 }
     },
     "StyleModalDialogTitle":
@@ -303,11 +319,11 @@
         "MagicColor": "$FontColorBlue",
         "SetColor": "$FontColorGreen",
         "UniqueColor": "$FontColorGoldYellow",
-        "EtherealColor": "$FontColorAqua",
         "SocketedColor": "$FontColorGrey",
-        "HealthPotionColor": "$FontColorRed",
-        "ManaPotionColor": "$FontColorBlue",
-        "RejuvPotionColor": "$FontColorLightPurple",
+        "EtherealColor": "$FontColorGrey",
+        "HealthPotionColor": "$FontColorWhite",
+        "ManaPotionColor": "$FontColorWhite",
+        "RejuvPotionColor": "$FontColorWhite",
         "GoldColor": "$FontColorWhite",
         "RuneColor": "$FontColorOrange",
         "EventItemsColor": "$FontColorOrange",
@@ -435,20 +451,10 @@
             "offset": { "x": 4, "y": 4 },
         },
         "pointSize": "$MediumFontSize",
-        "alignment": { "h": "right" },
+        "alignment": { "h": "center" },
+        "options": { "hideOverflow": true },
     },
-    "SkillHotkeyTextAltStyle": {
-        "fontColor": "$FontColorLightGold",
-        "dropShadow": {
-            "shadowColor": { "r": 0, "g": 0, "b": 0, "a": 200 },
-            "offset": { "x": 4, "y": 4 },
-        },
-        "pointSize": "$SmallFontSize",
-        "alignment": { "h": "right" },
-        "options": { "lineWrap": true },
-        "spacing": "$MinimumSpacing"
-    },
-    "SkillHotkeyTextRect": { "x": -4, "y": 3, "width": 132, "height": 124 },
+    "SkillHotkeyTextRect": { "x": 40, "y": 3, "width": 128 },
     "SkillQuantityTextStyle": {
         "fontColor": "$FontColorBlue",
         "dropShadow": {
@@ -457,6 +463,7 @@
         },
         "pointSize": "$MediumFontSize",
         "alignment": { "h": "left" },
+        "options": { "hideOverflow": true },
     },
     "SkillQuantityTextRect": { "x": 6, "y": 85 },
     "SkillQuantityTextRectController": { "x": 6, "y": 6 },
@@ -487,7 +494,6 @@
 
     // Account Linking
     "AccountLinkingTileRect": { "x": -875, "y": 561, "width": 1750, "height": 930 },
-    "AccountLinkingActiveUserRect": { "x": 50 , "y": 10, "width": 1650, "height": 160 },
     "AccountLinkingDescriptionRect": { "x": 50 , "y": 180, "width": 1650, "height": 160 },
     "AccountLinkingUserCodeRect": { "x": 50 , "y": 390, "width": 1650, "height": 215 },
     "AccountLinkingUrlRect": { "x": 50 , "y": 625, "width": 1650, "height": 110 },
@@ -517,9 +523,8 @@
     "TutorialTooltipConsoleTabsRect": { "x": -675, "y": 751, "width": 900, "height": 700 },
     "TutorialTooltipConsoleOnlineRect": { "x": -1375, "y": 451, "width": 900, "height": 1150 },
     "TutorialTooltipConsoleOfflineRect": { "x": -1375, "y": 451, "width": 900, "height": 1150 },
-    "TutorialTooltipConsoleSoloRect": { "x": -200, "y": 451, "width": 900, "height": 700 },
-    "TutorialTooltipConsoleGameCreatorRect": { "x": -1600, "y": 451, "width": 900, "height": 700 },
-    "TutorialTooltipConsoleGameListRect": { "x": -700, "y": 451, "width": 900, "height": 700 },
+    "TutorialTooltipConsoleSoloRect": { "x": 275, "y": 451, "width": 900, "height": 700 },
+    "TutorialTooltipConsoleMultiRect": { "x": -1375, "y": 451, "width": 900, "height": 700 },
 
     "TooltipConfirmSmall": { "x": 200, "y": 250 },
     "TooltipDismissSmall": { "x": 200, "y": 400 },
@@ -543,8 +548,4 @@
     "JoinGameNarrowRect": { "x": 455, "y": 80 },
     "LadderRect": { "x": 1210, "y": 105 },
     "LadderNarrowRect": { "x": 840, "y": 80 },
-
-    // Join game tweaks.
-    "JoinGamePlayerEntryHeight": 100,
-    "JoinGamePlayerNameHeight": 60
 }

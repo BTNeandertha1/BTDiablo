@@ -98,8 +98,19 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Add more evil urns?
 - Adjust Merc AI and Itemization
 # Patch Notes
-- Walk mode is now just as fast as run (allowing you to run and have defense)
-- Changed the graphic of stacked items and their descriptions
+- Fixed a bug where flails looked weird when walking in town
+- Fixed a bug where Werewolf and Werebears had weird movement animations and speeds
+- Removed Act Cinematics
+- Added Inventory Space and a character with blank items for already existing characters
+- Shapeshifting duration removed
+- Act 1 Mercenary
+   - Can Now Equip XBows and Quivers
+- Act 3&5 Mercenary
+   - Can Now Equip Sceptors, Axes, Swords, and Hammers
+- Spike Thorn
+   - Removed Sockets
+   - Added 40-65 Damage
+   - Added -30 Requirements
 
 # Recent Patch Notes 
 Bug Fixes
@@ -323,6 +334,7 @@ Immortal King (Full Set)
 - Immortal King's Pillar (Boots)
    - Added 3-5% Physical Damage Reduction
    - Added 30-40% Magic Resistance
+   - 10-15 Vitality (was 44 life)
    - 6 Items = 15 Strength
 - Immortal King's Forge (Gloves)
    - 12% Chance to Cast Level 20 Static Field when Struck (was level 4 Charge Bolt)
@@ -405,7 +417,7 @@ M'avina's Caster (Weapon)
    - 5 Items = 5% Maximum Lightning Resistance
 M'avina's Tenet (Belt)
    - 30 Faster Run/Walk (was 20)  
-   - Added 10-20 All Resistances
+   - Added 10-15 All Resistances
    - Added 3-5 Mana After Each Kill
    - 2 Items = 20% Fire Pierce
    - 3 Items = 15 Strength
@@ -980,6 +992,7 @@ Trang-Oul's Avatar (Full Set)
 
 ## Endgame
 - Augment Recipes:
+- WARNING: If you Augment Set Items MAKE SURE no other Set items are equipped!!!
    - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1 Light Radius + 1% Exp Gained
    - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1 Light Radius + 1% Exp Gained
    - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR + 1 Light Radius

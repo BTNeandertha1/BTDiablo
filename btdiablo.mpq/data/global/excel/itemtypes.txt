@@ -23,14 +23,14 @@ Gem	gem	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Torch	torc	misc		0	1					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Scroll	scro	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
 Not Used				0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Scepter	scep	rod		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	5	40	6	0	1	pal		0							weap	0
+Scepter	scep	rod	ac5	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	5	40	6	0	1	pal		0							weap	0
 Wand	wand	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	2	40	2	0	1	nec		0							weap	0
 Staff	staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	1	sor		0							weap	0
 Bow	bow	miss		0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	3			0							weap	0
-Axe	axe	mele		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
+Axe	axe	mele	ac5	1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
 Club	club	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Sword	swor	blde		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Hammer	hamm	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Sword	swor	blde	ac5	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Hammer	hamm	blun	ac5	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Knife	knif	blde		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	3			0							weap	0
 Spear	spea	sppl		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Polearm	pole	sppl		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
@@ -206,4 +206,5 @@ Ber Rune Generic	r30g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc
 Jah Rune Generic	r31g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Cham Rune Generic	r32g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Zod Rune Generic	r33g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Act 3 and 5 Weapons	ac5			1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	1	3			0								0
 Merc Equip	helm	armo	merc	1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0
