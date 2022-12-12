@@ -96,8 +96,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Add a "Challenge area"
 - Make wanderer do something?
 - Add more evil urns?
-- Adjust Merc AI and Itemization
+- Adjust Merc AI
 # Patch Notes
+- ***MAKE SURE TO ADD THE BLANK ITEMS INTO YOUR BOTTOM HALF OF THE INVENTORY WITH BLANKITEMS.D2S***
 - Fixed a bug where flails looked weird when walking in town
 - Fixed a bug where Werewolf and Werebears had weird movement animations and speeds
 - Removed Act Cinematics
