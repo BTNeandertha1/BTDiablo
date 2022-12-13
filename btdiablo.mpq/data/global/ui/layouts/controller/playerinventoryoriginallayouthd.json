@@ -17,20 +17,20 @@
             "type": "ImageWidget", "name": "background",
             "fields": {
                 "anchor": { "x": 0.5, "y": 0.5 },
-                "rect":{"x":-508, "y":-700},
-                "filename": "Controller/Panel/InventoryPanel/V2/InventoryBG_Edit",
+                "rect":{"x":-580, "y":-672},
+                "filename": "Controller/Panel/InventoryPanel/V2/background_expanded2",
             },
         },
         {
             "type": "TextBoxWidget", "name": "gold_amount",
             "fields": {
-                "rect": { "x": 605, "y": 1729, "width": 257, "height": 48 },
+                "rect": { "x": 255, "y": 1689, "width": 257, "height": 48 },
             }
         },
         {
             "type": "ButtonWidget", "name": "gold_button",
             "fields": {
-                "rect": { "x": 551, "y": 1729, "width": 317, "height": 44 },
+                "rect": { "x": 201, "y": 1689, "width": 317, "height": 44 },
                 "filename": "Controller/Panel/Stash/V2/Button_Small",
                 "focusIndicatorFilename": "Controller/HoverImages/GoldButton_Hover",
                 "focusIndicatorOffset": { "x": 0, "y": 0 },
@@ -57,7 +57,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_head",
             "fields": {
-                "rect": { "x": 607, "y": 59, "width": 196, "height": 196 },
+                "rect": { "x": 605, "y": 177, "width": 196, "height": 196 },
                 "gemSocketFilename": "PANEL/gemsocket",
                 "backgroundFilename": "PANEL/Inventory/Inventory_Paperdoll_HeadArmor",
                 "navigation": {
@@ -70,7 +70,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_neck",
             "fields": {
-                "rect": { "x": 851, "y": 221, "width": 98, "height": 98 },
+                "rect": { "x": 841, "y": 346, "width": 98, "height": 98 },
                 "backgroundFilename": "PANEL/Inventory/Inventory_Paperdoll_Amulet",
                 "navigation": {
                     "left": { "name": "slot_head" },
@@ -82,7 +82,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_torso",
             "fields": {
-                "rect": { "x": 607, "y": 281, "width": 196, "height": 294 },
+                "rect": { "x": 605, "y": 421, "width": 196, "height": 294 },
                 "gemSocketFilename": "PANEL/gemsocket",
                 "backgroundFilename": "PANEL/Inventory/Inventory_Paperdoll_ChestArmor",
                 "navigation": {
@@ -96,7 +96,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_right_arm",
             "fields": {
-                "rect": { "x": 224, "y": 186, "width": 196, "height": 392 },
+                "rect": { "x": 232, "y": 226, "width": 196, "height": 392 },
                 "gemSocketFilename": "PANEL/gemsocket",
                 "backgroundFilename": "PANEL/Inventory/Inventory_Paperdoll_Weapon",
                 "navigation": {
@@ -109,7 +109,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_left_arm",
             "fields": {
-                "rect": { "x": 994, "y": 188, "width": 196, "height": 392 },
+                "rect": { "x": 986, "y": 226, "width": 196, "height": 392 },
                 "gemSocketFilename": "PANEL/gemsocket",
                 "backgroundFilename": "PANEL/Inventory/Inventory_Paperdoll_Weapon",
                 "navigation": {
@@ -121,7 +121,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_right_hand",
             "fields": {
-                "rect": { "x": 460, "y": 603, "width": 98, "height": 98 },
+                "rect": { "x": 468, "y": 763, "width": 98, "height": 98 },
                 "backgroundFilename": "PANEL/Inventory/Inventory_Paperdoll_Ring",
                 "navigation": {
                     "left": { "name": "slot_gloves" },
@@ -133,7 +133,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_left_hand",
             "fields": {
-                "rect": { "x": 857, "y": 603, "width": 98, "height": 98},
+                "rect": { "x": 844, "y": 763, "width": 98, "height": 98},
                 "backgroundFilename": "PANEL/Inventory/Inventory_Paperdoll_Ring",
                 "navigation": {
                     "left": { "name": "slot_belt" },
@@ -146,7 +146,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_belt",
             "fields": {
-                "rect": { "x": 606, "y": 601, "width": 196, "height": 98 },
+                "rect": { "x": 606, "y": 761, "width": 196, "height": 98 },
                 "backgroundFilename": "PANEL/Inventory/Inventory_Paperdoll_Belt",
                 "navigation": {
                     "left": { "name": "slot_right_hand" },
@@ -159,7 +159,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_feet",
             "fields": {
-                "rect": { "x": 994, "y": 601, "width": 196, "height": 196 },
+                "rect": { "x": 982, "y": 667, "width": 196, "height": 196 },
                 "backgroundFilename": "PANEL/Inventory/Inventory_Paperdoll_Boots",
                 "navigation": {
                     "left": { "name": "slot_left_hand" },
@@ -171,7 +171,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_gloves",
             "fields": {
-                "rect": { "x": 224, "y": 603, "width": 196, "height": 196 },
+                "rect": { "x": 232, "y": 667, "width": 196, "height": 196 },
                 "backgroundFilename": "PANEL/Inventory/Inventory_Paperdoll_Glove",
                 "navigation": {
                     "left": { "panelBoundary": true },
@@ -184,7 +184,7 @@
         {
             "type": "BeltWidget", "name": "Belt",
             "fields": {
-                "rect": { "x": 452, "y": 750 },
+                "rect": { "x": 452, "y": 1670 },
                 "poppedRowFilename": "Controller/Panel/InventoryPanel/V2/belt_popped_row_controller",
                 "poppedCapFilename": "Controller/Panel/InventoryPanel/V2/belt_popped_cap_controller",
                 "cellOffsetInRow": { "x": 0, "y": 5 },
