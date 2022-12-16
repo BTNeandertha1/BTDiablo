@@ -99,19 +99,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI
 # Patch Notes
 - ***MAKE SURE TO ADD THE BLANK ITEMS INTO YOUR BOTTOM HALF OF THE INVENTORY WITH BLANKITEMS.D2S***
-- Fixed a bug where flails looked weird when walking in town
-- Fixed a bug where Werewolf and Werebears had weird movement animations and speeds
-- Removed Act Cinematics
-- Added Inventory Space and a character with blank items for already existing characters
-- Shapeshifting duration removed
-- Act 1 Mercenary
-   - Can Now Equip XBows and Quivers
-- Act 3&5 Mercenary
-   - Can Now Equip Sceptors, Axes, Swords, and Hammers
-- Spike Thorn
-   - Removed Sockets
-   - Added 40-65 Damage
-   - Added -30 Requirements
+- Reduced Uber Portal Monster HP by 15% and Increased Experience by 25%
 
 # Recent Patch Notes 
 Bug Fixes
@@ -481,6 +469,21 @@ Trang-Oul's Avatar (Full Set)
    - 25 Life (was Stamina)
 - Rite of Passage
    - 15-25 Life 
+   
+- ***MAKE SURE TO ADD THE BLANK ITEMS INTO YOUR BOTTOM HALF OF THE INVENTORY WITH BLANKITEMS.D2S***
+- Fixed a bug where flails looked weird when walking in town
+- Fixed a bug where Werewolf and Werebears had weird movement animations and speeds
+- Removed Act Cinematics
+- Added Inventory Space and a character with blank items for already existing characters
+- Shapeshifting duration removed
+- Act 1 Mercenary
+   - Can Now Equip XBows and Quivers
+- Act 3&5 Mercenary
+   - Can Now Equip Sceptors, Axes, Swords, and Hammers
+- Spike Thorn
+   - Removed Sockets
+   - Added 40-65 Damage
+   - Added -30 Requirements
 
 - All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
 - How do I get the new patch?
