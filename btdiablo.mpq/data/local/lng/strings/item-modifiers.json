@@ -5712,7 +5712,7 @@
     "zhCN": "%+d%% 几率不消耗数量"
   },
   {
-    "id": 90000,
+    "id": 64000,
     "Key": "StrCorrupted",
     "enUS": "ÿc1Corrupted",
     "zhTW": "ÿc1Corrupted",
@@ -5729,20 +5729,20 @@
     "zhCN": "ÿc1Corrupted"
   },
   {
-    "id": 90001,
-    "Key": "StrItemLevel",
-    "enUS": "ItemLevel",
-    "zhTW": "ItemLevel",
-    "deDE": "ItemLevel",
-    "esES": "ItemLevel",
-    "frFR": "ItemLevel",
-    "itIT": "ItemLevel",
-    "koKR": "ItemLevel",
-    "plPL": "ItemLevel",
-    "esMX": "ItemLevel",
-    "jaJP": "ItemLevel",
-    "ptBR": "ItemLevel",
-    "ruRU": "ItemLevel",
-    "zhCN": "ItemLevel"
+    "id": 64001,
+    "Key": "StrAugmented",
+    "enUS": "ÿc9Augmented x",
+    "zhTW": "ÿc9Augmented x",
+    "deDE": "ÿc9Augmented x",
+    "esES": "ÿc9Augmented x",
+    "frFR": "ÿc9Augmented x",
+    "itIT": "ÿc9Augmented x",
+    "koKR": "ÿc9Augmented x",
+    "plPL": "ÿc9Augmented x",
+    "esMX": "ÿc9Augmented x",
+    "jaJP": "ÿc9Augmented x",
+    "ptBR": "ÿc9Augmented x",
+    "ruRU": "ÿc9Augmented x",
+    "zhCN": "ÿc9Augmented x"
   }
 ]

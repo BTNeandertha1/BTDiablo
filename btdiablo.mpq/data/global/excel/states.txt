@@ -189,3 +189,4 @@ sharedstash	186																																																																	
 hidedead	187																											1	1			1																																							0
 impale	188																																																																						0
 potion_magic_find	189																																										impregnated							item_magicbonus																					0
+special_aura	190																																										light_jet																												0

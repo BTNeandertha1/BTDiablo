@@ -99,7 +99,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI
 # Patch Notes
 - ***MAKE SURE TO ADD THE BLANK ITEMS INTO YOUR BOTTOM HALF OF THE INVENTORY WITH BLANKITEMS.D2S***
-- Reduced Uber Portal Monster HP by 15% and Increased Experience by 25%
+- How do I get the new patch?
+   - Delete btdiablo.mpq folder
+   - Paste New btdiablo.mpq folder
+- Added Kex Easter Eggs for first 99!
+- Removed Light Radius from augments
+- Added a Line that states how many times an item is augmented
 
 # Recent Patch Notes 
 Bug Fixes
@@ -470,9 +475,6 @@ Trang-Oul's Avatar (Full Set)
 - Rite of Passage
    - 15-25 Life 
    
-- ***MAKE SURE TO ADD THE BLANK ITEMS INTO YOUR BOTTOM HALF OF THE INVENTORY WITH BLANKITEMS.D2S***
-- Fixed a bug where flails looked weird when walking in town
-- Fixed a bug where Werewolf and Werebears had weird movement animations and speeds
 - Removed Act Cinematics
 - Added Inventory Space and a character with blank items for already existing characters
 - Shapeshifting duration removed
@@ -484,11 +486,7 @@ Trang-Oul's Avatar (Full Set)
    - Removed Sockets
    - Added 40-65 Damage
    - Added -30 Requirements
-
-- All Recipes Include Stacked Items **BEWARE UNSTACK ITEMS BEFORE USING IN RECIPES THEY WILL CONSUME GREATER THAN 1**
-- How do I get the new patch?
-   - Delete btdiablo.mpq folder
-   - Paste New btdiablo.mpq folder
+- Reduced Uber Portal Monster HP by 15% and Increased Experience by 25%
 
 ## Characters
 - Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
@@ -997,9 +995,9 @@ Trang-Oul's Avatar (Full Set)
 ## Endgame
 - Augment Recipes:
 - WARNING: If you Augment Set Items MAKE SURE no other Set items are equipped!!!
-   - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1 Light Radius + 1% Exp Gained
-   - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1 Light Radius + 1% Exp Gained
-   - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR + 1 Light Radius
+   - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1% Exp Gained
+   - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1% Exp Gained
+   - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR
 ## Corruptions
 - Corruptions have a 30% Chance to reroll as a random rare and 70% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + Standard of Heroes)
    - Amulets, Rings

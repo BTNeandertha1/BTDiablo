@@ -273,3 +273,4 @@ res-curse	1	1	curse_resistance																											Curse Resist +#%		Min %
 corruption1	1	1	corrupted																																0
 corruption2	1	1	corruptordesc																																0
 randclassskill2	1	36	item_addclassskills		2																									+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0
+augmented1	1	1	augmented																																0
