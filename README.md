@@ -5,20 +5,20 @@ BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Di
 ## Game 
 - More Challenging
 - Built Loot Filter like interface
-- Runes, Gems, and Essences now Stack!
+- Item Stacking!
 - 3 Additional Shared Stash Tabs
 - Negative 30 all res (Only effects the Player)
 - Negative 199 MF
 - Start with nothing except Horadric Cube
 - Horadric Cube is now 6x6
+- Charm Inventory
 - More Uber Key Bosses
-- Insanity (was Hell) Difficulty is All Area Level 85!
+- Insanity (was Hell) Difficulty is All Area Level 85 with 25% increased density!
 - Additional Merc Gear
 - Gold has a huge demand
 - Crafting is very good
 - Corruptions
 - Endgame Farming Areas
-- Charges on items are now oskills (exceptions include Teleport, Runewords, and Hellfire Torch)
 - QOL improvements
 - Endless Itemization... Literally
 - Improved Melee
@@ -98,29 +98,19 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Add more evil urns?
 - Adjust Merc AI
 # Patch Notes
-- ***MAKE SURE TO ADD THE BLANK ITEMS INTO YOUR BOTTOM HALF OF THE INVENTORY WITH BLANKITEMS.D2S***
+- ***MAKE SURE TO DROP ALL STANDARDS, UBER KEYS, ORGANS AND HELL FIRE ASH FOR THIS PATCH ADDED STACKEDITEMSSC.D2S FOR REPLACEMENTS***
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
    - Paste New btdiablo.mpq folder
-- Added Kex Easter Eggs for first 99!
-- Removed Light Radius from augments
-- Added a Line that states how many times an item is augmented
+- Standard of Heros, Uber Keys, Organs and Hell Fire Ash now stack!
+- Can now hold Multiple Unique Charms (Strictly for QOL not balance)
+- Added Message of the day
+- Removed the Sockets from Steel Carapace added 15 Faster run/walk
 
 # Recent Patch Notes 
-Bug Fixes
-- BoneSlayer Blade
-   - Fixed a bug where you get level 63 Holy Bolt (Now Level 20)
-
-Removed Light Radius all Unique and Set items (exception Hellfire Torch)
-Removed Indestructible From all Unique and Set items (exceptions Shadow Killer, Ethereal Edge and Ghost Flame)
-Removed Stamina from all Unique and Set items
-
-Skills
-- Phoenix Strike Always Hits and Meteor is much faster now
-- Fists of Fire Always Hits
-- Claws of Thunder Always Hits
-- Blades of Ice Always Hits
-- Cobra Strike Always Hits
+- Removed Light Radius all Unique and Set items (exception Hellfire Torch)
+- Removed Indestructible From all Unique and Set items (exceptions Shadow Killer, Ethereal Edge and Ghost Flame)
+- Removed Stamina from all Unique and Set items
 
 Base Items
 - Tulwar can now get 3 sockets (was 2)
@@ -1211,3 +1201,8 @@ Trang-Oul's Avatar (Full Set)
 - Lower Resist Always breaks Poison Immunity (All Monsters Have a maximum psn res of 105%)
 - Feral Rage now has 30 Second Duration
 - Increased Battle Cry Range Slightly and removed Radius Description
+- Phoenix Strike Always Hits and Meteor is much faster now
+- Fists of Fire Always Hits
+- Claws of Thunder Always Hits
+- Blades of Ice Always Hits
+- Cobra Strike Always Hits

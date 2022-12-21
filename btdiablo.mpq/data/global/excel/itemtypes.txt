@@ -111,7 +111,7 @@ Charms	chms	char	weap	0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0							weap	0
 Gem Stack	gemx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Rune Stack	runx	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Organ	orgn	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Keys	ukey	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0							misc	0
+Keys	ukey	misc		0	0					0	0	0	1			0	0	0	25	0	40	0	0	3			0							misc	0
 Stack Chipped Gem	gxm0	gemx	ggm0	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Stack Flawed Gem	gxm1	gemx	ggm1	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Stack Standard Gem	gxm2	gemx	ggm2	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
