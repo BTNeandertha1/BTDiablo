@@ -108,7 +108,7 @@
                         {
                             "type": "TextBoxWidget", "name": "MotDHeaderText",
                             "fields": {
-                                "text": "BTDiablo Dec 20th 2022",
+                                "text": "BTDiablo Dec 23th 2022",
                                 "fitToParent": true,
                                 "style": {
                                     "pointSize": "$MediumLargeFontSize",
@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Happy Holidays!\nKex2507 was the first to hit level 99 and discover the easter egg!\nUse the bottom half of your Inventory for Charms\nCorruption Brick Chance is 30%\nAdded more stacking items! See Full Patch Notes in the Discord",
+                                        "text": "Happy Holidays! New Holiday Gift item available!\nKex2507 was the first to hit level 99 and discover the easter egg!\nUse the bottom half of your Inventory for Charms\nCorruption Brick Chance is 30%\nAdded more stacking items! See Full Patch Notes in the Discord",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",
