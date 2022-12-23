@@ -98,6 +98,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Add more evil urns?
 - Adjust Merc AI
 # Patch Notes
+- HOLIDAY GIFT NOW AVAILABLE!
+
+# Recent Patch Notes 
 - ***MAKE SURE TO DROP ALL STANDARDS, UBER KEYS, ORGANS AND HELL FIRE ASH FOR THIS PATCH ADDED STACKEDITEMSSC.D2S FOR REPLACEMENTS***
 - How do I get the new patch?
    - Delete btdiablo.mpq folder
@@ -106,8 +109,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Can now hold Multiple Unique Charms (Strictly for QOL not balance)
 - Added Message of the day
 - Removed the Sockets from Steel Carapace added 15 Faster run/walk
+- Dim Vision and Hit Blinds Target doesn't get over written by curses
 
-# Recent Patch Notes 
 - Removed Light Radius all Unique and Set items (exception Hellfire Torch)
 - Removed Indestructible From all Unique and Set items (exceptions Shadow Killer, Ethereal Edge and Ghost Flame)
 - Removed Stamina from all Unique and Set items

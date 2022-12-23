@@ -26520,7 +26520,7 @@
     "zhCN": "Add Sockets With Cube"
   },
   {
-    "id": 61024,
+    "id": 61025,
     "Key": "StandardDesc",
     "enUS": "ÿc1Brick Chance +30%\nUnstack before using",
     "zhTW": "ÿc1Brick Chance 30%\nUnstack before using",
@@ -26535,5 +26535,39 @@
     "ptBR": "ÿc1Brick Chance 30%\nUnstack before using",
     "ruRU": "ÿc1Brick Chance 30%\nUnstack before using",
     "zhCN": "ÿc1Brick Chance 30%\nUnstack before using"
+  },
+  {
+    "id": 61026,
+    "Key": "gft",
+    "enUS": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "zhTW": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "deDE": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "esES": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "frFR": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "itIT": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "koKR": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "plPL": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "esMX": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "jaJP": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "ptBR": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "ruRU": "ÿc2•••ÿc1Holiday Giftÿc2•••",
+    "zhCN": "ÿc2•••ÿc1Holiday Giftÿc2•••"
+  },
+  {
+    "id": 61027,
+    "Key": "EventDesc",
+    "enUS": "Cube alone for special loot",
+    "zhTW": "Cube alone for special loot",
+    "deDE": "Cube alone for special loot",
+    "esES": "Cube alone for special loot",
+    "frFR": "Cube alone for special loot",
+    "itIT": "Cube alone for special loot",
+    "koKR": "Cube alone for special loot",
+    "plPL": "Cube alone for special loot",
+    "esMX": "Cube alone for special loot",
+    "jaJP": "Cube alone for special loot",
+    "ptBR": "Cube alone for special loot",
+    "ruRU": "Cube alone for special loot",
+    "zhCN": "Cube alone for special loot"
   }
 ]
