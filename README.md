@@ -99,6 +99,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Adjust Merc AI
 # Patch Notes
 - HOLIDAY GIFT NOW AVAILABLE!
+- Fixed a bug where you could not up items
 
 # Recent Patch Notes 
 - ***MAKE SURE TO DROP ALL STANDARDS, UBER KEYS, ORGANS AND HELL FIRE ASH FOR THIS PATCH ADDED STACKEDITEMSSC.D2S FOR REPLACEMENTS***

@@ -174,37 +174,37 @@ Generic P Sapphire	gg4s	ggms	ggm4	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0					
 Generic P Topaz	gg4t	ggmt	ggm4	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Generic P Skull	gg4z	ggmz	ggm4	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 El Rune Generic	r01g	rung		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Eld Rune Generic	r02g	r01g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Tir Rune Generic	r03g	r02g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Nef Rune Generic	r04g	r03g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Eth Rune Generic	r05g	r04g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Ith Rune Generic	r06g	r05g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Tal Rune Generic	r07g	r06g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Ral Rune Generic	r08g	r07g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Ort Rune Generic	r09g	r08g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Thul Rune Generic	r10g	r09g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Amn Rune Generic	r11g	r10g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Sol Rune Generic	r12g	r11g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Shael Rune Generic	r13g	r12g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Dol Rune Generic	r14g	r13g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Hel Rune Generic	r15g	r14g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Io Rune Generic	r16g	r15g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Lum Rune Generic	r17g	r16g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Ko Rune Generic	r18g	r17g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Fal Rune Generic	r19g	r18g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Lem Rune Generic	r20g	r19g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Pul Rune Generic	r21g	r20g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Um Rune Generic	r22g	r21g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Mal Rune Generic	r23g	r22g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Ist Rune Generic	r24g	r23g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Gul Rune Generic	r25g	r24g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Vex Rune Generic	r26g	r25g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Ohm Rune Generic	r27g	r26g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Lo Rune Generic	r28g	r27g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Sur Rune Generic	r29g	r28g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Ber Rune Generic	r30g	r29g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Jah Rune Generic	r31g	r30g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Cham Rune Generic	r32g	r31g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Zod Rune Generic	r33g	r32g		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Eld Rune Generic	r02g	r01g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Tir Rune Generic	r03g	r02g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Nef Rune Generic	r04g	r03g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Eth Rune Generic	r05g	r04g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ith Rune Generic	r06g	r05g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Tal Rune Generic	r07g	r06g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ral Rune Generic	r08g	r07g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ort Rune Generic	r09g	r08g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Thul Rune Generic	r10g	r09g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Amn Rune Generic	r11g	r10g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Sol Rune Generic	r12g	r11g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Shael Rune Generic	r13g	r12g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Dol Rune Generic	r14g	r13g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Hel Rune Generic	r15g	r14g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Io Rune Generic	r16g	r15g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Lum Rune Generic	r17g	r16g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ko Rune Generic	r18g	r17g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Fal Rune Generic	r19g	r18g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Lem Rune Generic	r20g	r19g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Pul Rune Generic	r21g	r20g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Um Rune Generic	r22g	r21g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Mal Rune Generic	r23g	r22g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ist Rune Generic	r24g	r23g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Gul Rune Generic	r25g	r24g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Vex Rune Generic	r26g	r25g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ohm Rune Generic	r27g	r26g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Lo Rune Generic	r28g	r27g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Sur Rune Generic	r29g	r28g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Ber Rune Generic	r30g	r29g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Jah Rune Generic	r31g	r30g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Cham Rune Generic	r32g	r31g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Zod Rune Generic	r33g	r32g	rung	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Act 3 and 5 Weapons	ac5			1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	1	3			0								0
 Merc Equip	helm	armo	merc	1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0
