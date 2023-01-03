@@ -108,7 +108,7 @@
                         {
                             "type": "TextBoxWidget", "name": "MotDHeaderText",
                             "fields": {
-                                "text": "BTDiablo Dec 23th 2022",
+                                "text": "BTDiablo Jan 3rd 2023",
                                 "fitToParent": true,
                                 "style": {
                                     "pointSize": "$MediumLargeFontSize",
@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Happy Holidays! New Holiday Gift item available!\nKex2507 was the first to hit level 99 and discover the easter egg!\nUse the bottom half of your Inventory for Charms\nCorruption Brick Chance is 30%\nAdded more stacking items! See Full Patch Notes in the Discord",
+                                        "text": "Happy New Year!\nBTDLadder Event Starts January 13th 3PM EST and goes until the 3PM EST on the 23rd\nUse only the top or half the inventory for Charms!\nCorruption Brick Chance is 30%",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",

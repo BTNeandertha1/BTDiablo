@@ -80,6 +80,7 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - MRCelSynap: For Helping with Corruptions and various modding  
 - Elmegaard: Inspiration  
 - Canight: Helped with a ton of ideas
+- SenpaiSomething: Letting me look at PD2 Code
 - Warren: Helping in the very beginning with Theory Crafting  
 - Wolfieeiflow: Helping with Spreadsheets and brain power  
 - JeyP: Testing things then walking me through  
@@ -97,10 +98,29 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Make wanderer do something?
 - Add more evil urns?
 - Adjust Merc AI
-# Patch Notes
-- HOLIDAY GIFT NOW AVAILABLE!
-- Fixed a bug where you could not up items
 
+# Patch Notes
+- Act 3 Town Optimized
+- Vendors
+   - Token of Absolution Sold at Akara 
+   - Ormus now sells Stamina, Antidotes and Thawing Potions
+- Items
+   - Throwing Javelins can no longer get 4 sockets (3 max)
+   - Rainbow Facets now roll 4-5 instead of 3-5
+   - Large Charms now get +4 Damage Potential (was 3)
+- Recipes
+   - Secret Cow Level only requires Wirt's leg
+   - Added Unique Jewel Reroll Recipe
+      - 5 x Rare Jewels + 2 Hellfire Ash + Standard of Heros + Larzuk's Forging Hammer + Unique Jewel
+   - Transmuting Runes to a higher tier now requires a stamina potion for added safety
+   - 2 Unique Jewelery for Standard of Heros
+   - 1 of Each Essence = 1 of Each Key
+   - 3 Essences converting = Blue > Yellow > Red > Green > 3 Blue
+   - Added 99 Gem Convert Recipe 99 Stacked Perfect gems + active gem of choice = 34 Perfect gems of choice
+- Removed 
+   - Holiday Gift
+   - Essences At Akara
+   
 # Recent Patch Notes 
 - ***MAKE SURE TO DROP ALL STANDARDS, UBER KEYS, ORGANS AND HELL FIRE ASH FOR THIS PATCH ADDED STACKEDITEMSSC.D2S FOR REPLACEMENTS***
 - How do I get the new patch?
