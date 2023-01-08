@@ -12,7 +12,7 @@ The Humongous	9	0	1		1		39	29	gix	Giant Axe		5	5000	blac	blac						str		20	30	dm
 Iros Torch	10	0	1		1		7	5	wnd	Wand		5	5000	cred			invwndu				nec		1	1	lifesteal		6	6	dmg-fire		5	9	enr		10	10	regen-mana		5	5																														0
 Maelstromwrath	11	0	1		1		19	14	ywn	Yew Wand		5	5000	dblu	dblu						ltng-min		1	1	ltng-max		9	9	res-ltng		40	40	mana		13	13	cast2		30	30	skill	74	1	3	skill	77	1	3	skill	66	1	3	skill	76	1	3														0
 Gravenspine	12	0	1		1		27	20	bwn	Bone Wand		5	5000	cgrn			invbwnu				str		10	10	dex		10	10	cold-min		4	4	cold-max		8	8	cold-len		75	75	manasteal		5	5	nec		2	2	mana		25	50																		0
-Umes Lament	13	0	1		1		38	28	gwn	Grim Wand		5	5000	lblu	lblu						nec		2	2	mana		40	40	cast2		20	20	howl		64	64	skill	77	3	3	skill	87	2	2																										0
+Umes Lament	13	0	1		1		38	28	gwn	Grim Wand		5	5000	lblu	lblu						nec		2	2	mana		40	40	cast2		20	20	skill	77	3	3	skill	87	2	2																														0
 Felloak	14	0	1		1		4	3	clb	Club		5	5000	lgry			invclbu				res-ltng		60	60	res-fire		20	20	knock		1	1	fire-min		6	6	fire-max		8	8	dmg%		70	80																										0
 Knell Striker	15	0	1		1		7	5	scp	Scepter		5	5000	dred	dred						crush		25	25	res-fire		20	20	res-pois		20	20	mana		15	15	att		35	35	dmg%		70	80																										0
 Rusthandle	16	0	1		1		23	17	gsc	Grand Scepter		5	5000	lgld	lgld						pal		1	1	dmg-norm		3	7	red-mag		1	1	lifesteal		8	8	dmg%		50	60	dmg-undead		50	60	skill	111	1	3	skill	103	3	3																		0
@@ -48,7 +48,7 @@ Bloodthief	45	0	1		1		23	17	brn	Brandistock		5	5000	whit	whit						openwounds		3
 Lance of Yaggai	46	0	1		1		30	22	spt	Spetum		5	5000	lred	lred						thorns		8	8	ltng-min		1	1	ltng-max		60	60	res-all		15	15	swing2		40	40																														0
 The Tannr Gorerod	47	0	1		1		36	27	pik	Pike		5	5000	lgry	lgry						fire-min		23	23	fire-max		54	54	res-fire-max		15	15	hp		30	30	att		60	60	res-fire		15	15	dmg%		80	100																						0
 Dimoaks Hew	48	0	1		1		11	8	bar	Bardiche		5	5000	blac	blac						dex		15	15	dmg%		100	100	swing2		20	20	ac		-8	-8																																		0
-Steelgoad	49	0	1		1		19	14	vou	Voulge		5	5000	cgrn	cgrn						howl		96	96	deadly		30	30	att		30	30	res-all		5	5	dmg%		60	80	dur		20	40																										0
+Steelgoad	49	0	1		1		19	14	vou	Voulge		5	5000	cgrn	cgrn						deadly		30	30	att		30	30	res-all		5	5	dmg%		60	80	dur		20	40																														0
 Soul Harvest	50	0	1		1		26	19	scy	Scythe		5	5000	dgry			invscyu				openwounds		30	30	att		45	45	res-all		20	20	dmg%		50	90	manasteal		10	10	enr		5	5																										0
 The Battlebranch	51	0	1		1		34	25	pax	Poleaxe		5	5000	lblu	lblu						swing3		30	30	dex		10	10	dmg%		50	70	att		50	100	lifesteal		7	7																														0
 Woestave	52	0	1		1		38	28	hal	Halberd		5	5000	dblu	dblu						slow		50	50	openwounds		50	50	stupidity		3	3	dmg-ac		-50	-50	freeze		1	1	noheal		1	1	dmg%		20	40																						0
@@ -75,7 +75,7 @@ Tarnhelm	72	0	1		1		20	15	skp	Skull Cap		5	5000	oran	oran						gold%		75	75	mag%
 Coif of Glory	73	0	1		1		19	14	hlm	Helm		5	5000	whit			invhlmu				light-thorns		7	7	stupidity		1	1	res-ltng		15	15	ac-miss		100	100	ac		10	10																														0
 Duskdeep	74	0	1		1		23	17	fhl	Full Helm		5	5000	lgry			invfhlu				res-all		15	15	red-dmg		7	7	dmg-max		8	8	ac		10	20	ac%		30	50																														0
 Wormskull	75	0	1		1		28	21	bhm	Bone Helm		5	5000	lgrn			invbhmu				nec		1	1	lifesteal		5	5	mana		10	10	res-pois		25	25	dmg-pois	200	102	102																														0
-Howltusk	76	0	1		1		34	25	ghm	Great Helm		5	5000	dgry	dgry						red-mag		2	2	thorns		3	3	ac%		80	80	dmg-to-mana		35	35	knock		1	1	howl		33	33																										0
+Howltusk	76	0	1		1		34	25	ghm	Great Helm		5	5000	dgry	dgry						red-mag		2	2	thorns		3	3	ac%		80	80	dmg-to-mana		35	35	knock		1	1																														0
 Undead Crown	77	0	1		1		39	29	crn	Crown		5	5000	blac	blac						lifesteal		5	5	ac		40	40	res-pois		50	50	half-freeze		1	1	ac%		30	60	dmg-undead		50	50	att-undead		50	100	skill	69	3	3																		0
 The Face of Horror	78	0	1		1		27	20	msk	Mask		5	5000	lblu	lblu						howl		64	64	str		20	20	res-all		10	10	dmg-undead		50	50	ac		25	25																														0
 Greyform	79	0	1		1		10	7	qui	Quilted Armor		5	5000	lgry	lgry						red-mag		3	3	res-cold		20	20	res-fire		20	20	dex		10	10	lifesteal		5	5	ac		20	20																										0
@@ -89,7 +89,7 @@ Venomsward	86	0	1		1		27	20	brs	Breast Plate		5	5000	dyel	dyel						res-pois-max
 Iceblink	87	0	1		1		30	22	spl	Splint Mail		5	5000	lgld	lgld						freeze		1	1	res-cold		30	30	red-mag		1	1	ac%		70	80																																		0
 Boneflesh	88	0	1		1		35	26	plt	Plate Mail		5	5000	dgld	dgld						lifesteal		5	5	ac%		100	120	att		35	35	openwounds		25	25																																		0
 Rockfleece	89	0	1		1		38	28	fld	Field Plate		5	5000	dgry	dgry						ease		-10	-10	ac%		100	130	red-dmg%		10	10	red-dmg		5	5	str		5	5																														0
-Rattlecage	90	0	1		1		39	29	gth	Gothic Plate		5	5000	dpur	dpur						howl		52	52	att		45	45	crush		25	25	ac		200	200																																		0
+Rattlecage	90	0	1		1		39	29	gth	Gothic Plate		5	5000	dpur	dpur						att		45	45	crush		25	25	ac		200	200																																						0
 Goldskin	91	0	1		1		38	28	ful	Full Plate Mail		5	5000	oran			invfulu				ac%		120	150	res-all		35	35	thorns		10	10	gold%		100	100																																		0
 Victors Silk	92	0	1		1		38	28	aar	AncientArmor		5	5000	dblu			invaaru				manasteal		5	5	allskills		1	1	ac%		100	120																																						0
 Heavenly Garb	93	0	1		1		39	29	ltp	Light Plate		5	5000	cblu	cblu						ac%		100	100	res-all		10	10	regen-mana		25	25	enr		15	15	dmg-undead		50	50	att-undead		100	100																										0
@@ -321,7 +321,7 @@ Leviathan	317	100	1		1		73	65	uld	kraken shell		5	5000	cgrn	cgrn						ac%		170	2
 Larzuk's Champion	318	100			1							5	5000	lgry		flphmr	invhfh																																																					0
 Wisp	319	100	1		1		84	76	rin	ring		5	5000	bwht	bwht						abs-ltng%		10	20	hit-skill	Lightning	10	16	mag%		10	20	oskill	Heart of Wolverine	5	5																																		0
 Gargoyle's Bite	320	100	1		1		78	70	7ts	winged harpoon		5	5000	cgrn	cgrn						dmg%		180	330	rep-quant	30			dmg-pois	250	300	300	lifesteal		9	15	skill	Plague Javelin	3	3	skill	Poison Javelin	3	3	pierce-pois		20	25																						0
-Lacerator	321	100	1		1		76	68	7b8	winged axe		5	5000	blac	blac						dmg%		150	210	rep-quant	25			swing2		30	30	noheal		1	1	openwounds		33	33	howl		64	64	hit-skill	Amplify Damage	33	3																						0
+Lacerator	321	100	1		1		76	68	7b8	winged axe		5	5000	blac	blac						dmg%		150	210	rep-quant	25			swing2		30	30	noheal		1	1	openwounds		33	33	hit-skill	Amplify Damage	33	3																										0
 Mang Song's Lesson	322	100	1		1		86	82	6ws	archon staff		5	5000	dgld	dgld		inv8wsu				allskills		6	6	pierce-fire		20	25	pierce-ltng		20	25	pierce-cold		20	25	regen-mana		30	30	cast2		85	85	mana%		40	40	res-all		40	50																		0
 Viperfork	323	100	1		1		79	71	7br	war fork		5	5000	dgrn	dgrn						dmg%		190	240	dmg-pois	250	333	333	swing2		50	50	att		200	250	hit-skill	Poison Explosion	15	9	res-pois		30	50																										0
 Ethereal Edge	324	100	1		1		82	74	7ba	silver-edged axe		5	5000	whit	whit						dmg%		150	180	swing2		25	25	abs-fire		10	12	dmg-demon		150	200	demon-heal		5	10	att		270	350	ethereal		1	1	indestruct		1	1																		0
@@ -388,18 +388,18 @@ Nord's Tenderizer	384	100	1		1		76	68	7cl	truncheon		3	5000				invclbu				dmg%		
 Earthshifter	385	100	1		1		77	69	7gm	thunder maul		3	5000								dmg%		250	300	hit-skill	Eruption	25	28	crush		33	33	swing2		60	60	oskill	Volcano	14	14	skilltab	17	7	7	cast2		60	60																						0
 Wraithflight	386	100	1		1		84	76	7gl	ghost glaive		3	5000	dblu	dblu						dmg%		150	190	rep-quant	40			lifesteal		9	13	mana-kill		15	15	ethereal		1	1																														0
 Bonehew	387	100	1		1		72	64	7o7	ogre axe		3	5000	bwht	bwht						dmg%		270	320	swing2		30	30	oskill	Corpse Explosion	14	14	hit-skill	Bone Spear	50	40	noheal		1	1	lifesteal		7	7																										0
-Ondal's Wisdom	388	100	1		1		74	66	6cs	elder staff		3	5000				invcstu				cast2		85	85	enr		40	50	allskills		2	4	ac		450	550	addxp		50	50	red-mag		5	8																										0
+Ondal's Wisdom	388	100	1		1		74	66	6cs	elder staff		3	5000				invcstu				cast2		85	85	enr		40	50	allskills		2	4	ac		450	550	addxp		5	15	red-mag		5	8																										0
 The Reedeemer	389	100	1		1		80	72	7sc	mighty scepter		3	5000								dmg%		250	300	dmg-demon		200	250	pal		2	2	ease		-60	-60	skill	Redemption	2	4	skill	Holy Bolt	2	4	reduce-ac		33	33	dmg		60	120																		0
 Headhunter's Glory	390	100	1		1		83	75	ush	troll nest		3	5000				invbshu				ac		320	420	ac-miss		300	350	res-all		15	25	swing2		40	40	heal-kill		10	15	nofreeze		1	1	stupidity		1	1	move2		50	50																		0
 Steelrend	391	100	1		1		78	70	uhg	ogre gauntlets		3	5000								ac		170	210	str		15	20	dmg%		70	100	crush		15	15	deadly		15	20	ease		-30	-30																										0
-Rainbow Facet	392	100	1		1		85	49	jew	jewel		3	5000								dmg-ltng		1	74	pierce-ltng		4	5	extra-ltng		4	5	death-skill	Chain Lightning	100	47	addxp		1	1																														0
-Rainbow Facet	393	100	1		1		85	49	jew	jewel		3	5000								dmg-cold	3	24	38	pierce-cold		4	5	extra-cold		4	5	death-skill	Blizzard	100	37	addxp		1	1																														0
-Rainbow Facet	394	100	1		1		85	49	jew	jewel		3	5000								dmg-fire		17	45	pierce-fire		4	5	extra-fire		4	5	death-skill	Meteor	100	31	addxp		1	1																														0
-Rainbow Facet	395	100	1		1		85	49	jew	jewel		3	5000								dmg-pois	50	187	187	pierce-pois		4	5	extra-pois		4	5	death-skill	Poison Nova	100	51	addxp		1	1																														0
-Rainbow Facet	396	100	1		1		85	49	jew	jewel		3	5000								dmg-ltng		1	74	pierce-ltng		4	5	extra-ltng		4	5	levelup-skill	Nova	100	41	addxp		1	1																														0
-Rainbow Facet	397	100	1		1		85	49	jew	jewel		3	5000								dmg-cold	3	24	38	pierce-cold		4	5	extra-cold		4	5	levelup-skill	Frost Nova	100	43	addxp		1	1																														0
-Rainbow Facet	398	100	1		1		85	49	jew	jewel		3	5000								dmg-fire		17	45	pierce-fire		4	5	extra-fire		4	5	levelup-skill	Blaze	100	29	addxp		1	1																														0
-Rainbow Facet	399	100	1		1		85	49	jew	jewel		3	5000								dmg-pois	50	187	187	pierce-pois		4	5	extra-pois		4	5	levelup-skill	Venom	100	23	addxp		1	1																														0
+Rainbow Facet	392	100	1		1		85	49	jew	jewel		3	5000								dmg-ltng		1	74	pierce-ltng		4	5	extra-ltng		4	5	death-skill	Chain Lightning	100	47	addxp		2	2																														0
+Rainbow Facet	393	100	1		1		85	49	jew	jewel		3	5000								dmg-cold	3	24	38	pierce-cold		4	5	extra-cold		4	5	death-skill	Blizzard	100	37	addxp		2	2																														0
+Rainbow Facet	394	100	1		1		85	49	jew	jewel		3	5000								dmg-fire		17	45	pierce-fire		4	5	extra-fire		4	5	death-skill	Meteor	100	31	addxp		2	2																														0
+Rainbow Facet	395	100	1		1		85	49	jew	jewel		3	5000								dmg-pois	50	187	187	pierce-pois		4	5	extra-pois		4	5	death-skill	Poison Nova	100	51	addxp		2	2																														0
+Rainbow Facet	396	100	1		1		85	49	jew	jewel		3	5000								dmg-ltng		1	74	pierce-ltng		4	5	extra-ltng		4	5	levelup-skill	Nova	100	41	addxp		2	2																														0
+Rainbow Facet	397	100	1		1		85	49	jew	jewel		3	5000								dmg-cold	3	24	38	pierce-cold		4	5	extra-cold		4	5	levelup-skill	Frost Nova	100	43	addxp		2	2																														0
+Rainbow Facet	398	100	1		1		85	49	jew	jewel		3	5000								dmg-fire		17	45	pierce-fire		4	5	extra-fire		4	5	levelup-skill	Blaze	100	29	addxp		2	2																														0
+Rainbow Facet	399	100	1		1		85	49	jew	jewel		3	5000								dmg-pois	50	187	187	pierce-pois		4	5	extra-pois		4	5	levelup-skill	Venom	100	23	addxp		2	2																														0
 Hellfire Torch	400	100	1		1		110	75	cm2	charm		3	5000			flptrch	invtrch	item_gem	12	item_gem	randclassskill1		0	6	all-stats		10	20	res-all		10	20	light		8	8	hit-skill	197	5	10	charged	Hydra	10	30																										0
 Starting Charm	401	100	1		1		1	1	mfc	charm	1	3	5000			flptrch		item_gem	12	item_gem	mag%		-199	-199	res-all		-30	-30																																										0
-Neverfrost	402	100	1		1		78	29	jew	jewel		3	5000								cast2		1	3	swing2		5	10	nofreeze		1	1	addxp		1	1																																		0
+Neverfrost	402	100	1		1		78	29	jew	jewel		3	5000								cast2		1	3	swing2		5	10	nofreeze		1	1	addxp		2	2																																		0

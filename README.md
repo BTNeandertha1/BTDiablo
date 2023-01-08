@@ -23,6 +23,9 @@ BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Di
 - Endless Itemization... Literally
 - Improved Melee
 - Keep Wirt's Leg upon making the Secret Cow Level!
+- Removed Act Cinematics
+- Can now hold Multiple Unique Charms (Strictly for QOL not balance)
+- Doubled Inventory! Only Top or Bottom Half Allowed (Strictly for QOL not balance)
 
 BTNeandertha1 Social Media Links:  
 - [Twitch](https://www.twitch.tv/btneandertha1)
@@ -94,55 +97,356 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/16) issue.  
 Please submit your own ideas in the Future Ideas issue and they may be added later on!
 
-- Add a "Challenge area"
-- Make wanderer do something?
-- Add more evil urns?
-- Adjust Merc AI
-
 # Patch Notes
+**How do I get the new patch?**
+1. **Delete btdiablo.mpq folder**
+2. **Paste New btdiablo.mpq folder**
+- Updated the Github Documentation
+- Fixed an issue where hydra edge would only get 2 sockets (now 3)
 - Act 3 Town Optimized
-- Vendors
-   - Token of Absolution Sold at Akara 
-   - Ormus now sells Stamina, Antidotes and Thawing Potions
-- Items
-   - Throwing Javelins can no longer get 4 sockets (3 max)
-   - Rainbow Facets now roll 4-5 instead of 3-5
-   - Large Charms now get +4 Damage Potential (was 3)
-- Recipes
-   - Secret Cow Level only requires Wirt's leg
-   - Added Unique Jewel Reroll Recipe
-      - 5 x Rare Jewels + 2 Hellfire Ash + Standard of Heros + Larzuk's Forging Hammer + Unique Jewel
-   - Transmuting Runes to a higher tier now requires a stamina potion for added safety
-   - 2 Unique Jewelery for Standard of Heros
-   - 1 of Each Essence = 1 of Each Key
-   - 3 Essences converting = Blue > Yellow > Red > Green > 3 Blue
-   - Added 99 Gem Convert Recipe 99 Stacked Perfect gems + active gem of choice = 34 Perfect gems of choice
-- Removed 
-   - Holiday Gift
-   - Essences At Akara
-   
-# Recent Patch Notes 
-- ***MAKE SURE TO DROP ALL STANDARDS, UBER KEYS, ORGANS AND HELL FIRE ASH FOR THIS PATCH ADDED STACKEDITEMSSC.D2S FOR REPLACEMENTS***
-- How do I get the new patch?
-   - Delete btdiablo.mpq folder
-   - Paste New btdiablo.mpq folder
-- Standard of Heros, Uber Keys, Organs and Hell Fire Ash now stack!
-- Can now hold Multiple Unique Charms (Strictly for QOL not balance)
-- Added Message of the day
-- Removed the Sockets from Steel Carapace added 15 Faster run/walk
-- Dim Vision and Hit Blinds Target doesn't get over written by curses
+- 1 Hellfire Ash + Stamina = Standard of Heros
+- Changed Unique Jewel Reroll Recipe
+   - 3 x Rare Jewels + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel
+- Fixed a bug where ethereal safety armor wouldnt craft
+- Affix Changes
+   - Removed Hit Causes Monster to Flee and Knockback from affix pool
+   - 20% Chance to Cast Level 4 Amplify Damage 
+- Removed Hit Causes Monster to Flee from all Uniques except The Face of Horror
+- Ondal's Wisdom now roll 5-15% Experience Gained
 
+## Characters
+- Walking is the same as running
+- Greatly improved Attack Rating for all classes (All classes start with 750 AR was -15 to 20)
+- Doubled the Effect of Strength and Dexterity Bonuses on Weapons
+
+## Shrines
+- Made Gem Shrines Much more common
+   - Removed: Armor, Stamina, Portal, Fire, Exploding, Poison
+
+## Runewords
+- Enigma [Jah Ith Sol] (was Jah Ith Ber)
+   - Added Flat Physical Damage Reduction
+   - Removed Strength and % Damage Reduction
+   - Half Magic Find% per level
+- Spirit Shield [Mal Thul Ort Pul] (was Tal Thul Ort Amn)
+   - Always Rolls 35% Faster Cast Rate
+- Splendor [Eth Lum]
+   - 20% Faster Cast Rate (was 10%)
+- Added Soul Sword Runeword [Tal Thul Ort Amn] (was Spirit Sword, Spirit was changed)
+   - Exact same as old Spirit Sword
+- Holy Thunder [Eth Ral Ort Tal] works in any melee weapon (was Sceptors)
+   - +100% Enhanced Damage (was 60) 
+   - +15 Maximum Damage (was 10) 
+   - Level 2 Holy Shock Aura when equipped (was +3 Holy Shock Paladin only)
+   - Removed Chain Lighting Charges
+- Honor [Amn El Ith Tir Sol]
+   - Added +20-30 Increased Attack Speed
+   - +190-210% Enhanced Damage (was 160) 
+   - +20% Bonus Attack Rating (was 200 Flat Attack Rating)
+   - Added 55% Faster Hit Recovery
+   - Added Repairs Durability
+   - Removed Replenish Life
+- Malice [Ith El Eth]
+   - Added 7% Life Stolen Per Hit
+   - Added Repairs Durability
+   - Removed Light Raidus
+- Steel [Tir El] Melee Weapons (was sword, axe, mace)
+   - Added 5% Chance of Crushing Blow on Hit
+   - Changed Max and Min Damage to Flat Damage
+   - Added Repairs Durability
+- Strength [Amn Tir]
+   - 90-110% Enhanced Damage (was 35)
+   - Added Repairs Durability
+- Prudence [Mal Tir]
+   - 24 MDR (was 17)
+   - 8 PDR (was 3)
+   - Added Cannot Be Frozen
+   - Removed 1 Light Radius
+- Lionheart [Hel Lum Fal]
+   - 90-110% Enhanced Damage (was 20)
+- Radiance [Nef Sol Ith]
+   - 10 pdr (was 3)
+   - Added 33 Life
+   - Removed Enhanced Defense
+- Nadir [Nef Tir]
+   - 4 Magic Damage Reduction
+   - 4 Physical Damage Reduction
+   - Removed -33% Gold Find
+- Black [Thul Io Nef]
+   - 7 MDR (was 2)
+- Wealth [Lem Ko Tir]
+   - Added 20 Faster Run/Walk
+   - Added 10% Increased Attack Speed
+   - 1 Magic Find% per Level (was 100)
+- Delirium [Lem Ist Io]
+   - Removed the Delirium Mod from Delirium (turned you into a doll "disabling your character")
+- Zephyr [Ort Eth]
+   - 50% Increased Attack Speed (was 25%)
+   - Added 33% Pierce
+   - 100% Enhanced Damage (was 33%)
+   - 14% Chance to Cast level 2 Twister on striking (was 7% level 1 and when struck)
+   - Added 30 Mana
+- Edge [Tir Tal Amn]
+   - Added 33% Pierce
+   - 280-320% Enhanced Damage (was Demon and Undead Damage)
+- Harmony [Tir Ith Sol Ko]
+   - 275-325% Enhanced Damage (was 200-275)
+- Wrath [Pul Lum Ber Mal]
+   - Added 30% Increased Attack Speed
+   - 300-375 Enhanced Damage (was Damage to Demons and Undead)
+- Brand [Jah Lo Mal Gul]
+   - Added 30% Increased Attack Speed
+   - Removed Prevent Monster Heal
+- Last Wish [Jah Mal Jah Sur Jah Ber]
+   - Removed 20% Level 20 Charged Bolt on attack
+   - Added Repairs Durability
+- Grief [Eth Tir Lo Mal Ral]
+   - Removed + Damage
+   - Removed Venom
+   - Added 300-350 Minimum Damage and Maximum Damage 
+- Beast [Ber Tir Um Mal Lum]
+   - Grizzly Charges Changed to oskill Hunger
+- Insight Works in Spears [Ral Tir Tal Sol]
+- Treachery [Shael Thul Lem]
+   - 20% Fade Proc Chance (was 5%)
+   
+## Runes
+- Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
+- Dol Rune has 2 Life After Each Kill for all slots
+- Ist and higher Runes now all have 2% Experience Gained
+- Cham Rune
+   - Changed Armor and Helmet to 34% Reduced Curse Duration (was Cannot Be Frozen)
+- Zod
+   - Added +1 to All Skills
+
+## Gems
+- Gems now have Stack mode and drop stacked from the world! (other than hard coded drops)
+- Topaz Magic Find replaced with Faster Run/Walk
+
+## Items
+**Example** of item modifiers: Um in Weapon = 20 Open Wounds, Armor/Helm = 15 All Res, Shield = 22 All Res
+- Arrows and Bolts can now have up to 3 sockets and be repaired
+   - socketed items get Shield modifier
+- All Weapons can now have the potential of 2 sockets
+- Amulets and Rings can now have 1 socket
+   - socketed items get Armor/Helm modifier
+- Belts can now have up to 2 sockets
+   - ilvl 1 = 1 Sockets, 49+ = 2 Sockets 
+   - socketed items get Armor/Helm modifier
+- Gloves and Boots can now have up to 3 Sockets
+   - ilvl 1 = 1 Sockets, 49+ = 2 Socket, 75+ = 3 Sockets
+   - socketed items in Gloves get Weapon modifier
+   - socketed items in Boots get Armor/Helm modifier
+- Throwing Weapons have up to 4 sockets
+   - Socketed items get Weapon modifier
+   - Throwing Axes can have up to 4 Sockets (Exceptional and Elite)
+   - Javelins = 3 Sockets (Exceptional and Elite)
+   - Throwing Spears can have up to 3 Sockets (Exceptional and Elite)
+- Tulwar and Hydra Edge can now get 3 sockets (was 2)
+- Annihilus
+   - 10-15% Experience Gained (was 5-10%)
+- Necro shields add 33% Pierce for the Teeth mechanic (was Poison Damage)
+- Necro shields can now have 3 sockets
+- Added Hellfire Ashes (Broken down Hellfire Torches) Torch + Larzuk's Forging Hammer 
+- Tome of Town Portal, Identify and keys now stack up to 50
+- All Essences now stack to 50
+- Lidless Wall now rolls 1-2 Skills
+- All Weapons have 50% increased base damage values**
+   - Exceptional and Elite "BOWS" (NOT Crossbows) have 15% increased Maximum Base Damage instead**
+- Added Neverfrost (Unique Jewel) [qlvl 78]
+   - 1-3 Faster Cast Rate
+   - 5-10 Increased Attack Speed
+   - Cannot Be frozen
+   - 2% Experience Gained
+- Ogre Axe Now gets up to 5 Sockets
+- Removed Faster Run/Walk Pentalty on Gear
+- Removed Hit Causes Monster to Flee from everything except The face of horror
 - Removed Light Radius all Unique and Set items (exception Hellfire Torch)
 - Removed Indestructible From all Unique and Set items (exceptions Shadow Killer, Ethereal Edge and Ghost Flame)
 - Removed Stamina from all Unique and Set items
 
-Base Items
-- Tulwar can now get 3 sockets (was 2)
-- Glaive and Throwing Spear get up to 3 sockets (was 2)
-- Throwing Weapons now get up to 4 sockets with Corruptions (was 3)
-
-Unique Items
-
+   
+## Uniques
+- Cranium Basher
+   - 60 IAS
+   - 10% Level 3 Amp
+   - Repair Durability
+- Mang's Song Lesson
+   - 85 FCR
+   - 6 All Skills
+   - 20-25 Cold Fire Light Pierce
+   - 40-50 All Res
+   - 30 Regen Mana
+   - 40% Increased Maximum Mana
+- Executioner's Justice
+   - Decrep on striking instead
+   - 50% Crushing Blow
+   - 50% Deadly Strike
+- Templar's Might
+   - 4-6 offensive Auras
+   - 20-30 Strength
+   - 20-30 Vitality
+- Tyreal's Might
+   - Lower Level Requirement
+   - +2 to All Skills
+   - 1 to Teleport
+   - 45% Faster Run/Walk
+   - 200-250 Damage to Demons
+   - 200-250 Damage to Undead
+   - Removed Slain Monsters Rest in Peace
+- Shadow Dancer's
+   - 1-2 Traps, Shadow Disciplins, Martial Arts
+   - 40 Faster Run/Walk
+- Waterwalk
+   - 40 Faster Run/Walk
+- Ghostflame
+   - 4 Fire Skills
+   - 30 FCR
+   - 5-10 Fire Pierce
+   - 5-10 Fire Skill Damage
+   - 5 Maximum Fire Res
+   - Removed
+      - Ignore Targets Defense
+	  - Enhanced Damage
+	  - Mana Steal
+- Steelrends
+   - 70-100 ED
+   - 15-20 Deadly Strike
+   - 15 Crushing blow
+   - -30 Requirements
+- Earth Shifter
+   - 60 Faster Cast Rate
+   - 60 Increased Attack Speed
+   - Level 28 Fissure
+- Schaefer's Hammer
+   - Level 20 Static Field
+   - 200-230 ED
+   - 60% IAS
+   - Repairs Durability
+- Stone Crusher
+   - 20% IAS
+- Steel Shade
+   - Replenish Life 30-50
+   - 2 Skills 
+   - 20% FBR
+   - 20% Increased Block
+- Gargoyle's Bite
+   - -20-25% Poison Pierce
+   - 180-330 ED
+   - 3-4 Plauge Jav + 3-4 Poison Jav
+- Stormlash
+   - Level 20 Static Field
+- The Oculus 
+   - 5% Chance to cast Teleport
+- Stormspire
+   - 8-10 Lifesteal
+   - 30% Level 10 Lower Resist on striking
+   - 200-300 ED
+   - 20 Strength
+   - 150% Bonus Attack Rating
+- Demonhorn's Edge
+   - 3-4 Warcries, Combat Skills, Masteries
+   - 20 Attack Speed
+   - 100-150 Damage to Demons
+- Wolfhowl
+   - 3-6 Fury
+   - Oskill Dire Wolves
+- Halaberd's Reign
+   - 2-3 Barbarian Skills
+   - 15 Life Per Kill instead of Rep Life
+   - 10-15% Damage Reduction
+- Astreon's Iron Ward
+   - 3-4 Combat Skills
+- Head Hunter's Glory
+   - 15-25 All res instead
+   - 10-15 Life Per Kill
+   - 25 Faster Run/Walk
+- Medusa's Gaze
+   - 20% Level 10 Decrep When Struck
+   - 40% Slow Targets
+   - -30% Requirements
+- Spirit Ward
+   - 2 to class skill
+   - 35% CTC Fade when Struck
+   - -30 Requirements
+- Steel Pillar
+   - Repair Durability
+- Ondal's Wisdom
+   - 85% Faster Cast Rate
+   - 5-15% Experience Gained
+- Azurewrath
+   - Holy Freeze instead
+   - 2 Skills
+- Grandfather
+   - 200-300
+   - Repairs Durability
+- Frostwind
+   - 1 to Cold Mastery
+- Doombringer
+   - Repair Durability
+- Boneshade
+   - 30 FCR
+- Darkforce Spawn
+   - 2-3 Curses, Summon, Bone Skills
+   - +5 to Bone Spear, Teeth, Bone Spirit, Bone Armor
+   - 50% Pierce
+- Boneflame
+   - 50% Pierce
+   - 3-5 Vigor 
+   - Remove Run/Walk
+- Homunculus
+   - 50% Pierce
+- Blood Raven's Charge
+   - 3-5 Bow Skills
+   - 30 Increased Attack Speed
+- Dragon Scale
+   - Fire Mastry
+   - 30 FCR
+- Alma Negra
+   - Level 1 Salvation
+   - 100-300% ED 
+   - 75-150% Attack Rating
+- Carrion Wind
+   - 100 Poison Length Reduction
+   - Poison Nova on Striking
+   - 150-250 Attack Rating
+   - 40% Damage taken goes to mana
+- Nature's Peace
+   - 5 to Oak
+   - 20% Open Wounds
+- Wisp Projecter
+   - 1 to Heart of Wolverine
+   - Remove Oak and Spirit of barbs charges
+- Atma's Scarab
+   - 10% Level 3 Amp
+- Metalgrid
+   - 20 to Iron golem, Summon Resist, and Golem Mastery
+- Seraph's Hymn
+   - 50-100 Damage to Demons
+   - 50-100 Damage to Undead
+- Cerebus Bite
+   - 3-4 Shape Shifting
+- Spirit Keeper
+   - 3-4 Summoning
+- Firelizard's Talons
+   - 2-3 Martial Arts
+   - 3-4 Wake of Fire and Inferno + 3-4 Death Sentry
+- Jade Talon
+   - 3-4 Shadow and Martial Art Skills
+   - 1 to Dragon Flight
+- Shadow Killer
+   - 3-5 Shadow Disciplins
+   - 20 Increased Attack Speed
+   - Ignore Target's Defense
+   - 3 to Blade Shield
+   - Removed Frost Nova and Freeze Target
+- Arkaine's Valor
+   - Always 2 Skills
+   - -20% Requirements
+- Spike Thorn
+   - Removed Sockets
+   - Added 40-65 Damage
+   - Added -30 Requirements
 - Rune Master
    - Removed Sockets
    - 270-320 Increased Enhanced Damage (was 220-270 ED)
@@ -242,8 +546,30 @@ Unique Items
 - Zakarum's Hand
    - Removed Stamina
    - 15 Replenish Life
+- Rainbow Facets
+   - Roll 4-5 (was 3-5)
+- Steel Carapace
+   - 30-40% Damage Reduction
+   - 15% Faster Run/Walk
+
+## Sets
+- Ondal's Almighty
+   - 2 to Skills
+   - 10 Faster Cast Rate
+- Taebaek's Glory
+   - 40 Faster Cast Rate
+- Laying of Hands
+   - 150-200 Damage to Demons (was 350%)
+- Sazabi's Sword
+   - 250 ED
+- Vidala's Fetlock
+   - 10 Vitality (was Stamina)
+- Tancred's Hobnails
+   - 25 Life (was Stamina)
+- Rite of Passage
+   - Cannot Be Frozen (was Half Freeze Duration)
+   - 15-25 Life 
    
-SETS
 Aldur's Watchtower (Full Set)
    - Removed Defense
    - 100 MF 3 Pieces (was 50) 
@@ -432,7 +758,7 @@ M'avina's Tenet (Belt)
    - 4 Items = 25% All Resistances
    - 5 Items = 5% Maximum Poison Resistance
    
-Trang-Oul's Avatar (Full Set)
+Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
    - Added + 7 Lower Resist
 - Trang-Oul's Guise (Helm)
    - Defense 100
@@ -482,391 +808,8 @@ Trang-Oul's Avatar (Full Set)
    - 3 Items = 40 Cold Resistance
    - 4 Items = 15% Lightning Absorb
    - 5 Items = 5% Maximum Cold Resistance
-- Vidala's Fetlock
-   - 10 Vitality (was Stamina)
-- Tancred's Hobnails
-   - 25 Life (was Stamina)
-- Rite of Passage
-   - 15-25 Life 
+
    
-- Removed Act Cinematics
-- Added Inventory Space and a character with blank items for already existing characters
-- Shapeshifting duration removed
-- Act 1 Mercenary
-   - Can Now Equip XBows and Quivers
-- Act 3&5 Mercenary
-   - Can Now Equip Sceptors, Axes, Swords, and Hammers
-- Spike Thorn
-   - Removed Sockets
-   - Added 40-65 Damage
-   - Added -30 Requirements
-- Reduced Uber Portal Monster HP by 15% and Increased Experience by 25%
-
-## Characters
-- Greatly improved stamina for all classes (~20% better than old Assassin Stamina)
-- Greatly improved Attack Rating for all classes (All classes start with 750 AR was -15 to 20)
-- Doubled the Effect of Strength and Dexterity Bonuses on Weapons
-
-## Shrines
-- Made Gem Shrines Much more common
-   - Removed: Armor, Stamina, Portal, Fire, Exploding, Poison
-
-## Runewords
-- Enigma [Jah Ith Sol] (was Jah Ith Ber)
-   - Added Flat Physical Damage Reduction
-   - Removed Strength and % Damage Reduction
-   - Half Magic Find% per level
-- Spirit Shield [Mal Thul Ort Pul] (was Tal Thul Ort Amn)
-   - Always Rolls 35% Faster Cast Rate
-- Splendor [Eth Lum]
-   - 20% Faster Cast Rate (was 10%)
-- Added Soul Sword Runeword [Tal Thul Ort Amn] (was Spirit Sword, Spirit was changed)
-   - Exact same as old Spirit Sword
-- Holy Thunder [Eth Ral Ort Tal] works in any melee weapon (was Sceptors)
-   - +100% Enhanced Damage (was 60) 
-   - +15 Maximum Damage (was 10) 
-   - Level 2 Holy Shock Aura when equipped (was +3 Holy Shock Paladin only)
-   - Removed Chain Lighting Charges
-- Honor [Amn El Ith Tir Sol]
-   - Added +20-30 Increased Attack Speed
-   - +190-210% Enhanced Damage (was 160) 
-   - +20% Bonus Attack Rating (was 200 Flat Attack Rating)
-   - Added 55% Faster Hit Recovery
-   - Added Repairs Durability
-   - Removed Replenish Life
-- Malice [Ith El Eth]
-   - Added 7% Life Stolen Per Hit
-   - Added Repairs Durability
-   - Removed Light Raidus
-- Steel [Tir El] Melee Weapons (was sword, axe, mace)
-   - Added 5% Chance of Crushing Blow on Hit
-   - Changed Max and Min Damage to Flat Damage
-   - Added Repairs Durability
-- Strength [Amn Tir]
-   - 90-110% Enhanced Damage (was 35)
-   - Added Repairs Durability
-- Prudence [Mal Tir]
-   - 24 MDR (was 17)
-   - 8 PDR (was 3)
-   - Added Cannot Be Frozen
-   - Removed 1 Light Radius
-- Lionheart [Hel Lum Fal]
-   - 90-110% Enhanced Damage (was 20)
-- Radiance [Nef Sol Ith]
-   - 10 pdr (was 3)
-   - Added 33 Life
-   - Removed Enhanced Defense
-- Nadir [Nef Tir]
-   - 4 Magic Damage Reduction
-   - 4 Physical Damage Reduction
-   - Removed -33% Gold Find
-- Black [Thul Io Nef]
-   - 7 MDR (was 2)
-- Wealth [Lem Ko Tir]
-   - Added 20 Faster Run/Walk
-   - Added 10% Increased Attack Speed
-   - 1 Magic Find% per Level (was 100)
-- Delirium [Lem Ist Io]
-   - Removed the Delirium Mod from Delirium (turned you into a doll "disabling your character")
-- Zephyr [Ort Eth]
-   - 50% Increased Attack Speed (was 25%)
-   - Added 33% Pierce
-   - 100% Enhanced Damage (was 33%)
-   - 14% Chance to Cast level 2 Twister on striking (was 7% level 1 and when struck)
-   - Added 30 Mana
-- Edge [Tir Tal Amn]
-   - Added 33% Pierce
-   - 280-320% Enhanced Damage (was Demon and Undead Damage)
-- Harmony [Tir Ith Sol Ko]
-   - 275-325% Enhanced Damage (was 200-275)
-- Wrath [Pul Lum Ber Mal]
-   - Added 30% Increased Attack Speed
-   - 300-375 Enhanced Damage (was Damage to Demons and Undead)
-- Brand [Jah Lo Mal Gul]
-   - Added 30% Increased Attack Speed
-   - Removed Prevent Monster Heal
-- Last Wish [Jah Mal Jah Sur Jah Ber]
-   - Removed 20% Level 20 Charged Bolt on attack
-   - Added Repairs Durability
-- Grief [Eth Tir Lo Mal Ral]
-   - Removed + Damage
-   - Removed Venom
-   - Added 300-350 Minimum Damage and Maximum Damage 
-- Beast [Ber Tir Um Mal Lum]
-   - Grizzly Charges Changed to oskill Hunger
-- Insight Works in Spears [Ral Tir Tal Sol]
-- Treachery [Shael Thul Lem]
-   - 20% Fade Proc Chance (was 5%)
-   
-## Runes
-- Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
-- Dol Rune has 2 Life After Each Kill for all slots
-- Ist and higher Runes now all have 1% Experience Gained
-- Cham Rune
-   - Changed Armor and Helmet to 34% Reduced Curse Duration (was Cannot Be Frozen)
-- Zod
-   - Added +1 to All Skills
-
-## Gems
-- Gems now have Stack mode and drop stacked from the world! (other than hard coded drops)
-- Topaz Magic Find replaced with Faster Run/Walk
-
-## Items
-**Example** of item modifiers: Um in Weapon = 20 Open Wounds, Armor/Helm = 15 All Res, Shield = 22 All Res
-- Arrows and Bolts can now have up to 3 sockets and be repaired
-   - socketed items get Shield modifier
-- All Weapons can now have the potential of 2 sockets
-- Amulets and Rings can now have 1 socket
-   - socketed items get Armor/Helm modifier
-- Belts can now have up to 2 sockets
-   - ilvl 1 = 1 Sockets, 49+ = 2 Sockets 
-   - socketed items get Armor/Helm modifier
-- Gloves and Boots can now have up to 3 Sockets
-   - ilvl 1 = 1 Sockets, 49+ = 2 Socket, 75+ = 3 Sockets
-   - socketed items in Gloves get Weapon modifier
-   - socketed items in Boots get Armor/Helm modifier
-- Throwing Weapons have up to 4 sockets
-   - socketed items get Weapon modifier
-   - Throwing Axes can have up to 4 Sockets (Exceptional and Elite)
-   - Javelins = 3 Sockets (Exceptional and Elite)
-   - Throwing Spears can have up to 4 Sockets (Exceptional and Elite)
-- Annihilus
-   - 10-15% Experience Gained (was 5-10%)
-- Necro shields add 33% Pierce for the Teeth mechanic (was Poison Damage)
-- Necro shields can now have 3 sockets
-- Added Hellfire Ashes (Broken down Hellfire Torches) Torch + Larzuk's Forging Hammer 
-- Tome of Town Portal, Identify and keys now stack up to 50
-- All Essences now stack to 50
-- Lidless Wall now rolls 1-2 Skills
-- All Weapons have 50% increased base damage values**
-   - Exceptional and Elite "BOWS" (NOT Crossbows) have 15% increased Maximum Base Damage instead**
-- Added Neverfrost (Unique Jewel) [qlvl 78]
-   - 1-3 Faster Cast Rate
-   - 5-10 Increased Attack Speed
-   - Cannot Be frozen
-   - 1% Experience Gained
-- Ogre Axe Now gets up to 5 Sockets
-- Facets now drop with 1% Experience Gained
-- Removed Faster Run/Walk Pentalty on Gear
-   
-## Uniques
-- Cranium Basher
-   - 60 IAS
-   - 10% Level 3 Amp
-   - Repair Durability
-- Mang's Song Lesson
-   - 85 FCR
-   - 6 All Skills
-   - 20-25 Cold Fire Light Pierce
-   - 40-50 All Res
-   - 30 Regen Mana
-   - 40% Increased Maximum Mana
-- Executioner's Justice
-   - Decrep on striking instead
-   - 50% Crushing Blow
-   - 50% Deadly Strike
-- Steel Carapace
-   - 30-40% Damage Reduction
-   - 2 sockets
-- Templar's Might
-   - 4-6 offensive Auras
-   - 20-30 Strength
-   - 20-30 Vitality
-- Tyreal's Might
-   - 1 to Teleport
-   - 45% Faster Run/Walk
-   - 200-250 Damage to Demons
-   - 200-250 Damage to Undead
-   - Removed Slain Monsters Rest in Peace
-- Shadow Dancer's
-   - 1-2 Traps, Shadow Disciplins, Martial Arts
-   - 40 Faster Run/Walk
-- Waterwalk
-   - 40 Faster Run/Walk
-- Ghostflame
-   - 4 Fire Skills
-   - 30 FCR
-   - 5-10 Fire Pierce
-   - 5-10 Fire Skill Damage
-   - 5 Maximum Fire Res
-   - Removed
-      - Ignore Targets Defense
-	  - Enhanced Damage
-	  - Mana Steal
-- Steelrends
-   - 70-100 ED
-   - 15-20 Deadly Strike
-   - 15 Crushing blow
-   - -30 Requirements
-- Earth Shifter
-   - 60 Faster Cast Rate
-   - 60 Increased Attack Speed
-   - Level 28 Fissure
-- Schaefer's Hammer
-   - Level 20 Static Field
-   - 200-230 ED
-   - 60% IAS
-   - Repairs Durability
-- Stone Crusher
-   - 20% IAS
-- Steel Shade
-   - Replenish Life 30-50
-   - 2 Skills 
-   - 20% FBR
-   - 20% Increased Block
-- Gargoyle's Bite
-   - -20-25% Poison Pierce
-   - 180-330 ED
-   - 3-4 Plauge Jav + 3-4 Poison Jav
-- Stormlash
-   - Level 20 Static Field
-- The Oculus 
-   - 5% Chance to cast Teleport
-- Stormspire
-   - 8-10 Lifesteal
-   - 30% Level 10 Lower Resist on striking
-   - 200-300 ED
-   - 20 Strength
-   - 150% Bonus Attack Rating
-- Demonhorn's Edge
-   - 3-4 Warcries, Combat Skills, Masteries
-   - 20 Attack Speed
-   - 100-150 Damage to Demons
-- Wolfhowl
-   - 3-6 Fury
-   - Oskill Dire Wolves
-- Halaberd's Reign
-   - 2-3 Barbarian Skills
-   - 15 Life Per Kill instead of Rep Life
-   - 10-15% Damage Reduction
-- Astreon's Iron Ward
-   - 3-4 Combat Skills
-- Head Hunter's Glory
-   - 15-25 All res instead
-   - 10-15 Life Per Kill
-   - 25 Faster Run/Walk
-- Medusa's Gaze
-   - 20% Level 10 Decrep When Struck
-   - 40% Slow Targets
-   - -30% Requirements
-- Spirit Ward
-   - 2 to class skill
-   - 35% CTC Fade when Struck
-   - -30 Requirements
-- Steel Pillar
-   - Repair Durability
-- Ondal's Wisdom
-   - 85% Faster Cast Rate
-   - 50% Experience Gained
-- Azurewrath
-   - Holy Freeze instead
-   - 2 Skills
-- Grandfather
-   - 200-300
-   - Repairs Durability
-- Frostwind
-   - 1 to Cold Mastery
-- Doombringer
-   - Repair Durability
-- Boneshade
-   - 30 FCR
-- Darkforce Spawn
-   - 2-3 Curses, Summon, Bone Skills
-   - +5 to Bone Spear, Teeth, Bone Spirit, Bone Armor
-   - 50% Pierce
-- Boneflame
-   - 50% Pierce
-   - 3-5 Vigor 
-   - Remove Run/Walk
-- Homunculus
-   - 50% Pierce
-- Blood Raven's Charge
-   - 3-5 Bow Skills
-   - 30 Increased Attack Speed
-- Dragon Scale
-   - Fire Mastry
-   - 30 FCR
-- Alma Negra
-   - Level 1 Salvation
-   - 100-300% ED 
-   - 75-150% Attack Rating
-- Carrion Wind
-   - 100 Poison Length Reduction
-   - Poison Nova on Striking
-   - 150-250 Attack Rating
-   - 40% Damage taken goes to mana
-- Nature's Peace
-   - 5 to Oak
-   - 20% Open Wounds
-- Wisp Projecter
-   - 1 to Heart of Wolverine
-   - Remove Oak and Spirit of barbs charges
-- Atma's Scarab
-   - 10% Level 3 Amp
-- Metalgrid
-   - 20 to Iron golem, Summon Resist, and Golem Mastery
-- Seraph's Hymn
-   - 50-100 Damage to Demons
-   - 50-100 Damage to Undead
-- Cerebus Bite
-   - 3-4 Shape Shifting
-- Spirit Keeper
-   - 3-4 Summoning
-- Firelizard's Talons
-   - 2-3 Martial Arts
-   - 3-4 Wake of Fire and Inferno + 3-4 Death Sentry
-- Jade Talon
-   - 3-4 Shadow and Martial Art Skills
-   - 1 to Dragon Flight
-- Shadow Killer
-   - 3-5 Shadow Disciplins
-   - 20 Increased Attack Speed
-   - Ignore Target's Defense
-   - 3 to Blade Shield
-   - Removed Frost Nova and Freeze Target
-- Arkaine's Valor
-   - Always 2 Skills
-   - -20% Requirements
-
-## Sets
-- BK Sacred Charge
-   - Remove knockback
-   - 3 Sockets
-- BK Tribal Guardian is now a Colosus Sword
-   - 3 Sockets
-- Griswolds Armor
-   - 1-2 to Paladin Skills
-- Griswolds Helm
-   - 25 All res
-- Ondal's Almighty
-   - 2 to Skills
-   - 10 Faster Cast Rate
-- Taebaek's Glory
-   - 40 Faster Cast Rate
-- Mav's Armor
-   - 1-2 Amazon Skills
-- Mav's Gloves
-   - Cannot be Frozen
-- Natalya's Mark
-   - 2 Assassin Skills
-- Natalya's Armor
-   - 1-2 Assassin Skills
-- Laying of Hands
-   - 150-200 Damage to Demons
-- Rite of Passage
-   - Cannot be frozen
-- Aldur's Armor
-   - 1-2 Druid Skills
-- Aldur's Helm
-   - 1-2 Druid Skills
-- Sazabi's Sword
-   - 250 ED
-- Trang Set no longer turns you into a Goul
-- Trang's Armor
-   - 1-2 Necromancer Skills
-- Immortal King's Armor
-   - 1-2 Barbarian Skills 
-
 ## Affixes
 - Added Rare Affixes
    - Jewels
@@ -908,7 +851,9 @@ Trang-Oul's Avatar (Full Set)
    - 6-20 Individual Resistance [Fire, Cold, Light, and Poison] (was 4-15)
    - 4-10 All Resistances (was 3-8)
    - 4-12 Magic Find (was 1-6)
-   - 1-3 Damage/10-48 Attack Rating (was 1-6 Max Dmg/10-48 Attack Rating)
+   - 1-4 Damage/10-48 Attack Rating (was 1-6 Max Dmg/10-48 Attack Rating)
+- Removed Hit Causes Monster to Flee and Knockback
+- 20% Chance to Cast Level 4 Amplify Damage (was 5% at level 1) 
 
 ## Crafting 
 - Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
@@ -959,7 +904,6 @@ Trang-Oul's Avatar (Full Set)
 ## Shop
 - Added Charsi's Malus to Imbue (575k)
 - Added Larzuk's Forging Hammer (2.2 Mil)
-- Added Essences for Gold at Akara (125k B, 250k Y, 500k R, 1 Mil G)
 - Added Full Rejuvination Potions at Ormus, Jamella and Malah
 - Added MF Potion grants +150% MF for 20 Minutes (Effect lost on death or S&E) at Alkor (750k)
 - Added BigDinn at Ormus (90k)
@@ -970,18 +914,20 @@ Trang-Oul's Avatar (Full Set)
    - Cube with Wand and potion for (?/67) Lower Resistance or Life Tap Wand [Randome Level Required]
       - Mana Potion = Lower Resistance
 	  - Healing Potion = Life Tap
+- Token of Absolution Sold at Akara 
+- Ormus now sells Stamina, Antidotes and Thawing Potions
 
 ## Recipes
 - Rune Downgrading 1 to 1 (Flawed Gem + Rune = Downgrade)
 - Removed Level Requirement increase upon Upping and item.
-- Essence Transmuting to next Tier
-   - 2 Blue > 2 Yellow > 3 Red > 3 Green
-- 3 Green Essence = 1 Destruction Key
+- Essence Transmuting to next Tier use 3 essences
+   - Blue > Yellow > Red > Green > 3 Blue
+- 1 of Each Essence = 1 of each Uber Key
 - ANY 3 Uber Organs now open Uber Tristram (Diablo's Horn, Baal's Eye or Mephisto's Brain)
-- 3 Unique Jewerly (Rings, Amulets, Jewels) = Standard of Heroes
+- 2 Unique Jewerly (Rings, Amulets, Jewels) = Standard of Heroes
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
-- Removed Gem requirements for Rune Upgrading and repairing charges on items
+- Removed Gem requirements for repairing charges on items
 - Charsi's Malus + Arrows or Bolts = Replenish Quantity 
 - Hratli's Spiritual Herb + Standard of Heroes
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
@@ -990,28 +936,33 @@ Trang-Oul's Avatar (Full Set)
 - 99 Stacked Flawless Gems + Stamina Potion = 33 Perfect Gems of the same type
 - 99 Stacked Runes El-Lem + Stamina Potion = 33 Runes of the next tier
 - 100 Stacked Runes Pul-Cham + Stamina Potion = 50 Runes of the next tier
-- 100 Stacked Blue and Yellow Essences + Stamina Potion = 50 of the next tier
-- 99 Stacked Red Essences + Stamina Potion = 33 of the next tier
+- 99 Stacked Essences + Stamina Potion = 33 of the next tier (Doesn't Work for Green Essence)
 - 3 Charms cubed = 1 of the same charm type
 - 9 Stacked Perfect Gems + Active Perfect Gem of your choosing = 4 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
    - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
+- 99 Stacked Perfect Gems + Active Perfect Gem of your choosing = 34 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
+   - Example: 99 Stacked Perfect Topaz + 1 Perfect Emerald = 34 Stacked Perfect Emeralds
 - Charsi's Malus + Hellfire Torch = Hellfire Ash
 - Gheed's Fortune + Charsi's Malus = 3 Magic Find Potions
 - Annihilus + Charsi's Malus = 3 Standard of Heros
 - 100 Stacked Perfect Topaz + Stamina Potion = 1 Vex
-- Added recipe for 2 hellfire Ashes + Stamina = Standard of Heroes
-- Any 3 Uber Keys Spawn the Red Portals
-- Added Socket Recipes for Superior Items
+- 1 hellfire Ashes + Stamina = Standard of Heroes
+- Any 3 Uber Keys Spawn Random Uber Portals
+- Superior Items also use the same Socket Recipes
 - 3 Terror Keys + TP Scroll = Matrons Den
 - 3 Hate Keys + TP Scroll = Forgotten Sands
 - 3 Destruction Keys + TP Scroll = Furnace of Pain
+- Transmuting Runes to a higher tier now requires a stamina potion for added safety
+- Secret Cow Level only requires Wirt's leg
+- Added Unique Jewel Reroll Recipe
+   - 3 x Rare Jewels + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel
 
 ## Endgame
 - Augment Recipes:
 - WARNING: If you Augment Set Items MAKE SURE no other Set items are equipped!!!
    - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1% Exp Gained
    - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1% Exp Gained
-   - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR
+   - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR (Works up to 5x on a single item)
 ## Corruptions
 - Corruptions have a 30% Chance to reroll as a random rare and 70% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + Standard of Heroes)
    - Amulets, Rings
@@ -1048,7 +999,7 @@ Trang-Oul's Avatar (Full Set)
 		 - 5% Experience
 		 - 20 Life + 17 Mana
 		 
-   - Hellfire Torch Large Charm (0% Chance to Brick)
+- Hellfire Torch Large Charm (0% Chance to Brick)
       - 2 Hellfire Ashes + Torch = Corrupted
 	     - 40% Chance to Cast Level 22 Amplify Damage When Struck
 		 - 75% Chance to Cast Level 18 Lower Resist When Struck
@@ -1063,7 +1014,7 @@ Trang-Oul's Avatar (Full Set)
          - Level 10 Vigor Aura When Equipped
          - Level 10 Blessed Aim Aura When Equipped
 	  
-   - Gheed's Fortune Grand Charm 30% Chance to brick into a random Magic Charm
+- Gheed's Fortune Grand Charm 30% Chance to brick into a random Magic Charm
       - Hellfire Ashes + Gheed's = Corrupted
 	     - Adds + 1 to Skill Tree
 		 - 20-40% Gold Find + 5-10% Magic Find + 5% Vendor Prices
@@ -1116,6 +1067,10 @@ Trang-Oul's Avatar (Full Set)
 
 ## Mercenary
 - Mercenaries can now use Rings + Amulets + Belts
+- Act 1 Mercenary
+   - Can Now Equip XBows and Quivers
+- Act 3&5 Mercenary
+   - Can Now Equip Sceptors, Axes, Swords, and Hammers
 
 ## Difficulties
 
@@ -1154,7 +1109,7 @@ Trang-Oul's Avatar (Full Set)
 
 ### Act 3
 - 85 All Zones
-- Town Spawn location changed
+- Optimized Town
 - Great Marsh
    - Removed Frogs and Hulks
    - Added Ghosts
@@ -1230,3 +1185,5 @@ Trang-Oul's Avatar (Full Set)
 - Claws of Thunder Always Hits
 - Blades of Ice Always Hits
 - Cobra Strike Always Hits
+- Dim Vision and Hit Blinds Target doesn't get over written by curses
+- Shapeshifting duration removed

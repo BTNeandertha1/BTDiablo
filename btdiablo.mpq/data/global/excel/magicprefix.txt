@@ -40,7 +40,7 @@ Soldier's	0	1	1	21		15				0	112	att	0	61	80	dmg%	0	41	50						weap												0	
 Knight's	0	1	1	25		18				0	112	att	0	81	100	dmg%	0	51	65					dgld	weap												0	0
 Lord's	0	1	1	30		22				0	112	att	0	101	120	dmg%	0	66	80					dgld	weap							staf	wand				0	0
 King's	0	1	1	35		26				0	112	att	0	121	150	dmg%	0	81	100					dgld	weap							staf	wand				0	0
-Howling	0	1	1	16		12				0	113	howl	0	128	128									oran	weap							miss					0	0
+Howling	0	0		16		12				0	113	howl	0	128	128									oran	weap							miss					0	0
 Fortuitous	0	1	1	5		3				0	114	mag%	0	10	15										ring	amul											0	0
 																																					0	0
 																																					0	0
@@ -268,12 +268,12 @@ Grandmaster's	100	1		69		61				4	111	att		251	300	dmg%		151	200					dgld	weap			
 Glimmering	1	0		1		1				1	112	light		1	1										armo	wand	staf	ring	amul	orb							0	0
 Glowing	1	0		6		4				1	112	light		2	2									lyel	armo	wand	staf	ring	amul	orb							0	0
 Bright	100	1	1	1		1				1	112	att		10	10										jewl												0	0
-Screaming	100	1	1	10		7				3	113	howl		32	32									oran	weap							miss	swor	axe	pole	spea	0	0
-Howling	1	1	1	16		12				3	113	howl		64	64									oran	weap							miss	swor	axe	pole	spea	0	0
-Wailing	100	1	1	20		13				3	113	howl		128	128									oran	weap							miss	swor	axe	pole	spea	0	0
-Screaming	100	1	1	10		7				4	113	howl		16	16									oran	miss												0	0
-Howling	100	1	1	16		12				4	113	howl		24	24									oran	miss												0	0
-Wailing	100	1		24		18				4	113	howl		32	32									oran	miss												0	0
+Screaming	100	0		10		7				3	113	howl		32	32									oran	weap							miss	swor	axe	pole	spea	0	0
+Howling	1	0		16		12				3	113	howl		64	64									oran	weap							miss	swor	axe	pole	spea	0	0
+Wailing	100	0		20		13				3	113	howl		128	128									oran	weap							miss	swor	axe	pole	spea	0	0
+Screaming	100	0		10		7				4	113	howl		16	16									oran	miss												0	0
+Howling	100	0		16		12				4	113	howl		24	24									oran	miss												0	0
+Wailing	100	0		24		18				4	113	howl		32	32									oran	miss												0	0
 Lucky	100	1	1	21						4	114	mag%		6	7										lcha												0	0
 Lucky	100	1		38						4	114	mag%		8	12										lcha												0	0
 Lucky	100	1		55						4	114	mag%		13	17										lcha												0	0

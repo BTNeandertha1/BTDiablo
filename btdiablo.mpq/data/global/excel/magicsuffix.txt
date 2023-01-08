@@ -79,7 +79,7 @@ of the Mind	0	1	1	10		7					24	mana		6	10										rod	ring	amul										0	0
 of Brilliance	0	1	1	18		13					24	mana		11	15										rod	ring	amul										0	0
 of Sorcery	0	1	1	22		16					24	mana		16	20									dgld	rod	amul											0	0
 of Wizardry	0	1	1	30		22					24	mana		21	30									dgld	rod	ring	amul										0	0
-of the Bear	0	1	1	8		6					25	knock		1	1										mele												0	0
+of the Bear	0	0		8		6					25	knock		1	1										mele												0	0
 of Light	0			6		4					26	light		1	1										armo	rod	miss	ring	amul								0	0
 of Radiance	0			15		11					26	light		3	3										rod	miss	ring	amul									0	0
 of the Sun	0			17		12					26	light		5	5										rod	miss	glov	ring	amul								0	0
@@ -308,7 +308,7 @@ of the Mind	1	1	1	10		7				3	23	enr		4	6										helm	scep											0	0
 of Brilliance	1	1	1	16		12				3	23	enr		7	10										helm	scep											0	0
 of Sorcery	100	1		26		21				3	23	enr		11	15									dgld	helm	scep											0	0
 of Knowledge	100	1	1	9		6				3	23	enr		1	5										jewl												0	0
-of the Bear	1	1	1	8		6				3	24	knock		1	1										mele												0	0
+of the Bear	1	0		8		6				3	24	knock		1	1										mele												0	0
 of Light	1	1	1	6		4				1	25	att		15	15										armo	rod	ring	amul									0	0
 of Radiance	1	1	1	15		11				1	25	att		30	30										rod	miss	ring	amul	helm								0	0
 of the Sun	1	1	1	17		12				1	25	att%		5	5										rod	miss	glov	ring	amul	helm							0	0
@@ -661,7 +661,7 @@ of Armageddon	100			36		36		dru	30	1	44	oskill	249	1	1										club												
 of Armageddon	100			72		72		dru	30	1	44	oskill	249	1	1										staf												0	0
 of Hurricane	100			36		36		dru	30	1	44	oskill	250	1	1										club												0	0
 of Hurricane	100			72		72		dru	30	1	44	oskill	250	1	1										amul	circ											0	0
-of Damage Amplification	100	1	1	3						1	44	hit-skill	66	5	1										weap							orb					0	0
+of Damage Amplification	100	1	1	3						1	44	hit-skill	66	20	4										weap							orb					0	0
 of the Icicle	100	1	1	37		29				2	10	cold-min		2	3	cold-max		6	10	cold-len		50	50	dblu	jewl												0	0
 of the Glacier	100	1	1	58		50				2	10	cold-min		4	5	cold-max		11	15	cold-len		50	50	dblu	jewl												0	0
 of Fire	100	1	1	36		28				2	12	fire-min		4	10	fire-max		11	30					dred	jewl												0	0
