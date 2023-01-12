@@ -593,6 +593,7 @@ Aldur's Watchtower (Full Set)
    - Removed Stamina
    - Added 10 Life Regen
    - Added 10% Mana Regen
+
 Griswold's Legacy (Full Set)
    - Removed Flat Attack Rating
    - Added 40 Faster Run/Walk (3 Items)
