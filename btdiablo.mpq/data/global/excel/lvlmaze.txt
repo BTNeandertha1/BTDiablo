@@ -89,15 +89,3 @@ Act 5 - Baal 1 New	141	9	9	9	16	16	500
 Act 1 - Cave 5 New	142	4	4	4	24	24	500
 Act 5 - Ice Caves 3	143	15	15	15	16	16	500
 Act 2 - Tomb 1 A	144	4	4	4	16	16	500
-Act 5 - Baal 1 New	145	9	9	9	16	16	500
-Act 1 - Cave 5 New	146	4	4	4	24	24	500
-Act 5 - Ice Caves 3	147	15	15	15	16	16	500
-Act 2 - Tomb 1 A	148	4	4	4	16	16	500
-Act 5 - Baal 1 New	149	9	9	9	16	16	500
-Act 1 - Cave 5 New	150	4	4	4	24	24	500
-Act 5 - Ice Caves 3	151	15	15	15	16	16	500
-Act 2 - Tomb 1 A	152	4	4	4	16	16	500
-Act 5 - Baal 1 New	153	9	9	9	16	16	500
-Act 1 - Cave 5 New	154	4	4	4	24	24	500
-Act 5 - Ice Caves 3	155	15	15	15	16	16	500
-Act 2 - Tomb 1 A	156	4	4	4	16	16	500

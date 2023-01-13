@@ -101,18 +101,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 **How do I get the new patch?**
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
-- Updated the Github Documentation
-- Fixed an issue where hydra edge would only get 2 sockets (now 3)
-- Act 3 Town Optimized
-- 1 Hellfire Ash + Stamina = Standard of Heros
-- Changed Unique Jewel Reroll Recipe
-   - 3 x Rare Jewels + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel
-- Fixed a bug where ethereal safety armor wouldnt craft
-- Affix Changes
-   - Removed Hit Causes Monster to Flee and Knockback from affix pool
-   - 20% Chance to Cast Level 4 Amplify Damage 
-- Removed Hit Causes Monster to Flee from all Uniques except The Face of Horror
-- Ondal's Wisdom now roll 5-15% Experience Gained
+- BTDiablo Ladder 1 Launch!!! Read [Rules and Prizes](https://docs.google.com/spreadsheets/d/1ZJA31SCMB7t-Q4iMTew6EM5NMshEyY1iRTr6fkeafnM/edit#gid=0)
+- Lowered the Cost of Viper of the Amulet and BigDinn
+- Augments that granted 1% Additional Experience are now 2%
+- Heater & Luna can now get 3 sockets
+- Transmute Recipe with Runes el - Lem do not require stamina any longer 
 
 ## Characters
 - Walking is the same as running
@@ -910,8 +903,8 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
    - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
 - Added Hratli's Spiritual Herb (2.25M)
    - Ingredient for Repair Mod
-- Added Viper Of The Amulet at Drognan(160k)
-   - Cube with Wand and potion for (?/67) Lower Resistance or Life Tap Wand [Randome Level Required]
+- Added Viper Of The Amulet at Drognan(140k)
+   - Cube with Wand and potion for oskill Lower Resistance or Life Tap Wand [Randome Level Required]
       - Mana Potion = Lower Resistance
 	  - Healing Potion = Life Tap
 - Token of Absolution Sold at Akara 
@@ -952,7 +945,7 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
 - 3 Terror Keys + TP Scroll = Matrons Den
 - 3 Hate Keys + TP Scroll = Forgotten Sands
 - 3 Destruction Keys + TP Scroll = Furnace of Pain
-- Transmuting Runes to a higher tier now requires a stamina potion for added safety
+- Transmuting up with Pul-Zod require stamina potion for added safety 
 - Secret Cow Level only requires Wirt's leg
 - Added Unique Jewel Reroll Recipe
    - 3 x Rare Jewels + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel

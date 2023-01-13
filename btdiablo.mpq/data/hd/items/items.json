@@ -733,5 +733,6 @@
   { "hsm": { "asset": "herb/herb" } },
   { "voa": { "asset": "key/viper_key" } },
   { "tds": { "asset": "key/hellfire_ashes" } },
-  { "gft": { "asset": "key/horadric_cubegift" } }
+  { "gft": { "asset": "key/horadric_cubegift" } },
+  { "mfe": { "asset": "charm/charm_start" } }
 ]

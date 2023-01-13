@@ -1,6 +1,6 @@
 description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input 1	input 2	input 3	input 4	input 5	input 6	input 7	output	lvl	plvl	ilvl	mod 1	mod 1 chance	mod 1 param	mod 1 min	mod 1 max	mod 2	mod 2 chance	mod 2 param	mod 2 min	mod 2 max	mod 3	mod 3 chance	mod 3 param	mod 3 min	mod 3 max	mod 4	mod 4 chance	mod 4 param	mod 4 min	mod 4 max	mod 5	mod 5 chance	mod 5 param	mod 5 min	mod 5 max	output b	b lvl	b plvl	b ilvl	b mod 1	b mod 1 chance	b mod 1 param	b mod 1 min	b mod 1 max	b mod 2	b mod 2 chance	b mod 2 param	b mod 2 min	b mod 2 max	b mod 3	b mod 3 chance	b mod 3 param	b mod 3 min	b mod 3 max	b mod 4	b mod 4 chance	b mod 4 param	b mod 4 min	b mod 4 max	b mod 5	b mod 5 chance	b mod 5 param	b mod 5 min	b mod 5 max	output c	c lvl	c plvl	c ilvl	c mod 1	c mod 1 chance	c mod 1 param	c mod 1 min	c mod 1 max	c mod 2	c mod 2 chance	c mod 2 param	c mod 2 min	c mod 2 max	c mod 3	c mod 3 chance	c mod 3 param	c mod 3 min	c mod 3 max	c mod 4	c mod 4 chance	c mod 4 param	c mod 4 min	c mod 4 max	c mod 5	c mod 5 chance	c mod 5 param	c mod 5 min	c mod 5 max	*eol
-Test	0			100					1	vps							Bul-Kathos' Tribal Guardian	99		99																																																																																				0
-Test	0			100					1	tsc							Bul-Kathos' Sacred Charge	99		99																																																																																				0
+Test	0			100					1	vps							mfe																																																																																							0
+Test	0			100					2	vps,qty=2							mfc																																																																																							0
 Test	0			100					2	tsc,qty=2							Natalya's Mark	99		99																																																																																				0
 Test	0			100					3	tsc,qty=3							Natalya's Shadow	99		99																																																																																				0
 Test	0			100					4	tsc,qty=4							Natalya's Soul	99		99																																																																																				0
@@ -222,17 +222,17 @@ CRAFTING	0																																																																						
 1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1			100					4	weap,mag,noe	jew	112	gg4e				usetype,crf		50	50	red-dmg			3	5	red-mag			3	5	swing3			10	20	dmg%			20	30																																																																0
 1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1			100					6	weap,mag,noe	jew	112	gg4e	105	mls		usetype,crf		50	50	red-dmg			3	5	red-mag			3	5	swing3			10	20	dmg%			20	30	ethereal	100		1	1																																																											0
 1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1			100					4	weap,mag,eth	jew	112	gg4e				usetype,crf		50	50	red-dmg			3	5	red-mag			3	5	swing3			10	20	dmg%			20	30	ethereal	100		1	1																																																											0
-3 Thul Runes + 1 Chipped Topaz -> Amn Rune	1			100					4	r10,qty=3	vps						r11																																																																																							0
-3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1			100					4	r11,qty=3	vps						r12																																																																																							0
-3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1			100					4	r12,qty=3	vps						r13																																																																																							0
-3 Shael Runes + 1 Chipped Ruby -> Dol Rune	1			100					4	r13,qty=3	vps						r14																																																																																							0
-3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1			100					4	r14,qty=3	vps						r15																																																																																							0
-3 Hel Runes + 1 Chipped Diamond -> Io Rune	1			100					4	r15,qty=3	vps						r16																																																																																							0
-3 Io Runes + 1 Flawed Topaz -> Lum Rune	1			100					4	r16,qty=3	vps						r17																																																																																							0
-3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1			100					4	r17,qty=3	vps						r18																																																																																							0
-3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1			100					4	r18,qty=3	vps						r19																																																																																							0
-3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1			100					4	r19,qty=3	vps						r20																																																																																							0
-3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1			100					4	r20,qty=3	vps						r21																																																																																							0
+3 Thul Runes + 1 Chipped Topaz -> Amn Rune	1			100					3	r10,qty=3							r11																																																																																							0
+3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1			100					3	r11,qty=3							r12																																																																																							0
+3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1			100					3	r12,qty=3							r13																																																																																							0
+3 Shael Runes + 1 Chipped Ruby -> Dol Rune	1			100					3	r13,qty=3							r14																																																																																							0
+3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1			100					3	r14,qty=3							r15																																																																																							0
+3 Hel Runes + 1 Chipped Diamond -> Io Rune	1			100					3	r15,qty=3							r16																																																																																							0
+3 Io Runes + 1 Flawed Topaz -> Lum Rune	1			100					3	r16,qty=3							r17																																																																																							0
+3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1			100					3	r17,qty=3							r18																																																																																							0
+3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1			100					3	r18,qty=3							r19																																																																																							0
+3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1			100					3	r19,qty=3							r20																																																																																							0
+3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1			100					3	r20,qty=3							r21																																																																																							0
 2 Pul Runes + 1 Flawed Diamond -> Um Rune	1			100					3	r21,qty=2	vps						r22																																																																																							0
 2 Um Runes + 1 Standard Topaz -> Mal Rune	1			100					3	r22,qty=2	vps						r23																																																																																							0
 2 Mal Runes + 1 Standard Amethyst -> Ist Rune	1			100					3	r23,qty=2	vps						r24																																																																																							0
@@ -245,17 +245,17 @@ CRAFTING	0																																																																						
 2 Ber Runes + 1 Flawless Sapphire -> Jah Rune	1			100					3	r30,qty=2	vps						r31																																																																																							0
 2 Jah Runes + 1 Flawless Ruby -> Cham Rune	1			100					3	r31,qty=2	vps						r32																																																																																							0
 2 Cham Runes + 1 Flawless Emerald -> Zod Rune	1			100					3	r32,qty=2	vps						r33																																																																																							0
-3 Thul Runes + 1 Chipped Topaz -> Amn Rune	1			100	18	70	1		3	110,qty=3	vps						111																																																																																							0
-3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1			100	18	70	1		3	111,qty=3	vps						112																																																																																							0
-3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1			100	18	70	1		3	112,qty=3	vps						113																																																																																							0
-3 Shael Runes + 1 Chipped Ruby -> Dol Rune	1			100	18	70	1		3	113,qty=3	vps						114																																																																																							0
-3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1			100	18	70	1		3	114,qty=3	vps						115																																																																																							0
-3 Hel Runes + 1 Chipped Diamond -> Io Rune	1			100	18	70	1		3	115,qty=3	vps						116																																																																																							0
-3 Io Runes + 1 Flawed Topaz -> Lum Rune	1			100	18	70	1		3	116,qty=3	vps						117																																																																																							0
-3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1			100	18	70	1		3	117,qty=3	vps						118																																																																																							0
-3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1			100	18	70	1		3	118,qty=3	vps						119																																																																																							0
-3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1			100	18	70	1		3	119,qty=3	vps						120																																																																																							0
-3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1			100	18	70	1		3	120,qty=3	vps						121																																																																																							0
+3 Thul Runes + 1 Chipped Topaz -> Amn Rune	1			100	18	70	1		3	110,qty=3							111																																																																																							0
+3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1			100	18	70	1		3	111,qty=3							112																																																																																							0
+3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1			100	18	70	1		3	112,qty=3							113																																																																																							0
+3 Shael Runes + 1 Chipped Ruby -> Dol Rune	1			100	18	70	1		3	113,qty=3							114																																																																																							0
+3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1			100	18	70	1		3	114,qty=3							115																																																																																							0
+3 Hel Runes + 1 Chipped Diamond -> Io Rune	1			100	18	70	1		3	115,qty=3							116																																																																																							0
+3 Io Runes + 1 Flawed Topaz -> Lum Rune	1			100	18	70	1		3	116,qty=3							117																																																																																							0
+3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1			100	18	70	1		3	117,qty=3							118																																																																																							0
+3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1			100	18	70	1		3	118,qty=3							119																																																																																							0
+3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1			100	18	70	1		3	119,qty=3							120																																																																																							0
+3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1			100	18	70	1		3	120,qty=3							121																																																																																							0
 2 Pul Runes + 1 Flawed Diamond -> Um Rune	1			100	18	70	1		3	121,qty=2	vps						122																																																																																							0
 2 Um Runes + 1 Standard Topaz -> Mal Rune	1			100	18	70	1		3	122,qty=2	vps						123																																																																																							0
 2 Mal Runes + 1 Standard Amethyst -> Ist Rune	1			100	18	70	1		3	123,qty=2	vps						124																																																																																							0
@@ -814,15 +814,15 @@ Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	any,crf	std	hsm					useitem				rep-dur		25																																																																																	0
 2 Unique Jewerly = SOH	1			0					2	jwly,uni,qty=2							std																																																																																							0
 CHAM AUGMENT																																																																																																								0
-MF + GF	1			0					6	helm	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
-MF + GF	1			0					6	weap	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
-MF + GF	1			0					6	amu	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
-MF + GF	1			0					6	shld	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
-MF + GF	1			0					6	ring	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
-MF + GF	1			0					6	glov	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
-MF + GF	1			0					6	boot	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
-MF + GF	1			0					6	tors	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
-MF + GF	1			0					6	belt	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																																0
+MF + GF	1			0					6	helm	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			2	2																																																																0
+MF + GF	1			0					6	weap	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			2	2																																																																0
+MF + GF	1			0					6	amu	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			2	2																																																																0
+MF + GF	1			0					6	shld	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			2	2																																																																0
+MF + GF	1			0					6	ring	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			2	2																																																																0
+MF + GF	1			0					6	glov	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			2	2																																																																0
+MF + GF	1			0					6	boot	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			2	2																																																																0
+MF + GF	1			0					6	tors	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			2	2																																																																0
+MF + GF	1			0					6	belt	132	124	120	std	mls		useitem				augmented1			1	1	mag%			25	25	gold%			50	50	addxp			2	2																																																																0
 MELEE AUGMENT																																																																																																								0
 Melee Aug	1			0					5	helm	125	119	std	mls			useitem				augmented1			1	1	att			200	200	att%			10	10																																																																					0
 Melee Aug	1			0					5	weap	125	119	std	mls			useitem				augmented1			1	1	att			200	200	att%			10	10																																																																					0
@@ -834,7 +834,7 @@ Melee Aug	1			0					5	boot	125	119	std	mls			useitem				augmented1			1	1	att			2
 Melee Aug	1			0					5	tors	125	119	std	mls			useitem				augmented1			1	1	att			200	200	att%			10	10																																																																					0
 Melee Aug	1			0					5	belt	125	119	std	mls			useitem				augmented1			1	1	att			200	200	att%			10	10																																																																					0
 ZOD RECIPE																																																																																																								0
-Teleport + MF + GF	1			0					6	tors	133	129	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	augmented1			1	1	mag%			25	25	gold%			50	50	addxp			1	1																																																											0
+Teleport + MF + GF	1			0					6	tors	133	129	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	augmented1			1	1	mag%			25	25	gold%			50	50	addxp			2	2																																																											0
 	0																																																																																																							0
 MAGIC CORRUPTIONS	0																																																																																																							0
 BLOCK CHARMS	1								2	cm1,mag	std						useitem																													std																																																										0
