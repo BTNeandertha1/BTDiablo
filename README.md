@@ -2,7 +2,7 @@
 
 BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Diablo II Resurrected. As such, it is only to be used in Single Player.
 
-For all your BTDiablo needs please check our [wiki](https://btd.miraheze.org/).
+**For all your BTDiablo needs please check our [wiki](https://btd.miraheze.org/).**
 
 ## Game 
 - More Challenging
