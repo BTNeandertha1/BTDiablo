@@ -876,7 +876,7 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
 - Caster Crafts 10-20 Mana on all
    - Helm 4-10 Regen Mana + 10 Faster Cast Rate
    - Boots 4-10 Regen Mana + 5-10% Maximum Mana
-   - Gloves 4-10 Regen Mana + 10 Faster Cast Rate
+   - Gloves 1-3 Mana Per Kill + 10 Faster Cast Rate
    - Belt 4-10 Regen Mana + 10 Faster Cast Rate
    - Shield 15 Faster Cast Rate + 20 Block Chance
    - Body 15 Faster Cast Rate + 5-8 Mana Per Kill
@@ -955,8 +955,9 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
 - WARNING: If you Augment Set Items MAKE SURE no other Set items are equipped!!!
    - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1% Exp Gained
    - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1% Exp Gained
-   - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR (Works up to 5x on a single item)
-## Corruptions
+   - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR (Works up to 5x on a single item, base AR maxes at 1023)
+- Note: Gold Find Maxes at 15x Augments (723 GF), Magic Find 29x Augments (723 MF) and Experience 231x Augments (461% EXP)
+
 - Corruptions have a 30% Chance to reroll as a random rare and 70% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + Standard of Heroes)
    - Amulets, Rings
       - 1 Socket 100%
@@ -1166,7 +1167,7 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
 - Poison Dagger Mana cost reduced and generates mana at higher levels
 - Grim ward no longer Terrors but instead uses Innersite
 - Poison Dagger Mana cost reduced and generates mana at higher levels
-- FOH's Holy Bolt Synergy Reduced to 4%
+- FOH's Holy Bolt Synergy Reduced to 6%
 - Buffed Rabies (synergies 26%)
    - Added 26% Feral Rage Synergy
    - Rabies Spreads like Corona Virus

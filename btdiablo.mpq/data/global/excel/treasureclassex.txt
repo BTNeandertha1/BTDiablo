@@ -1087,9 +1087,9 @@ Countess (H) Desecrated F	35	96	-3	883	883	983	1024	0	Sunder Charms	1	Countess I
 Uber Andariel			-2	1024				0	dhn	1	pk3	1																						0
 Uber Duriel			1	1024				0	bey	1																								0
 Uber Izual			1	1024				0	mbr	1																								0
-Uber Mephisto			1	1024				0	std	1																								0
-Uber Diablo			1	1024				0	std	1																								0
-Uber Baal			1	800	800	972	1024	0	cm3	1																								0
+Uber Mephisto			1				1024	0	cm1	1																								0
+Uber Diablo			1				1024	0	cm2	1																								0
+Uber Baal			1	800			1024	0	cm3	1																								0
 Pandemonium Key A			1	1024				0	pk1	1																								0
 Pandemonium Key B			1	1024				0	pk2	1																								0
 Pandemonium Key C			1	1024				0	pk3	1																								0

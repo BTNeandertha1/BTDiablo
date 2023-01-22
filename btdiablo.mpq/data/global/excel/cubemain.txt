@@ -741,6 +741,7 @@ Throwing Javelins	1			100					2	jave,crf,nos	lmr						useitem				sock			1	1					
 ENDGAME RECIPES	0																																																																																																							0
 																																																																																																								0
 Reroll Charms	1			0					3	cm1,mag,qty=3							cm1,mag		95																																																																																					0
+Reroll Charms	1			0					3	cm1,mag,qty=3							cm1,mag		95																																																																																					0
 																																																																																																								0
 Reroll Charms	1			0					3	cm2,mag,qty=3							cm2,mag		95																																																																																					0
 Reroll Charms	1			0					3	cm3,mag,qty=3							cm3,mag		95																																																																																					0
