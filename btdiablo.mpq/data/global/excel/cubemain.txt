@@ -740,14 +740,14 @@ Throwing Javelins	1			100					2	jave,crf,nos	lmr						useitem				sock			1	1					
 	0																																																																																																							0
 ENDGAME RECIPES	0																																																																																																							0
 																																																																																																								0
-Reroll Charms	1			0					3	cm1,mag,qty=3							cm1,mag		95																																																																																					0
+100 P Diamonds -> Diablo's Soulstone	1			0	18	70	100		2	gg4d	vps						dss																																																																																							0
 Reroll Charms	1			0					3	cm1,mag,qty=3							cm1,mag		95																																																																																					0
 																																																																																																								0
 Reroll Charms	1			0					3	cm2,mag,qty=3							cm2,mag		95																																																																																					0
 Reroll Charms	1			0					3	cm3,mag,qty=3							cm3,mag		95																																																																																					0
 Hellfire Ashes break down	1			0					2	Hellfire Torch	mls						tds																																																																																							0
 Hellfire Ash + Stam = SOH	1			0					2	tds	vps						std																																																																																							0
-Break down Anni to SOH	1			0					2	Annihilus	mls						std																													std																													std																													0
+Break down Anni to SOH	1			0					2	Annihilus	mls						std																																																																																							0
 Break down Gheeds to MF potion	1			0					2	Gheed's Fortune	mls						mfp																													mfp																													mfp																													0
 100 P Topaz to Vex	1			0	18	70	100		2	gg4t	vps						126																																																																																							0
 Generic F Amethyst	1			0	18	70	9		2	gxm4	gpv						1pv,qty=4																																																																																							0
@@ -803,13 +803,15 @@ r30	1			0	18	70	100		2	130	vps						131,qty=50																																		
 r31	1			0	18	70	100		2	131	vps						132,qty=50																																																																																							0
 r32	1			0	18	70	100		2	132	vps						133,qty=50																																																																																							0
 Spleen + Jawbone + Quill + Elixir = Magic Find Potion	0			0					4	spe	jaw	qll	elx				mfp																																																																																							0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod TEST	1			0					2	aqv	mls						useitem				rep-quant		40																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod TEST	1			0					2	cqv	mls						useitem				rep-quant		40																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod TEST	0			0					2	aqv	mls						useitem				rep-quant		40																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod TEST	0			0					2	cqv	mls						useitem				rep-quant		40																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	tkni	std	hsm					useitem				rep-quant		40																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	taxe	std	hsm					useitem				rep-quant		40																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	jave	std	hsm					useitem				rep-quant		40																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	any,mag	std	hsm					useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	any,rar	std	hsm					useitem				rep-dur		25																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	armo,set	std	hsm					useitem				rep-dur		25																																																																																	0
+Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	weap,set	std	hsm					useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	armo,uni	std	hsm					useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	weap,uni	std	hsm					useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1			0					3	any,crf	std	hsm					useitem				rep-dur		25																																																																																	0
