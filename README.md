@@ -101,11 +101,28 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 **How do I get the new patch?**
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
-- BTDiablo Ladder 1 Launch!!! Read [Rules and Prizes](https://docs.google.com/spreadsheets/d/1ZJA31SCMB7t-Q4iMTew6EM5NMshEyY1iRTr6fkeafnM/edit#gid=0)
-- Lowered the Cost of Viper of the Amulet and BigDinn
-- Augments that granted 1% Additional Experience are now 2%
-- Heater & Luna can now get 3 sockets
-- Transmute Recipe with Runes el - Lem do not require stamina any longer 
+
+- X ITEMS X
+- All Elite Helms and Circlet bases can now get 3 Sockets
+- Harlequin Crest Shako Rolls 25-50% Magic Find and 5-10% Damage Reduction
+- Added Repair Durability Option for Set Items
+- Buffed Arrows and Bolts
+   - .375 MF Per Level
+   - Replenish Quantity
+   - Sockets (1-3)
+- Added Diablo's Soulstone to sell for Dclone Spawn
+- X RECIPES X
+- Cube 100 Perfect Diamonds + Stamina Potion to create Diablo's Soulstone (New Item to spawn Dclone)
+- Anni Breaks down into 1x Standard of Heros (was 3)
+- Mercenary Velocity Increased
+- Adjusted Act 2 Town slightly
+- X AREAS X 
+- BloodMoor and Den of Evil are level 75 Areas in Insanity
+- X OTHER X
+- Translated Item-names.json
+- Fixed a bug where allies wouldnt attack Duriel 
+- Fixed a bug with weird TCs on Duriel
+- Uber Mephisto and Diablo Now Drop Charms Instead of Standard of Heros
 
 ## Characters
 - Walking is the same as running
