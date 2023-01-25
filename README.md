@@ -111,6 +111,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Replenish Quantity
    - Sockets (1-3)
 - Added Diablo's Soulstone to sell for Dclone Spawn
+- Magic Find Potion adjusted and price reduced
+   - +150% Magic Find and +300% Gold Find for 10 Minutes
 - X RECIPES X
 - Cube 100 Perfect Diamonds + Stamina Potion to create Diablo's Soulstone (New Item to spawn Dclone)
 - Anni Breaks down into 1x Standard of Heros (was 3)
@@ -123,6 +125,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Fixed a bug where allies wouldnt attack Duriel 
 - Fixed a bug with weird TCs on Duriel
 - Uber Mephisto and Diablo Now Drop Charms Instead of Standard of Heros
+- All Gems are now Dark Green text
 
 ## Characters
 - Walking is the same as running
