@@ -102,30 +102,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
-- X ITEMS X
-- All Elite Helms and Circlet bases can now get 3 Sockets
-- Harlequin Crest Shako Rolls 25-50% Magic Find and 5-10% Damage Reduction
-- Added Repair Durability Option for Set Items
-- Buffed Arrows and Bolts
-   - .375 MF Per Level
-   - Replenish Quantity
-   - Sockets (1-3)
-- Added Diablo's Soulstone to sell for Dclone Spawn
-- Magic Find Potion adjusted and price reduced
-   - +150% Magic Find and +300% Gold Find for 10 Minutes
-- X RECIPES X
-- Cube 100 Perfect Diamonds + Stamina Potion to create Diablo's Soulstone (New Item to spawn Dclone)
-- Anni Breaks down into 1x Standard of Heros (was 3)
-- Mercenary Velocity Increased
-- Adjusted Act 2 Town slightly
-- X AREAS X 
-- BloodMoor and Den of Evil are level 75 Areas in Insanity
-- X OTHER X
-- Translated Item-names.json
-- Fixed a bug where allies wouldnt attack Duriel 
-- Fixed a bug with weird TCs on Duriel
-- Uber Mephisto and Diablo Now Drop Charms Instead of Standard of Heros
-- All Gems are now Dark Green text
+- Rifts Updated Give ANY feedback please! (Main focus is EXP with some Gold here and there)
+   - Monsters have 75 Phys Res, 50 Magic Res, and 100 All Res
+   - Elites Drop gold and potions
+   - Base mobs drop thawing antidote and rejuvs
 
 ## Characters
 - Walking is the same as running
