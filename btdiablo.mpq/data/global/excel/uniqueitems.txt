@@ -248,7 +248,7 @@ Gloomstrap	244	100	1		1		45	36	zmb	Mesh Belt		5	5000								mana%		15	15	manaste
 Snowclash	245	100	1		1		49	42	ztb	Battle Belt		5	5000								gethit-skill	59	5	0	abs-cold		15	15	res-cold-max		15	15	dmg-cold	75	13	21	ac%		130	170	skill	59	2	2	skill	55	3	3	skill	60	2	2																		0
 Thudergod's Vigor	246	100	1		1		55	47	zhb	War Belt		5	5000								gethit-skill	121	5	7	dmg-ltng		1	50	res-ltng-max		10	10	abs-ltng		20	20	ac%		160	200	vit		20	20	str		20	20	skill	34	3	3	skill	35	3	3														0
 Elite Uniques																																																																						0
-Harlequin Crest	248	100	1		1		69	62	uap	Shako		3	5000	cgrn	cgrn						allskills		2	2	hp/lvl	12			mana/lvl	12			mag%		50	50	red-dmg%		10	10	str		2	2	dex		2	2	vit		2	2	enr		2	2														0
+Harlequin Crest	248	100	1		1		69	62	uap	Shako		3	5000	cgrn	cgrn						allskills		2	2	hp/lvl	12			mana/lvl	12			mag%		25	50	red-dmg%		5	10	str		2	2	dex		2	2	vit		2	2	enr		2	2														0
 Veil of Steel	249	100	1		1		77	73	uhm	Spired Helm		3	5000	lgry	lgry						res-all		50	50	ac%		60	60	str		15	15	vit		15	15	dur		20	20	ac		140	140																										0
 The Gladiator's Bane	250	100	1		1		85	85	utu	Wire Fleece		3	5000	lgry	lgry						ac%		150	200	red-mag		15	20	red-dmg		15	20	thorns		20	20	res-pois-len		50	50	dur		103	103	balance2		30	30	ac		50	50	nofreeze		1	1														0
 Arkaine's Valor	251	100	1		1		85	85	upl	Balrog Skin		3	5000	lred	lred						ac%		150	180	balance2		30	30	allskills		2	2	red-dmg		10	15	vit/lvl	4			ease		-20	-20																										0

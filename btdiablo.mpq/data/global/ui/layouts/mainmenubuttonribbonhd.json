@@ -108,7 +108,7 @@
                         {
                             "type": "TextBoxWidget", "name": "MotDHeaderText",
                             "fields": {
-                                "text": "BTDiablo Jan 12th 2023",
+                                "text": "BTDiablo Jan 25th 2023",
                                 "fitToParent": true,
                                 "style": {
                                     "pointSize": "$MediumLargeFontSize",
@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "BTDLadder Event January 13th 3PM EST - 3PM EST on the 23rd\nUse only the top or bottom half of the inventory for Charms!\nCorruption Brick Chance is 30%\nView Patch Notes in Discord",
+                                        "text": "Thanks to all who participated in the BTDLadder Event! Please feel free to give feedback to help improve the game and future events!\nCorruption Brick Chance is 30%\nView Patch Notes in Discord",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",

@@ -1028,15 +1028,15 @@ Cow King (H) Desecrated A	33	86	-2					0	Sunder Charms	1	Cow King Item (H) Desec
 Cow King (H) Desecrated B	33	90	-2					0	Sunder Charms	1	Cow King Item (H) Desecrated B	1																						0
 Cow King (H) Desecrated C	33	93	-2					0	Sunder Charms	1	Cow King Item (H) Desecrated C	1																						0
 Cow King (H) Desecrated D	33	96	-2					0	Sunder Charms	1	Cow King Item (H) Desecrated D	1																						0
-Duriel			5					0	Duriel - Base	1																								0
+Duriel			1					0	Duriel - Base	1																								0
 Duriel Desecrated A	34	22	5					0	tsc	1	Duriel - Base Desecrated A	2																						0
 Duriel Desecrated B	34	36	5					0	tsc	1	Duriel - Base Desecrated B	2																						0
 Duriel Desecrated C	34	48	5					0	tsc	1	Duriel - Base Desecrated C	2																						0
-Duriel (N)			5					0	Duriel (N) - Base	1																								0
+Duriel (N)			1					0	Duriel (N) - Base	1																								0
 Duriel (N) Desecrated A	34	55	5					0	tsc	1	Duriel (N) - Base Desecrated A	2																						0
 Duriel (N) Desecrated B	34	63	5					0	tsc	1	Duriel (N) - Base Desecrated B	2																						0
 Duriel (N) Desecrated C	34	73	5					0	tsc	1	Duriel (N) - Base Desecrated C	2																						0
-Duriel (H)			5					0	Duriel (H) - Base	1																								0
+Duriel (H)			1					0	Duriel (H) - Base	1																								0
 Duriel (H) Desecrated Five			5					0	tsc	1	Duriel (H) - Base Desecrated A	2																						0
 Duriel (H) Desecrated Town Portal			5					0	tsc	1	Duriel (H) - Base Desecrated B	2																						0
 Duriel (H) Desecrated Scrolls			5					0	tsc	1	Duriel (H) - Base Desecrated C	2																						0
@@ -1087,9 +1087,9 @@ Countess (H) Desecrated F	35	96	-3	883	883	983	1024	0	Sunder Charms	1	Countess I
 Uber Andariel			-2	1024				0	dhn	1	pk3	1																						0
 Uber Duriel			1	1024				0	bey	1																								0
 Uber Izual			1	1024				0	mbr	1																								0
-Uber Mephisto			1	1024				0	std	1																								0
-Uber Diablo			1	1024				0	std	1																								0
-Uber Baal			1	800	800	972	1024	0	cm3	1																								0
+Uber Mephisto			1				1024	0	cm1	1																								0
+Uber Diablo			1				1024	0	cm2	1																								0
+Uber Baal			1	800			1024	0	cm3	1																								0
 Pandemonium Key A			1	1024				0	pk1	1																								0
 Pandemonium Key B			1	1024				0	pk2	1																								0
 Pandemonium Key C			1	1024				0	pk3	1																								0
