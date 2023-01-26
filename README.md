@@ -105,11 +105,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 2. **Paste New btdiablo.mpq folder**
 
 - Rifts Updated Give ANY feedback please! (Main focus is EXP with some Gold here and there this is a BETA)
-   - Monsters have 75 Phys Res, 50 Magic Res, and 100 All Res
-   - Elites Drop gold and potions
-   - Base mobs drop thawing antidote and rejuvs
-- Transmuting Flawless Gems or Runes in Bulk to the next tier also grants a Standard of Heros
-   - Example 99 Flawless Emeralds + Stamina potion = 33 Perfect Emeralds + Standard of Heros 
+   - Base Exp Doubled in rifts
+   - Reduced Gold from Champions
+- Magic Find Potion is now 150 MF and Gold Find
+- Max Quantity of throw weapons is now 500
+- Changed Jewel Display
 
 ## Characters
 - Walking is the same as running
