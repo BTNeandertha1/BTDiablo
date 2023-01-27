@@ -590,6 +590,8 @@ Aldur's Watchtower (Full Set)
    - Removed Stamina
    - Added 10 Life Regen
    - Added 10% Mana Regen
+
+
 Griswold's Legacy (Full Set)
    - Removed Flat Attack Rating
    - Added 40 Faster Run/Walk (3 Items)
@@ -721,7 +723,7 @@ M'avina's Battle Hymn (Full Set)
    - Added +3 to Cold Mastery
    - Added 10 Mana After Each Kill
    - Added + 7 Valkyrie
-M'avina's Icy Clutch (Gloves)
+- M'avina's Icy Clutch (Gloves)
    - +100 Cold Damage (was 6-18)
    - Cannot Be Frozen (was Half Freeze Duration)
    - 100-150% Gold Find
@@ -730,23 +732,23 @@ M'avina's Icy Clutch (Gloves)
    - 3 Items = 25 Increased Attack Speed
    - 4 Items = 20% Cold Pierce
    - 5 Items = 20% Cold Skill Damage
-M'avina's True Sight (Helm)
+- M'avina's True Sight (Helm)
    - 2 Items = 2 All Skills (was 1)
    - 5 Items = 5% Maximum Cold Resistance
-M'avina's Embrace (Armor)
+- M'avina's Embrace (Armor)
    - 2-3 All Skill Tabs (was 1-2 Amazon Skills)
    - 2 Items = 15 Energy
    - 3 Items = 30% Faster Hit Recovery
    - 4 Items = 20% Physical Damage Reduction
    - 5 Items = 5% Maximum Fire Resistance
-M'avina's Caster (Weapon)
+- M'avina's Caster (Weapon)
    - Added 4-5 Bow and Cross Bow Skills
    - 34% Chance to Pierce
    - 2 Items = 15 Dexterity
    - 3 Items = 114-377 Magic Damage
    - 4 Items = 2 Bow and Crossbow Skills
    - 5 Items = 5% Maximum Lightning Resistance
-M'avina's Tenet (Belt)
+- M'avina's Tenet (Belt)
    - 30 Faster Run/Walk (was 20)  
    - Added 10-15 All Resistances
    - Added 3-5 Mana After Each Kill
