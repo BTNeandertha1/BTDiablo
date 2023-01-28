@@ -304,8 +304,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 5 Maximum Fire Res
    - Removed
       - Ignore Targets Defense
-	  - Enhanced Damage
-	  - Mana Steal
+     - Enhanced Damage
+     - Mana Steal
 - Steelrends
    - 70-100 ED
    - 15-20 Deadly Strike
@@ -816,7 +816,7 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
       - 20 Life
       - 4-5 Cold min
       - 15 IAS
-	  - 1-3 Life After Each Kill
+     - 1-3 Life After Each Kill
    - Weapons
       - 300 Enhanced Damage
    - Boots
@@ -837,7 +837,7 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
    - All Items
       - Stamina
       - Regen Stamina
-	  - Light Radius
+     - Light Radius
    - Jewels
       - Defense   
       - Regen Life
@@ -910,7 +910,7 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
 - Added Viper Of The Amulet at Drognan(140k)
    - Cube with Wand and potion for oskill Lower Resistance or Life Tap Wand [Randome Level Required]
       - Mana Potion = Lower Resistance
-	  - Healing Potion = Life Tap
+     - Healing Potion = Life Tap
 - Token of Absolution Sold at Akara 
 - Ormus now sells Stamina, Antidotes and Thawing Potions
 
@@ -988,38 +988,37 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
 - Unique Charm Corruptions
    - Annihilus Small Charm (0% Chance to Brick)
       - Hellfire Ashes + Anni = Corrupted
-	     - 7% Magic Find + 10% Gold Find
-		 - 5 Faster Hit Recovery + 5 Faster Run/Walk
-		 - 5 Attributes
-		 - 5-10% Increased Attack Speed
-		 - 5-10% Faster Cast Rate
-		 - 5% All Resistance
-		 - 5% Experience
-		 - 20 Life + 17 Mana
-		 
-- Hellfire Torch Large Charm (0% Chance to Brick)
-      - 2 Hellfire Ashes + Torch = Corrupted
-	     - 40% Chance to Cast Level 22 Amplify Damage When Struck
-		 - 75% Chance to Cast Level 18 Lower Resist When Struck
-		 - 60% Chance to Cast Level 20 Decrepify When Struck
-		 - 50% Chance to Cast Level 18 Weaken When Struck
-		 - 25% Chance to Cast Level 21 Life Tap When Struck
-	     - 60% Chance to Cast Level 21 Bone Armor When Struck
-	     - 60% Chance to Cast Level 21 Cyclone Armor When Struck
-		 - 60% Chance to Cast Level 20 Static Field When Struck
-		 - 75% Chance to Cast Level 24 Frost Nova When Struck
-		 - Level 31 Prayer Aura when Equipped
-         - Level 10 Vigor Aura When Equipped
-         - Level 10 Blessed Aim Aura When Equipped
-	  
+        - 7% Magic Find + 10% Gold Find
+       - 5 Faster Hit Recovery + 5 Faster Run/Walk
+       - 5 Attributes
+       - 5-10% Increased Attack Speed
+       - 5-10% Faster Cast Rate
+       - 5% All Resistance
+       - 5% Experience
+       - 20 Life + 17 Mana
+       
+- Hellfire Torch Large Charm (0% Chance to Brick) - 2 Hellfire Ashes + Torch = Corrupted
+   - 40% Chance to Cast Level 22 Amplify Damage When Struck
+   - 75% Chance to Cast Level 18 Lower Resist When Struck
+   - 60% Chance to Cast Level 20 Decrepify When Struck
+   - 50% Chance to Cast Level 18 Weaken When Struck
+   - 25% Chance to Cast Level 21 Life Tap When Struck
+   - 60% Chance to Cast Level 21 Bone Armor When Struck
+   - 60% Chance to Cast Level 21 Cyclone Armor When Struck
+   - 60% Chance to Cast Level 20 Static Field When Struck
+   - 75% Chance to Cast Level 24 Frost Nova When Struck
+   - Level 31 Prayer Aura when Equipped
+   - Level 10 Vigor Aura When Equipped
+   - Level 10 Blessed Aim Aura When Equipped
+     
 - Gheed's Fortune Grand Charm 30% Chance to brick into a random Magic Charm
       - Hellfire Ashes + Gheed's = Corrupted
-	     - Adds + 1 to Skill Tree
-		 - 20-40% Gold Find + 5-10% Magic Find + 5% Vendor Prices
-		 - 7% Faster Run/Walk
-		 - 12% Faster Hit Recovery
-		 - 15% All Resistance
-		 
+        - Adds + 1 to Skill Tree
+       - 20-40% Gold Find + 5-10% Magic Find + 5% Vendor Prices
+       - 7% Faster Run/Walk
+       - 12% Faster Hit Recovery
+       - 15% All Resistance
+       
 ## Monsters
 - All Monster resistances that were 116+% are now reduced to 115% (Infinity can break all immunes)
 - After First Quest Kill, All Act Bosses Always Drop their Essence (only 1)
@@ -1167,9 +1166,8 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
 - Iron Golem now has takes 70% less dmg across the board
 - Shrines now stack and dont interfere with curses
 - Battle Cry does not interfere with curses
-- Grim ward no longer Terrors but instead uses Innersite
 - Poison Dagger Mana cost reduced and generates mana at higher levels
-- Grim ward no longer Terrors but instead uses Innersite
+- Grim ward no longer Terrors but instead uses Inner Sight
 - Poison Dagger Mana cost reduced and generates mana at higher levels
 - FOH's Holy Bolt Synergy Reduced to 6%
 - Buffed Rabies (synergies 26%)
