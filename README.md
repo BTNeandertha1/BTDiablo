@@ -1168,7 +1168,6 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
 - Battle Cry does not interfere with curses
 - Poison Dagger Mana cost reduced and generates mana at higher levels
 - Grim ward no longer Terrors but instead uses Inner Sight
-- Poison Dagger Mana cost reduced and generates mana at higher levels
 - FOH's Holy Bolt Synergy Reduced to 6%
 - Buffed Rabies (synergies 26%)
    - Added 26% Feral Rage Synergy
