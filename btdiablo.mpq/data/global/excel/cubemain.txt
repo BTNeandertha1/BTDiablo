@@ -11,9 +11,9 @@ Dye Test	0			100					2	armo	vps						useitem																																				
 Dye Test	0			100					2	weap	vps						useitem																																																																																							0
 Test	0			100	28				1	tsc							Pandemonium Portal																																																																																							0
 Test	0			100	28				2	tsc,qty=2							Red Portal,qty=132																																																																																							0
-Test	1			100					2	tsc,qty=2							cm1,mag	99		99	aura		123	12	12																																																																															0
-Test	1			100					1	tsc							cm1,mag	99		99	allskills			5	5	res-all			500	500	move2			500	500	cheap			1000	1000																																																																0
-Test	1			100					1	vps							cm1,mag	99		99	cast2			200	200	res-all			500	500	move2			500	500	cheap			1000	1000																																																																0
+Test	0			100					2	tsc,qty=2							cm1,mag	99		99	aura		123	12	12																																																																															0
+Test	0			100					1	tsc							cm1,mag	99		99	allskills			5	5	res-all			500	500	move2			500	500	cheap			1000	1000																																																																0
+Test	0			100					1	vps							cm1,mag	99		99	cast2			200	200	res-all			500	500	move2			500	500	cheap			1000	1000																																																																0
 Test	0			100					2	aqv	vps						useitem				rep-quant		63																							std																													std																													0
 Teleport + MF + GF	0			100					2	weap	vps						useitem				red-dmg%			-200	-200	ignore-ac			1	1														1	1																																																											0
 Staff of Kings + Amulet of the Viper -> Horadric Staff	1			0	28				2	msf	vip						hst																																																																																							0
