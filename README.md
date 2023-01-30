@@ -109,6 +109,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Frozen Orb
    - Added Frozen Armor as a synergy
    - Added Glacial Spike as a synergy
+- Multishot now has full effects for all of its arrows (Procs and CC)
 - ITEMS
 - Astreon's Iron Ward
    - Added Ignore Target's Defense
@@ -138,6 +139,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Bad Loot replaced with Nodrop in Insanity Difficulty
 - Blood Mana Removed From Enemies
 - Changed Monster Pool in rifts
+- Fixed a bug where you couldnt have bone armor and sorceress freezing armors at the same time
+
 
 ## Characters
 - Walking is the same as running
@@ -1375,3 +1378,4 @@ ORPHAN'S CALL
 - Frozen Orb
 - Added Frozen Armor as a synergy
 - Added Glacial Spike as a synergy
+- Multishot now has full effects for all of its arrows (Procs and CC)
