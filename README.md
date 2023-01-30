@@ -2,6 +2,8 @@
 
 BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Diablo II Resurrected. As such, it is only to be used in Single Player.
 
+**For all your BTDiablo needs please check our [wiki](https://btd.miraheze.org/).**
+
 ## Game 
 - More Challenging
 - Built in Loot Filter
@@ -275,7 +277,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 10-15% Experience Gained (was 5-10%)
 - Necro shields add 33% Pierce for the Teeth mechanic (was Poison Damage)
 - Necro shields can now have 3 sockets
-- Added Hellfire Ashes (Broken down Hellfire Torches) Torch + Larzuk's Forging Hammer 
+- Added Hellfire Ashes (Broken down Hellfire Torches) Torch + Charsi's Malus 
 - Tome of Town Portal, Identify and keys now stack up to 50
 - All Essences now stack to 50
 - Lidless Wall now rolls 1-2 Skills
