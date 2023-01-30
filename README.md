@@ -6,7 +6,7 @@ BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Di
 
 ## Game 
 - More Challenging
-- Built Loot Filter like interface
+- Built in Loot Filter
 - Item Stacking!
 - 3 Additional Shared Stash Tabs
 - Negative 30 all res (Only effects the Player)
@@ -104,12 +104,45 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
-- Rifts Updated Give ANY feedback please! (Main focus is EXP with some Gold here and there this is a BETA)
-   - Base Exp Doubled in rifts
-   - Reduced Gold from Champions
-- Magic Find Potion is now 150 MF and Gold Find
-- Max Quantity of throw weapons is now 500
-- Changed Jewel Display
+- SKILLS
+- Cold Mastery now adds %Cold Skill Damage instead of -% Enemy Cold Resistance
+- Frost Nova synergies increased to 12%
+   - Added Shiver Armor as a synergy
+- Frozen Orb
+   - Added Frozen Armor as a synergy
+   - Added Glacial Spike as a synergy
+- Multishot now has full effects for all of its arrows (Procs and CC)
+- ITEMS
+- Astreon's Iron Ward
+   - Added Ignore Target's Defense
+   - 250-300 Enhanced Damage (was 240-290)
+   - Added 3 All Skills 
+   - 1-2 Combat Skills Paladin Only (was 2-4)
+   - 60-85 + Damage (was 40-85)
+   - Added 40% Faster Cast Rate
+   - Added 40% Increased Attack Speed
+- Death's Fathom
+   - 40% Faster Cast Rate (was 20)
+   - Added -10 to -20% Enemy Cold Resistance
+- Nightwings
+   - 8-12% Cold Skill Damage
+   - -8% to -12% Enemy Cold Resistance
+- Frostwind
+   - Added 20% CTC Level 10 Lower Res on Striking
+   - Added 20% CTC Level 20 Frozen Orb on Striking
+   - Changed Cold Mastery to -30% Enemy Cold Resistance
+- Mavina's Set 
+   - Changed +3 Cold Mastery to -50% Enemy Cold Resistance
+- Tal Rasha's Lidless Eye
+   - Replaced Masteries with 2-3 Sorceress Skills
+- Low Level Sets Updated!
+- OTHER
+- Gems, Runes and sometimes Standard of Heros now drop in Rifts
+- Bad Loot replaced with Nodrop in Insanity Difficulty
+- Blood Mana Removed From Enemies
+- Changed Monster Pool in rifts
+- Fixed a bug where you couldnt have bone armor and sorceress freezing armors at the same time
+
 
 ## Characters
 - Walking is the same as running
@@ -353,7 +386,13 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 15 Life Per Kill instead of Rep Life
    - 10-15% Damage Reduction
 - Astreon's Iron Ward
-   - 3-4 Combat Skills
+   - Added Ignore Target's Defense
+   - 250-300 Enhanced Damage (was 240-290)
+   - Added 3 All Skills 
+   - 1-2 Combat Skills Paladin Only (was 2-4)
+   - 60-85 + Damage (was 40-85)
+   - Added 40% Faster Cast Rate
+   - Added 40% Increased Attack Speed
 - Head Hunter's Glory
    - 15-25 All res instead
    - 10-15 Life Per Kill
@@ -378,7 +417,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 200-300
    - Repairs Durability
 - Frostwind
-   - 1 to Cold Mastery
+   - Added 20% CTC Level 10 Lower Res on Striking
+   - Added 20% CTC Level 20 Frozen Orb on Striking
+   - Added -30% Enemy Cold Resistance
 - Doombringer
    - Repair Durability
 - Boneshade
@@ -548,6 +589,12 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Steel Carapace
    - 30-40% Damage Reduction
    - 15% Faster Run/Walk
+- Death's Fathom
+   - 40% Faster Cast Rate (was 20)
+   - Added -10 to -20% Enemy Cold Resistance
+- Nightwings
+   - 8-12% Cold Skill Damage
+   - -8% to -12% Enemy Cold Resistance
 
 ## Sets
 - Ondal's Almighty
@@ -718,7 +765,7 @@ Bul-Kathos' Children (Full Set)
 M'avina's Battle Hymn (Full Set)
    - Removed Defense
    - Added 40 Faster Run/Walk
-   - Added +3 to Cold Mastery
+   - Added - 50% Enemy Cold Resistance
    - Added 10 Mana After Each Kill
    - Added + 7 Valkyrie
 M'avina's Icy Clutch (Gloves)
@@ -805,7 +852,145 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
    - 3 Items = 40 Cold Resistance
    - 4 Items = 15% Lightning Absorb
    - 5 Items = 5% Maximum Cold Resistance
+- Tal Rasha's Wrappings
+   - Added + 7 Warmth
+- Tal Rasha's Lidless Eye
+   - Replaced Masteries with 2-3 Sorceress Skills
+   
+---NORMAL SETS--------
+(ALL NORMAL SETS ARE LVL1)
 
+CIVERB'S VESTMENTS
+- Civerb's Ward -  15ac -> 55ac; 15% block -> 20% block; added fhr 25; added res-cold 30; (2pc replaced 22 mana with 50 life; 26res-pois -> 40)
+- Civerb's Icon - Regen 4 -> 7-12; Added mana/lvl (12-14)/8; (2pc removed 25ac and 25 cold res -> 25 mana)
+- Civerb's Cudgel - 75att -> att/lvl 16/2; dmgmax 17-23 -> dmgmax 23; added dmg-ltng 1-20
+	2pc bonus - 25res-fire -> 30; Added 10fcr
+	3pc bonus - 15str -> 20 str; 25res-ltng -> 30; replaced ac50 -> red-dmg 10; added addxp15; added mag%100
+
+HSARUS' DEFENSE
+- Iron Heel - 20frw -> 25frw; (2pc added dmg6)
+- Iron Fist - red-dmg2 -> 10; added red-mag 10; added redpsnlength 75; replaced 10str -> 25hp (2pc replaced ac/lvl20 -> 5dex + 5vit)
+- Iron Stay - 20hp -> 25; 20res-cold -> 25; (2pc replaced ac/lvl20 -> 5str + 5enr)
+	- 2pc bonus - thorns 5 -> thorns/lvl 8/8;
+	- 3pc bonus - dmg-max 5 -> thorns/lvl 12/8; 25res-ltng -> 30; Added res-poin 30; Added addxp15; added mag%100
+
+CLEGLAW'S BRACE
+- Cleglaw's Tooth - 50deadly -> 75; added dmg10;  (2pc dmg/lvl 10/8 -> 11/8)
+- Cleglaw's Claw -  17ac -> 55; added res-cold 10; added red-dmg 5 (2pc 15@ -> 20@)
+- Cleglaw's Pincers - Replaced knockback -> 20ias; 10res-fire
+	- 2pc bonus - replaced ac50 -> 35 openwounds; added 1-10 dmg;
+	- 3pc bonus - removed 35 crushing; added lifesteal 6; 20ias -> 25ias; added addxp15; added mag%100
+
+IRATHA'S FINERY
+- Iratha's Collar - Added 20 mana
+- Iratha's Cuff - Added 1-20dmg-ltng; removed half freeze; added hp15
+- Iratha's Coil - added res-fire30
+- Iratha's Cord - replaced ac25 -> dex15; dmg-min5 -> 8
+	- 2pc - Replaced 50ac -> 3MPK
+	- 3pc - move20 -> 25; removed 24 pierce
+	- 4pc - added 60 pierce; added addxp15; added mag%100; removed 15dex
+
+ISENHART'S ARMORY
+- Isenhart's Lightbrand - Added 13-15 dmg-fire; Added dmg-undead 100% (2pc replaced att/lvl 10/8 -> dmg-fire/lvl 10/8)
+- Isenhart's Parry - Added allskills 1; replaced 40ac -> 30% block; Added 20res-ltng; light-thorns 4 -> 13-16 (2pc 8@ -> 10@)
+- Isenhart's Case - ac40 -> ac100; red-mag2 -> 5; added 35hp
+- Isenhart's Horns - Replaced 6dex -> 10str; red-dmg 2 -> 5; added 30hp (2pc 8@ -> 10@)
+	- 4pc - 20frw -> 25frw; added 5 manasteal; added allskills 1; added 15% xp; removed block30; added mag%100
+
+VIDALA'S RIG
+- Vidala's Barb - Replaced 1-20dmg-ltng -> dmg-pois 100/4s ; Added 20openwounds; Added 60-75ed (2pc att/lvl 16/2 -> dmg-pois/lvl 24/8)
+- Vidala's Fetlock -  stam150 -> vit10; (2pc 8@ -> 10@)
+- Vidala's Ambush - Added gethit-skill poisonnova 12% lv1; 11dex -> 15dex; replaced ac50 -> res-fire20; added res-ltng 20 (2pc replaced res-fire24 -> ama 2)
+- Vidala's Snare - Added res-pois 20; 
+	- 4pc - Replaced dmg-cold/lvl -> dmg-pois/lvl 12/8; Removed freeze target; Added addxp15; Added 1 allskills; added mag%50
+
+MILABREGA'S REGALIA
+- Milabrega's Orb - 25ac -> 60ac; added block25; replaced 20 mag% -> mag%/lvl (0.625mf/lvl);  (2pc replaced 50life -> 40 res-ltng; 50ac% -> 100ac%)
+- Milabrega's Rod - pal 1 -> allskills 1; 50ed -> 100ed; removed light2 (2pc added 9-18 dmg-cold)
+- Milabrega's Diadem - 15life -> 30life; 15mana -> 30mana; 
+- Milabrega's Robe - replaced thorns3 -> red-mag 5; red-dmg 2 -> 5; added 10fcr; added ease -45; added 10frw (2pc added 40res-fire)
+	- 2pc - 75ar -> 125ar; replaced dmg-ltng 16/8 -> dmg-cold/lvl 16/8; 
+	- 4pc - pal 2 -> allskills 2; res-pois 15 -> 40; added addxp 15; added mag%100
+
+CATHAN'S TRAPS
+- Cathan's Rule - +1firesk -> +2; added 15fcr; 10dmg-fire -> 10-15; 
+- Cathan's Mesh - 15ac -> 50ac; added 15@; added 15fwr;
+- Cathan's Visage - 20mana -> 50;  (2pc replaced ac/lvl -> vit/lvl 3/8)
+- Cathan's Sigil - light-thorns 5 -> 10; 10fhr -> 23; added 15regen-mana; (2pc replaced 50ar -> 10enr; mag% 25 -> 40)
+- Cathan's Seal - replaced 6lifesteal -> 2 lpk; added 10fcr (2pc 10str -> 5str; added 5 dex)
+	- 2pc - 16 regenmana -> 20;
+	- 3pc - 25res-ltng -> 30;
+	- 5pc - replaced att60 -> +2firesk; red-mag 3 -> 5; 25@ -> 20@; added 25ias; replaced mana20 -> 2mpk; added addxp 15; added mag% 60
+
+TANCRED'S BATTLEGEAR
+- Tancred's Crowbill - 80ed -> 100ed; added 35crush; replaced 75ar -> att/lvl 4/2; added dmg/lvl 12/8 (3pc 20ias -> 30ias)
+- Tancred's Spine - 40hp -> 50; 15str -> 20str; added 27fhr; added res-curse 25-34%
+- Tancred's Hobnails - replaced heal stam -> 25hp; 
+- Tancred's Weird - red-dmg 2 -> 5; red-mag 1 -> 5; added dmg-ltng 20; 
+- Tancred's Skull - 10ed -> 25ed; 40ar -> 80ar; (2pc 10@ -> 15@)
+	- 5pc - 75%gf -> 125%; 10@ -> 35@; added allskills 1; added addxp 15; added mag%50; added red-dmg% 10
+
+SIGON'S COMPLETE STEEL
+- Sigon's Gage - 10str -> 20str; 20ar -> 60ar; (2pc 30ias -> 35ias)
+- Sigon's Visor - 25ac -> 50ac; added res-pois 20; 
+- Sigon's Shelter - 25ac% -> 50ac%; added 27fhr (2pc replaced thorns20 -> ac/lvl 16/8)
+- Sigon's Sabot - 20frw -> 25frw;  (2pc 50ar -> 60ar)
+- Sigon's Wrap - (2pc replaced ac/lvl 16/8 -> thorns 20)
+- Sigon's Guard - block20 -> block30; added oskill lv1 frozen armor; (2pc added half freeze duration)
+	- 6pc - added +2allskills; replaced 12res-fire -> 35@; replaced thorns12 -> red-dmg% 12; fire-max 24 -> 43; mana 20 -> 35; added addxp 15, added mag% 50
+
+INFERNAL TOOLS
+- Infernal Cranium - 10@ -> 20@; added nec1 (2pc replaced ac/lvl 16/8 -> mana/lvl 16/8)
+- Infernal Torch - nec +1 -> nec +2; replaced dmg-min 8 -> 20fcr; (2pc replaced att/lvl 20/2 -> mana30)
+- Infernal Sign - 25ac -> 50ac; hp20 -> hp25; added mana25;  (3pc replaced half-freeze -> move 15)
+	- 2pc - replaced dmg-pois 80,25,25 -> res-fire 25; mana10 -> mana40;
+	- 3pc - replaced att% 20 -> res-pois-len 75; nec1 -> allskills 1; replaced openwounds 20 -> ac-miss 100; replaced manasteal 6 -> mana-kill 3; added addxp 15; added mag% 100
+
+BERSERKER'S AERSENAL
+- Berserker's Headgear - Replaced 15ac -> Str/lvl 4/8 ; Added 27 FHR  (2pc replaced att/lvl with 25 ltng res)
+- Berserker's Hauberk - red-mag 2 -> 8; Added red-dmg 8; Added 15frw (2pc replaced ac/lvl with 25 cold res)
+- Berserker's Hatchet - Replaced 30%ar -> 10-20dmg; Added lifesteal 5%; Added 20ias; Added 10 openwounds (2pc added 10str; added dmg/lvl 10/8)
+	- 3pc bonus - Replaced psn dmg -> 20@; Added addxp 15; Added gold% 75; added mag% 100;
+
+DEATH'S DISGUISE
+- Death's Hand - 
+- Death's Guard - 
+- Death's Touch - 25ed -> 75ed; added manasteal 4; added ease -30; added dmg/lvl 14/8
+	- 3pc - added addxp 15; added allskills 1; added mag% 100
+	
+ANGELIC RAIMENT
+- Angelic Sickle - replaced 75ar -> dmg%75; added dmg-und/lvl 8/8; (2pc replaced 75ed -> 20dmg-mag; added dmg/lvl 16/8)
+- Angelic Mantle - red-dmg 3 -> 5; ac% 40 -> 65; added red-dmg% 6; added 15frw (2pc replaced res-fire 50 -> 15@)
+- Angelic Halo - regen6 -> 8; hp20 -> 30; added 5str (3pc mag% 50 -> 25)
+- Angelic Wings - replaced light3 -> mana 30; added 10fcr
+	- 2pc - 10dex -> 15; 
+	- 3pc - mana 50 -> 75;
+	- 4pc - mag% 40 -> 50; added allskills 1; added addxp 15	
+
+ARCTIC GEAR
+- Arctic Horn - 50ed -> 135ed; added dmg-cold 10 (2pc replaced att/lvl 16/2 -> dmg-cold 75,20)(3pc replaced dmg-cold 75,20-30 -> 50mana) (4pc added att/lvl 16/2)
+- Arctic Furs - ac%275-325 -> 300; 10@ -> 20@; added allskills 1 (2pc replaced res-cold 15 -> mana50)
+- Arctic Binding - replaced ac30 -> mana30; (2pc replaced mag%50 -> 10frw) (3pc replaced res-cold 10 -> mag%50)
+- Arctic Mitts - hp20 -> 30; 10ias -> 20ias (2pc replaced 50ar -> 15@)
+	2pc - Replaced 5str -> 15dex; 
+	3pc - Replaced 50hp -> 3mpk;
+	4pc - dmg-cold/lvl 16 -> 20; added allskills 1; added addxp 15; added mag% 60;
+
+ARCANNA'S TRICKS
+- Arcanna's Sign - Added 10fcr; 15 -> 40 mana; (3pc 20fr -> 25fr;)
+- Arcanna's Deathwand - Replaced 25deadly -> 25fcr; replaced sor1 -> allskills 1
+- Arcanna's Head - Replaced regen -> 3LPK; Replaced 2thorns -> 25poisonres; Added 10 dmg to mana (2pc replaced ac/lvl 24/8 -> enr10; res-ltng 15 -> 25)
+- Arcanna's Flesh - replaced light2 -> 25 cold res; red-dmg3 - > 6; Added 15frw (3pc replaced enr10 -> ac/lvl 24/8)
+	- 4pc bonus - +1 all skills -> +2; Replaced 5% manasteal -> 6MPK; added addxp 15; added mag% 50
+
+---EXPANSION SETS--------
+
+ORPHAN'S CALL
+- Guillaume's Face
+- Wilhelm's Pride
+- Magnus' Skin
+- Wihtstan's Guard - half freeze -> nofreeze; added res-pois 50; added res-ltng 50;
+	- 3pc - thorns 5 -> thorns/lvl 20/8
    
 ## Affixes
 - Added Rare Affixes
@@ -957,8 +1142,8 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
 ## Endgame
 - Augment Recipes:
 - WARNING: If you Augment Set Items MAKE SURE no other Set items are equipped!!!
-   - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 1% Exp Gained
-   - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 1% Exp Gained
+   - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 2% Exp Gained
+   - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 2% Exp Gained
    - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR (Works up to 5x on a single item, base AR maxes at 1023)
 - Note: Gold Find Maxes at 15x Augments (723 GF), Magic Find 29x Augments (723 MF) and Experience 231x Augments (461% EXP)
 
@@ -1137,6 +1322,10 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
    - W5 = Extra Fast Minions of Destruction
 - Area Level 90 Pit Lords in WorldStone Chamber
 
+### Rifts
+- Gems, Runes and sometimes Standard of Heros now drop in Rifts
+- Enemy Monster Resistances 75 Physical, 75 Magic, 100 Cold, 100 Light, 100 Fire and 99 Poison
+
 ## Skills
 - Static is Always 60%
 - Removed Frozen Orb Cool Down
@@ -1185,3 +1374,10 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
 - Cobra Strike Always Hits
 - Dim Vision and Hit Blinds Target doesn't get over written by curses
 - Shapeshifting duration removed
+- Cold Mastery now adds %Cold Skill Damage instead of -% Enemy Cold Resistance
+- Frost Nova synergies increased to 12%
+- Added Shiver Armor as a synergy
+- Frozen Orb
+- Added Frozen Armor as a synergy
+- Added Glacial Spike as a synergy
+- Multishot now has full effects for all of its arrows (Procs and CC)

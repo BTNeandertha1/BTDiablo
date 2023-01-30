@@ -4015,18 +4015,18 @@
     "id": 50000,
     "Key": "Runeword171",
     "enUS": "Soul",
-    "zhTW": "Soul",
-    "deDE": "Soul",
-    "esES": "Soul",
-    "frFR": "Soul",
-    "itIT": "Soul",
-    "koKR": "Soul",
-    "plPL": "Soul",
-    "esMX": "Soul",
-    "jaJP": "Soul",
-    "ptBR": "Soul",
-    "ruRU": "Soul",
-    "zhCN": "Soul"
+    "zhTW": "灵魂",
+    "deDE": "Seele",
+    "esES": "Alma",
+    "frFR": "Âme",
+    "itIT": "Anima",
+    "koKR": "영혼",
+    "plPL": "Dusza",
+    "esMX": "Alma",
+    "jaJP": "魂",
+    "ptBR": "Alma",
+    "ruRU": "Душа",
+    "zhCN": "灵魂"
   },
   {
     "id": 50001,
@@ -4588,5 +4588,22 @@
     "ptBR": "Runa El",
     "ruRU": "Руна Эл",
     "zhCN": "艾尔符文"
+  },
+  {
+    "id": 50034,
+    "Key": "Runeword172",
+    "enUS": "Dilemma",
+    "zhTW": "困境",
+    "deDE": "Dilemma",
+    "esES": "Dilema",
+    "frFR": "Dilemme",
+    "itIT": "Dilemma",
+    "koKR": "양도 논법",
+    "plPL": "Dylemat",
+    "esMX": "Dilema",
+    "jaJP": "ジレンマ",
+    "ptBR": "Dilema",
+    "ruRU": "Дилемма",
+    "zhCN": "困境"
   }
 ]

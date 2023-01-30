@@ -108,7 +108,7 @@
                         {
                             "type": "TextBoxWidget", "name": "MotDHeaderText",
                             "fields": {
-                                "text": "BTDiablo Jan 25th 2023",
+                                "text": "BTDiablo Jan 29th 2023",
                                 "fitToParent": true,
                                 "style": {
                                     "pointSize": "$MediumLargeFontSize",
@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Thanks to all who participated in the BTDLadder Event! Please feel free to give feedback to help improve the game and future events!\nCorruption Brick Chance is 30%\nView Patch Notes in Discord",
+                                        "text": "Finally Cold Mastery has been changed! Loot Filter is updated for Insanity and more!\nCorruption Brick Chance is 30%\nView Patch Notes in Discord",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",
