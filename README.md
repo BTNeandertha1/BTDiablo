@@ -1371,7 +1371,7 @@ ORPHAN'S CALL
 - Shapeshifting duration removed
 - Cold Mastery now adds %Cold Skill Damage instead of -% Enemy Cold Resistance
 - Frost Nova synergies increased to 12%
-   - Added Shiver Armor as a synergy
+- Added Shiver Armor as a synergy
 - Frozen Orb
-   - Added Frozen Armor as a synergy
-   - Added Glacial Spike as a synergy
+- Added Frozen Armor as a synergy
+- Added Glacial Spike as a synergy
