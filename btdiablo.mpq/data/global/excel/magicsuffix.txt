@@ -265,7 +265,7 @@ of Balance	1	1	1	5		3				4	18	balance1		10	10										armo							glov					0	0
 of Equilibrium	1	1	1	9		6				4	18	balance2		17	17										tors	belt	shld										0	0
 of Stability	1	1	1	18		13				4	18	balance3		24	24									dyel	tors	belt											0	0
 of Balance	100	1	1	1		1				4	18	balance3		12	12										lcha												0	0
-of Balance	100	1	1	19		14				4	18	balance2		8	8										mcha												0	0
+of Balance	100	1	1	19		14				4	18	balance2		10	10										mcha												0	0
 of Balance	100	1	1	37		29				4	18	balance1		5	5									dyel	scha												0	0
 of Truth	100	1	1	44		36				4	18	balance1		7	7										jewl												0	0
 of Regeneration	1	1	1	10		7				4	19	regen		3	5										scep	belt	ring	amul	circ								0	0
