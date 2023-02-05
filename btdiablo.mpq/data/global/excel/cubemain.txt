@@ -380,9 +380,9 @@ Furnace of pain	1			100	28				4	tsc	pk3,qty=3						Red Portal,qty=135											
 3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1			100					3	ceh,qty=3							bet																																																																																							0
 3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100					3	bet,qty=3							fed																																																																																							0
 3 Festering Essence of Destruction -> Twisted Essence of Suffering	1			100					3	fed,qty=3							tes,qty=3																																																																																							0
-3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100	18	70	99		2	tes	vps						ceh,qty=33																																																																																							0
-3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1			100	18	70	99		2	ceh	vps						bet,qty=33																																																																																							0
-3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100	18	70	99		2	bet	vps						fed,qty=33																																																																																							0
+3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100	18	70	99		2	tes	vps						ceh,qty=33																													std																																																										0
+3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1			100	18	70	99		2	ceh	vps						bet,qty=33																													std																																																										0
+3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1			100	18	70	99		2	bet	vps						fed,qty=33																													std																																																										0
 3 Key of Terror -> Key of Hate	0			100					3	pk1,qty=2	tsc						pk2																																																																																							0
 3 Key of Terror -> Key of Hate	0			100					3	pk1,qty=2	isc						pk3																																																																																							0
 3 Key of Hate -> Key of Destruction	0			100					3	pk2,qty=2	tsc						pk3																																																																																							0
@@ -750,6 +750,10 @@ Hellfire Ashes break down	1			0					2	Hellfire Torch	mls						tds															
 Hellfire Ash + Stam = SOH	1			0					2	tds	vps						std																																																																																							0
 Break down Anni to SOH	1			0					2	Annihilus	mls						std																																																																																							0
 Break down Gheeds to MF potion	1			0					2	Gheed's Fortune	mls						mfp																													mfp																													mfp																													0
+100 P Amethyst to 2 Amulet	1			0	18	70	100		2	gg4a	vps						amu,uni	99		99																										amu,uni	99		99																																																							0
+100 P Ruby to 2 Ring	1			0	18	70	100		2	gg4r	vps						rin,uni	99		99																										rin,uni	99		99																																																							0
+100 P Sapphire to Jewel	1			0	18	70	100		2	gg4s	vps						jew,uni	99		99																																																																																				0
+100 P Emerald to Gheed	1			0	18	70	100		2	gg4e	vps						Gheed's Fortune	99		99																																																																																				0
 100 P Topaz to Vex	1			0	18	70	100		2	gg4t	vps						126																																																																																							0
 Generic F Amethyst	1			0	18	70	9		2	gxm4	gpv						1pv,qty=4																																																																																							0
 Generic F Diamond	1			0	18	70	9		2	gxm4	gpw						1pw,qty=4																																																																																							0

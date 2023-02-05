@@ -2,6 +2,8 @@
 
 BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Diablo II Resurrected. As such, it is only to be used in Single Player.
 
+- For all your BTDiablo needs please check our [wiki](https://btd.miraheze.org/).
+
 ## Game 
 - More Challenging
 - Built in Loot Filter
@@ -110,10 +112,22 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Can get 22% Singular Resistance (example: 22 Cold Res)
    - Added 1-3 Elemental Pierce
    - 10% Faster Hit Recovery (was 8%)
+- RECIPES
+- 100 Perfect Amethyst + Stamina = 2 Unique Amulets
+- 100 Perfect Ruby + Stamina Potion = 2 Unique Rings
+- 100 Perfect Sapphire + Stamina = Unique Jewel
+- 100 Perfect Emerald + Stamina = Gheed's Fortune
+- Use dye in cube + weapon, shield, helm, or chest to recolor it, then use the bleach to remove.
+- 100 Perfect Amethyst + Stamina = 2 Unique Amulets
+- 100 Perfect Ruby + Stamina Potion = 2 Unique Rings
+- 100 Perfect Sapphire + Stamina = Unique Jewel
+- 100 Perfect Emerald + Stamina = Gheed's Fortune
+- Use dye in cube + weapon, shield, helm, or chest to recolor it, then use the bleach to remove.
 - OTHER
 - Rebalanced Rifts drops and monster HP
    - Dolls, Souls, Wraiths, Storm Casters and Swarms have better drop rate in Rifts
 - First Revision of Dyes implemented
+   - Alkor sells dyes and bleach. 
 
 ## Characters
 - Walking is the same as running
@@ -1111,6 +1125,12 @@ ORPHAN'S CALL
 - Secret Cow Level only requires Wirt's leg
 - Added Unique Jewel Reroll Recipe
    - 3 x Rare Jewels + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel
+- 100 Stacked Perfect Amethyst + Stamina = 2 Unique Amulets
+- 100 Stacked Perfect Ruby + Stamina Potion = 2 Unique Rings
+- 100 Stacked Perfect Sapphire + Stamina = Unique Jewel
+- 100 Stacked Perfect Emerald + Stamina = Gheed's Fortune
+- Use dye in cube + weapon, shield, helm, or chest to recolor it, then use the bleach to remove.
+
 
 ## Endgame
 - Augment Recipes:
