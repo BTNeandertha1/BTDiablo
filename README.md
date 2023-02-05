@@ -2,7 +2,7 @@
 
 BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Diablo II Resurrected. As such, it is only to be used in Single Player.
 
-**For all your BTDiablo needs please check our [wiki](https://btd.miraheze.org/).**
+- For all your BTDiablo needs please check our [wiki](https://btd.miraheze.org/).
 
 ## Game 
 - More Challenging
@@ -104,45 +104,30 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
-- SKILLS
-- Cold Mastery now adds %Cold Skill Damage instead of -% Enemy Cold Resistance
-- Frost Nova synergies increased to 12%
-   - Added Shiver Armor as a synergy
-- Frozen Orb
-   - Added Frozen Armor as a synergy
-   - Added Glacial Spike as a synergy
-- Multishot now has full effects for all of its arrows (Procs and CC)
 - ITEMS
-- Astreon's Iron Ward
-   - Added Ignore Target's Defense
-   - 250-300 Enhanced Damage (was 240-290)
-   - Added 3 All Skills 
-   - 1-2 Combat Skills Paladin Only (was 2-4)
-   - 60-85 + Damage (was 40-85)
-   - Added 40% Faster Cast Rate
-   - Added 40% Increased Attack Speed
-- Death's Fathom
-   - 40% Faster Cast Rate (was 20)
-   - Added -10 to -20% Enemy Cold Resistance
-- Nightwings
-   - 8-12% Cold Skill Damage
-   - -8% to -12% Enemy Cold Resistance
-- Frostwind
-   - Added 20% CTC Level 10 Lower Res on Striking
-   - Added 20% CTC Level 20 Frozen Orb on Striking
-   - Changed Cold Mastery to -30% Enemy Cold Resistance
-- Mavina's Set 
-   - Changed +3 Cold Mastery to -50% Enemy Cold Resistance
-- Tal Rasha's Lidless Eye
-   - Replaced Masteries with 2-3 Sorceress Skills
-- Low Level Sets Updated!
+- Grand Charms
+   - Can get 21% Magic Find
+- Large Charms
+   - Can get 14% Magic Find
+   - Can get 22% Singular Resistance (example: 22 Cold Res)
+   - Added 1-3 Elemental Pierce
+   - 10% Faster Hit Recovery (was 8%)
+- RECIPES
+- 100 Perfect Amethyst + Stamina = 2 Unique Amulets
+- 100 Perfect Ruby + Stamina Potion = 2 Unique Rings
+- 100 Perfect Sapphire + Stamina = Unique Jewel
+- 100 Perfect Emerald + Stamina = Gheed's Fortune
+- Use dye in cube + weapon, shield, helm, or chest to recolor it, then use the bleach to remove.
+- 100 Perfect Amethyst + Stamina = 2 Unique Amulets
+- 100 Perfect Ruby + Stamina Potion = 2 Unique Rings
+- 100 Perfect Sapphire + Stamina = Unique Jewel
+- 100 Perfect Emerald + Stamina = Gheed's Fortune
+- Use dye in cube + weapon, shield, helm, or chest to recolor it, then use the bleach to remove.
 - OTHER
-- Gems, Runes and sometimes Standard of Heros now drop in Rifts
-- Bad Loot replaced with Nodrop in Insanity Difficulty
-- Blood Mana Removed From Enemies
-- Changed Monster Pool in rifts
-- Fixed a bug where you couldnt have bone armor and sorceress freezing armors at the same time
-
+- Rebalanced Rifts drops and monster HP
+   - Dolls, Souls, Wraiths, Storm Casters and Swarms have better drop rate in Rifts
+- First Revision of Dyes implemented
+   - Alkor sells dyes and bleach. 
 
 ## Characters
 - Walking is the same as running
@@ -277,7 +262,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 10-15% Experience Gained (was 5-10%)
 - Necro shields add 33% Pierce for the Teeth mechanic (was Poison Damage)
 - Necro shields can now have 3 sockets
-- Added Hellfire Ashes (Broken down Hellfire Torches) Torch + Charsi's Malus 
+- Added Hellfire Ashes (Broken down Hellfire Torches) Torch + Larzuk's Forging Hammer 
 - Tome of Town Portal, Identify and keys now stack up to 50
 - All Essences now stack to 50
 - Lidless Wall now rolls 1-2 Skills
@@ -1028,12 +1013,14 @@ ORPHAN'S CALL
       - Regen Life
 - Changed skills on all items except teleport are now +1 oskill
 - Grand Charm Affixes
-   - 6-17 Magic find on Grand Charm (was 1-12)
+   - Can get 21% Magic Find (was 1-12)
 - Large Charm Affixes
-   - 6-20 Individual Resistance [Fire, Cold, Light, and Poison] (was 4-15)
-   - 4-10 All Resistances (was 3-8)
-   - 4-12 Magic Find (was 1-6)
+   - 6-22 Individual Resistance [Fire, Cold, Light, and Poison] (was 4-15)
+   - 6-10 All Resistances (was 3-8)
+   - 6-14 Magic Find (was 1-6)
    - 1-4 Damage/10-48 Attack Rating (was 1-6 Max Dmg/10-48 Attack Rating)
+   - Added 1-3% - enemy resitances
+   - 10% Faster Hit Recovery (was 8%)
 - Removed Hit Causes Monster to Flee and Knockback
 - 20% Chance to Cast Level 4 Amplify Damage (was 5% at level 1) 
 
@@ -1138,6 +1125,12 @@ ORPHAN'S CALL
 - Secret Cow Level only requires Wirt's leg
 - Added Unique Jewel Reroll Recipe
    - 3 x Rare Jewels + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel
+- 100 Stacked Perfect Amethyst + Stamina = 2 Unique Amulets
+- 100 Stacked Perfect Ruby + Stamina Potion = 2 Unique Rings
+- 100 Stacked Perfect Sapphire + Stamina = Unique Jewel
+- 100 Stacked Perfect Emerald + Stamina = Gheed's Fortune
+- Use dye in cube + weapon, shield, helm, or chest to recolor it, then use the bleach to remove.
+
 
 ## Endgame
 - Augment Recipes:

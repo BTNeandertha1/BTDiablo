@@ -1176,7 +1176,7 @@ Act 5 (H) Super Ax Desecrated	39	90	-2					0	Sunder Charms	1	Act 5 (H) Super Ax	
 Act 5 (H) Super Bx Desecrated	39	93	-2					0	Sunder Charms	1	Act 5 (H) Super Bx	1																						0
 Act 5 (H) Super Cx Desecrated	39	96	-2					0	Sunder Charms	1	Act 5 (H) Super Cx	1																						0
 Act 5 (H) GoodLFRift	39	96	1					0	AND	88	Flawless Gem	28	Runes 17	14																				0
-STDTC	10	85	1					0	std	10	AND	926																						0
+STDTC	10	85	1					0	std	20	AND	916																						0
 Rift Drops Special	10	85	1					75	STDTC	4	AND	25																						0
 Rift Drops Runes	10	85	1					75	Act 5 (H) GoodLFRift	4	AND	25																						0
 Rift Drops Uniques			-4					0	rvl	1	gld,mul=2048	1	Rift Drops Runes	1	Rift Drops Special	1																		0
