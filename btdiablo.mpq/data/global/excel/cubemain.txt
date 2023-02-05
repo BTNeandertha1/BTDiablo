@@ -1,4 +1,5 @@
 description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input 1	input 2	input 3	input 4	input 5	input 6	input 7	output	lvl	plvl	ilvl	mod 1	mod 1 chance	mod 1 param	mod 1 min	mod 1 max	mod 2	mod 2 chance	mod 2 param	mod 2 min	mod 2 max	mod 3	mod 3 chance	mod 3 param	mod 3 min	mod 3 max	mod 4	mod 4 chance	mod 4 param	mod 4 min	mod 4 max	mod 5	mod 5 chance	mod 5 param	mod 5 min	mod 5 max	output b	b lvl	b plvl	b ilvl	b mod 1	b mod 1 chance	b mod 1 param	b mod 1 min	b mod 1 max	b mod 2	b mod 2 chance	b mod 2 param	b mod 2 min	b mod 2 max	b mod 3	b mod 3 chance	b mod 3 param	b mod 3 min	b mod 3 max	b mod 4	b mod 4 chance	b mod 4 param	b mod 4 min	b mod 4 max	b mod 5	b mod 5 chance	b mod 5 param	b mod 5 min	b mod 5 max	output c	c lvl	c plvl	c ilvl	c mod 1	c mod 1 chance	c mod 1 param	c mod 1 min	c mod 1 max	c mod 2	c mod 2 chance	c mod 2 param	c mod 2 min	c mod 2 max	c mod 3	c mod 3 chance	c mod 3 param	c mod 3 min	c mod 3 max	c mod 4	c mod 4 chance	c mod 4 param	c mod 4 min	c mod 4 max	c mod 5	c mod 5 chance	c mod 5 param	c mod 5 min	c mod 5 max	*eol
+1 stamina	0			100					1	spot							jew,mag	99		99																																																																																				0
 1 antidote	0			100					1	apot								99		99																																																																																				0
 1 thawing	0			100					1	wpot								99		99																																																																																				0
 1 town portal scroll	0			100					1	tsc								99		99																																																																																				0
@@ -1195,161 +1196,75 @@ Amulet	1			0	16	362	1000		2	amu,crf	std						useitem			100	corruption2			1001	10
 																																																																																																								0
 TRANSMOGIFY																																																																																																								0
 ARMOR																																																																																																								0
-White	1			100	16	385	0		2	tors	dw1						useitem	99		99	state		191	1	1	dyewhite1			1	1	dyed1			1	1																																																																					0
-Light Grey	1			100	16	385	0		2	armo	dl0						useitem	99		99	state		192	1	1	dyelightgrey1			1	1	dyed1			1	1																																																																					0
-Dark Grey	1			100	16	385	0		2	armo	dd1						useitem	99		99	state		193	1	1	dyedarkgrey1			1	1	dyed1			1	1																																																																					0
-Black	1			100	16	385	0		2	tors	db1						useitem	99		99	state		194	1	1	dyeblack1			1	1	dyed1			1	1																																																																					0
-Light Blue	1			100	16	385	0		2	armo	dl1						useitem	99		99	state		195	1	1	dyelightblue1			1	1	dyed1			1	1																																																																					0
-Dark Blue	1			100	16	385	0		2	tors	db2						useitem	99		99	state		196	1	1	dyedarkblue1			1	1	dyed1			1	1																																																																					0
-Crystal Blue	1			100	16	385	0		2	tors	dc1						useitem	99		99	state		197	1	1	dyecblue1			1	1	dyed1			1	1																																																																					0
-Light Red	1			100	16	385	0		2	tors	dl2						useitem	99		99	state		198	1	1	dyelightred1			1	1	dyed1			1	1																																																																					0
-Dark Red	1			100	16	385	0		2	armo	dd2						useitem	99		99	state		199	1	1	dyedarkred1			1	1	dyed1			1	1																																																																					0
-Crystal Red	1			100	16	385	0		2	tors	dc2						useitem	99		99	state		200	1	1	dyecred1			1	1	dyed1			1	1																																																																					0
-Light Green	1			100	16	385	0		2	tors	dl3						useitem	99		99	state		201	1	1	dyelightgreen1			1	1	dyed1			1	1																																																																					0
-Dark Green	1			100	16	385	0		2	tors	dd3						useitem	99		99	state		202	1	1	dyedarkgreen1			1	1	dyed1			1	1																																																																					0
-Crystal Green	1			100	16	385	0		2	armo	dc3						useitem	99		99	state		203	1	1	dyecgreen1			1	1	dyed1			1	1																																																																					0
-Light Yellow	1			100	16	385	0		2	armo	dl4						useitem	99		99	state		204	1	1	dyelightyellow1			1	1	dyed1			1	1																																																																					0
-Dark Yellow	1			100	16	385	0		2	tors	dd4						useitem	99		99	state		205	1	1	dyedarkyellow1			1	1	dyed1			1	1																																																																					0
-Light Gold	1			100	16	385	0		2	armo	dl5						useitem	99		99	state		206	1	1	dyelightgold1			1	1	dyed1			1	1																																																																					0
-Dark Gold	1			100	16	385	0		2	armo	dd5						useitem	99		99	state		207	1	1	dyedarkgold1			1	1	dyed1			1	1																																																																					0
-Light Purple	1			100	16	385	0		2	tors	dl6						useitem	99		99	state		208	1	1	dyelightpurple1			1	1	dyed1			1	1																																																																					0
-Dark Purple	1			100	16	385	0		2	tors	dd6						useitem	99		99	state		209	1	1	dyedarkpurple1			1	1	dyed1			1	1																																																																					0
-Orange	1			100	16	385	0		2	tors	do1						useitem	99		99	state		210	1	1	dyeorange1			1	1	dyed1			1	1																																																																					0
-Bright White	1			100	16	385	0		2	armo	db3						useitem	99		99	state		211	1	1	dyebrightwhite1			1	1	dyed1			1	1																																																																					0
+White	1			100	16	373	0		2	tors	dw1						useitem	99		99	state		191	1	1	dyewhite1			1	1	dyed1			1	1																																																																					0
+Black	1			100	16	373	0		2	tors	db1						useitem	99		99	state		192	1	1	dyeblack1			1	1	dyed1			1	1																																																																					0
+Crystal Blue	1			100	16	373	0		2	tors	dc1						useitem	99		99	state		193	1	1	dyecblue1			1	1	dyed1			1	1																																																																					0
+Crystal Red	1			100	16	373	0		2	tors	dc2						useitem	99		99	state		194	1	1	dyecred1			1	1	dyed1			1	1																																																																					0
+Light Green	1			100	16	373	0		2	tors	dl3						useitem	99		99	state		195	1	1	dyelightgreen1			1	1	dyed1			1	1																																																																					0
+Dark Yellow	1			100	16	373	0		2	tors	dd4						useitem	99		99	state		196	1	1	dyedarkyellow1			1	1	dyed1			1	1																																																																					0
+Light Purple	1			100	16	373	0		2	tors	dl6						useitem	99		99	state		197	1	1	dyelightpurple1			1	1	dyed1			1	1																																																																					0
+Dark Purple	1			100	16	373	0		2	tors	dd6						useitem	99		99	state		198	1	1	dyedarkpurple1			1	1	dyed1			1	1																																																																					0
+Orange	1			100	16	373	0		2	tors	do1						useitem	99		99	state		199	1	1	dyeorange1			1	1	dyed1			1	1																																																																					0
 Remove White	1			100	18	364	1		2	tors	1dr						useitem	99		99	state		191	-1	-1	dyewhite1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LG	1			100	18	365	1		2	armo	1dr						useitem	99		99	state		192	-1	-1	dyelightgrey1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DG	1			100	18	366	1		2	armo	1dr						useitem	99		99	state		193	-1	-1	dyedarkgrey1			-1	-1	dyed1			-1	-1																																																																					0
-Remove Black	1			100	18	367	1		2	tors	1dr						useitem	99		99	state		194	-1	-1	dyeblack1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LB	1			100	18	368	1		2	armo	1dr						useitem	99		99	state		195	-1	-1	dyelightblue1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DB	1			100	18	369	1		2	tors	1dr						useitem	99		99	state		196	-1	-1	dyedarkblue1			-1	-1	dyed1			-1	-1																																																																					0
-Remove CB	1			100	18	370	1		2	tors	1dr						useitem	99		99	state		197	-1	-1	dyecblue1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LR	1			100	18	371	1		2	tors	1dr						useitem	99		99	state		198	-1	-1	dyelightred1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DR	1			100	18	372	1		2	armo	1dr						useitem	99		99	state		199	-1	-1	dyedarkred1			-1	-1	dyed1			-1	-1																																																																					0
-Remove CR	1			100	18	373	1		2	tors	1dr						useitem	99		99	state		200	-1	-1	dyecred1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LGr	1			100	18	374	1		2	tors	1dr						useitem	99		99	state		201	-1	-1	dyelightgreen1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DGr	1			100	18	375	1		2	tors	1dr						useitem	99		99	state		202	-1	-1	dyedarkgreen1			-1	-1	dyed1			-1	-1																																																																					0
-Remove CG	1			100	18	376	1		2	armo	1dr						useitem	99		99	state		203	-1	-1	dyecgreen1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LY	1			100	18	377	1		2	armo	1dr						useitem	99		99	state		204	-1	-1	dyelightyellow1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DY	1			100	18	378	1		2	tors	1dr						useitem	99		99	state		205	-1	-1	dyedarkyellow1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LGold	1			100	18	379	1		2	armo	1dr						useitem	99		99	state		206	-1	-1	dyelightgold1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DGold	1			100	18	380	1		2	armo	1dr						useitem	99		99	state		207	-1	-1	dyedarkgold1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LP	1			100	18	381	1		2	tors	1dr						useitem	99		99	state		208	-1	-1	dyelightpurple1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DP	1			100	18	382	1		2	tors	1dr						useitem	99		99	state		209	-1	-1	dyedarkpurple1			-1	-1	dyed1			-1	-1																																																																					0
-Remove Orange	1			100	18	383	1		2	tors	1dr						useitem	99		99	state		210	-1	-1	dyeorange1			-1	-1	dyed1			-1	-1																																																																					0
-Remove BWhite	1			100	18	384	1		2	armo	1dr						useitem	99		99	state		211	-1	-1	dyebrightwhite1			-1	-1	dyed1			-1	-1																																																																					0
-White	1			100	16	385	0		2	helm	dw1						useitem	99		99	state		224	1	1	dyewhite1			1	1	dyed1			1	1																																																																					0
-Black	1			100	16	385	0		2	helm	db1						useitem	99		99	state		225	1	1	dyeblack1			1	1	dyed1			1	1																																																																					0
-Dark Blue	1			100	16	385	0		2	helm	db2						useitem	99		99	state		226	1	1	dyedarkblue1			1	1	dyed1			1	1																																																																					0
-Crystal Blue	1			100	16	385	0		2	helm	dc1						useitem	99		99	state		227	1	1	dyecblue1			1	1	dyed1			1	1																																																																					0
-Light Red	1			100	16	385	0		2	helm	dl2						useitem	99		99	state		228	1	1	dyelightred1			1	1	dyed1			1	1																																																																					0
-Crystal Red	1			100	16	385	0		2	helm	dc2						useitem	99		99	state		229	1	1	dyecred1			1	1	dyed1			1	1																																																																					0
-Light Green	1			100	16	385	0		2	helm	dl3						useitem	99		99	state		230	1	1	dyelightgreen1			1	1	dyed1			1	1																																																																					0
-Dark Green	1			100	16	385	0		2	helm	dd3						useitem	99		99	state		231	1	1	dyedarkgreen1			1	1	dyed1			1	1																																																																					0
-Dark Yellow	1			100	16	385	0		2	helm	dd4						useitem	99		99	state		232	1	1	dyedarkyellow1			1	1	dyed1			1	1																																																																					0
-Light Purple	1			100	16	385	0		2	helm	dl6						useitem	99		99	state		233	1	1	dyelightpurple1			1	1	dyed1			1	1																																																																					0
-Dark Purple	1			100	16	385	0		2	helm	dd6						useitem	99		99	state		234	1	1	dyedarkpurple1			1	1	dyed1			1	1																																																																					0
-Orange	1			100	16	385	0		2	helm	do1						useitem	99		99	state		235	1	1	dyeorange1			1	1	dyed1			1	1																																																																					0
-Remove White	1			100	18	364	1		2	helm	1dr						useitem	99		99	state		224	-1	-1	dyewhite1			-1	-1	dyed1			-1	-1																																																																					0
-Remove Black	1			100	18	367	1		2	helm	1dr						useitem	99		99	state		225	-1	-1	dyeblack1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DB	1			100	18	369	1		2	helm	1dr						useitem	99		99	state		226	-1	-1	dyedarkblue1			-1	-1	dyed1			-1	-1																																																																					0
-Remove CB	1			100	18	370	1		2	helm	1dr						useitem	99		99	state		227	-1	-1	dyecblue1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LR	1			100	18	371	1		2	helm	1dr						useitem	99		99	state		228	-1	-1	dyelightred1			-1	-1	dyed1			-1	-1																																																																					0
-Remove CR	1			100	18	373	1		2	helm	1dr						useitem	99		99	state		229	-1	-1	dyecred1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LGr	1			100	18	374	1		2	helm	1dr						useitem	99		99	state		230	-1	-1	dyelightgreen1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DGr	1			100	18	375	1		2	helm	1dr						useitem	99		99	state		231	-1	-1	dyedarkgreen1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DY	1			100	18	378	1		2	helm	1dr						useitem	99		99	state		232	-1	-1	dyedarkyellow1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LP	1			100	18	381	1		2	helm	1dr						useitem	99		99	state		233	-1	-1	dyelightpurple1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DP	1			100	18	382	1		2	helm	1dr						useitem	99		99	state		234	-1	-1	dyedarkpurple1			-1	-1	dyed1			-1	-1																																																																					0
-Remove Orange	1			100	18	383	1		2	helm	1dr						useitem	99		99	state		235	-1	-1	dyeorange1			-1	-1	dyed1			-1	-1																																																																					0
-White	1			100	16	385	0		2	shld	dw1						useitem	99		99	state		212	1	1	dyewhite1			1	1	dyed1			1	1																																																																					0
-Black	1			100	16	385	0		2	shld	db1						useitem	99		99	state		213	1	1	dyeblack1			1	1	dyed1			1	1																																																																					0
-Dark Blue	1			100	16	385	0		2	shld	db2						useitem	99		99	state		214	1	1	dyedarkblue1			1	1	dyed1			1	1																																																																					0
-Crystal Blue	1			100	16	385	0		2	shld	dc1						useitem	99		99	state		215	1	1	dyecblue1			1	1	dyed1			1	1																																																																					0
-Light Red	1			100	16	385	0		2	shld	dl2						useitem	99		99	state		216	1	1	dyelightred1			1	1	dyed1			1	1																																																																					0
-Crystal Red	1			100	16	385	0		2	shld	dc2						useitem	99		99	state		217	1	1	dyecred1			1	1	dyed1			1	1																																																																					0
-Light Green	1			100	16	385	0		2	shld	dl3						useitem	99		99	state		218	1	1	dyelightgreen1			1	1	dyed1			1	1																																																																					0
-Dark Green	1			100	16	385	0		2	shld	dd3						useitem	99		99	state		219	1	1	dyedarkgreen1			1	1	dyed1			1	1																																																																					0
-Dark Yellow	1			100	16	385	0		2	shld	dd4						useitem	99		99	state		220	1	1	dyedarkyellow1			1	1	dyed1			1	1																																																																					0
-Light Purple	1			100	16	385	0		2	shld	dl6						useitem	99		99	state		221	1	1	dyelightpurple1			1	1	dyed1			1	1																																																																					0
-Dark Purple	1			100	16	385	0		2	shld	dd6						useitem	99		99	state		222	1	1	dyedarkpurple1			1	1	dyed1			1	1																																																																					0
-Orange	1			100	16	385	0		2	shld	do1						useitem	99		99	state		223	1	1	dyeorange1			1	1	dyed1			1	1																																																																					0
-Remove White	1			100	18	364	1		2	shld	1dr						useitem	99		99	state		212	-1	-1	dyewhite1			-1	-1	dyed1			-1	-1																																																																					0
-Remove Black	1			100	18	367	1		2	shld	1dr						useitem	99		99	state		213	-1	-1	dyeblack1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DB	1			100	18	369	1		2	shld	1dr						useitem	99		99	state		214	-1	-1	dyedarkblue1			-1	-1	dyed1			-1	-1																																																																					0
-Remove CB	1			100	18	370	1		2	shld	1dr						useitem	99		99	state		215	-1	-1	dyecblue1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LR	1			100	18	371	1		2	shld	1dr						useitem	99		99	state		216	-1	-1	dyelightred1			-1	-1	dyed1			-1	-1																																																																					0
-Remove CR	1			100	18	373	1		2	shld	1dr						useitem	99		99	state		217	-1	-1	dyecred1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LGr	1			100	18	374	1		2	shld	1dr						useitem	99		99	state		218	-1	-1	dyelightgreen1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DGr	1			100	18	375	1		2	shld	1dr						useitem	99		99	state		219	-1	-1	dyedarkgreen1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DY	1			100	18	378	1		2	shld	1dr						useitem	99		99	state		220	-1	-1	dyedarkyellow1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LP	1			100	18	381	1		2	shld	1dr						useitem	99		99	state		221	-1	-1	dyelightpurple1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DP	1			100	18	382	1		2	shld	1dr						useitem	99		99	state		222	-1	-1	dyedarkpurple1			-1	-1	dyed1			-1	-1																																																																					0
-Remove Orange	1			100	18	383	1		2	shld	1dr						useitem	99		99	state		223	-1	-1	dyeorange1			-1	-1	dyed1			-1	-1																																																																					0
-White	1			100	16	385	0		2	weap	dw1						useitem	99		99	state		236	1	1	dyewhite1			1	1	dyed1			1	1																																																																					0
-Black	1			100	16	385	0		2	weap	db1						useitem	99		99	state		237	1	1	dyeblack1			1	1	dyed1			1	1																																																																					0
-Dark Blue	1			100	16	385	0		2	weap	db2						useitem	99		99	state		238	1	1	dyedarkblue1			1	1	dyed1			1	1																																																																					0
-Crystal Blue	1			100	16	385	0		2	weap	dc1						useitem	99		99	state		239	1	1	dyecblue1			1	1	dyed1			1	1																																																																					0
-Light Red	1			100	16	385	0		2	weap	dl2						useitem	99		99	state		240	1	1	dyelightred1			1	1	dyed1			1	1																																																																					0
-Crystal Red	1			100	16	385	0		2	weap	dc2						useitem	99		99	state		241	1	1	dyecred1			1	1	dyed1			1	1																																																																					0
-Light Green	1			100	16	385	0		2	weap	dl3						useitem	99		99	state		242	1	1	dyelightgreen1			1	1	dyed1			1	1																																																																					0
-Dark Green	1			100	16	385	0		2	weap	dd3						useitem	99		99	state		243	1	1	dyedarkgreen1			1	1	dyed1			1	1																																																																					0
-Dark Yellow	1			100	16	385	0		2	weap	dd4						useitem	99		99	state		244	1	1	dyedarkyellow1			1	1	dyed1			1	1																																																																					0
-Light Purple	1			100	16	385	0		2	weap	dl6						useitem	99		99	state		245	1	1	dyelightpurple1			1	1	dyed1			1	1																																																																					0
-Dark Purple	1			100	16	385	0		2	weap	dd6						useitem	99		99	state		246	1	1	dyedarkpurple1			1	1	dyed1			1	1																																																																					0
-Orange	1			100	16	385	0		2	weap	do1						useitem	99		99	state		247	1	1	dyeorange1			1	1	dyed1			1	1																																																																					0
-Remove White	1			100	18	364	1		2	weap	1dr						useitem	99		99	state		236	-1	-1	dyewhite1			-1	-1	dyed1			-1	-1																																																																					0
-Remove Black	1			100	18	367	1		2	weap	1dr						useitem	99		99	state		237	-1	-1	dyeblack1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DB	1			100	18	369	1		2	weap	1dr						useitem	99		99	state		238	-1	-1	dyedarkblue1			-1	-1	dyed1			-1	-1																																																																					0
-Remove CB	1			100	18	370	1		2	weap	1dr						useitem	99		99	state		239	-1	-1	dyecblue1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LR	1			100	18	371	1		2	weap	1dr						useitem	99		99	state		240	-1	-1	dyelightred1			-1	-1	dyed1			-1	-1																																																																					0
-Remove CR	1			100	18	373	1		2	weap	1dr						useitem	99		99	state		241	-1	-1	dyecred1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LGr	1			100	18	374	1		2	weap	1dr						useitem	99		99	state		242	-1	-1	dyelightgreen1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DGr	1			100	18	375	1		2	weap	1dr						useitem	99		99	state		243	-1	-1	dyedarkgreen1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DY	1			100	18	378	1		2	weap	1dr						useitem	99		99	state		244	-1	-1	dyedarkyellow1			-1	-1	dyed1			-1	-1																																																																					0
-Remove LP	1			100	18	381	1		2	weap	1dr						useitem	99		99	state		245	-1	-1	dyelightpurple1			-1	-1	dyed1			-1	-1																																																																					0
-Remove DP	1			100	18	382	1		2	weap	1dr						useitem	99		99	state		246	-1	-1	dyedarkpurple1			-1	-1	dyed1			-1	-1																																																																					0
-Remove Orange	1			100	18	383	1		2	weap	1dr						useitem	99		99	state		247	-1	-1	dyeorange1			-1	-1	dyed1			-1	-1																																																																					0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
+Remove Black	1			100	18	365	1		2	tors	1dr						useitem	99		99	state		192	-1	-1	dyeblack1			-1	-1	dyed1			-1	-1																																																																					0
+Remove CB	1			100	18	366	1		2	tors	1dr						useitem	99		99	state		193	-1	-1	dyecblue1			-1	-1	dyed1			-1	-1																																																																					0
+Remove CR	1			100	18	367	1		2	tors	1dr						useitem	99		99	state		194	-1	-1	dyecred1			-1	-1	dyed1			-1	-1																																																																					0
+Remove LGr	1			100	18	368	1		2	tors	1dr						useitem	99		99	state		195	-1	-1	dyelightgreen1			-1	-1	dyed1			-1	-1																																																																					0
+Remove DY	1			100	18	369	1		2	tors	1dr						useitem	99		99	state		196	-1	-1	dyedarkyellow1			-1	-1	dyed1			-1	-1																																																																					0
+Remove LP	1			100	18	370	1		2	tors	1dr						useitem	99		99	state		197	-1	-1	dyelightpurple1			-1	-1	dyed1			-1	-1																																																																					0
+Remove DP	1			100	18	371	1		2	tors	1dr						useitem	99		99	state		198	-1	-1	dyedarkpurple1			-1	-1	dyed1			-1	-1																																																																					0
+Remove Orange	1			100	18	372	1		2	tors	1dr						useitem	99		99	state		199	-1	-1	dyeorange1			-1	-1	dyed1			-1	-1																																																																					0
+White	1			100	16	373	0		2	helm	dw1						useitem	99		99	state		209	1	1	dyewhite1			1	1	dyed1			1	1																																																																					0
+Black	1			100	16	373	0		2	helm	db1						useitem	99		99	state		210	1	1	dyeblack1			1	1	dyed1			1	1																																																																					0
+Crystal Blue	1			100	16	373	0		2	helm	dc1						useitem	99		99	state		211	1	1	dyecblue1			1	1	dyed1			1	1																																																																					0
+Crystal Red	1			100	16	373	0		2	helm	dc2						useitem	99		99	state		212	1	1	dyecred1			1	1	dyed1			1	1																																																																					0
+Light Green	1			100	16	373	0		2	helm	dl3						useitem	99		99	state		213	1	1	dyelightgreen1			1	1	dyed1			1	1																																																																					0
+Dark Yellow	1			100	16	373	0		2	helm	dd4						useitem	99		99	state		214	1	1	dyedarkyellow1			1	1	dyed1			1	1																																																																					0
+Light Purple	1			100	16	373	0		2	helm	dl6						useitem	99		99	state		215	1	1	dyelightpurple1			1	1	dyed1			1	1																																																																					0
+Dark Purple	1			100	16	373	0		2	helm	dd6						useitem	99		99	state		216	1	1	dyedarkpurple1			1	1	dyed1			1	1																																																																					0
+Orange	1			100	16	373	0		2	helm	do1						useitem	99		99	state		217	1	1	dyeorange1			1	1	dyed1			1	1																																																																					0
+Remove White	1			100	18	364	1		2	helm	1dr						useitem	99		99	state		209	-1	-1	dyewhite1			-1	-1	dyed1			-1	-1																																																																					0
+Remove Black	1			100	18	365	1		2	helm	1dr						useitem	99		99	state		210	-1	-1	dyeblack1			-1	-1	dyed1			-1	-1																																																																					0
+Remove CB	1			100	18	366	1		2	helm	1dr						useitem	99		99	state		211	-1	-1	dyecblue1			-1	-1	dyed1			-1	-1																																																																					0
+Remove CR	1			100	18	367	1		2	helm	1dr						useitem	99		99	state		212	-1	-1	dyecred1			-1	-1	dyed1			-1	-1																																																																					0
+Remove LGr	1			100	18	368	1		2	helm	1dr						useitem	99		99	state		213	-1	-1	dyelightgreen1			-1	-1	dyed1			-1	-1																																																																					0
+Remove DY	1			100	18	369	1		2	helm	1dr						useitem	99		99	state		214	-1	-1	dyedarkyellow1			-1	-1	dyed1			-1	-1																																																																					0
+Remove LP	1			100	18	370	1		2	helm	1dr						useitem	99		99	state		215	-1	-1	dyelightpurple1			-1	-1	dyed1			-1	-1																																																																					0
+Remove DP	1			100	18	371	1		2	helm	1dr						useitem	99		99	state		216	-1	-1	dyedarkpurple1			-1	-1	dyed1			-1	-1																																																																					0
+Remove Orange	1			100	18	372	1		2	helm	1dr						useitem	99		99	state		217	-1	-1	dyeorange1			-1	-1	dyed1			-1	-1																																																																					0
+White	1			100	16	373	0		2	shld	dw1						useitem	99		99	state		200	1	1	dyewhite1			1	1	dyed1			1	1																																																																					0
+Black	1			100	16	373	0		2	shld	db1						useitem	99		99	state		201	1	1	dyeblack1			1	1	dyed1			1	1																																																																					0
+Crystal Blue	1			100	16	373	0		2	shld	dc1						useitem	99		99	state		202	1	1	dyecblue1			1	1	dyed1			1	1																																																																					0
+Crystal Red	1			100	16	373	0		2	shld	dc2						useitem	99		99	state		203	1	1	dyecred1			1	1	dyed1			1	1																																																																					0
+Light Green	1			100	16	373	0		2	shld	dl3						useitem	99		99	state		204	1	1	dyelightgreen1			1	1	dyed1			1	1																																																																					0
+Dark Yellow	1			100	16	373	0		2	shld	dd4						useitem	99		99	state		205	1	1	dyedarkyellow1			1	1	dyed1			1	1																																																																					0
+Light Purple	1			100	16	373	0		2	shld	dl6						useitem	99		99	state		206	1	1	dyelightpurple1			1	1	dyed1			1	1																																																																					0
+Dark Purple	1			100	16	373	0		2	shld	dd6						useitem	99		99	state		207	1	1	dyedarkpurple1			1	1	dyed1			1	1																																																																					0
+Orange	1			100	16	373	0		2	shld	do1						useitem	99		99	state		208	1	1	dyeorange1			1	1	dyed1			1	1																																																																					0
+Remove White	1			100	18	364	1		2	shld	1dr						useitem	99		99	state		200	-1	-1	dyewhite1			-1	-1	dyed1			-1	-1																																																																					0
+Remove Black	1			100	18	365	1		2	shld	1dr						useitem	99		99	state		201	-1	-1	dyeblack1			-1	-1	dyed1			-1	-1																																																																					0
+Remove CB	1			100	18	366	1		2	shld	1dr						useitem	99		99	state		202	-1	-1	dyecblue1			-1	-1	dyed1			-1	-1																																																																					0
+Remove CR	1			100	18	367	1		2	shld	1dr						useitem	99		99	state		203	-1	-1	dyecred1			-1	-1	dyed1			-1	-1																																																																					0
+Remove LGr	1			100	18	368	1		2	shld	1dr						useitem	99		99	state		204	-1	-1	dyelightgreen1			-1	-1	dyed1			-1	-1																																																																					0
+Remove DY	1			100	18	369	1		2	shld	1dr						useitem	99		99	state		205	-1	-1	dyedarkyellow1			-1	-1	dyed1			-1	-1																																																																					0
+Remove LP	1			100	18	370	1		2	shld	1dr						useitem	99		99	state		206	-1	-1	dyelightpurple1			-1	-1	dyed1			-1	-1																																																																					0
+Remove DP	1			100	18	371	1		2	shld	1dr						useitem	99		99	state		207	-1	-1	dyedarkpurple1			-1	-1	dyed1			-1	-1																																																																					0
+Remove Orange	1			100	18	372	1		2	shld	1dr						useitem	99		99	state		208	-1	-1	dyeorange1			-1	-1	dyed1			-1	-1																																																																					0
+White	1			100	16	373	0		2	weap	dw1						useitem	99		99	state		218	1	1	dyewhite1			1	1	dyed1			1	1																																																																					0
+Black	1			100	16	373	0		2	weap	db1						useitem	99		99	state		219	1	1	dyeblack1			1	1	dyed1			1	1																																																																					0
+Crystal Blue	1			100	16	373	0		2	weap	dc1						useitem	99		99	state		220	1	1	dyecblue1			1	1	dyed1			1	1																																																																					0
+Crystal Red	1			100	16	373	0		2	weap	dc2						useitem	99		99	state		221	1	1	dyecred1			1	1	dyed1			1	1																																																																					0
+Light Green	1			100	16	373	0		2	weap	dl3						useitem	99		99	state		222	1	1	dyelightgreen1			1	1	dyed1			1	1																																																																					0
+Dark Yellow	1			100	16	373	0		2	weap	dd4						useitem	99		99	state		223	1	1	dyedarkyellow1			1	1	dyed1			1	1																																																																					0
+Light Purple	1			100	16	373	0		2	weap	dl6						useitem	99		99	state		224	1	1	dyelightpurple1			1	1	dyed1			1	1																																																																					0
+Dark Purple	1			100	16	373	0		2	weap	dd6						useitem	99		99	state		225	1	1	dyedarkpurple1			1	1	dyed1			1	1																																																																					0
+Orange	1			100	16	373	0		2	weap	do1						useitem	99		99	state		226	1	1	dyeorange1			1	1	dyed1			1	1																																																																					0
+Remove White	1			100	18	364	1		2	weap	1dr						useitem	99		99	state		218	-1	-1	dyewhite1			-1	-1	dyed1			-1	-1																																																																					0
+Remove Black	1			100	18	365	1		2	weap	1dr						useitem	99		99	state		219	-1	-1	dyeblack1			-1	-1	dyed1			-1	-1																																																																					0
+Remove CB	1			100	18	366	1		2	weap	1dr						useitem	99		99	state		220	-1	-1	dyecblue1			-1	-1	dyed1			-1	-1																																																																					0
+Remove CR	1			100	18	367	1		2	weap	1dr						useitem	99		99	state		221	-1	-1	dyecred1			-1	-1	dyed1			-1	-1																																																																					0
+Remove LGr	1			100	18	368	1		2	weap	1dr						useitem	99		99	state		222	-1	-1	dyelightgreen1			-1	-1	dyed1			-1	-1																																																																					0
+Remove DY	1			100	18	369	1		2	weap	1dr						useitem	99		99	state		223	-1	-1	dyedarkyellow1			-1	-1	dyed1			-1	-1																																																																					0
+Remove LP	1			100	18	370	1		2	weap	1dr						useitem	99		99	state		224	-1	-1	dyelightpurple1			-1	-1	dyed1			-1	-1																																																																					0
+Remove DP	1			100	18	371	1		2	weap	1dr						useitem	99		99	state		225	-1	-1	dyedarkpurple1			-1	-1	dyed1			-1	-1																																																																					0
+Remove Orange	1			100	18	372	1		2	weap	1dr						useitem	99		99	state		226	-1	-1	dyeorange1			-1	-1	dyed1			-1	-1																																																																					0

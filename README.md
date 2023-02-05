@@ -112,6 +112,8 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 10% Faster Hit Recovery (was 8%)
 - OTHER
 - Rebalanced Rifts drops and monster HP
+   - Dolls, Souls, Wraiths, Storm Casters and Swarms have better drop rate in Rifts
+- First Revision of Dyes implemented
 
 ## Characters
 - Walking is the same as running

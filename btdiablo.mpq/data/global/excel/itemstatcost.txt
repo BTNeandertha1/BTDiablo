@@ -364,24 +364,12 @@ corrupted	361		1	10	10													22	0	10	1	3	0														254	3		StrCorrupte
 corruptordesc	362		1	10	10													22	0	10	1	3	0																												0
 augmented	363		1	10	10													22	0	10	1	3	0														255	3	2	StrAugmented	StrAugmented										0
 dyewhite	364			3														22	1	10	1	3	0														256	3	 	dyewhite	dyewhite										0
-dyelightgrey	365			3														3	1	3	1																256	3		dyelightgrey	dyelightgrey										0
-dyedarkgrey	366			3														3	1	3	1																256	3		dyedarkgrey	dyedarkgrey										0
-dyeblack	367			3														3	1	3	1																256	3		dyeblack	dyeblack										0
-dyelightblue	368			3														3	1	3	1																256	3		dyelightblue	dyelightblue										0
-dyedarkblue	369			3														3	1	3	1																256	3		dyedarkblue	dyedarkblue										0
-dyecblue	370			3														3	1	3	1																256	3		dyecblue	dyecblue										0
-dyelightred	371			3														3	1	3	1																256	3		dyelightred	dyelightred										0
-dyedarkred	372			3														3	1	3	1																256	3		dyedarkred	dyedarkred										0
-dyecred	373			3														3	1	3	1																256	3		dyecred	dyecred										0
-dyelightgreen	374			3														3	1	3	1																256	3		dyelightgreen	dyelightgreen										0
-dyedarkgreen	375			3														3	1	3	1																256	3		dyedarkgreen	dyedarkgreen										0
-dyecgreen	376			3														3	1	3	1																256	3		dyecgreen	dyecgreen										0
-dyelightyellow	377			3														3	1	3	1																256	3		dyelightyellow	dyelightyellow										0
-dyedarkyellow	378			3														3	1	3	1																256	3		dyedarkyellow	dyedarkyellow										0
-dyelightgold	379			3														3	1	3	1																256	3		dyelightgold	dyelightgold										0
-dyedarkgold	380			3														3	1	3	1																256	3		dyedarkgold	dyedarkgold										0
-dyelightpurple	381			3														3	1	3	1																256	3		dyelightpurple	dyelightpurple										0
-dyedarkpurple	382			3														3	1	3	1																256	3		dyedarkpurple	dyedarkpurple										0
-dyeorange	383			3														3	1	3	1																256	3		dyeorange	dyeorange										0
-dyebrightwhite	384			3														3	1	3	1																256	3		dyebrightwhite	dyebrightwhite										0
-dyed	385			3														22	1	10	1	3	0														256	0		dyed	dyed										0
+dyeblack	365			3														3	1	3	1																256	3		dyeblack	dyeblack										0
+dyecblue	366			3														3	1	3	1																256	3		dyecblue	dyecblue										0
+dyecred	367			3														3	1	3	1																256	3		dyecred	dyecred										0
+dyelightgreen	368			3														3	1	3	1																256	3		dyelightgreen	dyelightgreen										0
+dyedarkyellow	369			3														3	1	3	1																256	3		dyedarkyellow	dyedarkyellow										0
+dyelightpurple	370			3														3	1	3	1																256	3		dyelightpurple	dyelightpurple										0
+dyedarkpurple	371			3														3	1	3	1																256	3		dyedarkpurple	dyedarkpurple										0
+dyeorange	372			3														3	1	3	1																256	3		dyeorange	dyeorange										0
+dyed	373			3														22	1	10	1	3	0														256	0		dyed	dyed										0

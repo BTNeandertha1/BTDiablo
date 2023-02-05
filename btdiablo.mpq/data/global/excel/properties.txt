@@ -275,24 +275,12 @@ corruption2	1	1	corruptordesc																																0
 randclassskill2	1	36	item_addclassskills		2																									+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0
 augmented1	1	1	augmented																																0
 dyewhite1	1	15	dyewhite																																0
-dyelightgrey1	1	15	dyelightgrey																																0
-dyedarkgrey1	1	15	dyedarkgrey																																0
 dyeblack1	1	15	dyeblack																																0
-dyelightblue1	1	15	dyelightblue																																0
-dyedarkblue1	1	15	dyedarkblue																																0
 dyecblue1	1	15	dyecblue																																0
-dyelightred1	1	15	dyelightred																																0
-dyedarkred1	1	15	dyedarkred																																0
 dyecred1	1	15	dyecred																																0
 dyelightgreen1	1	15	dyelightgreen																																0
-dyedarkgreen1	1	15	dyedarkgreen																																0
-dyecgreen1	1	15	dyecgreen																																0
-dyelightyellow1	1	15	dyelightyellow																																0
 dyedarkyellow1	1	15	dyedarkyellow																																0
-dyelightgold1	1	15	dyelightgold																																0
-dyedarkgold1	1	15	dyedarkgold																																0
 dyelightpurple1	1	15	dyelightpurple																																0
 dyedarkpurple1	1	15	dyedarkpurple																																0
 dyeorange1	1	15	dyeorange																																0
-dyebrightwhite1	1	15	dyebrightwhite																																0
 dyed1	1	15	dyed																																0
