@@ -31822,5 +31822,22 @@
     "ptBR": "Ping ruim",
     "ruRU": "Посредственный пинг",
     "zhCN": "网络连接状态较差"
+  },
+  {
+    "id": 29000,
+    "Key": "strUiCubeRecipes",
+    "enUS": "Cube Recipes",
+    "zhTW": "立方体食谱",
+    "deDE": "Würfelrezepte",
+    "esES": "Recetas de cubos",
+    "frFR": "Recettes de cubes",
+    "itIT": "Ricette di cubo",
+    "koKR": "큐브 레시피",
+    "plPL": "Przepisy na kostki",
+    "esMX": "Recetas de cubos",
+    "jaJP": "キューブレシピ",
+    "ptBR": "Receitas de cubo",
+    "ruRU": "Кубические рецепты",
+    "zhCN": "立方体食谱"
   }
 ]

@@ -44,6 +44,16 @@
             },
         },
         {
+            "type": "ButtonWidget", "name": "cuberecipes",
+            "fields": {
+                "rect": { "x": 545, "y": 1340 },
+                "filename": "PANEL\\hud_02\\QuestLog",
+                "tooltipString": "@strUiCubeRecipes",
+                "hoveredFrame": 2,
+                "onClickMessage": "PanelManager:OpenPanel:CubeRecipes",
+            },
+        },
+        {
             "type": "ButtonWidget", "name": "close",
             "fields": {
                 "rect": { "x": 1075, "y": 9 },
