@@ -56,7 +56,16 @@
                                     "fields": {
                                         "text": "Ingredients",
                                         "style": "$StyleSettingsTitle"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result Header",
@@ -75,7 +84,16 @@
                                     "fields": {
                                         "text": "3 El-Lem Runes + Stamina Potion",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -94,7 +112,25 @@
                                     "fields": {
                                         "text": "2 Pul-Cham Runes + Stamina Potion",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -113,7 +149,16 @@
                                     "fields": {
                                         "text": "3 Perfect Skulls + Rare Item",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -132,7 +177,16 @@
                                     "fields": {
                                         "text": "1 Rare Item + Unique Ring",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -151,7 +205,16 @@
                                     "fields": {
                                         "text": "1 Ort Rune + Weapon",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -170,7 +233,16 @@
                                     "fields": {
                                         "text": "1 Ral Rune + Armor",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -189,7 +261,16 @@
                                     "fields": {
                                         "text": "1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + Body Armor",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -208,7 +289,16 @@
                                     "fields": {
                                         "text": "1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + Weapon",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -227,7 +317,16 @@
                                     "fields": {
                                         "text": "1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + Helm",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -246,7 +345,16 @@
                                     "fields": {
                                         "text": "1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + Shield",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -265,7 +373,16 @@
                                     "fields": {
                                         "text": "Wirt's Leg",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -284,7 +401,16 @@
                                     "fields": {
                                         "text": "ANY 3 Keys",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -303,7 +429,16 @@
                                     "fields": {
                                         "text": "3 Keys of Terror + Scroll of Town Portal",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -322,7 +457,16 @@
                                     "fields": {
                                         "text": "3 Keys of Hate + Scroll of Town Portal",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -341,7 +485,16 @@
                                     "fields": {
                                         "text": "3 Keys of Destruction + Scroll of Town Portal",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -360,7 +513,16 @@
                                     "fields": {
                                         "text": "ANY 3 Organs",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -379,7 +541,16 @@
                                     "fields": {
                                         "text": "3 Twisted Essence of Suffering",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -398,7 +569,16 @@
                                     "fields": {
                                         "text": "3 Charged Essence of Hatred",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -417,7 +597,16 @@
                                     "fields": {
                                         "text": "3 Burning Essence of Terror",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -436,7 +625,16 @@
                                     "fields": {
                                         "text": "3 Festering Essence of Destruction",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -455,7 +653,16 @@
                                     "fields": {
                                         "text": "1 of each Essence",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -474,7 +681,16 @@
                                     "fields": {
                                         "text": "99 stacked Essences (not Festering) + Stamina Potion",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -493,7 +709,16 @@
                                     "fields": {
                                         "text": "3 Magic Charms of the same type",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -512,7 +737,16 @@
                                     "fields": {
                                         "text": "Hellfire Ashes + Annihilus",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -531,7 +765,16 @@
                                     "fields": {
                                         "text": "2 Hellfire Ashes + Hellfire Torch",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -550,7 +793,16 @@
                                     "fields": {
                                         "text": "Hellfire Ashes + Gheed's Fortune",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",

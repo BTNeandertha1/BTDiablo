@@ -46,7 +46,7 @@
         {
             "type": "ButtonWidget", "name": "cuberecipes",
             "fields": {
-                "rect": { "x": 545, "y": 1340 },
+                "rect": { "x": 543, "y": 1340 },
                 "filename": "PANEL\\hud_02\\QuestLog",
                 "tooltipString": "@strUiCubeRecipes",
                 "hoveredFrame": 2,

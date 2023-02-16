@@ -56,7 +56,16 @@
                                     "fields": {
                                         "text": "Ingredients",
                                         "style": "$StyleSettingsTitle"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result Header",
@@ -75,7 +84,16 @@
                                     "fields": {
                                         "text": "Rune + Flawed gem",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -94,7 +112,16 @@
                                     "fields": {
                                         "text": "3 Perfect Skulls + Rare Item",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -113,7 +140,16 @@
                                     "fields": {
                                         "text": "1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + Body Armor",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -132,7 +168,16 @@
                                     "fields": {
                                         "text": "1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + Weapon",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -151,7 +196,16 @@
                                     "fields": {
                                         "text": "1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + Helm",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -170,7 +224,16 @@
                                     "fields": {
                                         "text": "1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + Shield",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -189,7 +252,16 @@
                                     "fields": {
                                         "text": "99 stacked Flawless Gems + Stamina Potion",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -208,7 +280,16 @@
                                     "fields": {
                                         "text": "9 stacked Perfect Gems + Perfect Gem of your choosing",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -227,7 +308,16 @@
                                     "fields": {
                                         "text": "99 stacked Perfect Gems + Perfect Gem of your choosing",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -246,7 +336,16 @@
                                     "fields": {
                                         "text": "100 stacked Perfect Topaz + Stamina Potion",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -265,7 +364,16 @@
                                     "fields": {
                                         "text": "100 stacked Perfect Diamond + Stamina Potion",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",

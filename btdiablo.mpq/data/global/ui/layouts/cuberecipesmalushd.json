@@ -56,7 +56,16 @@
                                     "fields": {
                                         "text": "Ingredients",
                                         "style": "$StyleSettingsTitle"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result Header",
@@ -75,7 +84,16 @@
                                     "fields": {
                                         "text": "Charsi's Malus + Quiver",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -94,7 +112,16 @@
                                     "fields": {
                                         "text": "Charsi's Malus + 9 Jewels",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -113,7 +140,16 @@
                                     "fields": {
                                         "text": "Charsi's Malus + Hellfire Torch",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -132,7 +168,16 @@
                                     "fields": {
                                         "text": "Charsi's Malus + Gheed's Fortune",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -151,7 +196,16 @@
                                     "fields": {
                                         "text": "Charsi's Malus + Annihilus",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -170,7 +224,16 @@
                                     "fields": {
                                         "text": "Charsi's Malus + Eth Rune (+ item + gem + rune + jewel)",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -189,7 +252,16 @@
                                     "fields": {
                                         "text": "Zod Rune + SoJ + Sur Rune + SoH + Charsi's Malus + Body Armor",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -208,7 +280,16 @@
                                     "fields": {
                                         "text": "Cham Rune + Ist Rune + Lem Rune + SoH + Charsi's Malus + any gear piece",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
@@ -227,7 +308,16 @@
                                     "fields": {
                                         "text": "Gul Rune + Fal Rune + SoH + Charsi's Malus + any gear piece",
                                         "style": "$StyleSettingsText"
-                                    }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
