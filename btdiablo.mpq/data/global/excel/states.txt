@@ -188,43 +188,44 @@ cooldown	185																																																																				
 sharedstash	186																																																																								0
 hidedead	187																											1	1			1																																									0
 impale	188																																																																								0
-potion_magic_find	189																																										impregnated							item_magicbonus																							0
-special_aura	190																																										light_jet																														0
-dyewhite	191																																																						tors	whit																	0
-dyeblack	192																																																						tors	blac																	0
-dyecblue	193																																																						tors	cblu																	0
-dyecred	194																																																						tors	cred																	0
-dyelightgreen	195																																																						tors	lgrn																	0
-dyedarkyellow	196																																																						tors	dyel																	0
-dyelightpurple	197																																																						tors	lpur																	0
-dyedarkpurple	198																																																						tors	dpur																	0
-dyeorange	199																																																						tors	oran																	0
-dyewhiteS	200																																																						shld	whit																	0
-dyeblackS	201																																																						shld	blac																	0
-dyecblueS	202																																																						shld	cblu																	0
-dyecredS	203																																																						shld	cred																	0
-dyelightgreenS	204																																																						shld	lgrn																	0
-dyedarkyellowS	205																																																						shld	dyel																	0
-dyelightpurpleS	206																																																						shld	lpur																	0
-dyedarkpurpleS	207																																																						shld	dpur																	0
-dyeorangeS	208																																																						shld	oran																	0
-dyewhiteH	209																																																						helm	whit																	0
-dyeblackH	210																																																						helm	blac																	0
-dyecblueH	211																																																						helm	cblu																	0
-dyecredH	212																																																						helm	cred																	0
-dyelightgreenH	213																																																						helm	lgrn																	0
-dyedarkyellowH	214																																																						helm	dyel																	0
-dyelightpurpleH	215																																																						helm	lpur																	0
-dyedarkpurpleH	216																																																						helm	dpur																	0
-dyeorangeH	217																																																						helm	oran																	0
-dyewhiteW	218																																																						weap	whit																	0
-dyeblackW	219																																																						weap	blac																	0
-dyecblueW	220																																																						weap	cblu																	0
-dyecredW	221																																																						weap	cred																	0
-dyelightgreenW	222																																																						weap	lgrn																	0
-dyedarkyellowW	223																																																						weap	dyel																	0
-dyelightpurpleW	224																																																						weap	lpur																	0
-dyedarkpurpleW	225																																																						weap	dpur																	0
-dyeorangeW	226																																																						weap	oran																	0
-markbear	227	4																																					1				bloodlust_state																														0
-markwolf	228	5										1																											1				impregnated																														0
+desecrated	189																												1	1																																											0
+potion_magic_find	190																																										impregnated							item_magicbonus																							0
+special_aura	191																																										light_jet																														0
+dyewhite	192																																																						tors	whit																	0
+dyeblack	193																																																						tors	blac																	0
+dyecblue	194																																																						tors	cblu																	0
+dyecred	195																																																						tors	cred																	0
+dyelightgreen	196																																																						tors	lgrn																	0
+dyedarkyellow	197																																																						tors	dyel																	0
+dyelightpurple	198																																																						tors	lpur																	0
+dyedarkpurple	199																																																						tors	dpur																	0
+dyeorange	200																																																						tors	oran																	0
+dyewhiteS	201																																																						shld	whit																	0
+dyeblackS	202																																																						shld	blac																	0
+dyecblueS	203																																																						shld	cblu																	0
+dyecredS	204																																																						shld	cred																	0
+dyelightgreenS	205																																																						shld	lgrn																	0
+dyedarkyellowS	206																																																						shld	dyel																	0
+dyelightpurpleS	207																																																						shld	lpur																	0
+dyedarkpurpleS	208																																																						shld	dpur																	0
+dyeorangeS	209																																																						shld	oran																	0
+dyewhiteH	210																																																						helm	whit																	0
+dyeblackH	211																																																						helm	blac																	0
+dyecblueH	212																																																						helm	cblu																	0
+dyecredH	213																																																						helm	cred																	0
+dyelightgreenH	214																																																						helm	lgrn																	0
+dyedarkyellowH	215																																																						helm	dyel																	0
+dyelightpurpleH	216																																																						helm	lpur																	0
+dyedarkpurpleH	217																																																						helm	dpur																	0
+dyeorangeH	218																																																						helm	oran																	0
+dyewhiteW	219																																																						weap	whit																	0
+dyeblackW	220																																																						weap	blac																	0
+dyecblueW	221																																																						weap	cblu																	0
+dyecredW	222																																																						weap	cred																	0
+dyelightgreenW	223																																																						weap	lgrn																	0
+dyedarkyellowW	224																																																						weap	dyel																	0
+dyelightpurpleW	225																																																						weap	lpur																	0
+dyedarkpurpleW	226																																																						weap	dpur																	0
+dyeorangeW	227																																																						weap	oran																	0
+markbear	228	4																																					1				bloodlust_state																														0
+markwolf	229	5										1																											1				impregnated																														0

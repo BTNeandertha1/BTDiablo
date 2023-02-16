@@ -104,7 +104,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
-- Pushed Patch 2.6 to BTDiablo and removed Sunder Charms.
+- Fixed a bug where Terrorized Monsters had the Magic Find potion on them
 
 ## Characters
 - Walking is the same as running
