@@ -108,7 +108,7 @@
                         {
                             "type": "TextBoxWidget", "name": "MotDHeaderText",
                             "fields": {
-                                "text": "BTDiablo Feb 5th 2023",
+                                "text": "BTDiablo Feb 16th 2023",
                                 "fitToParent": true,
                                 "style": {
                                     "pointSize": "$MediumLargeFontSize",
@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Rift Rebalancing, Large and Grand Charm Affix changes\nDyes Implemented at Alkor!\nCorruption Brick Chance is 30%\nView Patch Notes in Discord",
+                                        "text": "Updated BTDiablo to Patch 2.6 and removed Sunder Charms\nCorruption Brick Chance is 30%\nView Patch Notes in Discord",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",

@@ -284,3 +284,10 @@ dyelightpurple1	1	15	dyelightpurple																																0
 dyedarkpurple1	1	15	dyedarkpurple																																0
 dyeorange1	1	15	dyeorange																																0
 dyed1	1	15	dyed																																0
+pierce-immunity-cold	1	1	item_pierce_cold_immunity																											Monster Cold Immunity is Sundered		Min %	Max %		0
+pierce-immunity-fire	1	1	item_pierce_fire_immunity																											Monster Fire Immunity is Sundered		Min %	Max %		0
+pierce-immunity-light	1	1	item_pierce_light_immunity																											Monster Lightning Immunity is Sundered		Min %	Max %		0
+pierce-immunity-poison	1	1	item_pierce_poison_immunity																											Monster Poison Immunity is Sundered		Min %	Max %		0
+pierce-immunity-damage	1	1	item_pierce_damage_immunity																											Monster Physical Immunity is Sundered		Min %	Max %		0
+pierce-immunity-magic	1	1	item_pierce_magic_immunity																											Monster Magic Immunity is Sundered		Min %	Max %		0
+charge-noconsume	1	1	item_charge_noconsume																											+#% chance for finishing moves to not consume charges		Min %	Max %		0
