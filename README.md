@@ -104,30 +104,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
-- ITEMS
-- Grand Charms
-   - Can get 21% Magic Find
-- Large Charms
-   - Can get 14% Magic Find
-   - Can get 22% Singular Resistance (example: 22 Cold Res)
-   - Added 1-3 Elemental Pierce
-   - 10% Faster Hit Recovery (was 8%)
-- RECIPES
-- 100 Perfect Amethyst + Stamina = 2 Unique Amulets
-- 100 Perfect Ruby + Stamina Potion = 2 Unique Rings
-- 100 Perfect Sapphire + Stamina = Unique Jewel
-- 100 Perfect Emerald + Stamina = Gheed's Fortune
-- Use dye in cube + weapon, shield, helm, or chest to recolor it, then use the bleach to remove.
-- 100 Perfect Amethyst + Stamina = 2 Unique Amulets
-- 100 Perfect Ruby + Stamina Potion = 2 Unique Rings
-- 100 Perfect Sapphire + Stamina = Unique Jewel
-- 100 Perfect Emerald + Stamina = Gheed's Fortune
-- Use dye in cube + weapon, shield, helm, or chest to recolor it, then use the bleach to remove.
-- OTHER
-- Rebalanced Rifts drops and monster HP
-   - Dolls, Souls, Wraiths, Storm Casters and Swarms have better drop rate in Rifts
-- First Revision of Dyes implemented
-   - Alkor sells dyes and bleach. 
+- Updated BTDiablo to Patch 2.6
+- Removed Sunder Charms
+- You might have to remove your Cosmetic Colors to update to 2.6 but then you can put them back after
+- Fixed a bug where Terrorized Monsters had the Magic Find potion on them
 
 ## Characters
 - Walking is the same as running
@@ -1085,6 +1065,7 @@ ORPHAN'S CALL
 	  - Healing Potion = Life Tap
 - Token of Absolution Sold at Akara 
 - Ormus now sells Stamina, Antidotes and Thawing Potions
+- Added Dyes and Bleach to Alkor
 
 ## Recipes
 - Rune Downgrading 1 to 1 (Flawed Gem + Rune = Downgrade)
@@ -1130,7 +1111,7 @@ ORPHAN'S CALL
 - 100 Stacked Perfect Sapphire + Stamina = Unique Jewel
 - 100 Stacked Perfect Emerald + Stamina = Gheed's Fortune
 - Use dye in cube + weapon, shield, helm, or chest to recolor it, then use the bleach to remove.
-
+   - NOTE: When applying dyes to sets, do not have any set items equipped!
 
 ## Endgame
 - Augment Recipes:
