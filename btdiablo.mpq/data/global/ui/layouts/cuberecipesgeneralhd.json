@@ -54,7 +54,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients Header",
                                     "fields": {
-                                        "text": "Ingredients",
+                                        "text": "@strIngredients",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -70,7 +70,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result Header",
                                     "fields": {
-                                        "text": "Result",
+                                        "text": "@strResult",
                                         "style": "$StyleSettingsTitle"
                                     }
                                 }
@@ -82,7 +82,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 El-Lem Runes + Stamina Potion",
+                                        "text": "@strRuneUpgradeLowIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -98,7 +98,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 tier higher Rune",
+                                        "text": "@strRuneUpgradeResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -110,18 +110,9 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "2 Pul-Cham Runes + Stamina Potion",
+                                        "text": "@strRuneUpgradeLowIngredient",
                                         "style": "$StyleSettingsText"
                                     },
-                                    "children": [
-                                        {
-                                            "type": "ImageWidget", "name": "Divider",
-                                            "fields": {
-                                                "rect": "$OptionsDividerRect",
-                                                "filename": "PauseMenu\\Divider"
-                                            }
-                                        }
-                                    ],
                                     "children": [
                                         {
                                             "type": "ImageWidget", "name": "Divider",
@@ -135,19 +126,19 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 tier higher Rune",
+                                        "text": "@strRuneUpgradeResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
                             ]
                         },
                         {
-                            "type": "TableRowWidget", "name": "rare_reroll",
+                            "type": "TableRowWidget", "name": "rare_reroll_low",
                             "children": [
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 Perfect Skulls + Rare Item",
+                                        "text": "@strRareRerollLowIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -163,19 +154,19 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 Random Low Quality Rare Item of the same type",
+                                        "text": "@strRareRerollLowResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
                             ]
                         },
                         {
-                            "type": "TableRowWidget", "name": "rare_reroll",
+                            "type": "TableRowWidget", "name": "rare_reroll_high",
                             "children": [
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Rare Item + Unique Ring",
+                                        "text": "@strRareRerollHighIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -191,7 +182,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 High Quality New Rare Item of the same type",
+                                        "text": "@strRareRerollHighResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -203,7 +194,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Ort Rune + Weapon",
+                                        "text": "@strItemRepairOrtIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -219,7 +210,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Fully Repaired and Recharged Weapon",
+                                        "text": "@strItemRepairOrtResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -231,7 +222,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Ral Rune + Armor",
+                                        "text": "@strItemRepairRalIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -247,7 +238,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Fully Repaired and Recharged Armor",
+                                        "text": "@strItemRepairRalResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -259,7 +250,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + Body Armor",
+                                        "text": "@strSocketRecipeArmorIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -275,7 +266,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Body Armor of same type",
+                                        "text": "@strSocketRecipeArmorResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -287,7 +278,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + Weapon",
+                                        "text": "@strSocketRecipeWeaponIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -303,7 +294,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Weapon of same type",
+                                        "text": "@strSocketRecipeWeaponResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -315,7 +306,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + Helm",
+                                        "text": "@strSocketRecipeHelmIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -331,7 +322,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Helm of same type",
+                                        "text": "@strSocketRecipeHelmResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -343,7 +334,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + Shield",
+                                        "text": "@strSocketRecipeShieldIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -359,7 +350,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Shield of same type",
+                                        "text": "@strSocketRecipeShieldResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -371,7 +362,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Wirt's Leg",
+                                        "text": "@strCowLevelIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -387,7 +378,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Portal to Secret Cow Level",
+                                        "text": "@strCowLevelResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -399,7 +390,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "ANY 3 Keys",
+                                        "text": "@strUberMiniPortalRandomIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -415,7 +406,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Random mini-Uber portal",
+                                        "text": "@strUberMiniPortalRandomResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -427,7 +418,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 Keys of Terror + Scroll of Town Portal",
+                                        "text": "@strUberMiniPortalLilithIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -443,7 +434,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Portal to Matron's Den",
+                                        "text": "@strUberMiniPortalLilithResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -455,7 +446,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 Keys of Hate + Scroll of Town Portal",
+                                        "text": "@strUberMiniPortalDurielIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -471,7 +462,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Portal to Forgotten Sands",
+                                        "text": "@strUberMiniPortalDurielResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -483,7 +474,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 Keys of Destruction + Scroll of Town Portal",
+                                        "text": "@strUberMiniPortalIzualIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -499,7 +490,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Portal to Furance of Pain",
+                                        "text": "@strUberMiniPortalIzualResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -511,7 +502,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "ANY 3 Organs",
+                                        "text": "@strUberPortalIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -527,7 +518,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Portal to Uber Tristram",
+                                        "text": "@strUberPortalResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -539,7 +530,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 Twisted Essence of Suffering",
+                                        "text": "@strTwistedEssenceIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -555,7 +546,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 Charged Essence of Hatred",
+                                        "text": "@strTwistedEssenceResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -567,7 +558,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 Charged Essence of Hatred",
+                                        "text": "@strChargedEssenceIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -583,7 +574,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 Burning Essence of Terror",
+                                        "text": "@strChargedEssenceResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -595,7 +586,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 Burning Essence of Terror",
+                                        "text": "@strBurningEssenceIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -611,7 +602,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 Festering Essence of Destruction",
+                                        "text": "@strBurningEssenceResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -623,7 +614,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 Festering Essence of Destruction",
+                                        "text": "@strFesteringEssenceIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -639,7 +630,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "3 Twisted Essence of Suffering",
+                                        "text": "@strFesteringEssenceResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -651,7 +642,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 of each Essence",
+                                        "text": "@strEachEssenceIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -667,7 +658,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 of each Uber key",
+                                        "text": "@strEachEssenceResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -679,7 +670,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "99 stacked Essences (not Festering) + Stamina Potion",
+                                        "text": "@strEssenceConvertNextTierIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -695,7 +686,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "33 Essences of the next tier",
+                                        "text": "@strEssenceConvertNextTierResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -707,7 +698,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 Magic Charms of the same type",
+                                        "text": "@strMagicCharmRerollIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -723,7 +714,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 Magic Charm of the same type",
+                                        "text": "@strMagicCharmRerollResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -735,7 +726,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Hellfire Ashes + Annihilus",
+                                        "text": "@strAnniCorruptIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -751,7 +742,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Corrupted Annihilus",
+                                        "text": "@strAnniCorruptResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -763,7 +754,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "2 Hellfire Ashes + Hellfire Torch",
+                                        "text": "@strTorchCorruptIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -779,7 +770,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Corrupted Hellfire Torch",
+                                        "text": "@strTorchCorruptResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -791,7 +782,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Hellfire Ashes + Gheed's Fortune",
+                                        "text": "@strGheedsCorruptIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -807,7 +798,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Corrupted Gheed's Fortune",
+                                        "text": "@strGheedsCorruptResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }

@@ -54,7 +54,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients Header",
                                     "fields": {
-                                        "text": "Ingredients",
+                                        "text": "@strIngredients",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -70,7 +70,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result Header",
                                     "fields": {
-                                        "text": "Result",
+                                        "text": "@strResult",
                                         "style": "$StyleSettingsTitle"
                                     }
                                 }
@@ -82,7 +82,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Rune + Flawed gem",
+                                        "text": "@strRuneDowngradeIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -98,7 +98,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 tier lower Rune",
+                                        "text": "@strRuneDowngradeResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -110,7 +110,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 El-Lem Runes + Stamina Potion",
+                                        "text": "@strRuneUpgradeLowIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -126,7 +126,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 tier higher Rune",
+                                        "text": "@strRuneUpgradeResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -138,7 +138,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "2 Pul-Cham Runes + Stamina Potion",
+                                        "text": "@strRuneUpgradeLowIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -154,7 +154,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 tier higher Rune",
+                                        "text": "@strRuneUpgradeResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -166,7 +166,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Ort Rune + Weapon",
+                                        "text": "@strItemRepairOrtIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -182,7 +182,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Fully Repaired and Recharged Weapon",
+                                        "text": "@strItemRepairOrtResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -194,7 +194,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Ral Rune + Armor",
+                                        "text": "@strItemRepairRalIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -210,7 +210,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Fully Repaired and Recharged Armor",
+                                        "text": "@strItemRepairRalResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -222,7 +222,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + Body Armor",
+                                        "text": "@strSocketRecipeArmorIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -238,7 +238,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Body Armor of same type",
+                                        "text": "@strSocketRecipeArmorResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -250,7 +250,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + Weapon",
+                                        "text": "@strSocketRecipeWeaponIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -266,7 +266,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Weapon of same type",
+                                        "text": "@strSocketRecipeWeaponResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -278,7 +278,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + Helm",
+                                        "text": "@strSocketRecipeHelmIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -294,7 +294,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Helm of same type",
+                                        "text": "@strSocketRecipeHelmResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -306,7 +306,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + Shield",
+                                        "text": "@strSocketRecipeShieldIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -322,7 +322,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Shield of same type",
+                                        "text": "@strSocketRecipeShieldResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -334,7 +334,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Charsi's Malus + Eth Rune (+ item + gem + rune + jewel)",
+                                        "text": "@strCraftingEthIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -350,7 +350,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "When crafting, add Charsi's Malus + Eth Rune to make the result Ethereal",
+                                        "text": "@strCraftingEthResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -362,7 +362,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "99 stacked El-Lem Runes + Stamina Potion",
+                                        "text": "@strStackConversionLowIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -378,7 +378,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "33 Runes of the next tier",
+                                        "text": "@strStackConversionLowResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -390,7 +390,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "100 stacked Pul-Cham Runes + Stamina Potion",
+                                        "text": "@strStackConversionHighIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -406,7 +406,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "50 Runes of the next tier",
+                                        "text": "@strStackConversionHighResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -418,7 +418,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "100 stacked Perfect Topaz + Stamina Potion",
+                                        "text": "@strPerfectGemVexIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -434,7 +434,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 Vex Rune",
+                                        "text": "@strPerfectGemVexResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -446,7 +446,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Zod Rune + SoJ + Sur Rune + SoH + Charsi's Malus + Body Armor",
+                                        "text": "@strAugmentZodIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -462,7 +462,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Body Armor with added affixes of +1 to Teleport, +25% MF, +50% GF, +1% XP",
+                                        "text": "@strAugmentZodResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -474,7 +474,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Cham Rune + Ist Rune + Lem Rune + SoH + Charsi's Malus + any gear piece",
+                                        "text": "@strAugmentChamIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -490,7 +490,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Gear piece with added affixes of +25% MF, +50% GF, +1% XP",
+                                        "text": "@strAugmentChamResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -502,7 +502,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Gul Rune + Fal Rune + SoH + Charsi's Malus + any gear piece",
+                                        "text": "@strAugmentGulIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -518,7 +518,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Gear piece with added affixes of +200 AR, 10% Bonus To AR",
+                                        "text": "@strAugmentGulResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }

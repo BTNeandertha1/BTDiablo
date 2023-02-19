@@ -118,7 +118,7 @@
                             "fields": {
                                 "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
                                 "onClickMessage": "PanelManager:ClosePanel:CubeRecipes",
-                                "textString": "Close",
+                                "textString": "@strClose",
                                 "hoveredFrame": 3,
                                 "pointSize": "$MediumLargeFontSize",
                                 "textColor": "$LightButtonTextColor",

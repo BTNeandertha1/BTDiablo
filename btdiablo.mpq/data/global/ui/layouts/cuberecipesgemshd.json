@@ -54,7 +54,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients Header",
                                     "fields": {
-                                        "text": "Ingredients",
+                                        "text": "@strIngredients",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -70,7 +70,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result Header",
                                     "fields": {
-                                        "text": "Result",
+                                        "text": "@strResult",
                                         "style": "$StyleSettingsTitle"
                                     }
                                 }
@@ -82,7 +82,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Rune + Flawed gem",
+                                        "text": "@strRuneDowngradeIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -98,19 +98,19 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 lower level Rune",
+                                        "text": "@strRuneDowngradeResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
                             ]
                         },
                         {
-                            "type": "TableRowWidget", "name": "rare_reroll",
+                            "type": "TableRowWidget", "name": "rare_reroll_low",
                             "children": [
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 Perfect Skulls + Rare Item",
+                                        "text": "@strRareRerollLowIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -126,7 +126,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 Random Low Quality Rare Item of the same type",
+                                        "text": "@strRareRerollLowResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -138,7 +138,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + Body Armor",
+                                        "text": "@strSocketRecipeArmorIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -154,7 +154,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Body Armor of same type",
+                                        "text": "@strSocketRecipeArmorResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -166,7 +166,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + Weapon",
+                                        "text": "@strSocketRecipeWeaponIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -182,7 +182,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Weapon of same type",
+                                        "text": "@strSocketRecipeWeaponResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -194,7 +194,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + Helm",
+                                        "text": "@strSocketRecipeHelmIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -210,7 +210,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Helm of same type",
+                                        "text": "@strSocketRecipeHelmResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -222,7 +222,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + Shield",
+                                        "text": "@strSocketRecipeShieldIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -238,7 +238,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Socketed Shield of same type",
+                                        "text": "@strSocketRecipeShieldResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -250,7 +250,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "99 stacked Flawless Gems + Stamina Potion",
+                                        "text": "@strGemStackConversionLowIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -266,7 +266,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "33 Perfect Gems of the same type and a Standard of Heroes",
+                                        "text": "@strGemStackConversionLowResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -278,7 +278,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "9 stacked Perfect Gems + Perfect Gem of your choosing",
+                                        "text": "@strGemConversionLowIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -294,7 +294,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "4 stacked Perfect Gems (cannot create Skulls)",
+                                        "text": "@strGemConversionLowResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -306,7 +306,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "99 stacked Perfect Gems + Perfect Gem of your choosing",
+                                        "text": "@strGemConversionHighIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -322,7 +322,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "34 Perfect Stacked Gems (cannot create Skulls)",
+                                        "text": "@strGemConversionHighResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -334,7 +334,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "100 stacked Perfect Topaz + Stamina Potion",
+                                        "text": "@strPerfectGemVexIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -350,7 +350,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 Vex Rune",
+                                        "text": "@strPerfectGemVexResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -362,7 +362,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "100 stacked Perfect Diamond + Stamina Potion",
+                                        "text": "@strPerfectGemSoulstoneIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -378,7 +378,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 Diablo's Soulstone",
+                                        "text": "@strPerfectGemSoulstoneResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }

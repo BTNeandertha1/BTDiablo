@@ -54,7 +54,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients Header",
                                     "fields": {
-                                        "text": "Ingredients",
+                                        "text": "@strIngredients",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -70,7 +70,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result Header",
                                     "fields": {
-                                        "text": "Result",
+                                        "text": "@strResult",
                                         "style": "$StyleSettingsTitle"
                                     }
                                 }
@@ -82,7 +82,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Charsi's Malus + Annihilus",
+                                        "text": "@strMalusAnniIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -98,7 +98,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "3 Standard of Heroes",
+                                        "text": "@strMalusAnniResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -110,7 +110,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Hellfire Ash + Stamina Potion",
+                                        "text": "@strSoHHellfireAshIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -126,7 +126,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Standard of Heroes",
+                                        "text": "@strUniqueJewelrySoHResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -138,7 +138,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "2 Unique Jewelry (Rings, Amulets, & Jewels)",
+                                        "text": "@strUniqueJewelrySoHIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -154,7 +154,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Standard of Heroes",
+                                        "text": "@strUniqueJewelrySoHResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -166,7 +166,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Hratli's Spiritual Herb + Standard of Heroes + Item",
+                                        "text": "@strHratliSoHIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -182,7 +182,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Add Repair Durability or Replenish Quantity to item",
+                                        "text": "@strHratliSoHResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -194,7 +194,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "99 stacked Flawless Gems + Stamina Potion",
+                                        "text": "@strGemStackConversionLowIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -210,7 +210,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "33 Perfect Gems of the same type and a Standard of Heroes",
+                                        "text": "@strGemStackConversionLowResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -222,7 +222,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Zod Rune + SoJ + Sur Rune + SoH + Charsi's Malus + Body Armor",
+                                        "text": "@strAugmentZodIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -238,7 +238,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Body Armor with added affixes of +1 to Teleport, +25% MF, +50% GF, +1% XP",
+                                        "text": "@strAugmentZodResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -250,7 +250,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Cham Rune + Ist Rune + Lem Rune + SoH + Charsi's Malus + any gear piece",
+                                        "text": "@strAugmentChamIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -266,7 +266,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Gear piece with added affixes of +25% MF, +50% GF, +1% XP",
+                                        "text": "@strAugmentChamResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -278,7 +278,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Gul Rune + Fal Rune + SoH + Charsi's Malus + any gear piece",
+                                        "text": "@strAugmentGulIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -294,7 +294,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Gear piece with added affixes of +200 AR, 10% Bonus To AR",
+                                        "text": "@strAugmentGulResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -306,7 +306,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Magic, Rare, Crafted, Set, or Unique equipable item + Standard of Heroes",
+                                        "text": "@strCorruptIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -322,7 +322,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Corrupted Magic, Rare, Crafted, Set, or Unique equipable item",
+                                        "text": "@strCorruptResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }

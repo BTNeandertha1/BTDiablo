@@ -54,7 +54,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients Header",
                                     "fields": {
-                                        "text": "Ingredients",
+                                        "text": "@strIngredients",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -70,19 +70,19 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result Header",
                                     "fields": {
-                                        "text": "Result",
+                                        "text": "@strResult",
                                         "style": "$StyleSettingsTitle"
                                     }
                                 }
                             ]
                         },
                         {
-                            "type": "TableRowWidget", "name": "rare_reroll",
+                            "type": "TableRowWidget", "name": "rare_reroll_high",
                             "children": [
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "1 Rare Item + Unique Ring",
+                                        "text": "@strRareRerollHighIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -98,7 +98,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "1 High Quality New Rare Item of the same type",
+                                        "text": "@strRareRerollHighResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -110,7 +110,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "3 Rare Jewels + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel",
+                                        "text": "@strUniqueJewelRerollIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -126,7 +126,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Rerolled Unique Jewel",
+                                        "text": "@strUniqueJewelRerollResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -138,7 +138,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Charsi's Malus + Hellfire Torch",
+                                        "text": "@strMalusTorchIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -154,7 +154,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Hellfire Ash",
+                                        "text": "@strMalusTorchResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -166,7 +166,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Charsi's Malus + Gheed's Fortune",
+                                        "text": "@strMalusGheedsIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -182,7 +182,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "3 Magic Find Potions",
+                                        "text": "@strMalusGheedsResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -194,7 +194,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Charsi's Malus + Annihilus",
+                                        "text": "@strMalusAnniIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -210,7 +210,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "3 Standard of Heroes",
+                                        "text": "@strMalusAnniResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -222,7 +222,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "2 Unique Jewelry (Rings, Amulets, & Jewels)",
+                                        "text": "@strUniqueJewelrySoHIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -238,7 +238,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Standard of Heroes",
+                                        "text": "@strUniqueJewelrySoHResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -250,7 +250,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Zod Rune + SoJ + Sur Rune + SoH + Charsi's Malus + Body Armor",
+                                        "text": "@strAugmentZodIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -266,7 +266,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Body Armor with added affixes of +1 to Teleport, +25% MF, +50% GF, +1% XP",
+                                        "text": "@strAugmentZodResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -278,7 +278,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Magic, Rare, Crafted, Set, or Unique equipable item + Standard of Heroes",
+                                        "text": "@strCorruptIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -294,7 +294,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Corrupted Magic, Rare, Crafted, Set, or Unique equipable item",
+                                        "text": "@strCorruptResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -306,7 +306,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Hellfire Ashes + Annihilus",
+                                        "text": "@strAnniCorruptIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -322,7 +322,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Corrupted Annihilus",
+                                        "text": "@strAnniCorruptResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -334,7 +334,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "2 Hellfire Ashes + Hellfire Torch",
+                                        "text": "@strTorchCorruptIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -350,7 +350,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Corrupted Hellfire Torch",
+                                        "text": "@strTorchCorruptResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
@@ -362,7 +362,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "Hellfire Ashes + Gheed's Fortune",
+                                        "text": "@strGheedsCorruptIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
@@ -378,7 +378,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
-                                        "text": "Corrupted Gheed's Fortune",
+                                        "text": "@strGheedsCorruptResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }
