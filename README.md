@@ -104,6 +104,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
+- Updated BTDiablo to Patch 2.6
+- Removed Sunder Charms
+- You might have to remove your Cosmetic Colors to update to 2.6 but then you can put them back after
 - Fixed a bug where Terrorized Monsters had the Magic Find potion on them
 
 ## Characters
