@@ -129,7 +129,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - 20% Faster Cast Rate (was 10%)
 - Added Soul Sword Runeword [Tal Thul Ort Amn] (was Spirit Sword, Spirit was changed)
    - Exact same as old Spirit Sword
-- Holy Thunder [Eth Ral Ort Tal] works in any melee weapon (was Sceptors)
+- Holy Thunder [Eth Ral Ort Tal] works in any melee weapon (was Scepters)
    - +100% Enhanced Damage (was 60) 
    - +15 Maximum Damage (was 10) 
    - Level 2 Holy Shock Aura when equipped (was +3 Holy Shock Paladin only)
@@ -1227,7 +1227,7 @@ ORPHAN'S CALL
 - Act 1 Mercenary
    - Can Now Equip XBows and Quivers
 - Act 3&5 Mercenary
-   - Can Now Equip Sceptors, Axes, Swords, and Hammers
+   - Can Now Equip Scepters, Axes, Swords, and Hammers
 
 ## Difficulties
 
