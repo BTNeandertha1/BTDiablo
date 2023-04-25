@@ -4,8 +4,8 @@ Gold			1						gld	1																									0
 Jewelry A			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2															0
 Jewelry B			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2															0
 Jewelry C			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2															0
-Chipped Gem			1						1cv	3	1cy	3	1cb	3	1cg	3	1cr	3	1cw	3	1kc	2													0
-Flawed Gem			1						1fv	3	1fy	3	1fb	3	1fg	3	1fr	3	1fw	3	1kf	2													0
+Chipped Gem			1						1sv	3	1sy	3	1sb	3	1sg	3	1sr	3	1sw	3	1ks	2													0
+Flawed Gem			1						1sv	3	1sy	3	1sb	3	1sg	3	1sr	3	1sw	3	1ks	2													0
 Normal Gem			1						1sv	3	1sy	3	1sb	3	1sg	3	1sr	3	1sw	3	1ku	2													0
 Flawless Gem			1						1zv	3	1ly	3	1lb	3	1lg	3	1lr	3	1lw	3	1kl	2													0
 Perfect Gem			1						1pv	3	1py	3	1pb	3	1pg	3	1pr	3	1pw	3	1kz	2													0
@@ -22,12 +22,12 @@ Hpotion 5			1						hp3	1	hp4	4	hp5	4	mp5	4	rvs	1																	0
 Hpotion 5ND			1						hp5	4	mp5	4	AND	6																					0
 Hpotion 6			1						hp4	4	hp5	6	mp4	2	mp5	4	rvs	1																	0
 Hpotion 6ND			1						hp5	6	mp5	4	AND	7																					0
-Potion 1			1						hp1	12	hp2	4	mp1	5	mp2	4	rvs	1	vps	4															0
-Potion 2			1						hp1	4	hp2	8	hp3	5	mp2	2	mp3	5	rvs	1	vps	2	yps	3	wms	1									0
-Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1									0
-Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1									0
-Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1											0
-Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1											0
+Potion 1			1						hp1	12	hp2	4	mp1	5	mp2	4	rvs	1	wms	4															0
+Potion 2			1						hp1	4	hp2	8	hp3	5	mp2	2	mp3	5	rvs	1	wms	3	yps	3											0
+Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	wms	3	yps	2											0
+Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	wms	3	yps	2											0
+Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	wms	3	yps	2													0
+Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	wms	3	yps	2													0
 Potion 6ND			1						hp5	8	mp5	5	AND	13																					0
 Runes 1			1						101	3	102	2																							0
 Runes 2			1						103	3	104	2	Runes 1	2																					0

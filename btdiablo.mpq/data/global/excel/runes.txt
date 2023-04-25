@@ -45,7 +45,7 @@ Runeword43	Amity																																																	0
 Runeword44	Fury	1			109	mele									JahGulEth	r31	r25	r05				dmg%		209	209	swing2		40	40	noheal		1	1	openwounds		66	66	lifesteal		6	6	deadly		33	33	skill	147	5	5	0
 Runeword45	Gloom	1			110	tors									FalUmPul	r19	r22	r21				ac%		170	230	res-all		30	30	gethit-skill	Dim Vision	15	3	balance2		10	10	dmg-to-mana		5	5	light		-3	-3	half-freeze		1	1	0
 Runeword46	Glory																																																	0
-Runeword47	Grief	1			Previously Ladder Only	swor	axe								EthTirLoMalRal	r05	r03	r28	r23	r08		dmg-dem/lvl	15			swing3		30	40	dmg-max		300	350	dmg-min		300	350	pierce-pois		20	25	ignore-ac		1	1	heal-kill		10	15	0
+Runeword47	Grief	1			Previously Ladder Only	swor	axe								EthTirGulVexRal	r05	r03	r25	r26	r08		deadly		33	33	swing3		30	40	dmg-max		300	350	dmg-min		300	350	pierce-pois		20	25	ignore-ac		1	1	heal-kill		10	15	0
 Runeword48	Hand of Justice	1			110	weap									SurChamAmnLo	r29	r32	r11	r28			swing2		33	33	dmg%		280	330	aura	Holy Fire	16	16	levelup-skill	Blaze	100	36	death-skill	Meteor	100	48	ignore-ac		1	1	pierce-fire		20	20	0
 Runeword49	Harmony	1			Previously Ladder Only	miss									TirIthSolKo	r03	r06	r12	r18			dmg%		275	325	dmg-elem		55	160	charged	Revive	25	20	aura	Vigor	10	10	oskill	Valkyrie	2	6	regen-mana		20	20	light		2	2	0
 Runeword50	Hatred																																																	0
@@ -157,7 +157,7 @@ Runeword156	Voice																																																	0
 Runeword157	Void																																																	0
 Runeword158	War																																																	0
 Runeword159	Water																																																	0
-Runeword160	Wealth	1			109	tors									LmKoTir	r20	r18	r03				gold%		250	250	mag%/lvl	8			move2		20	20	swing2		10	10													0
+Runeword160	Wealth	1			109	tors									LemKoTir	r20	r18	r03				gold%		250	250	mag%/lvl	8			move2		20	20	swing2		10	10													0
 Runeword161	Whisper																																																	0
 Runeword162	White	1			109	wand									DolIo	r14	r16					skilltab	7	3	3	red-mag		4	4	cast2		20	20	mana		13	13	skill	68	3	3	skill	84	2	2	skill	69	4	4	0
 Runeword163	Wind	1			110	mele									SurEl	r29	r01					dmg%		120	160	swing2		40	40	move2		20	20	reduce-ac		50	50	hit-skill	Tornado	10	9	charged	240	127	13	balance2		15	15	0
@@ -178,3 +178,4 @@ Runeword177	Temper	1	3		D2R Ladder 3	helm									ShaelIoRal	r13	r16	r08				hp%	
 Runeword178	Hearth	1	3		D2R Ladder 3	helm									ShaelIoThul	r13	r16	r10				hp%		5	5	ac%		75	100	res-cold		10	30	abs-cold%		10	15	nofreeze		1	1									0
 Runeword179	Cure	1	3		D2R Ladder 3	helm									ShaelIoTal	r13	r16	r07				hp%		5	5	ac%		75	100	res-pois		10	30	res-pois-len		50	50	aura	Cleansing	1	1									0
 Runeword180	Bulwark	1	3		D2R Ladder 3	helm									ShaelIoSol	r13	r16	r12				hp%		5	5	ac%		75	100	red-dmg%		10	15	regen		30	30	lifesteal		4	6									0
+Runeword181	Dilemma	1	3		D2R Ladder 3	tors									DolLemMal	r14	r20	r23				oskill	Teleport	1	1	regen		-40	-20	heal-kill		-35	-25	mag%		35	50													0

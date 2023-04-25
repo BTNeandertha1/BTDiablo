@@ -138,7 +138,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "Ingredients",
                                     "fields": {
-                                        "text": "@strRuneUpgradeLowIngredient",
+                                        "text": "@strRuneUpgradeHighIngredient",
                                         "style": "$StyleSettingsText"
                                     },
                                     "children": [
