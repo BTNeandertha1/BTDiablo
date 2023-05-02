@@ -26,9 +26,9 @@ Flawless Diamond		1	glw	dmg-undead	0	54	54						0	0	0	att	0	80	80		0	0	0		0	0	0	
 Perfect Diamond		0	gpw	dmg-undead	0	68	68						0	0	0	att	0	100	100		0	0	0		0	0	0	res-all	0	19	19		0	0	0		0	0	0
 Chipped Topaz		14	gcy	ltng-min	0	1	1	ltng-max	0	8	8		0	0	0	move2	0	3	3		0	0	0		0	0	0	res-ltng	0	12	12		0	0	0		0	0	0
 Flawed Topaz		14	gfy	ltng-min	0	1	1	ltng-max	0	14	14		0	0	0	move2	0	4	4		0	0	0		0	0	0	res-ltng	0	16	16		0	0	0		0	0	0
-Topaz		14	gsy	ltng-min	0	1	1	ltng-max	0	22	22		0	0	0	move2	0	6	6		0	0	0		0	0	0	res-ltng	0	22	22		0	0	0		0	0	0
-Flawless Topaz		14	gly	ltng-min	0	1	1	ltng-max	0	30	30		0	0	0	move2	0	8	8		0	0	0		0	0	0	res-ltng	0	28	28		0	0	0		0	0	0
-Perfect Topaz		13	gpy	ltng-min	0	1	1	ltng-max	0	40	40		0	0	0	move2	0	10	10		0	0	0		0	0	0	res-ltng	0	40	40		0	0	0		0	0	0
+Topaz		14	gsy	ltng-min	0	1	1	ltng-max	0	22	22		0	0	0	move2	0	10	10		0	0	0		0	0	0	res-ltng	0	22	22		0	0	0		0	0	0
+Flawless Topaz		14	gly	ltng-min	0	1	1	ltng-max	0	30	30		0	0	0	move2	0	15	15		0	0	0		0	0	0	res-ltng	0	28	28		0	0	0		0	0	0
+Perfect Topaz		13	gpy	ltng-min	0	1	1	ltng-max	0	40	40		0	0	0	move2	0	20	20		0	0	0		0	0	0	res-ltng	0	40	40		0	0	0		0	0	0
 Chipped Skull		2	skc	manasteal	0	1	1	lifesteal	0	2	2					regen	0	2	2	regen-mana	0	8	8		0	0	0	thorns	0	4	4		0	0	0		0	0	0
 Flawed Skull		2	skf	manasteal	0	2	2	lifesteal	0	2	2					regen	0	3	3	regen-mana	0	8	8		0	0	0	thorns	0	8	8		0	0	0		0	0	0
 Skull		2	sku	manasteal	0	2	2	lifesteal	0	3	3					regen	0	3	3	regen-mana	0	12	12		0	0	0	thorns	0	12	12		0	0	0		0	0	0

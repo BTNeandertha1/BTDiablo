@@ -145,7 +145,7 @@ Runeword144	Thought																																																	0
 Runeword145	Thunder																																																	0
 Runeword146	Time																																																	0
 Runeword147	Tradition																																																	0
-Runeword148	Treachery	1			111	tors									ShaelThulLem	r13	r10	r20				hit-skill	Venom	25	15	gethit-skill	Fade	20	15	ass		2	2	swing2		45	45													0
+Runeword148	Treachery	1			111	tors									ShaelThulLem	r13	r10	r20				hit-skill	Venom	25	15	gethit-skill	Fade	50	15	ass		2	2	swing2		45	45													0
 Runeword149	Trust																																																	0
 Runeword150	Truth																																																	0
 Runeword151	Unbending Will	1	1	2	D2R Ladder 1	swor									FalIoIthEldElHel	r19	r16	r06	r02	r01	r15	skilltab	12	3	3	hit-skill	Taunt	18	18	swing2		20	30	dmg%		300	350	red-dmg		8	8	noheal		1	1	lifesteal		8	10	0

@@ -10,7 +10,7 @@ BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Di
 - Item Stacking!
 - 3 Additional Shared Stash Tabs
 - Negative 30 all res (Only effects the Player)
-- Negative 199 MF
+- Negative 199 MF (Level 90 Characters Start to Counter this effect)
 - Start with nothing except Horadric Cube
 - Horadric Cube is now 6x6
 - Charm Inventory
@@ -104,10 +104,36 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
-- Updated BTDiablo to Patch 2.6
-- Removed Sunder Charms
-- You might have to remove your Cosmetic Colors to update to 2.6 but then you can put them back after
-- Fixed a bug where Terrorized Monsters had the Magic Find potion on them
+Major Balance Change
+- Added A Level 90 Charm that grants .875 MF per level to counter the -MF% (Added on Character Creation)
+1. Spawn charm on existing characters by cubing 3 thawing potions
+2. Check the video in announcements to Add in properly (Only matters for Existing Characters)
+Item Changes
+- Topaz Buff
+   - Standard 10% Faster Run/Walk
+   - Flawless 15% Faster Run/Walk 
+   - Perfect 20% Faster Run/Walk
+- Naj's Puzzler Charges changed to +1 Teleport
+- Treachery Proc chance 50%
+- Reduce Larzuk's Forging Hammer to 575k
+Affixes
+- Added Affix to Magic Helms 26-35% MF
+- Increased Stack size removed
+Augments Buffed
+- Zod: .375 MF/Level and .75 GF/Level +2% Experience Gained and of course the + 1 to Teleport
+- Cham: 50 MF/Level and 100 GF/Level +2% Experience Gained
+Skills
+- Sorceress's Thunderstorm now casts a Nova after striking just like in PD2
+- Barbarian's Increased Stamina Changed to Increased Endurance
+   - 0.5 Life After Each Kill Per Hardpoint
+   - 1 Mana After Each Kill Per Softpoint
+- Barbarian's Iron Skin defense buffed
+   - 50% baseline Defense 
+   - 15% per level 
+   - 0.5% Damage Reduction Hard Point 
+Bug Fixes
+- Fixed an issue with Frame drop when opening the inventory (Thanks to BaronBeefStick for toubleshooting)
+- Fixed Succubus AI not shooting properly
 
 ## Characters
 - Walking is the same as running
@@ -203,7 +229,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    - Grizzly Charges Changed to oskill Hunger
 - Insight Works in Spears [Ral Tir Tal Sol]
 - Treachery [Shael Thul Lem]
-   - 20% Fade Proc Chance (was 5%)
+   - 50% Fade Proc Chance (was 5%)
    
 ## Runes
 - Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
@@ -216,7 +242,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 
 ## Gems
 - Gems now have Stack mode and drop stacked from the world! (other than hard coded drops)
-- Topaz Magic Find replaced with Faster Run/Walk
+- Chipped and Flawed Gems are replaced with standard gems (other than hard coded drops)
+- Topaz Changed to Faster Run/Walk
+   - Standard 10% Faster Run/Walk
+   - Flawless 15% Faster Run/Walk 
+   - Perfect 20% Faster Run/Walk
 
 ## Items
 **Example** of item modifiers: Um in Weapon = 20 Open Wounds, Armor/Helm = 15 All Res, Shield = 22 All Res
@@ -956,6 +986,7 @@ ORPHAN'S CALL
 - Magnus' Skin
 - Wihtstan's Guard - half freeze -> nofreeze; added res-pois 50; added res-ltng 50;
 	- 3pc - thorns 5 -> thorns/lvl 20/8
+- Naj's Puzzler Charges changed to +1 Teleport
    
 ## Affixes
 - Added Rare Affixes
@@ -983,8 +1014,11 @@ ORPHAN'S CALL
       - 3 Socket Potential
    - Rings
       - 2 Mana After Each Kill
+   - Helms
+	  - Magic Helms Only 26-35% MF
 - Removed 
    - All Items
+      - Increased Stack Size
       - Stamina
       - Regen Stamina
 	  - Light Radius
@@ -1052,7 +1086,7 @@ ORPHAN'S CALL
    
 ## Shop
 - Added Charsi's Malus to Imbue (575k)
-- Added Larzuk's Forging Hammer (2.2 Mil)
+- Added Larzuk's Forging Hammer (575k)
 - Added Full Rejuvination Potions at Ormus, Jamella and Malah
 - Added MF Potion grants +150% MF for 20 Minutes (Effect lost on death or S&E) at Alkor (750k)
 - Added BigDinn at Ormus (90k)
@@ -1116,10 +1150,10 @@ ORPHAN'S CALL
 ## Endgame
 - Augment Recipes:
 - WARNING: If you Augment Set Items MAKE SURE no other Set items are equipped!!!
-   - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + 25MF + 50GF + 2% Exp Gained
-   - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +25% MF + 50%GF + 2% Exp Gained
-   - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR (Works up to 5x on a single item, base AR maxes at 1023)
-- Note: Gold Find Maxes at 15x Augments (723 GF), Magic Find 29x Augments (723 MF) and Experience 231x Augments (461% EXP)
+   - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + .375 MF/Level + .75 GF/Level + 2% Exp Gained
+   - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +50% MF + 100%GF + 2% Exp Gained
+ - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR (Works up to 5x on a single item, base AR maxes at 1023)
+- Note: Gold Find and Magic Find Maxes at 723 and Experience at 461% EXP
 
 - Corruptions have a 30% Chance to reroll as a random rare and 70% Chance to roll with sockets (Magic, Rare, Crafted, Set, or Unique + Standard of Heroes)
    - Amulets, Rings
@@ -1355,3 +1389,11 @@ ORPHAN'S CALL
 - Added Frozen Armor as a synergy
 - Added Glacial Spike as a synergy
 - Multishot now has full effects for all of its arrows (Procs and CC)
+- Sorceress's Thunderstorm now casts a Nova after striking just like in PD2
+- Barbarian's Increased Stamina Changed to Increased Endurance
+   - 0.5 Life After Each Kill Per Hardpoint
+   - 1 Mana After Each Kill Per Softpoint
+- Barbarian's Iron Skin defense buffed
+   - 50% baseline Defense 
+   - 15% per level 
+   - 0.5% Damage Reduction Hard Point 

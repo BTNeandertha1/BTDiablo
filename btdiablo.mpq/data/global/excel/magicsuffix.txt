@@ -288,7 +288,7 @@ of Avarice	100	1	1	1		1				4	21	gold%		10	30										jewl												0	0
 of Chance	1	1	1	12		9				4	22	mag%		5	15										boot	glov	ring	amul	circ								0	0
 of Fortune	1	1	1	16		12				4	22	mag%		16	25									lgld	boot	glov	amul	circ									0	0
 of Fortune	1	1		42		31				4	22	mag%		16	25									lgld	ring												0	0
-of Luck	100	1		26		19				4	22	mag%		26	35									lgld	boot	amul	circ										0	0
+of Luck	100	1		26		19				4	22	mag%		26	35									lgld	boot	amul	circ	helm									0	0
 of Fortune	100	1	1	31		18				3	22	mag%		3	5										scha												0	0
 of Good Luck	100	1		47		33				2	22	mag%		6	7										scha												0	0
 of Prosperity	100	1	1	26		19				2	22	mag%		5	10										jewl												0	0

@@ -591,9 +591,9 @@ Magekiller's	100	1	1	36		27	ass			4	125	ass		1	1										amul	circ											0	
 Witch-hunter's	100	1	1	90		67	ass			2	125	ass		2	2									cgrn	amul	circ											0	0
 Magekiller's	100	1	1	30		22	ass			4	125	ass		1	1										h2h												0	0
 Witch-hunter's	100	1	1	50		42	ass			2	125	ass		2	2									cgrn	h2h												0	0
-Compact	100	1	1	1		1				6	141	stack		20	40										thro												0	0
-Thin	100	1	1	17		12				5	141	stack		41	80										thro												0	0
-Dense	100	1	1	38		30				4	141	stack		81	120										thro												0	0
+Compact	100	0		1		1				6	141	stack		20	40										thro												0	0
+Thin	100	0		17		12				5	141	stack		41	80										thro												0	0
+Dense	100	0		38		30				4	141	stack		81	120										thro												0	0
 Consecrated	100	1	1	1		1				4	142	att-undead		25	75	dmg-undead		25	75						weap							wand	orb				0	0
 Pure	100	1	1	15		11				3	142	att-undead		76	175	dmg-undead		76	125					lgld	weap							wand	orb				0	0
 Sacred	100	1	1	25		18				2	142	att-undead		175	250	dmg-undead		126	200					lgld	weap							wand	orb				0	0
