@@ -775,9 +775,9 @@ Mephisto Item (H) Desecrated B			7	983	983	983	1024	15	"gld,mul=2048"	5	Act 5 (H
 Mephisto Item (H) Desecrated C			7	983	983	983	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip B	52	Act 5 (H) Junk	5	Act 5 (H) Good	3	ceh	1																	0
 Mephisto Item (H) Desecrated D			7	983	983	983	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip C	52	Act 5 (H) Junk	5	Act 5 (H) Good	3	ceh	1																	0
 Mephisto (H) Desecrated A	22	87	1					0	Mephisto Item (H) Desecrated A	1																									0
-Mephisto (H) Desecrated B	22	90	1					0	Mephisto Item (H) Desecrated A	1																									0
-Mephisto (H) Desecrated C	22	93	1					0	Mephisto Item (H) Desecrated A	1																									0
-Mephisto (H) Desecrated D	22	96	1					0	Mephisto Item (H) Desecrated A	1																									0
+Mephisto (H) Desecrated B	22	90	1					0	Mephisto Item (H) Desecrated B	1																									0
+Mephisto (H) Desecrated C	22	93	1					0	Mephisto Item (H) Desecrated C	1																									0
+Mephisto (H) Desecrated D	22	96	1					0	Mephisto Item (H) Desecrated D	1																									0
 Mephistoq			7	993	993	1024	1024	15	Act 4 Equip A	52	Act 4 Good	3																							0
 Mephistoq (N)			7	993	993	1024	1024	15	Act 4 (N) Equip A	52	Act 4 (N) Good	3																							0
 Mephistoq (H)			7	993	993	1024	1024	15	Act 4 (H) Equip A	52	Act 4 (H) Good	3	ceh	1																					0
