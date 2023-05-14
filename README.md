@@ -9,8 +9,8 @@ BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Di
 - Built in Loot Filter
 - Item Stacking!
 - 3 Additional Shared Stash Tabs
-- Negative 30 all res (Only effects the Player)
-- Negative 199 MF (Level 90 Characters Start to Counter this effect)
+- Negative 30 all resist (Only effects the Player)
+- Negative 199 Magic Find (Level 90 Characters Start to Counter this effect)
 - Start with nothing except Horadric Cube
 - Horadric Cube is now 6x6
 - Charm Inventory
@@ -89,11 +89,12 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - Warren: Helping in the very beginning with Theory Crafting  
 - Wolfieeiflow: Helping with Spreadsheets and brain power  
 - JeyP: Testing things then walking me through  
-- Kex: First Tester and first to Kill HC Hell Baal
+- Kex: First Tester and first to Kill HC Hell Baal and help with Dev work
 - Stackit (https://www.nexusmods.com/diablo2resurrected/mods/80) on Nexusmods to help with functionality of stacking!
 - Stucifer "loot filter" display
 - MrBrooksGaming Added UI Controller Support
 - Bonesy for being an actual god and helping with a ton of various stuff! Check out their website (https://www.d2rmodding.com/)
+- BaronBeefStick bug fixes and Dev work
 
 # Future Ideas
 Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/16) issue.  
@@ -105,35 +106,24 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 2. **Paste New btdiablo.mpq folder**
 
 Major Balance Change
-- Added A Level 90 Charm that grants .875 MF per level to counter the -MF% (Added on Character Creation)
+- Added A Level 90 Charm that grants .875 Magic Find per level to counter the -Magic Find% (Added on Character Creation)
 1. Spawn charm on existing characters by cubing 3 thawing potions
 2. Check the video in announcements to Add in properly (Only matters for Existing Characters)
 Item Changes
-- Topaz Buff
-   - Standard 10% Faster Run/Walk
-   - Flawless 15% Faster Run/Walk 
-   - Perfect 20% Faster Run/Walk
-- Naj's Puzzler Charges changed to +1 Teleport
-- Treachery Proc chance 50%
-- Reduce Larzuk's Forging Hammer to 575k
+- Eld Rune changed from 15% Stamina drain to replenish 5 life 
+- Changed the Class Runewords (Myth, Rain, etc) Treachery untouched
+- Nerfed BK Set
 Affixes
-- Added Affix to Magic Helms 26-35% MF
-- Increased Stack size removed
-Augments Buffed
-- Zod: .375 MF/Level and .75 GF/Level +2% Experience Gained and of course the + 1 to Teleport
-- Cham: 50 MF/Level and 100 GF/Level +2% Experience Gained
+- Bow and Crossbow Skills added to circlets and amulets
+- Javelin and Spear SKills added to circlets and amulets
+- Added Elemental Skills (1 to cold, lightning, poison)
 Skills
-- Sorceress's Thunderstorm now casts a Nova after striking just like in PD2
-- Barbarian's Increased Stamina Changed to Increased Endurance
-   - 0.5 Life After Each Kill Per Hardpoint
-   - 1 Mana After Each Kill Per Softpoint
-- Barbarian's Iron Skin defense buffed
-   - 50% baseline Defense 
-   - 15% per level 
-   - 0.5% Damage Reduction Hard Point 
-Bug Fixes
-- Fixed an issue with Frame drop when opening the inventory (Thanks to BaronBeefStick for toubleshooting)
-- Fixed Succubus AI not shooting properly
+- Freezing Arrow Damage Buff 
+- Buffed Ravens
+- Holy Freeze Range reverted to base game
+- Auras have their tick rate doubled (exception Redemption Aura)
+Extras
+- Magefist needs to be manually updated (with blank items) in game if you have an existing pair otherwise dont worry about it
 
 ## Characters
 - Walking is the same as running
@@ -179,7 +169,7 @@ Bug Fixes
    - 90-110% Enhanced Damage (was 35)
    - Added Repairs Durability
 - Prudence [Mal Tir]
-   - 24 MDR (was 17)
+   - 24 Magic Damage Reduction (was 17)
    - 8 PDR (was 3)
    - Added Cannot Be Frozen
    - Removed 1 Light Radius
@@ -194,7 +184,7 @@ Bug Fixes
    - 4 Physical Damage Reduction
    - Removed -33% Gold Find
 - Black [Thul Io Nef]
-   - 7 MDR (was 2)
+   - 7 Magic Damage Reduction (was 2)
 - Wealth [Lem Ko Tir]
    - Added 20 Faster Run/Walk
    - Added 10% Increased Attack Speed
@@ -230,9 +220,20 @@ Bug Fixes
 - Insight Works in Spears [Ral Tir Tal Sol]
 - Treachery [Shael Thul Lem]
    - 50% Fade Proc Chance (was 5%)
+- Bone [Sol Amn Amn] (was Sol Um Um)
+   - Replaced Bonespear on attack with 15-20% Faster Cast Rate
+   - 15% all resist.
+- Rain [Ort Dol Ith] (was Ort Mal Ith)
+   - Replaced Twister on attack with 15-20% Faster Cast Rate
+- Enlightenment [Pul Ral Sol]
+   - Replaced Fireball on attack with 15-20% Faster Cast Rate 
+- Myth [Hel Amn Nef]
+   - Replaced Howl when struck to 20% Faster Run/Walk
+- Principle [Ral Ko Eld] (was Ral Gul Eld)
    
 ## Runes
 - Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
+- Eld Rune has 5 Replenish Life (was 15% Stamina Drain)
 - Dol Rune has 2 Life After Each Kill for all slots
 - Ist and higher Runes now all have 2% Experience Gained
 - Cham Rune
@@ -249,7 +250,7 @@ Bug Fixes
    - Perfect 20% Faster Run/Walk
 
 ## Items
-**Example** of item modifiers: Um in Weapon = 20 Open Wounds, Armor/Helm = 15 All Res, Shield = 22 All Res
+**Example** of item modifiers: Um in Weapon = 20 Open Wounds, Armor/Helm = 15 All resist, Shield = 22 All resist
 - Arrows and Bolts can now have up to 3 sockets and be repaired
    - socketed items get Shield modifier
 - All Weapons can now have the potential of 2 sockets
@@ -293,24 +294,33 @@ Bug Fixes
    
 ## Uniques
 - Cranium Basher
-   - 60 IAS
-   - 10% Level 3 Amp
+   - 60 Increased Attack Speed
+   - 30% Level 10 Amplify Damage
    - Repair Durability
+   - 25-30 Strength (was 25)
+   - 25-35 All Resistances (was 25)
+   - 250-300%
+   - added skill on kill 100% chance Lvl 50 Twister
+   - added 20-50 -requirements
+   - added Lifesteal 4-6
 - Mang's Song Lesson
-   - 85 FCR
+   - 85 Faster Cast Rate
    - 6 All Skills
    - 20-25 Cold Fire Light Pierce
-   - 40-50 All Res
+   - 40-50 All resist
    - 30 Regen Mana
    - 40% Increased Maximum Mana
 - Executioner's Justice
-   - Decrep on striking instead
+   - Level 8 Decrepify on striking instead
    - 50% Crushing Blow
    - 50% Deadly Strike
-- Templar's Might
-   - 4-6 offensive Auras
-   - 20-30 Strength
-   - 20-30 Vitality
+   - 280-340% Enhanced Damage (was 240-290)
+   - -50% Target Defense (was 33)
+   - 50% Increased Attack Speed (was 30)
+   - added Manasteal 4-6
+   - added skill on hit 60% chance Lvl 40 FoH
+   - added oskil Zeal
+   - added slows target 20%
 - Tyreal's Might
    - Lower Level Requirement
    - +2 to All Skills
@@ -326,41 +336,58 @@ Bug Fixes
    - 40 Faster Run/Walk
 - Ghostflame
    - 4 Fire Skills
-   - 30 FCR
+   - 30 Faster Cast Rate
    - 5-10 Fire Pierce
    - 5-10 Fire Skill Damage
-   - 5 Maximum Fire Res
+   - 5 Maximum Fire resist
    - Removed
-      - Ignore Targets Defense
-	  - Enhanced Damage
-	  - Mana Steal
+   - Ignore Targets Defense
+   - Enhanced Damage
+   - Mana Steal
 - Steelrends
    - 70-100 ED
    - 15-20 Deadly Strike
    - 15 Crushing blow
-   - -30 Requirements
+   - -30 to 40 Requirements
+   - Changed defense 170-210 to defense % 100-150
+   - 20-25 Strength (was 15-20)
 - Earth Shifter
    - 60 Faster Cast Rate
    - 60 Increased Attack Speed
-   - Level 28 Fissure
+   - skill on hit Volcano 50% chance Lvl 50 (was Fissure)
+   - 35% crushing blow (was 33)
+   - 6% Mana steal
+   - 30-50 -requirements
+   - skill on hit Lower resist 10% chance Lvl 5
 - Schaefer's Hammer
    - Level 20 Static Field
    - 200-230 ED
-   - 60% IAS
+   - 60% Increased Attack Speed
    - Repairs Durability
 - Stone Crusher
-   - 20% IAS
+   - 40% Increased Attack Speed
+   - 300-320 Enhanced Damage (was 280-320)
+   - Target defense -50% (was 25%)
+   - Flat Damage increased 42-69 (was 10-30)
+- Death Cleaver
+   - 250-330 Enhanced Damage (was 230-280)
+   - Target defense -50% (was 33%)
+   - added crushing blow 10-15%
 - Steel Shade
    - Replenish Life 30-50
    - 2 Skills 
    - 20% FBR
    - 20% Increased Block
-- Gargoyle's Bite
+- Gargoyle's Bite (required Level 80 was 70)
    - -20-25% Poison Pierce
-   - 180-330 ED
+   - 250-350% Enhanced Damage (was 180-330)
    - 3-4 Plauge Jav + 3-4 Poison Jav
+   - poison skills 1-3
+   - 30 Increased Attack Speed
+   - 11-15 Lifesteal (was 9-15)
 - Stormlash
    - Level 20 Static Field
+   - 269-300% Enhanced Damage (was 240)
 - The Oculus 
    - 5% Chance to cast Teleport
 - Stormspire
@@ -374,8 +401,14 @@ Bug Fixes
    - 20 Attack Speed
    - 100-150 Damage to Demons
 - Wolfhowl
-   - 3-6 Fury
    - Oskill Dire Wolves
+   - 10-15 Strength (was 8-15)
+   - 10-15 defense (was 8-15)
+   - 10 Vitality	(was 8-15)
+   - 4-6 Werewolf (was 3-6)
+   - 4-6 Lycanthropy (was 3-6)
+   - 4-6 Feral Rage (was 3-6)
+   - 4-6 Fury
 - Halaberd's Reign
    - 2-3 Barbarian Skills
    - 15 Life Per Kill instead of Rep Life
@@ -389,7 +422,7 @@ Bug Fixes
    - Added 40% Faster Cast Rate
    - Added 40% Increased Attack Speed
 - Head Hunter's Glory
-   - 15-25 All res instead
+   - 15-25 All resist instead
    - 10-15 Life Per Kill
    - 25 Faster Run/Walk
 - Medusa's Gaze
@@ -402,6 +435,13 @@ Bug Fixes
    - -30 Requirements
 - Steel Pillar
    - Repair Durability
+   - 280-350 Enhanced Damage (was 210-260)
+   - 30-40% Increased Attack Speed (was 25)
+   - -66% Target Defense (was 20)
+   - added Lifesteal 7-12
+   - added Deadly Strike 10-20
+   - removed Defense % 50-80
+   - crushing blow	33-44 (was 25)
 - Ondal's Wisdom
    - 85% Faster Cast Rate
    - 5-15% Experience Gained
@@ -412,13 +452,13 @@ Bug Fixes
    - 200-300
    - Repairs Durability
 - Frostwind
-   - Added 20% CTC Level 10 Lower Res on Striking
+   - Added 20% CTC Level 10 Lower resist on Striking
    - Added 20% CTC Level 20 Frozen Orb on Striking
    - Added -30% Enemy Cold Resistance
 - Doombringer
    - Repair Durability
 - Boneshade
-   - 30 FCR
+   - 30 Faster Cast Rate
 - Darkforce Spawn
    - 2-3 Curses, Summon, Bone Skills
    - +5 to Bone Spear, Teeth, Bone Spirit, Bone Armor
@@ -434,7 +474,7 @@ Bug Fixes
    - 30 Increased Attack Speed
 - Dragon Scale
    - Fire Mastry
-   - 30 FCR
+   - 30 Faster Cast Rate
 - Alma Negra
    - Level 1 Salvation
    - 100-300% ED 
@@ -463,7 +503,11 @@ Bug Fixes
    - 3-4 Summoning
 - Firelizard's Talons
    - 2-3 Martial Arts
-   - 3-4 Wake of Fire and Inferno + 3-4 Death Sentry
+   - 4 Wake of Fire and Inferno + 4 Death Sentry
+   - 250-290 Enhanced Damage (was 200-270)
+   - 20 Increased Attack Speed (was 15%)
+   - Removed Fire Resist
+   - added Fire pierce 8-10%
 - Jade Talon
    - 3-4 Shadow and Martial Art Skills
    - 1 to Dragon Flight
@@ -510,6 +554,282 @@ Bug Fixes
    - Added 7-9 Life After Each Kill
 - Leviathan
    - Repairs Durability 5 (was Indestructible)
+   - 200-220 Enhanced Defense (was 170-200)
+   - +169 Defense (was 100-150)
+   - 20-25% Damage Reduction (was 15-25)
+   - 20 Faster Run/Walk
+   - 30 Faster Hit Recovery
+   - 100 Poison Length Reduction
+   - 5-10% Maximum Life
+   - 20-30 Deadly strike
+- Ormus Robe
+   - 30% Faster Cast Rate (was 20)
+   - added 10-15% Fire/Cold/Light
+   - added 100-120 Enhanced Defense
+   - added 5-8 Mana After Each Kill
+   - added 5-8% Maximum Mana
+   - added 40-69 Life
+- Gladiators Bane
+   - 150% Enhanced Defense (was 150-200)
+   - 20-30 Magic Damage Reduced (was 15-20)
+   - 20-30 Physical Damage Reduced (was 15-20)
+   - 125 Poison Length Reduction (was 50)
+   - 50 Faster Hit Recovery (was 30)
+   - always Ethereal
+   - added 40-50 Life
+   - 10 Faster Run/Walk
+   - removed thorns 20
+   - removed repairs durability
+   - removed Defense 50
+- Guardian Angel
+   - +1 all skills
+   - +1 to Paladin Skills Changed to Random Class Skills
+   - 200-220 Enhanced Defense (was 180-200)
+   - 35 Block rate(was 30)
+   - 30 Block chance(was 20)
+   - -30 to -40 requirements
+   - removed Attack Rating vs Demon per level
+- Toothrow
+   - 10-20 Strength (was 10)
+   - 40-50% open wounds (was 40)
+   - 30-40% Fire resist (was 15)
+   - 200-240% Enhanced Defense (was 160-220)
+   - 10% deadly strike
+   - 40 Life
+   - 90-120% Enhanced Damage
+   - 30% Faster Hit Recovery 
+   - removed 40-60 defense
+   - removed thorns
+   - removed repairs durability
+- Atmas Wail
+   - 40% Faster Hit Recovery (was 30)
+   - 150-180% Enhanced Defense (was 120-160)
+   - 20-30 Energy
+   - Mana regen 50
+   - 1.25 Mana per level
+   - 25 Faster Cast Rate
+   - 0.75 Magic Find per level
+   - -30% requirements
+   - +15 Telekinesis
+   - removed Dexterity
+   - removed replenish Life
+   - removed defense per level
+   - removed Repair Durability
+   - removed Base Magic Find
+- Que Hegans Wisdom
+   - 25 Faster Cast Rate (was 20)
+   - 5 Mana after each kill (was 3)
+   - 10-16 Magic Damage Reduced (was 6-10)
+   - 20 Energy (was 15)
+   - 40 Faster Hit Recovery	(was 20)
+   - 150-180 Enhanced Defense (was 140-160)
+   - +3 Lower Resist oskill
+   - 5-10 Vitality
+   - half freeze duration
+- Templars Might
+   - 4-6 Offensive Auras
+   - Level 6 Conviction Aura when equipped 
+   - 20-30 Strength
+   - 180-230% Enhanced Defense (was 170-220)
+   - 24-30 Faster Hit Recovery (was 20)
+   - 30-40 Life
+   - -50% Requirements
+   - 75 Poison Length Reduction
+   - Removed 20-30 Vitality
+- Ironpelt
+   - Level 15 Defiance aura when equipped
+   - 100 Enhanced Defense (was	50-100)
+   - 16-20 Magic Damage Reduced (was 10-16)
+   - 5-10% Maximum Life
+   - 10-20 Dexterity
+   - 1.25 Life per char level
+   - +3-5 oskill Ironskin
+   - removed Life 
+   - removed Flat Physical Damage Reduced
+   - removed defense per char level 
+   - removed repairs durability
+- Duriels Shell
+   - 180-220 Enhanced Defense (was	160-200)	
+   - 20 Faster Hit Recovery   
+   - 15-20 Strength (was 15)
+   - 40 fire resist (was 20)
+   - 40 lightning resist (was 20)
+   - 40 poison resist (was 20)
+   - 60 cold resist (was 50)
+   - 1.5 life per level (was 1)
+   - removed defense per lvl
+- Shaftstop
+   - 200-250 Enhanced Defense (was 80-220)
+   - 25-30% Damage Reduced (was 30)
+   - 85-140 Life (was 60)
+   - 6-12 Damage Reduced 
+   - 250 defense vs melee
+   - 125-150% Damage to Demon
+   - 125-150% Damage to Undead
+- Heavenly Garb
+   - 150% Enhanced Defense (was 100)
+   - 15-30% all resist (was 10)
+   - 20 Energy (was 15)
+   - 125-150DMG Undead (was 50)
+   - 3-5 Mana After Each Kill
+   - 125-150% Damage to Demon
+   - added Hits Blinds Target
+   - added half freeze duration
+   - added 10% Experience Gained 
+   - removed mana regen
+   - removed Attack Rating to Undead
+- The Spirit Shroud
+   - 11-15 Magic Damage Reduced (was 7-11)
+   - 180% Enhanced Defense (was 150)
+   - 50-69 Mana
+   - 25 Faster Cast Rate
+   - 10-15 Energy
+   - 20 Faster Hit Recovery
+   - removed Replenish Life
+- Skin of the Flayed one
+   - 8-12 Lifesteal (was 5-7)
+   - 160-200 Enhanced Defense (was 150-190)
+   - -50 Monster defense per hit
+   - added prevent monster heal
+   - 25-50 Damage
+   - 35-45 Life
+   - 20 Increased Attack Speed
+   - 10 Faster Hit Recovery
+   - +1 random class skill
+   - removed repair durability
+   - removed replenish Life
+   - removed thorns
+- Crow Caw
+   - 50 open wounds (was 35)
+   - 150-200 Enhanced Defense (was 150-180)
+   - 15-25 defense (was 15)
+   - 20 Faster Hit Recovery (was 15%)
+   - 30 Increased Attack Speed (was 15%)
+   - 20% Crushing Blow
+   - 4-8 lifesteal 
+- Greyform 
+   - 10 Magic Damage Reduced (was 3)
+   - 25-30 cold resist (was 20)
+   - 25-30 fire resist (was 20)
+   - 9 lifesteal (was 5)
+   - 30 Life
+   - 10-15 Strength
+   - removed dexterity
+   - removed defense 
+- Blinkbats Form
+   - 100 defense vs missile (was 50)
+   - 30 Faster Run/Walk (was 10)
+   - 3-5 Mana After Each Kill
+   - 25 Life
+   - 25 Mana
+   - removed defense
+   - removed Fire Damage
+- Darkglow
+   - 5-10 maximum all resist (was 5)
+   - 100 DefenseMelee (was 50)
+   - 10-15 all resist (was 10)
+   - 100-150 Enhanced Defense (was 70-100)
+   - 20 Life
+   - 6-10 Physical Damage Reduced 
+   - removed Attack Rating 
+- The Centurion
+   - 6 Physical Damage Reduced (was 2)
+   - 50 Life (was 30)
+   - 50 Mana (was 30)
+   - 25 Mana regen (was 10)
+   - 30 Faster Hit Recovery
+   - removed defense
+- Hawkmail
+   - 100-120% Enhanced Defense (was	80-100)
+   - 20 max cold resist	(was 15)
+   - 40 cold resist (was 15)
+   - 25 Faster Run/Walk (was 10)
+   - 20 Faster Hit Recovery
+   - 20 Increased Attack Speed
+- Twitchthroe
+   - 25 Increased Attack Speed (was 20)
+   - 10-20 defense (was 10)
+   - 40 Block chance (was 25)
+   - 30 defense (was 25)
+   - 10-20 Strength (was 10)
+   - 6-9 Magic Damage Reduction
+   - 25-36 Pierce
+- Venom Ward
+   - 20% max poison resist	(was 15)
+   - 175% Poison Length Reduction (was 50)
+   - 30-70% Poison resist (was 90)
+   - 100-140% Enhanced Defense (was 60-100)
+   - 6 Physical Damage Reduced
+   - 4-10% Poison Pierce
+   - +1-2 Poison Skills
+- Sparking Mail
+   - 100-120% Enhanced defense (was 75-85)
+   - 1-69 Lightning Damage (was	1-20)
+   - 10-15 Lightning Absorb (was 10-14 Lightning thorns)
+   - 50% lightning resist (was 30)
+   - 100% gold find
+   - 30-40 Mana
+   - -20 Requirements
+   - +1-2 lightning skills 
+- Iceblink
+   - Cannot Be Frozen (was half freeze duration)
+   - 30-50% cold resist (was 30)
+   - 6-9 Magic Damage Reduction (was 1)
+   - 100-130% Enhanced defense (was 70-80)
+   - Cold Damage 25-50
+   - 50 Mana
+   - -25 Requirements
+   - 10-20 cold Absorb
+   - 10% Faster Run/Walk
+   - +1-2 Cold Skills
+- Boneflesh
+   - 6-9 Lifesteal (was 5)
+   - 100-150% Enhanced Defense(was 100-120)
+   - 50 Life (was 35 Attack Rating)
+   - 30-40 open wounds (was 25)
+   - 8-12 Vitality
+   - 20% Increased Attack Speed
+   - 15% Faster Run/Walk
+   - -20 to -30 requirements
+   - 30-40 Enhanced Damage%
+   - 20-30 Pierce
+- Goldskin
+   - 150-200% Enhanced Defense(was	120-150)
+   - 35-45% all resist (was 35)
+   - 7-12 Magic Damage Reduction (was 10 thorns)
+   - 200-250 Gold Find(was 100)
+   - 20-40 Magic Find
+   - -10 to -20 Faster Run/Walk 20-10
+   - -20 to -40 requirements
+   - 12-24 Faster Hit Recovery 12-24
+- Silks of the Victor
+   - 5-8 Mana After Each Kill (was 5 Manasteal)
+   - 120-150% Enhanced Defense (was 100-120)
+   - 5-8 Life After Each Kill
+   - 10 Faster Cast Rate
+   - 10 Increased Attack Speed
+   - +1 Cold skills
+   - +1 Fire Skills
+   - +1 Light Skills
+   - +1 Poison Skills
+   - -40 to -50 requirements
+- Rockfleece
+   - - 20 requirements (was -10)
+   - 100-169% Enhanced Defense (was 100-130)
+   - 15-20% Physical Damage Reduction (was 10)
+   - 12-15 Physical Damage Reduced (was 5)
+   - 15-20 Strength (was 5)
+   - 20% Faster Hit Recovery
+   - 30 Life
+   - 15% Faster Run/Walk
+- Rattlecage
+   - Level 10 Blessed Aim Aura when equipped
+   - 35-40% Crushing blow (was 25)
+   - 200% Enhanced Defense (was 200 defense)
+   - removed Attack Rating 
+   - 15-20 deadly strike
+   - 10-15 Strength 10-15
+   - -40 requirements
 - Giant Skull
    - Removed Sockets 
    - Removed Knockback 
@@ -541,8 +861,18 @@ Bug Fixes
    - 60% Faster Block Rate
    - 40 All Resistances (was 25)   
 - Hone Sundan
-   - Removed Sockets
+   - Always Ethereal
+   - 200-250% Enhanced Damage (was 160-200)
+   - adds 40 Damage was (20-40)
    - Added 80 Increased Attack Speed
+   - Removed Sockets
+- Stone Raven
+   - 269-300 Enhanced Damage (was 230-280)
+   - 101-300 Magic Damage (was 101-187)
+   - 40-50 All Resistance (was 30-50)
+   - 2-4 Javelin and Spear Skills (was 1-3)
+- Windhammer
+   - 40% Chance to Cast Level 33 Twister on striking (was 33% level 22)
 - Blade of Ali Baba
    - Removed Sockets
    - Added 150% Gold Find
@@ -590,6 +920,45 @@ Bug Fixes
 - Nightwings
    - 8-12% Cold Skill Damage
    - -8% to -12% Enemy Cold Resistance
+- Wraith Flight
+   - 200-260% Enhanced Damage (was 150-190)
+   - 10-15 Lifesteal (was 9-13)
+   - 20 Increased Attack Speed
+   - crushing blow 10
+   - slows target 15
+- Demons Arch
+   - 200-230% Enhanced Damage (was 160-210)
+   - Life on each Kill 9-12 (was Lifesteal)
+   - 255-420 Cold Damage
+   - 255-420 Fire Damage (was 232-323)
+   - 63-420 Lightning Damage (was 23-333)
+   - 8-15 pierce Fire/Cold/Light pierce
+   - -20% Requirements
+- Lacerator
+   - 240-280 Enhanced Damage (was 150-210)
+- Deathbit
+   - 50% Deadly Strike (was 40)
+   - 200-269% Enhanced Damage (was 130-180)
+   - added -50% Target Defense
+   - added Hits Blinds Targets
+   - 30% Increased Attack Speed
+- The Scalper
+   - 200-269% Enhanced Damage (was 150-200)
+   - 50% Bonus Attack Rating (was 25)
+   - 30 Increased Attack Speed (was 20)
+   - 35% open wounds (was 33)
+   - 6-9 Lifesteal (was 4-6)
+   - Added Prevent Monster Heal
+   - 20 Faster Run/Walk
+- Gimmershred
+   - 200-230% Enhanced Damage (was 160-210)
+   - 250-500 Fire Damage (was 218-483)
+   - 250-500 Cold Damage (was 176-397)
+   - 61-501 Lightning Damage (was 29-501)
+   - added 20% chance to cast Level 6 Lower Resist
+- Warshrike
+   - 269-320 Enhanced Damage (was 200-250)
+   - 40% Chance to cast LEVEL 20 Nova on hit (was 25% LVL 9)
 
 ## Sets
 - Ondal's Almighty
@@ -611,7 +980,7 @@ Bug Fixes
    
 Aldur's Watchtower (Full Set)
    - Removed Defense
-   - 100 MF 3 Pieces (was 50) 
+   - 100 Magic Find 3 Pieces (was 50) 
    - Added 20% Physical Damage Reduction with full set
    - Added + 7 Grizzly
 - Aldur's Rhythm (Weapon)
@@ -736,25 +1105,26 @@ Natalya's Odium (Full Set)
    
 Bul-Kathos' Children (Full Set)
    - 4 All Skills (was 2)
-   - +300 Damage (was 200 Fire)
+   - +200 Damage (was 200 Fire)
    - 300% Enhanced Damage (was 200 demons and undead)
    - 35% Deadly Strike (was 20)
+   - 20% Physical Damage Reduction
    - Added 50% All resistances
    - Added 100% Magic Find
 - Bul-Kathos' Sacred Charge
    - Removed Sockets
-   - 300-350 Enhanced Damage (was 200)
-   - 20-30 All Resistances (was 20)
+   - 250-300 Enhanced Damage (was 200)
+   - 10-20 All Resistances (was 20)
    - Added Hit Blinds Target
    - Added 20-30 Dexterity
-   - Added 10% Mana Stolen Per Hit
+   - Added 5% Mana Stolen Per Hit
 - Bul-Kathos' Tribal Guardian
    - Removed Sockets
-   - 300-350 Enhanced Damage (was 200)
-   - 20-30 All Resistances (was 50 Fire Res)
+   - 250-300 Enhanced Damage (was 200)
+   - 10-20 All Resistances (was 50 Fire resist)
    - 20% Chance to Cast Level 10 Poison Nova on Striking (was 50 poison damage)
    - Added 20-30 Strength
-   - Added 10% Life Stolen Per Hit
+   - Added 5% Life Stolen Per Hit
    - Added 35% Chance to Open Wounds
    
 M'avina's Battle Hymn (Full Set)
@@ -856,126 +1226,126 @@ Trang-Oul's Avatar (Full Set) Full Set no longer turns you into a Goul
 (ALL NORMAL SETS ARE LVL1)
 
 CIVERB'S VESTMENTS
-- Civerb's Ward -  15ac -> 55ac; 15% block -> 20% block; added fhr 25; added res-cold 30; (2pc replaced 22 mana with 50 life; 26res-pois -> 40)
-- Civerb's Icon - Regen 4 -> 7-12; Added mana/lvl (12-14)/8; (2pc removed 25ac and 25 cold res -> 25 mana)
-- Civerb's Cudgel - 75att -> att/lvl 16/2; dmgmax 17-23 -> dmgmax 23; added dmg-ltng 1-20
-	2pc bonus - 25res-fire -> 30; Added 10fcr
-	3pc bonus - 15str -> 20 str; 25res-ltng -> 30; replaced ac50 -> red-dmg 10; added addxp15; added mag%100
+- Civerb's Ward -  15ac -> 55ac; 15% block -> 20% block; added Faster Hit Recovery 25; added resist-cold 30; (2pc replaced 22 mana with 50 life; 26res-Poison -> 40)
+- Civerb's Icon - Regen 4 -> 7-12; Added mana/lvl (12-14)/8; (2pc removed 25ac and 25 cold resist -> 25 mana)
+- Civerb's Cudgel - 75att -> att/lvl 16/2; dmgmax 17-23 -> dmgmax 23; added Damage-ltng 1-20
+	2pc bonus - 25res-fire -> 30; Added 10Faster Cast Rate
+	3pc bonus - 15str -> 20 Strength; 25res-ltng -> 30; replaced ac50 -> red-Damage 10; added addxp15; added mag%100
 
 HSARUS' DEFENSE
 - Iron Heel - 20frw -> 25frw; (2pc added dmg6)
 - Iron Fist - red-dmg2 -> 10; added red-mag 10; added redpsnlength 75; replaced 10str -> 25hp (2pc replaced ac/lvl20 -> 5dex + 5vit)
 - Iron Stay - 20hp -> 25; 20res-cold -> 25; (2pc replaced ac/lvl20 -> 5str + 5enr)
 	- 2pc bonus - thorns 5 -> thorns/lvl 8/8;
-	- 3pc bonus - dmg-max 5 -> thorns/lvl 12/8; 25res-ltng -> 30; Added res-poin 30; Added addxp15; added mag%100
+	- 3pc bonus - Damage-max 5 -> thorns/lvl 12/8; 25res-ltng -> 30; Added resist-poin 30; Added addxp15; added mag%100
 
 CLEGLAW'S BRACE
-- Cleglaw's Tooth - 50deadly -> 75; added dmg10;  (2pc dmg/lvl 10/8 -> 11/8)
-- Cleglaw's Claw -  17ac -> 55; added res-cold 10; added red-dmg 5 (2pc 15@ -> 20@)
-- Cleglaw's Pincers - Replaced knockback -> 20ias; 10res-fire
-	- 2pc bonus - replaced ac50 -> 35 openwounds; added 1-10 dmg;
-	- 3pc bonus - removed 35 crushing; added lifesteal 6; 20ias -> 25ias; added addxp15; added mag%100
+- Cleglaw's Tooth - 50deadly -> 75; added dmg10;  (2pc Damage/lvl 10/8 -> 11/8)
+- Cleglaw's Claw -  17ac -> 55; added resist-cold 10; added red-Damage 5 (2pc 15@ -> 20@)
+- Cleglaw's Pincers - Replaced knockback -> 20Increased Attack Speed; 10res-fire
+	- 2pc bonus - replaced ac50 -> 35 openwounds; added 1-10 Damage;
+	- 3pc bonus - removed 35 crushing; added lifesteal 6; 20Increased Attack Speed -> 25Increased Attack Speed; added addxp15; added mag%100
 
 IRATHA'S FINERY
 - Iratha's Collar - Added 20 mana
 - Iratha's Cuff - Added 1-20dmg-ltng; removed half freeze; added hp15
-- Iratha's Coil - added res-fire30
-- Iratha's Cord - replaced ac25 -> dex15; dmg-min5 -> 8
+- Iratha's Coil - added resist-fire30
+- Iratha's Cord - replaced ac25 -> dex15; Damage-min5 -> 8
 	- 2pc - Replaced 50ac -> 3MPK
 	- 3pc - move20 -> 25; removed 24 pierce
 	- 4pc - added 60 pierce; added addxp15; added mag%100; removed 15dex
 
 ISENHART'S ARMORY
-- Isenhart's Lightbrand - Added 13-15 dmg-fire; Added dmg-undead 100% (2pc replaced att/lvl 10/8 -> dmg-fire/lvl 10/8)
+- Isenhart's Lightbrand - Added 13-15 Damage-fire; Added Damage-undead 100% (2pc replaced att/lvl 10/8 -> Damage-fire/lvl 10/8)
 - Isenhart's Parry - Added allskills 1; replaced 40ac -> 30% block; Added 20res-ltng; light-thorns 4 -> 13-16 (2pc 8@ -> 10@)
 - Isenhart's Case - ac40 -> ac100; red-mag2 -> 5; added 35hp
-- Isenhart's Horns - Replaced 6dex -> 10str; red-dmg 2 -> 5; added 30hp (2pc 8@ -> 10@)
+- Isenhart's Horns - Replaced 6dex -> 10str; red-Damage 2 -> 5; added 30hp (2pc 8@ -> 10@)
 	- 4pc - 20frw -> 25frw; added 5 manasteal; added allskills 1; added 15% xp; removed block30; added mag%100
 
 VIDALA'S RIG
-- Vidala's Barb - Replaced 1-20dmg-ltng -> dmg-pois 100/4s ; Added 20openwounds; Added 60-75ed (2pc att/lvl 16/2 -> dmg-pois/lvl 24/8)
+- Vidala's Barb - Replaced 1-20dmg-ltng -> Damage-Poison 100/4s ; Added 20openwounds; Added 60-75ed (2pc att/lvl 16/2 -> Damage-Poison/lvl 24/8)
 - Vidala's Fetlock -  stam150 -> vit10; (2pc 8@ -> 10@)
-- Vidala's Ambush - Added gethit-skill poisonnova 12% lv1; 11dex -> 15dex; replaced ac50 -> res-fire20; added res-ltng 20 (2pc replaced res-fire24 -> ama 2)
-- Vidala's Snare - Added res-pois 20; 
-	- 4pc - Replaced dmg-cold/lvl -> dmg-pois/lvl 12/8; Removed freeze target; Added addxp15; Added 1 allskills; added mag%50
+- Vidala's Ambush - Added gethit-skill poisonnova 12% lv1; 11dex -> 15dex; replaced ac50 -> resist-fire20; added resist-ltng 20 (2pc replaced resist-fire24 -> ama 2)
+- Vidala's Snare - Added resist-Poison 20; 
+	- 4pc - Replaced Damage-cold/lvl -> Damage-Poison/lvl 12/8; Removed freeze target; Added addxp15; Added 1 allskills; added mag%50
 
 MILABREGA'S REGALIA
-- Milabrega's Orb - 25ac -> 60ac; added block25; replaced 20 mag% -> mag%/lvl (0.625mf/lvl);  (2pc replaced 50life -> 40 res-ltng; 50ac% -> 100ac%)
-- Milabrega's Rod - pal 1 -> allskills 1; 50ed -> 100ed; removed light2 (2pc added 9-18 dmg-cold)
+- Milabrega's Orb - 25ac -> 60ac; added block25; replaced 20 mag% -> mag%/lvl (0.625mf/lvl);  (2pc replaced 50life -> 40 resist-ltng; 50ac% -> 100ac%)
+- Milabrega's Rod - pal 1 -> allskills 1; 50ed -> 100ed; removed light2 (2pc added 9-18 Damage-cold)
 - Milabrega's Diadem - 15life -> 30life; 15mana -> 30mana; 
-- Milabrega's Robe - replaced thorns3 -> red-mag 5; red-dmg 2 -> 5; added 10fcr; added ease -45; added 10frw (2pc added 40res-fire)
-	- 2pc - 75ar -> 125ar; replaced dmg-ltng 16/8 -> dmg-cold/lvl 16/8; 
-	- 4pc - pal 2 -> allskills 2; res-pois 15 -> 40; added addxp 15; added mag%100
+- Milabrega's Robe - replaced thorns3 -> red-mag 5; red-Damage 2 -> 5; added 10Faster Cast Rate; added ease -45; added 10frw (2pc added 40res-fire)
+	- 2pc - 75ar -> 125ar; replaced Damage-ltng 16/8 -> Damage-cold/lvl 16/8; 
+	- 4pc - pal 2 -> allskills 2; resist-Poison 15 -> 40; added addxp 15; added mag%100
 
 CATHAN'S TRAPS
-- Cathan's Rule - +1firesk -> +2; added 15fcr; 10dmg-fire -> 10-15; 
+- Cathan's Rule - +1firesk -> +2; added 15Faster Cast Rate; 10dmg-fire -> 10-15; 
 - Cathan's Mesh - 15ac -> 50ac; added 15@; added 15fwr;
-- Cathan's Visage - 20mana -> 50;  (2pc replaced ac/lvl -> vit/lvl 3/8)
+- Cathan's Visage - 20mana -> 50;  (2pc replaced ac/lvl -> Vitality/lvl 3/8)
 - Cathan's Sigil - light-thorns 5 -> 10; 10fhr -> 23; added 15regen-mana; (2pc replaced 50ar -> 10enr; mag% 25 -> 40)
-- Cathan's Seal - replaced 6lifesteal -> 2 lpk; added 10fcr (2pc 10str -> 5str; added 5 dex)
+- Cathan's Seal - replaced 6lifesteal -> 2 Life After Each Kill; added 10Faster Cast Rate (2pc 10str -> 5str; added 5 defense)
 	- 2pc - 16 regenmana -> 20;
 	- 3pc - 25res-ltng -> 30;
-	- 5pc - replaced att60 -> +2firesk; red-mag 3 -> 5; 25@ -> 20@; added 25ias; replaced mana20 -> 2mpk; added addxp 15; added mag% 60
+	- 5pc - replaced att60 -> +2firesk; red-mag 3 -> 5; 25@ -> 20@; added 25Increased Attack Speed; replaced mana20 -> 2mpk; added addxp 15; added mag% 60
 
 TANCRED'S BATTLEGEAR
-- Tancred's Crowbill - 80ed -> 100ed; added 35crush; replaced 75ar -> att/lvl 4/2; added dmg/lvl 12/8 (3pc 20ias -> 30ias)
-- Tancred's Spine - 40hp -> 50; 15str -> 20str; added 27fhr; added res-curse 25-34%
+- Tancred's Crowbill - 80ed -> 100ed; added 35crush; replaced 75ar -> att/lvl 4/2; added Damage/lvl 12/8 (3pc 20Increased Attack Speed -> 30Increased Attack Speed)
+- Tancred's Spine - 40hp -> 50; 15str -> 20str; added 27fhr; added resist-curse 25-34%
 - Tancred's Hobnails - replaced heal stam -> 25hp; 
-- Tancred's Weird - red-dmg 2 -> 5; red-mag 1 -> 5; added dmg-ltng 20; 
+- Tancred's Weird - red-Damage 2 -> 5; red-mag 1 -> 5; added Damage-ltng 20; 
 - Tancred's Skull - 10ed -> 25ed; 40ar -> 80ar; (2pc 10@ -> 15@)
-	- 5pc - 75%gf -> 125%; 10@ -> 35@; added allskills 1; added addxp 15; added mag%50; added red-dmg% 10
+	- 5pc - 75%Gold Find -> 125%; 10@ -> 35@; added allskills 1; added addxp 15; added mag%50; added red-Damage% 10
 
 SIGON'S COMPLETE STEEL
-- Sigon's Gage - 10str -> 20str; 20ar -> 60ar; (2pc 30ias -> 35ias)
-- Sigon's Visor - 25ac -> 50ac; added res-pois 20; 
+- Sigon's Gage - 10str -> 20str; 20ar -> 60ar; (2pc 30Increased Attack Speed -> 35Increased Attack Speed)
+- Sigon's Visor - 25ac -> 50ac; added resist-Poison 20; 
 - Sigon's Shelter - 25ac% -> 50ac%; added 27fhr (2pc replaced thorns20 -> ac/lvl 16/8)
 - Sigon's Sabot - 20frw -> 25frw;  (2pc 50ar -> 60ar)
 - Sigon's Wrap - (2pc replaced ac/lvl 16/8 -> thorns 20)
 - Sigon's Guard - block20 -> block30; added oskill lv1 frozen armor; (2pc added half freeze duration)
-	- 6pc - added +2allskills; replaced 12res-fire -> 35@; replaced thorns12 -> red-dmg% 12; fire-max 24 -> 43; mana 20 -> 35; added addxp 15, added mag% 50
+	- 6pc - added +2allskills; replaced 12res-fire -> 35@; replaced thorns12 -> red-Damage% 12; fire-max 24 -> 43; mana 20 -> 35; added addxp 15, added mag% 50
 
 INFERNAL TOOLS
 - Infernal Cranium - 10@ -> 20@; added nec1 (2pc replaced ac/lvl 16/8 -> mana/lvl 16/8)
-- Infernal Torch - nec +1 -> nec +2; replaced dmg-min 8 -> 20fcr; (2pc replaced att/lvl 20/2 -> mana30)
+- Infernal Torch - nec +1 -> nec +2; replaced Damage-min 8 -> 20Faster Cast Rate; (2pc replaced att/lvl 20/2 -> mana30)
 - Infernal Sign - 25ac -> 50ac; hp20 -> hp25; added mana25;  (3pc replaced half-freeze -> move 15)
-	- 2pc - replaced dmg-pois 80,25,25 -> res-fire 25; mana10 -> mana40;
-	- 3pc - replaced att% 20 -> res-pois-len 75; nec1 -> allskills 1; replaced openwounds 20 -> ac-miss 100; replaced manasteal 6 -> mana-kill 3; added addxp 15; added mag% 100
+	- 2pc - replaced Damage-Poison 80,25,25 -> resist-fire 25; mana10 -> mana40;
+	- 3pc - replaced att% 20 -> resist-Poison-len 75; nec1 -> allskills 1; replaced openwounds 20 -> ac-missile 100; replaced manasteal 6 -> mana-kill 3; added addxp 15; added mag% 100
 
 BERSERKER'S AERSENAL
-- Berserker's Headgear - Replaced 15ac -> Str/lvl 4/8 ; Added 27 FHR  (2pc replaced att/lvl with 25 ltng res)
-- Berserker's Hauberk - red-mag 2 -> 8; Added red-dmg 8; Added 15frw (2pc replaced ac/lvl with 25 cold res)
-- Berserker's Hatchet - Replaced 30%ar -> 10-20dmg; Added lifesteal 5%; Added 20ias; Added 10 openwounds (2pc added 10str; added dmg/lvl 10/8)
-	- 3pc bonus - Replaced psn dmg -> 20@; Added addxp 15; Added gold% 75; added mag% 100;
+- Berserker's Headgear - Replaced 15ac -> Strength/lvl 4/8 ; Added 27 Faster Hit Recovery  (2pc replaced att/lvl with 25 ltng resist)
+- Berserker's Hauberk - red-mag 2 -> 8; Added red-Damage 8; Added 15frw (2pc replaced ac/lvl with 25 cold resist)
+- Berserker's Hatchet - Replaced 30%ar -> 10-20dmg; Added lifesteal 5%; Added 20Increased Attack Speed; Added 10 openwounds (2pc added 10str; added Damage/lvl 10/8)
+	- 3pc bonus - Replaced psn Damage -> 20@; Added addxp 15; Added gold% 75; added mag% 100;
 
 DEATH'S DISGUISE
 - Death's Hand - 
 - Death's Guard - 
-- Death's Touch - 25ed -> 75ed; added manasteal 4; added ease -30; added dmg/lvl 14/8
+- Death's Touch - 25ed -> 75ed; added manasteal 4; added ease -30; added Damage/lvl 14/8
 	- 3pc - added addxp 15; added allskills 1; added mag% 100
 	
 ANGELIC RAIMENT
-- Angelic Sickle - replaced 75ar -> dmg%75; added dmg-und/lvl 8/8; (2pc replaced 75ed -> 20dmg-mag; added dmg/lvl 16/8)
-- Angelic Mantle - red-dmg 3 -> 5; ac% 40 -> 65; added red-dmg% 6; added 15frw (2pc replaced res-fire 50 -> 15@)
+- Angelic Sickle - replaced 75ar -> Damage%75; added Damage-und/lvl 8/8; (2pc replaced 75ed -> 20dmg-mag; added Damage/lvl 16/8)
+- Angelic Mantle - red-Damage 3 -> 5; ac% 40 -> 65; added red-Damage% 6; added 15frw (2pc replaced resist-fire 50 -> 15@)
 - Angelic Halo - regen6 -> 8; hp20 -> 30; added 5str (3pc mag% 50 -> 25)
-- Angelic Wings - replaced light3 -> mana 30; added 10fcr
+- Angelic Wings - replaced light3 -> mana 30; added 10Faster Cast Rate
 	- 2pc - 10dex -> 15; 
 	- 3pc - mana 50 -> 75;
 	- 4pc - mag% 40 -> 50; added allskills 1; added addxp 15	
 
 ARCTIC GEAR
-- Arctic Horn - 50ed -> 135ed; added dmg-cold 10 (2pc replaced att/lvl 16/2 -> dmg-cold 75,20)(3pc replaced dmg-cold 75,20-30 -> 50mana) (4pc added att/lvl 16/2)
-- Arctic Furs - ac%275-325 -> 300; 10@ -> 20@; added allskills 1 (2pc replaced res-cold 15 -> mana50)
-- Arctic Binding - replaced ac30 -> mana30; (2pc replaced mag%50 -> 10frw) (3pc replaced res-cold 10 -> mag%50)
-- Arctic Mitts - hp20 -> 30; 10ias -> 20ias (2pc replaced 50ar -> 15@)
+- Arctic Horn - 50ed -> 135ed; added Damage-cold 10 (2pc replaced att/lvl 16/2 -> Damage-cold 75,20)(3pc replaced Damage-cold 75,20-30 -> 50mana) (4pc added att/lvl 16/2)
+- Arctic Furs - ac%275-325 -> 300; 10@ -> 20@; added allskills 1 (2pc replaced resist-cold 15 -> mana50)
+- Arctic Binding - replaced ac30 -> mana30; (2pc replaced mag%50 -> 10frw) (3pc replaced resist-cold 10 -> mag%50)
+- Arctic Mitts - hp20 -> 30; 10Increased Attack Speed -> 20Increased Attack Speed (2pc replaced 50ar -> 15@)
 	2pc - Replaced 5str -> 15dex; 
 	3pc - Replaced 50hp -> 3mpk;
-	4pc - dmg-cold/lvl 16 -> 20; added allskills 1; added addxp 15; added mag% 60;
+	4pc - Damage-cold/lvl 16 -> 20; added allskills 1; added addxp 15; added mag% 60;
 
 ARCANNA'S TRICKS
-- Arcanna's Sign - Added 10fcr; 15 -> 40 mana; (3pc 20fr -> 25fr;)
-- Arcanna's Deathwand - Replaced 25deadly -> 25fcr; replaced sor1 -> allskills 1
-- Arcanna's Head - Replaced regen -> 3LPK; Replaced 2thorns -> 25poisonres; Added 10 dmg to mana (2pc replaced ac/lvl 24/8 -> enr10; res-ltng 15 -> 25)
-- Arcanna's Flesh - replaced light2 -> 25 cold res; red-dmg3 - > 6; Added 15frw (3pc replaced enr10 -> ac/lvl 24/8)
+- Arcanna's Sign - Added 10Faster Cast Rate; 15 -> 40 mana; (3pc 20fr -> 25fr;)
+- Arcanna's Deathwand - Replaced 25deadly -> 25Faster Cast Rate; replaced sor1 -> allskills 1
+- Arcanna's Head - Replaced regen -> 3LPK; Replaced 2thorns -> 25poisonres; Added 10 Damage to mana (2pc replaced ac/lvl 24/8 -> enr10; resist-ltng 15 -> 25)
+- Arcanna's Flesh - replaced light2 -> 25 cold resist; red-dmg3 - > 6; Added 15frw (3pc replaced enr10 -> ac/lvl 24/8)
 	- 4pc bonus - +1 all skills -> +2; Replaced 5% manasteal -> 6MPK; added addxp 15; added mag% 50
 
 ---EXPANSION SETS--------
@@ -984,7 +1354,7 @@ ORPHAN'S CALL
 - Guillaume's Face
 - Wilhelm's Pride
 - Magnus' Skin
-- Wihtstan's Guard - half freeze -> nofreeze; added res-pois 50; added res-ltng 50;
+- Wihtstan's Guard - half freeze -> nofreeze; added resist-Poison 50; added resist-ltng 50;
 	- 3pc - thorns 5 -> thorns/lvl 20/8
 - Naj's Puzzler Charges changed to +1 Teleport
    
@@ -996,7 +1366,7 @@ ORPHAN'S CALL
       - 20 Mana
       - 20 Life
       - 4-5 Cold min
-      - 15 IAS
+      - 15 Increased Attack Speed
 	  - 1-3 Life After Each Kill
    - Weapons
       - 300 Enhanced Damage
@@ -1015,7 +1385,7 @@ ORPHAN'S CALL
    - Rings
       - 2 Mana After Each Kill
    - Helms
-	  - Magic Helms Only 26-35% MF
+	  - Magic Helms Only 26-35% Magic Find
 - Removed 
    - All Items
       - Increased Stack Size
@@ -1032,7 +1402,7 @@ ORPHAN'S CALL
    - 6-22 Individual Resistance [Fire, Cold, Light, and Poison] (was 4-15)
    - 6-10 All Resistances (was 3-8)
    - 6-14 Magic Find (was 1-6)
-   - 1-4 Damage/10-48 Attack Rating (was 1-6 Max Dmg/10-48 Attack Rating)
+   - 1-4 Damage/10-48 Attack Rating (was 1-6 Max Damage/10-48 Attack Rating)
    - Added 1-3% - enemy resitances
    - 10% Faster Hit Recovery (was 8%)
 - Removed Hit Causes Monster to Flee and Knockback
@@ -1045,13 +1415,13 @@ ORPHAN'S CALL
 - Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
 - Hit Power Crafts
    - Helm 20 Faster Hit Recovery + 150-200 Attack Rating + 5% Level 4 Frost Nova When Struck
-   - Boots 10 FHR + 10-15 Dexerity + 5% Level 4 Frost Nova When Struck
+   - Boots 10 Faster Hit Recovery + 10-15 Dexerity + 5% Level 4 Frost Nova When Struck
    - Gloves -15-20% target defense + 5% Level 4 Frost Nova When Struck
-   - Belt 20 FHR + 20 Damage to mana + 5% Level 4 Frost Nova When Struck
+   - Belt 20 Faster Hit Recovery + 20 Damage to mana + 5% Level 4 Frost Nova When Struck
    - Shield 30 FBR + 20 Block Chance + 5% Level 4 Frost Nova When Struck
-   - Armor 30-40 FHR + 35-60 Enhanced Damage + 5% Level 4 Frost Nova When Struck
-   - Amulet 200-250 Attack Rating + 15-20 FHR + 5% Level 4 Frost Nova When Struck
-   - Ring 3-5 Max dmg + 5-10 Dexterity + 5% Level 4 Frost Nova When Struck
+   - Armor 30-40 Faster Hit Recovery + 35-60 Enhanced Damage + 5% Level 4 Frost Nova When Struck
+   - Amulet 200-250 Attack Rating + 15-20 Faster Hit Recovery + 5% Level 4 Frost Nova When Struck
+   - Ring 3-5 Max Damage + 5-10 Dexterity + 5% Level 4 Frost Nova When Struck
    - Weapon Gloves -15-20% target defense + 50-80% Enhanced Damage + 5% Level 4 Frost Nova When Struck
 - Blood Crafts
    - Helm 2-4 Life Steal + 30-40 life + 15-20 Deadly strike
@@ -1074,21 +1444,21 @@ ORPHAN'S CALL
    - Ring 1-2 Mana Per Kill + 5-10 Energy
    - Weapon 1 Skill + 10-20 Faster Cast Rate
 - Safety
-   - Helm 3-5 MDR/PDR + 50-60% Enhanced Defense + 10-20 Lightning Resist
-   - Boots 3-5 MDR/PDR + 50-60% Enhanced Defense + 10-20 Fire Resist
-   - Gloves 3-5 MDR/PDR + 10-30% Enhanced Defense + 10-20 Cold Resist
-   - Belt 3-5 MDR/PDR+ 10-30% Enhanced Defense + 75-100% Poison Length Reduction
+   - Helm 3-5 Magic Damage Reduction/PDR + 50-60% Enhanced Defense + 10-20 Lightning Resist
+   - Boots 3-5 Magic Damage Reduction/PDR + 50-60% Enhanced Defense + 10-20 Fire Resist
+   - Gloves 3-5 Magic Damage Reduction/PDR + 10-30% Enhanced Defense + 10-20 Cold Resist
+   - Belt 3-5 Magic Damage Reduction/PDR+ 10-30% Enhanced Defense + 75-100% Poison Length Reduction
    - Shield 5-10% Physical Damage Reduction + 10-20 Magic Resist + 50-60% Enhanced Defense
    - Body 5-10% Physical Damage Reduction + 25-50 Defense + Half Freeze Duration + 50-60% Enhanced Defense
-   - Amulet 3-5 MDR/PDR + 10-20% Enhanced Defense + 10 Block Chance
-   - Ring 3-5 MDR/PDR + 10-20% Enhanced Defense + 5-10 Vitality
-   - Weapon 3-5 MDR/PDR + 50-60% Enhanced Defense + 20-30% Enhanced Damage + 10-20 Increased Attack Speed
+   - Amulet 3-5 Magic Damage Reduction/PDR + 10-20% Enhanced Defense + 10 Block Chance
+   - Ring 3-5 Magic Damage Reduction/PDR + 10-20% Enhanced Defense + 5-10 Vitality
+   - Weapon 3-5 Magic Damage Reduction/PDR + 50-60% Enhanced Defense + 20-30% Enhanced Damage + 10-20 Increased Attack Speed
    
 ## Shop
 - Added Charsi's Malus to Imbue (575k)
 - Added Larzuk's Forging Hammer (575k)
 - Added Full Rejuvination Potions at Ormus, Jamella and Malah
-- Added MF Potion grants +150% MF for 20 Minutes (Effect lost on death or S&E) at Alkor (750k)
+- Added Magic Find Potion grants +150% Magic Find for 20 Minutes (Effect lost on death or S&E) at Alkor (750k)
 - Added BigDinn at Ormus (90k)
    - Cube with Magic Staff for (?/33) Teleport Charges [Randome Level Required]
 - Added Hratli's Spiritual Herb (2.25M)
@@ -1150,8 +1520,8 @@ ORPHAN'S CALL
 ## Endgame
 - Augment Recipes:
 - WARNING: If you Augment Set Items MAKE SURE no other Set items are equipped!!!
-   - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + .375 MF/Level + .75 GF/Level + 2% Exp Gained
-   - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +50% MF + 100%GF + 2% Exp Gained
+   - Zod + SOJ + Sur + Standard of Heroes + Charsi's Malus + ANY Body Armor = +1 to Teleport, + .375 Magic Find/Level + .75 Gold Find/Level + 2% Exp Gained
+   - Cham + Standard of Heroes + Ist + Lem + Charsi's Malus + ANY gear piece = +50% Magic Find + 100%Gold Find + 2% Exp Gained
  - Gul + Fal + Charsi's Malus + Standard of Heroes + Any Gear Piece = 200 Attack Rating + 10% Bonus AR (Works up to 5x on a single item, base AR maxes at 1023)
 - Note: Gold Find and Magic Find Maxes at 723 and Experience at 461% EXP
 
@@ -1358,10 +1728,10 @@ ORPHAN'S CALL
 - Meteor fall time is 18 frames (was 60)
 - Immolation Arrow Casting Removed
 - Holy Shield Infinite Duration
-- Whirlwind Buff 50 (was 30%) Base Dmg and 17% Dmg Per Level (was 5%)
+- Whirlwind Buff 50 (was 30%) Base Damage and 17% Damage Per Level (was 5%)
 - Removed Fist of Heavens cooldown
    - FOH's Holy Bolt Damage Reduced
-- Iron Golem now has takes 70% less dmg across the board
+- Iron Golem now has takes 70% less Damage across the board
 - Shrines now stack and dont interfere with curses
 - Battle Cry does not interfere with curses
 - Grim ward no longer Terrors but instead uses Innersite
@@ -1372,7 +1742,7 @@ ORPHAN'S CALL
 - Buffed Rabies (synergies 26%)
    - Added 26% Feral Rage Synergy
    - Rabies Spreads like Corona Virus
-- Lower Resist Always breaks Poison Immunity (All Monsters Have a maximum psn res of 105%)
+- Lower Resist Always breaks Poison Immunity (All Monsters Have a maximum psn resist of 105%)
 - Feral Rage now has 30 Second Duration
 - Increased Battle Cry Range Slightly and removed Radius Description
 - Phoenix Strike Always Hits and Meteor is much faster now
@@ -1397,3 +1767,8 @@ ORPHAN'S CALL
    - 50% baseline Defense 
    - 15% per level 
    - 0.5% Damage Reduction Hard Point 
+
+## EXTRAS
+
+- 3 Thawing Potions = Level 90 Scaling Magic Find Charm
+- Blank Item on "BlankItems" Character is used to update Uniques and Set items

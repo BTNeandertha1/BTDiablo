@@ -432,15 +432,15 @@ Diamond	100	1	1	26		19				1	123	att-demon		25	50	dmg-demon		25	40						jewl					
 Fletcher's	100	1		50		42	ama			1	125	skilltab	0	1	1										lcha												0	0
 Acrobat's	100	1		50		42	ama			1	125	skilltab	1	1	1										lcha												0	0
 Harpoonist's	100	1		50		42	ama			1	125	skilltab	2	1	1										lcha												0	0
-Fletcher's	100	1	1	20		15	ama			1	125	skilltab	0	1	1										miss	glov											0	0
-Bowyer's	100	1	1	40		30	ama			1	125	skilltab	0	2	2									lgld	miss	glov											0	0
-Archer's	100	1		60		45	ama			1	125	skilltab	0	3	3									lgld	miss	glov											0	0
+Fletcher's	100	1	1	20		15	ama			1	125	skilltab	0	1	1										miss	glov	amul	circ									0	0
+Bowyer's	100	1	1	40		30	ama			1	125	skilltab	0	2	2									lgld	miss	glov	amul	circ									0	0
+Archer's	100	1		60		45	ama			1	125	skilltab	0	3	3									lgld	miss	glov	amul	circ									0	0
 Acrobat's	100	1	1	20		15	ama			1	125	skilltab	1	1	1										glov	amul	circ										0	0
 Gymnast's	100	1	1	40		30	ama			1	125	skilltab	1	2	2									lgld	glov	amul	circ										0	0
 Athlete's	100	1		60		45	ama			1	125	skilltab	1	3	3									lgld	glov	amul	circ										0	0
-Harpoonist's	100	1	1	20		15	ama			1	125	skilltab	2	1	1										spea	glov											0	0
-Spearmaiden's	100	1	1	40		30	ama			1	125	skilltab	2	2	2									lgld	spea	glov											0	0
-Lancer's	100	1		60		45	ama			1	125	skilltab	2	3	3									lgld	spea	glov											0	0
+Harpoonist's	100	1	1	20		15	ama			1	125	skilltab	2	1	1										spea	glov	amul	circ									0	0
+Spearmaiden's	100	1	1	40		30	ama			1	125	skilltab	2	2	2									lgld	spea	glov	amul	circ									0	0
+Lancer's	100	1		60		45	ama			1	125	skilltab	2	3	3									lgld	spea	glov	amul	circ									0	0
 Burning	100	1	1	50		42	sor			1	125	skilltab	3	1	1										lcha												0	0
 Sparking	100	1	1	50		42	sor			1	125	skilltab	4	1	1										lcha												0	0
 Chilling	100	1	1	50		42	sor			1	125	skilltab	5	1	1										lcha												0	0
