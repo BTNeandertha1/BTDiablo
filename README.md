@@ -105,25 +105,17 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
-Major Balance Change
-- Added A Level 90 Charm that grants .875 Magic Find per level to counter the -Magic Find% (Added on Character Creation)
-1. Spawn charm on existing characters by cubing 3 thawing potions
-2. Check the video in announcements to Add in properly (Only matters for Existing Characters)
-Item Changes
-- Eld Rune changed from 15% Stamina drain to replenish 5 life 
-- Changed the Class Runewords (Myth, Rain, etc) Treachery untouched
-- Nerfed BK Set
-Affixes
-- Bow and Crossbow Skills added to circlets and amulets
-- Javelin and Spear SKills added to circlets and amulets
-- Added Elemental Skills (1 to cold, lightning, poison)
+Items
+- Adjusted maximum amount of sockets on claws to 3
+
 Skills
-- Freezing Arrow Damage Buff 
-- Buffed Ravens
-- Holy Freeze Range reverted to base game
-- Auras have their tick rate doubled (exception Redemption Aura)
+- Zeal, Fury, Fend and Dragon Talon Kicks are always 3 hits now
+
 Extras
-- Magefist needs to be manually updated (with blank items) in game if you have an existing pair otherwise dont worry about it
+- 2 Unique Jewerly (Rings, Amulets, Jewels) + Thawing Potion = Standard of Heroes
+
+Bug Fixes
+- Fixed an issue where Ravens would instantly despawn after summoning them
 
 ## Characters
 - Walking is the same as running
