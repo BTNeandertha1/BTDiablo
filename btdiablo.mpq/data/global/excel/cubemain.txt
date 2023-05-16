@@ -4,9 +4,9 @@ Set Reroll	1				0					2	any,set,eth	mfd						usetype,set	99		99	ethereal	100		1	
 Unique Reroll	1				0					2	any,uni,noe	mfd						usetype,uni	99		99																										mfd																																																										0
 Unique Reroll	1				0					2	any,uni,eth	mfd						usetype,uni	99		99	ethereal	100		1	1																					mfd																																																										0
 3 Thaw for MF Charm	1				100					3	wms,qty=3							mff,uni	99		99																																																																																				0
-1 antidote	0				100					1	apot							naj's puzzler	99		99																																																																																				0
-1 thawing	0				100					1	wpot								99		99																																																																																				0
-1 town portal scroll	0				100					1	tsc								99		99																																																																																				0
+1 antidote	0				100					1	apot							gwh	99		99																																																																																				0
+1 thawing	0				100					1	wpot							std	99		99																																																																																				0
+1 town portal scroll	0				100					1	tsc							cm1	99		99	addxp			500	500																																																																															0
 1 standard of heros	0				100					2	mpot,qty=2								99		99																																																																																				0
 1 health potion	0				100					1	hpot								99		99																																																																																				0
 2 town portal scroll	0				100					2	tsc,qty=2								99		99																																																																																				0
@@ -826,7 +826,7 @@ Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	armo,uni	std	hsm					useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	weap,uni	std	hsm					useitem				rep-dur		25																																																																																	0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	any,crf	std	hsm					useitem				rep-dur		25																																																																																	0
-2 Unique Jewerly = SOH	1				0					2	jwly,uni,qty=2							std																																																																																							0
+2 Unique Jewerly = SOH	1				0					3	jwly,uni,qty=2	wms						std																																																																																							0
 CHAM AUGMENT																																																																																																									0
 MF + GF	1				0					6	helm	132	124	120	std	mls		useitem				augmented1			1	1	mag%			50	50	gold%			100	100	addxp			2	2																																																																0
 MF + GF	1				0					6	weap	132	124	120	std	mls		useitem				augmented1			1	1	mag%			50	50	gold%			100	100	addxp			2	2																																																																0

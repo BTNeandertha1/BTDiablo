@@ -759,6 +759,6 @@
   { "dd6": { "asset": "potion/elixir" } },
   { "do1": { "asset": "potion/elixir" } },
   { "db3": { "asset": "potion/elixir" } },
-  { "1dr": { "asset": "potion/magic_find_potion" } }
-
+  { "1dr": { "asset": "potion/magic_find_potion" } },
+  { "gwh": { "asset": "quest/griswolds_heirloom" } }
 ]

@@ -1478,7 +1478,7 @@ ORPHAN'S CALL
    - Blue > Yellow > Red > Green > 3 Blue
 - 1 of Each Essence = 1 of each Uber Key
 - ANY 3 Uber Organs now open Uber Tristram (Diablo's Horn, Baal's Eye or Mephisto's Brain)
-- 2 Unique Jewerly (Rings, Amulets, Jewels) = Standard of Heroes
+- 2 Unique Jewerly (Rings, Amulets, Jewels) + Thawing Potion = Standard of Heroes
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
 - 1 Rare Item + Unique Ring = High Quality Rare Reroll (was SOJ)
 - Removed Gem requirements for repairing charges on items
