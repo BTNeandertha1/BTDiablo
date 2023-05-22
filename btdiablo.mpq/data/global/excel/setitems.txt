@@ -57,7 +57,7 @@ Arctic Horn	54	Arctic Gear	swb	Short War Bow	7	3	1	lgld	lgld						5	2500	2	att%	
 Arctic Furs	55	Arctic Gear	qui	Quilted Armor	7	3	1	lgld	lgld						5	2500	2	ac%		300	300	res-all		20	20	allskills		1	1																									ac/lvl	24							mana		50	50																														0
 Arctic Binding	56	Arctic Gear	vbl	Light Belt	7	3	1	lgld	lgld						5	2500	2	res-cold		40	40	mana		30	30																													move1		10	10					mag%		40	40																														0
 Arctic Mitts	57	Arctic Gear	tgl	Light Gauntlets	7	3	1	lgld	lgld						5	2500	2	hp		30	30	swing1		20	20																													res-all		15	15					dex		10	10																														0
-Arcanna's Sign	58	Arcanna's Tricks	amu	Amulet	30	20	1	blac	blac						5	2500	2	mana		40	40	regen-mana		20	20	cast1		10	10																									mag%		50	50					res-fire		25	25																														0
+Arcanna's Sign	58	Arcanna's Tricks	amu	Amulet	1	20	1	blac	blac						5	2500	2	mana		40	40	regen-mana		20	20	cast1		10	10																									mag%		50	50					res-fire		25	25																														0
 Arcanna's Deathwand	59	Arcanna's Tricks	wst	War Staff	7	20	1	blac	blac						5	2500	2	allskills		1	1	cast1		25	25																													mana		50	50					regen-mana		5	5																														0
 Arcanna's Head	60	Arcanna's Tricks	skp	Skull Cap	7	20	1	blac	blac						5	2500	2	res-pois		25	25	heal-kill		3	3	dmg-to-mana		10	10																									enr		10	10					res-ltng		25	25																														0
 Arcanna's Flesh	61	Arcanna's Tricks	ltp	Light Plate	7	20	1	blac	blac						5	2500	2	red-dmg		6	6	res-cold		25	25	move1		15	15																									ac		100	100					ac/lvl	24																																0

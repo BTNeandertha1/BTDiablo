@@ -95,6 +95,7 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - MrBrooksGaming Added UI Controller Support
 - Bonesy for being an actual god and helping with a ton of various stuff! Check out their website (https://www.d2rmodding.com/)
 - BaronBeefStick bug fixes and Dev work
+- Precell and Wigglez for helping with Rune Drop Light Beams
 
 # Future Ideas
 Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/16) issue.  
@@ -106,16 +107,40 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 2. **Paste New btdiablo.mpq folder**
 
 Items
-- Adjusted maximum amount of sockets on claws to 3
-
+- Holy Thunder
+   - Level 5 Holy Shock instead of 2
+- Honor 
+   - Reduced Enhanced Damage to 160-190
+   - Removed +1 all skills
+   - Always 25 Increased Attack Speed
+- Soul (spirit sword)
+   - changed 2 all skills to +1 random class skills
+   - Always 30 Faster Cast Rate
+- Zephyr
+   - 25 Increased Attack Speed (was 50)
 Skills
-- Zeal, Fury, Fend and Dragon Talon Kicks are always 3 hits now
-
+- Shockwave
+   - Doubled Base damage
+   - Can now shotgun and has 7 waves
+   - Added Synergies (Lycanthropy, Wearbear and Maul) 9%
+   - Reduced Stun length greatly
+- Ravens
+   - Now Has 7 Hits before despawning
+   - Now does half Physical Damage and half Cold Damage
+- Werewolf and Werebear Infinite Duration enabled
+- Spirit Wolf 
+   - Maximum of 1 (was 5)
+   - Now has Thorns based on Level
+   - Slight Damage Buff
+- Dire Wolf
+   - Added 12% Damage Synergies (Raven, Spirit Wolf, Summon Grizzly)
+   - Maximum of 5 (was 3)
+- Summon Grizzly 
+   - Added 12% Damage Synergies (Raven, Spirit Wolf, Dire Wolf)
 Extras
-- 2 Unique Jewerly (Rings, Amulets, Jewels) + Thawing Potion = Standard of Heroes
-
+- Lem-Zod Now have a beam of light when they drop
 Bug Fixes
-- Fixed an issue where Ravens would instantly despawn after summoning them
+- Fixed Arcanna's Sign Rarity (now drops like it should)
 
 ## Characters
 - Walking is the same as running
@@ -136,15 +161,16 @@ Bug Fixes
 - Splendor [Eth Lum]
    - 20% Faster Cast Rate (was 10%)
 - Added Soul Sword Runeword [Tal Thul Ort Amn] (was Spirit Sword, Spirit was changed)
-   - Exact same as old Spirit Sword
+   - +1 to Random Class (was +2 to all Skills)
+   - 30% Faster Cast Rate (was 25-35 Faster Cast Rate)
 - Holy Thunder [Eth Ral Ort Tal] works in any melee weapon (was Sceptors)
    - +100% Enhanced Damage (was 60) 
    - +15 Maximum Damage (was 10) 
-   - Level 2 Holy Shock Aura when equipped (was +3 Holy Shock Paladin only)
+   - Level 5 Holy Shock Aura when equipped (was +3 Holy Shock Paladin only)
    - Removed Chain Lighting Charges
 - Honor [Amn El Ith Tir Sol]
-   - Added +20-30 Increased Attack Speed
-   - +190-210% Enhanced Damage (was 160) 
+   - Added +25 Increased Attack Speed
+   - +160-190% Enhanced Damage (was 160) 
    - +20% Bonus Attack Rating (was 200 Flat Attack Rating)
    - Added 55% Faster Hit Recovery
    - Added Repairs Durability
@@ -184,7 +210,7 @@ Bug Fixes
 - Delirium [Lem Ist Io]
    - Removed the Delirium Mod from Delirium (turned you into a doll "disabling your character")
 - Zephyr [Ort Eth]
-   - 50% Increased Attack Speed (was 25%)
+   - 25% Increased Attack Speed
    - Added 33% Pierce
    - 100% Enhanced Damage (was 33%)
    - 14% Chance to Cast level 2 Twister on striking (was 7% level 1 and when struck)
@@ -225,6 +251,7 @@ Bug Fixes
    
 ## Runes
 - Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
+- Lem-Zod Now have a beam of light when they drop
 - Eld Rune has 5 Replenish Life (was 15% Stamina Drain)
 - Dol Rune has 2 Life After Each Kill for all slots
 - Ist and higher Runes now all have 2% Experience Gained
@@ -1759,6 +1786,24 @@ ORPHAN'S CALL
    - 50% baseline Defense 
    - 15% per level 
    - 0.5% Damage Reduction Hard Point 
+- Shockwave
+   - Doubled Base damage
+   - Can now shotgun and has 7 waves
+   - Added Synergies (Lycanthropy, Wearbear and Maul) 9%
+   - Reduced Stun length greatly
+- Ravens
+   - Now Has 7 Hits before despawning
+   - Now does half Physical Damage and half Cold Damage
+- Werewolf and Werebear Infinite Duration enabled
+- Spirit Wolf 
+   - Maximum of 1 (was 5)
+   - Now has Thorns based on Level
+   - Slight Damage Buff
+- Dire Wolf
+   - Added 12% Damage Synergies (Raven, Spirit Wolf, Summon Grizzly)
+   - Maximum of 5 (was 3)
+- Summon Grizzly 
+   - Added 12% Damage Synergies (Raven, Spirit Wolf, Dire Wolf)
 
 ## EXTRAS
 
