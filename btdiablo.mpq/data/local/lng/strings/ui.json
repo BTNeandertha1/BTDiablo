@@ -34270,5 +34270,365 @@
     "ptBR": "Fortuna de Gheed",
     "ruRU": "Состояния Гид",
     "zhCN": "吉德的财富"
+  },
+  {
+    "id": 29105,
+    "Key": "strBloodWeaponIngredient",
+    "enUS": "Magic Weapon + Jewel + Ort + P Ruby"
+  },
+  {
+    "id": 29106,
+    "Key": "strBloodWeaponResult",
+    "enUS": "Blood Weapon"
+  },
+  {
+    "id": 29107,
+    "Key": "strBloodHelmIngredient",
+    "enUS": "Magic Helm + Jewel + Ral + P Ruby"
+  },
+  {
+    "id": 29108,
+    "Key": "strBloodHelmResult",
+    "enUS": "Blood Helm"
+  },
+  {
+    "id": 29109,
+    "Key": "strBloodArmorIngredient",
+    "enUS": "Magic Armor + Jewel + Thul + P Ruby"
+  },
+  {
+    "id": 29110,
+    "Key": "strBloodArmorResult",
+    "enUS": "Blood Armor"
+  },
+  {
+    "id": 29111,
+    "Key": "strBloodGlovesIngredient",
+    "enUS": "Magic Gloves + Jewel + Nef + P Ruby"
+  },
+  {
+    "id": 29112,
+    "Key": "strBloodGlovesResult",
+    "enUS": "Blood Gloves"
+  },
+  {
+    "id": 29113,
+    "Key": "strBloodBeltIngredient",
+    "enUS": "Magic Belt + Jewel + Tal + P Ruby"
+  },
+  {
+    "id": 29114,
+    "Key": "strBloodBeltResult",
+    "enUS": "Blood Belt"
+  },
+  {
+    "id": 29115,
+    "Key": "strBloodBootsIngredient",
+    "enUS": "Magic Boots + Jewel + Eth + P Ruby"
+  },
+  {
+    "id": 29116,
+    "Key": "strBloodBootsResult",
+    "enUS": "Blood Boots"
+  },
+  {
+    "id": 29117,
+    "Key": "strBloodShieldIngredient",
+    "enUS": "Magic Shield + Jewel + Ith + P Ruby"
+  },
+  {
+    "id": 29118,
+    "Key": "strBloodShieldResult",
+    "enUS": "Blood Shield"
+  },
+  {
+    "id": 29119,
+    "Key": "strBloodAmuletIngredient",
+    "enUS": "Magic Amulet + Jewel + Amn + P Ruby"
+  },
+  {
+    "id": 29120,
+    "Key": "strBloodAmuletResult",
+    "enUS": "Blood Amulet"
+  },
+  {
+    "id": 29121,
+    "Key": "strBloodRingIngredient",
+    "enUS": "Magic Ring + Jewel + Sol + P Ruby"
+  },
+  {
+    "id": 29122,
+    "Key": "strBloodRingResult",
+    "enUS": "Blood Ring"
+  },
+  {
+    "id": 29123,
+    "Key": "strSafetyWeaponIngredient",
+    "enUS": "Magic Weapon + Jewel + Sol + P Emerald"
+  },
+  {
+    "id": 29124,
+    "Key": "strSafetyWeaponResult",
+    "enUS": "Safety Weapon"
+  },
+  {
+    "id": 29125,
+    "Key": "strSafetyHelmIngredient",
+    "enUS": "Magic Helm + Jewel + Ith + P Emerald"
+  },
+  {
+    "id": 29126,
+    "Key": "strSafetyHelmResult",
+    "enUS": "Safety Helm"
+  },
+  {
+    "id": 29127,
+    "Key": "strSafetyArmorIngredient",
+    "enUS": "Magic Armor + Jewel + Eth + P Emerald"
+  },
+  {
+    "id": 29128,
+    "Key": "strSafetyArmorResult",
+    "enUS": "Safety Armor"
+  },
+  {
+    "id": 29129,
+    "Key": "strSafetyGlovesIngredient",
+    "enUS": "Magic Gloves + Jewel + Ral + P Emerald"
+  },
+  {
+    "id": 29130,
+    "Key": "strSafetyGlovesResult",
+    "enUS": "Safety Gloves"
+  },
+  {
+    "id": 29131,
+    "Key": "strSafetyBeltIngredient",
+    "enUS": "Magic Belt + Jewel + Tal + P Emerald"
+  },
+  {
+    "id": 29132,
+    "Key": "strSafetyBeltResult",
+    "enUS": "Safety Belt"
+  },
+  {
+    "id": 29133,
+    "Key": "strSafetyBootsIngredient",
+    "enUS": "Magic Boots + Jewel + Ort + P Emerald"
+  },
+  {
+    "id": 29134,
+    "Key": "strSafetyBootsResult",
+    "enUS": "Safety Boots"
+  },
+  {
+    "id": 29135,
+    "Key": "strSafetyShieldIngredient",
+    "enUS": "Magic Shield + Jewel + Nef + P Emerald"
+  },
+  {
+    "id": 29136,
+    "Key": "strSafetyShieldResult",
+    "enUS": "Safety Shield"
+  },
+  {
+    "id": 29137,
+    "Key": "strSafetyAmuletIngredient",
+    "enUS": "Magic Amulet + Jewel + Thul + P Emerald"
+  },
+  {
+    "id": 29138,
+    "Key": "strSafetyAmuletResult",
+    "enUS": "Safety Amulet"
+  },
+  {
+    "id": 29139,
+    "Key": "strSafetyRingIngredient",
+    "enUS": "Magic Ring + Jewel + Amn + P Emerald"
+  },
+  {
+    "id": 29140,
+    "Key": "strSafetyRingResult",
+    "enUS": "Safety Ring"
+  },
+  {
+    "id": 29141,
+    "Key": "strCasterWeaponIngredient",
+    "enUS": "Magic Weapon + Jewel + Tir + P Amethyst"
+  },
+  {
+    "id": 29142,
+    "Key": "strCasterWeaponResult",
+    "enUS": "Caster Weapon"
+  },
+  {
+    "id": 29143,
+    "Key": "strCasterHelmIngredient",
+    "enUS": "Magic Helm + Jewel + Nef + P Amethyst"
+  },
+  {
+    "id": 29144,
+    "Key": "strCasterHelmResult",
+    "enUS": "Caster Helm"
+  },
+  {
+    "id": 29145,
+    "Key": "strCasterArmorIngredient",
+    "enUS": "Magic Armor + Jewel + Tal + P Amethyst"
+  },
+  {
+    "id": 29146,
+    "Key": "strCasterArmorResult",
+    "enUS": "Caster Armor"
+  },
+  {
+    "id": 29147,
+    "Key": "strCasterGlovesIngredient",
+    "enUS": "Magic Gloves + Jewel + Ort + P Amethyst"
+  },
+  {
+    "id": 29148,
+    "Key": "strCasterGlovesResult",
+    "enUS": "Caster Gloves"
+  },
+  {
+    "id": 29149,
+    "Key": "strCasterBeltIngredient",
+    "enUS": "Magic Belt + Jewel + Ith + P Amethyst"
+  },
+  {
+    "id": 29150,
+    "Key": "strCasterBeltResult",
+    "enUS": "Caster Belt"
+  },
+  {
+    "id": 29151,
+    "Key": "strCasterBootsIngredient",
+    "enUS": "Magic Boots + Jewel + Thul + P Amethyst"
+  },
+  {
+    "id": 29152,
+    "Key": "strCasterBootsResult",
+    "enUS": "Caster Boots"
+  },
+  {
+    "id": 29153,
+    "Key": "strCasterShieldIngredient",
+    "enUS": "Magic Shield + Jewel + Eth + P Amethyst"
+  },
+  {
+    "id": 29154,
+    "Key": "strCasterShieldResult",
+    "enUS": "Caster Shield"
+  },
+  {
+    "id": 29155,
+    "Key": "strCasterAmuletIngredient",
+    "enUS": "Magic Amulet + Jewel + Ral + P Amethyst"
+  },
+  {
+    "id": 29156,
+    "Key": "strCasterAmuletResult",
+    "enUS": "Caster Amulet"
+  },
+  {
+    "id": 29157,
+    "Key": "strCasterRingIngredient",
+    "enUS": "Magic Ring + Jewel + Amn + P Amethyst"
+  },
+  {
+    "id": 29158,
+    "Key": "strCasterRingResult",
+    "enUS": "Caster Ring"
+  },
+  {
+    "id": 29159,
+    "Key": "strHitPowerWeaponIngredient",
+    "enUS": "Magic Weapon + Jewel + Tir + P Sapphire"
+  },
+  {
+    "id": 29160,
+    "Key": "strHitPowerWeaponResult",
+    "enUS": "Hit Power Weapon"
+  },
+  {
+    "id": 29161,
+    "Key": "strHitPowerHelmIngredient",
+    "enUS": "Magic Helm + Jewel + Ith + P Sapphire"
+  },
+  {
+    "id": 29162,
+    "Key": "strHitPowerHelmResult",
+    "enUS": "Hit Power Helm"
+  },
+  {
+    "id": 29163,
+    "Key": "strHitPowerArmorIngredient",
+    "enUS": "Magic Armor + Jewel + Nef + P Sapphire"
+  },
+  {
+    "id": 29164,
+    "Key": "strHitPowerArmorResult",
+    "enUS": "Hit Power Armor"
+  },
+  {
+    "id": 29165,
+    "Key": "strHitPowerGlovesIngredient",
+    "enUS": "Magic Gloves + Jewel + Ort + P Sapphire"
+  },
+  {
+    "id": 29166,
+    "Key": "strHitPowerGlovesResult",
+    "enUS": "Hit Power Gloves"
+  },
+  {
+    "id": 29167,
+    "Key": "strHitPowerBeltIngredient",
+    "enUS": "Magic Belt + Jewel + Tal + P Sapphire"
+  },
+  {
+    "id": 29168,
+    "Key": "strHitPowerBeltResult",
+    "enUS": "Hit Power Belt"
+  },
+  {
+    "id": 29169,
+    "Key": "strHitPowerBootsIngredient",
+    "enUS": "Magic Boots + Jewel + Ral + P Sapphire"
+  },
+  {
+    "id": 29170,
+    "Key": "strHitPowerBootsResult",
+    "enUS": "Hit Power Boots"
+  },
+  {
+    "id": 29171,
+    "Key": "strHitPowerShieldIngredient",
+    "enUS": "Magic Shield + Jewel + Eth + P Sapphire"
+  },
+  {
+    "id": 29172,
+    "Key": "strHitPowerShieldResult",
+    "enUS": "Hit Power Shield"
+  },
+  {
+    "id": 29173,
+    "Key": "strHitPowerAmuletIngredient",
+    "enUS": "Magic Amulet + Jewel + Thul + P Sapphire"
+  },
+  {
+    "id": 29174,
+    "Key": "strHitPowerAmuletResult",
+    "enUS": "Hit Power Amulet"
+  },
+  {
+    "id": 29175,
+    "Key": "strHitPowerRingIngredient",
+    "enUS": "Magic Ring + Jewel + Amn + P Sapphire"
+  },
+  {
+    "id": 29176,
+    "Key": "strHitPowerRingResult",
+    "enUS": "Hit Power Ring"
   }
 ]
