@@ -378,3 +378,4 @@ item_elemskill_fire	375		1	3	3						1				76	1024		4	0	3	0	3															157	19
 item_elemskill_lightning	376		1	3	3						1				76	1024		4	0	3	0	3															157	19	1	ModStrLightningskills	ModStrLightningskills										0
 item_elemskill_poison	377		1	3	3						1				76	1024		4	0	3	0	3															157	19	1	ModStrPoisonskills	ModStrPoisonskills										0
 item_elemskill_magic	378		1	3	3						1				76	1024		4	0	3	0	3															157	19	1	ModStrMagicskills	ModStrMagicskills										0
+hit_skill_splash	379		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20	domissiledamage	20	160	15		SplashDmg	SplashDmg									2	0

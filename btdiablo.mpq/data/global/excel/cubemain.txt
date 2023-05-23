@@ -4,7 +4,7 @@ Set Reroll	1				0					2	any,set,eth	mfd						usetype,set	99		99	ethereal	100		1	
 Unique Reroll	1				0					2	any,uni,noe	mfd						usetype,uni	99		99																										mfd																																																										0
 Unique Reroll	1				0					2	any,uni,eth	mfd						usetype,uni	99		99	ethereal	100		1	1																					mfd																																																										0
 3 Thaw for MF Charm	1				100					3	wms,qty=3							mff,uni	99		99																																																																																				0
-1 antidote	0				100					1	apot							gcv	99		99																																																																																				0
+1 antidote	0				100					1	apot							dgr	99		99	hit-skill-splash		373	100	1																																																																															0
 1 thawing	0				100					1	wpot							std	99		99																																																																																				0
 1 town portal scroll	0				100					1	tsc							cm1	99		99	addxp			500	500																																																																															0
 1 standard of heros	0				100					2	mpot,qty=2								99		99																																																																																				0

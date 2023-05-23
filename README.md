@@ -106,41 +106,14 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
-Items
-- Holy Thunder
-   - Level 5 Holy Shock instead of 2
-- Honor 
-   - Reduced Enhanced Damage to 160-190
-   - Removed +1 all skills
-   - Always 25 Increased Attack Speed
-- Soul (spirit sword)
-   - changed 2 all skills to +1 random class skills
-   - Always 30 Faster Cast Rate
-- Zephyr
-   - 25 Increased Attack Speed (was 50)
 Skills
-- Shockwave
-   - Doubled Base damage
-   - Can now shotgun and has 7 waves
-   - Added Synergies (Lycanthropy, Wearbear and Maul) 9%
-   - Reduced Stun length greatly
-- Ravens
-   - Now Has 7 Hits before despawning
-   - Now does half Physical Damage and half Cold Damage
-- Werewolf and Werebear Infinite Duration enabled
-- Spirit Wolf 
-   - Maximum of 1 (was 5)
-   - Now has Thorns based on Level
-   - Slight Damage Buff
 - Dire Wolf
-   - Added 12% Damage Synergies (Raven, Spirit Wolf, Summon Grizzly)
-   - Maximum of 5 (was 3)
+   - Added 4% Damage Synergies (Raven, Spirit Wolf, Summon Grizzly)
 - Summon Grizzly 
-   - Added 12% Damage Synergies (Raven, Spirit Wolf, Dire Wolf)
-Extras
-- Lem-Zod Now have a beam of light when they drop
+   - Added 4% Damage Synergies (Raven, Spirit Wolf, Dire Wolf)
+   - Occasionally Attacks with Melee Splash
 Bug Fixes
-- Fixed Arcanna's Sign Rarity (now drops like it should)
+- Fixed Druid Summon Synergies not working properly
 
 ## Characters
 - Walking is the same as running
@@ -1800,10 +1773,10 @@ ORPHAN'S CALL
    - Now has Thorns based on Level
    - Slight Damage Buff
 - Dire Wolf
-   - Added 12% Damage Synergies (Raven, Spirit Wolf, Summon Grizzly)
+   - Added 4% Damage Synergies (Raven, Spirit Wolf, Summon Grizzly)
    - Maximum of 5 (was 3)
 - Summon Grizzly 
-   - Added 12% Damage Synergies (Raven, Spirit Wolf, Dire Wolf)
+   - Added 4% Damage Synergies (Raven, Spirit Wolf, Dire Wolf)
 
 ## EXTRAS
 

@@ -35834,5 +35834,22 @@
     "ptBR": "Dano reduzido por:%d %%",
     "ruRU": "Ущерб, уменьшенный на:%d %%",
     "zhCN": "损害减少了：％d %%"
+  },
+  {
+    "id": 27376,
+    "Key": "SplashDmg",
+    "enUS": "Melee Splash Damage",
+    "zhTW": "近战飞溅伤害",
+    "deDE": "Nahkampfschaden",
+    "esES": "Daño de salpicaduras cuerpo a cuerpo",
+    "frFR": "Dégâts d'éclaboussures en mêlée",
+    "itIT": "Danno spruzzato in mischia",
+    "koKR": "근접 스플래시 손상",
+    "plPL": "Obrażenia w walce w zwarciu",
+    "esMX": "Daño de salpicaduras cuerpo a cuerpo",
+    "jaJP": "近接スプラッシュダメージ",
+    "ptBR": "Danos por respingo corpo a corpo",
+    "ruRU": "Ущерб от брызг ближнего боя",
+    "zhCN": "近战飞溅伤害"
   }
 ]

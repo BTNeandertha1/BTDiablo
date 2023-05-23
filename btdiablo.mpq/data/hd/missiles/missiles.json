@@ -697,5 +697,6 @@
     "strafebolt": "x_bow_bolt",
     "recklessattacksmissile": "expansion_shockwave",
     "leapattack": "b_a_yell_shock_wave_01",
-    "thunderstormnova": "electric_nova"
+    "thunderstormnova": "electric_nova",
+    "frostnovamsl": "null"
 }
