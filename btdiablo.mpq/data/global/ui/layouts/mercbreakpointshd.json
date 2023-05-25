@@ -1,5 +1,5 @@
 {
-    "type": "SettingsPanel", "name": "CubeRecipes",
+    "type": "SettingsPanel", "name": "MercBreakpoints",
     "fields": {
         "priority": 9002,
         "fitToParent": true
@@ -35,7 +35,7 @@
                             "type": "TextBoxWidget", "name": "Title",
                             "fields": {
                                 "rect": {"x": 0, "y": 45, "width": 1950, "height": 103},
-                                "text": "@strUiCubeRecipes",
+                                "text": "@strMercBreakpoints",
                                 "style": "$StyleTitleBlock"
                             }
                         },
@@ -45,7 +45,7 @@
                                 "rect": {"x": 1868, "y": 8},
                                 "filename": "PANEL\\closebtn_4x",
                                 "hoveredFrame": 3,
-                                "onClickMessage": "PanelManager:ClosePanel:CubeRecipes",
+                                "onClickMessage": "PanelManager:ClosePanel:MercBreakpoints",
                                 "tooltipString": "@strClose",
                                 "sound": "cursor_close_window_hd",
                                 "acceptsEscKeyEverywhere": true,
@@ -69,14 +69,14 @@
             "fields": {
                 "rect": "$SettingsPanelTabsRect",
                 "anchor": { "x": 0.5 },
-                "tabCount": 7,
-                "tabSize": { "x": 250, "y": 121 },
+                "tabCount": 4,
+                "tabSize": { "x": 266, "y": 121 },
                 "tabPadding": { "x": 2, "y": 0 },
                 "unavailableTabsLeaveGaps": false,
                 "tabSizingMethod": "fixedCenter",
                 "filename": "Controller/Panel/Stash/V2/StashTabs",
-                "inactiveFrames": [ 1, 1, 1, 1, 1, 1, 1 ],
-                "activeFrames": [ 0, 0, 0, 0, 0, 0, 0 ],
+                "inactiveFrames": [ 1, 1, 1, 1 ],
+                "activeFrames": [ 0, 0, 0, 0 ],
                 "activeTextColor": "$TabsActiveTextColor",
                 "inactiveTextColor": "$TabsInactiveTextColor",
                 "tabTextOffset": { "x": 0, "y": -4 },
@@ -87,15 +87,12 @@
                     "fontColor": "$FontColorWhite",
                     "spacing": {"leading":0.9, "kerning":0.95}
                 },
-                "textStrings": ["General", "Runes", "Gems", "Uniques", "Malus", "SoH", "Crafting"],
+                "textStrings": ["@strAct1", "@strAct2", "@strAct3", "@strAct5"],
                 "tabMessages": [
-                    "SettingsPanelMessage:CheckChanges:CubeRecipesGeneral",
-                    "SettingsPanelMessage:CheckChanges:CubeRecipesRunes",
-                    "SettingsPanelMessage:CheckChanges:CubeRecipesGems",
-                    "SettingsPanelMessage:CheckChanges:CubeRecipesUniques",
-                    "SettingsPanelMessage:CheckChanges:CubeRecipesMalus",
-                    "SettingsPanelMessage:CheckChanges:CubeRecipesSoH",
-                    "SettingsPanelMessage:CheckChanges:CubeRecipesCrafting"
+                    "SettingsPanelMessage:CheckChanges:MercBreakpointsAct1",
+                    "SettingsPanelMessage:CheckChanges:MercBreakpointsAct2",
+                    "SettingsPanelMessage:CheckChanges:MercBreakpointsAct3",
+                    "SettingsPanelMessage:CheckChanges:MercBreakpointsAct5"
                 ]
             }
         },
@@ -118,7 +115,7 @@
                             "type": "ButtonWidget", "name": "Close",
                             "fields": {
                                 "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
-                                "onClickMessage": "PanelManager:ClosePanel:CubeRecipes",
+                                "onClickMessage": "PanelManager:ClosePanel:MercBreakpoints",
                                 "textString": "@strClose",
                                 "hoveredFrame": 3,
                                 "pointSize": "$MediumLargeFontSize",

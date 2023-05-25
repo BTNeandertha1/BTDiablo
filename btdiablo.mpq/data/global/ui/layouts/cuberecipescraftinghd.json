@@ -1,0 +1,1092 @@
+{
+    "type": "VideoOptionsPanel", "name": "CubeRecipesCrafting",
+    "fields": {
+        "priority": 9003,
+        "rect": "$OptionsPanelRect",
+        "anchor": { "x": 0.5 },
+        "applySettingsImmediately": false
+    },
+    "children": [
+        {
+            "type": "ImageWidget", "name": "ScrollBarBackground",
+            "fields": {
+                "rect": "$OptionsScrollBarBackgroundRect",
+                "anchor": { "x": 1.0 },
+                "filename": "PauseMenu\\VerticalScroll"
+            },
+            "children": [
+                {
+                    "type": "ScrollControllerWidget", "name": "ScrollController",
+                    "fields": {
+                        "rect": "$OptionsScrollBarRect",
+                        "anchor": { "x": 1.0 },
+                        "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+                        "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+                        "barFilepath": "PauseMenu\\VerticalIndicator",
+                        "viewName": "ScrollView",
+                        "wheelScrollSound": "cursor_scroll_hd",
+                        "buttonScrollSound": "cursor_scroll_hd"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "ScrollViewWidget", "name": "ScrollView",
+            "fields": {
+                "fitToParent": true,
+                "scrollControllerName": "ScrollController"
+            },
+            "children": [
+                {
+                    "type": "TableWidget", "name": "CubeRecipesCraftingTable",
+                    "fields": {
+                        "columns": [ 
+                            { "width": 830, "alignment": { "h": "fit", "v": "fit" } },
+                            { "width": 900, "alignment": { "h": "fit", "v": "fit" } }
+                        ],
+                        "rowHeight": "$OptionsTableRowHeight",
+                        "cellPadding": { "left": 0, "right": 50 }
+                    },
+                    "children": [
+                        {
+                            "type": "TableRowWidget", "name": "headers",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients Header",
+                                    "fields": {
+                                        "text": "@strIngredients",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result Header",
+                                    "fields": {
+                                        "text": "@strResult",
+                                        "style": "$StyleSettingsTitle"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "blood_weapon",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strBloodWeaponIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strBloodWeaponResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "blood_helm",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strBloodHelmIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strBloodHelmResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "blood_armor",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strBloodArmorIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strBloodArmorResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "blood_gloves",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strBloodGlovesIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strBloodGlovesResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "blood_belt",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strBloodBeltIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strBloodBeltResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "blood_boots",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strBloodBootsIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strBloodBootsResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "blood_shield",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strBloodShieldIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strBloodShieldResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "blood_amulet",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strBloodAmuletIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strBloodAmuletResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "blood_ring",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strBloodRingIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strBloodRingResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "safety_weapon",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strSafetyWeaponIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strSafetyWeaponResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "safety_helm",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strSafetyHelmIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strSafetyHelmResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "safety_armor",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strSafetyArmorIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strSafetyArmorResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "safety_gloves",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strSafetyGlovesIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strSafetyGlovesResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "safety_belt",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strSafetyBeltIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strSafetyBeltResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "safety_boots",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strSafetyBootsIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strSafetyBootsResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "safety_shield",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strSafetyShieldIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strSafetyShieldResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "safety_amulet",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strSafetyAmuletIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strSafetyAmuletResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "safety_ring",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strSafetyRingIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strSafetyRingResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "caster_weapon",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strCasterWeaponIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strCasterWeaponResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "caster_helm",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strCasterHelmIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strCasterHelmResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "caster_armor",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strCasterArmorIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strCasterArmorResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "caster_gloves",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strCasterGlovesIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strCasterGlovesResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "caster_belt",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strCasterBeltIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strCasterBeltResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "caster_boots",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strCasterBootsIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strCasterBootsResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "caster_shield",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strCasterShieldIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strCasterShieldResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "caster_amulet",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strCasterAmuletIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strCasterAmuletResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "caster_ring",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strCasterRingIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strCasterRingResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "hitpower_weapon",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strHitPowerWeaponIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strHitPowerWeaponResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "hitpower_helm",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strHitPowerHelmIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strHitPowerHelmResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "hitpower_armor",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strHitPowerArmorIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strHitPowerArmorResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "hitpower_gloves",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strHitPowerGlovesIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strHitPowerGlovesResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "hitpower_belt",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strHitPowerBeltIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strHitPowerBeltResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "hitpower_boots",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strHitPowerBootsIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strHitPowerBootsResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "hitpower_shield",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strHitPowerShieldIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strHitPowerShieldResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "hitpower_amulet",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strHitPowerAmuletIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strHitPowerAmuletResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "hitpower_ring",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strHitPowerRingIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strHitPowerRingResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

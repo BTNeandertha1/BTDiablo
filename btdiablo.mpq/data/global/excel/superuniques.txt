@@ -49,7 +49,7 @@ Ancient Barbarian 3	Ancient Barbarian 3	ancientbarb3	45		0	0	0	0	0	0	1		11	11	11
 Axe Dweller	Axe Dweller	bloodlord3	46		8	9	30	2	2	0	0		20	20	20	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
 Bonesaw Breaker	Bonesaw Breaker	reanimatedhorde2	47		5	8	30	5	5	0	0		35	35	35	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
 Dac Farren	Dac Farren	imp3	48		18	30	0	4	4	0	0	1	36	36	36	Act 5 Super B		Act 5 (N) Super B		Act 5 (H) Super B	Act 5 (H) Super B Desecrated	0
-Megaflow Rectifier	Megaflow Rectifier	bloodlord4	49		3	6	30	8	8	1	0	1	21	21	21	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
+Megaflow Rectifier	Megaflow Rectifier	minion1	49		3	6	30	8	8	1	0	1	21	21	21	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
 Eyeback Unleashed	Eyeback Unleashed	deathmauler1	50		5	6	30	2	2	0	0		8	8	8	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
 Threash Socket	Threash Socket	siegebeast3	51		7	30	0	0	0	0	0		37	37	37	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
 Pindleskin	Pindleskin	reanimatedhorde5	52		9	30	0	6	6	0	0		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
@@ -61,8 +61,8 @@ Magma Torquer	Magma Torquer	imp5	57		5	7	30	5	5	0	0		9	9	9	Act 5 Super C		Act 5 
 Blaze Ripper	Blaze Ripper	deathmauler5	58		17	6	30	4	4	0	0		10	10	10	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
 Frozenstein	Frozenstein	snowyeti4	59		18	25	30	5	6	0	0		19	19	19	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
 Nihlathak Boss	Nihlathak	nihlathakboss	60		30	0	0	0	0	0	1		28	28	28	Nihlathak	Nihlathak Desecrated	Nihlathak (N)	Nihlathak (N) Desecrated	Nihlathak (H)	Nihlathak (H) Desecrated	0
-Baal Subject 5	Baal Subject 1	bonefetish5	61		6	30	0	4	4	0	1		29	29	29	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
-Baal Subject 5	Baal Subject 2	bloodlord5	62		6	30	0	5	5	0	1		21	21	21	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
-Baal Subject 5	Baal Subject 3	willowisp3	63		26	30	0	6	6	0	1		36	36	36	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
-Baal Subject 5	Baal Subject 4	venomlord	64		6	30	0	7	7	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 5	Baal Subject 1	willowisp7	61		26	30	0	4	4	0	1		29	29	29	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 5	Baal Subject 2	bonefetish5	62		6	30	0	5	5	0	1		21	21	21	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 5	Baal Subject 3	venomlord	63		6	30	0	6	6	0	1		36	36	36	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 5	Baal Subject 4	bloodlord5	64		6	30	0	7	7	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
 Baal Subject 5	Baal Subject 5	baalminion1	65		6	30	0	7	7	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0

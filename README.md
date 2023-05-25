@@ -96,6 +96,7 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - Bonesy for being an actual god and helping with a ton of various stuff! Check out their website (https://www.d2rmodding.com/)
 - BaronBeefStick bug fixes and Dev work
 - Precell and Wigglez for helping with Rune Drop Light Beams
+- Wigglez huge help for adding panels and QOL to the mod
 
 # Future Ideas
 Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/16) issue.  
@@ -107,13 +108,24 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 2. **Paste New btdiablo.mpq folder**
 
 Skills
-- Dire Wolf
-   - Added 4% Damage Synergies (Raven, Spirit Wolf, Summon Grizzly)
-- Summon Grizzly 
-   - Added 4% Damage Synergies (Raven, Spirit Wolf, Dire Wolf)
-   - Occasionally Attacks with Melee Splash
-Bug Fixes
-- Fixed Druid Summon Synergies not working properly
+- Immolation Arrow
+   - Base Burn Damage Doubled
+   - .6 Second Cooldown 
+   - 5% Synergies Fire Arrow and Exploding Arrow (both Burn damage and Impact Damage)
+- Exploding Arrow
+   - 7% Synergies Fire Arrow and Immolation Arrow
+   - Explosion Radius increased by 40%
+- Freezing Arrow 
+   - 6% Synergies Cold Arrow and Ice Arrow
+- Multishot
+   - Reduced Mana Cost
+Monster changes
+- Eldritch is reverted to orignal mob type
+- Adjusted Baal Waves
+Extras
+- Added Crafting Recipes on a 7th tab in the Cube
+- Added Class Breakpoints to the Character Screen
+- Added Mercenary Breakpoints in the Mercenary Screen
 
 ## Characters
 - Walking is the same as running
@@ -123,6 +135,7 @@ Bug Fixes
 ## Shrines
 - Made Gem Shrines Much more common
    - Removed: Armor, Stamina, Portal, Fire, Exploding, Poison
+- Can now stack
 
 ## Runewords
 - Enigma [Jah Ith Sol] (was Jah Ith Ber)
@@ -202,7 +215,7 @@ Bug Fixes
 - Last Wish [Jah Mal Jah Sur Jah Ber]
    - Removed 20% Level 20 Charged Bolt on attack
    - Added Repairs Durability
-- Grief [Eth Tir Lo Mal Ral]
+- Grief [Eth Tir Gul Vex Ral]
    - Removed + Damage
    - Removed Venom
    - Added 300-350 Minimum Damage and Maximum Damage 
@@ -1685,10 +1698,10 @@ ORPHAN'S CALL
 - 96 Uber Areas (Forgotten Sands, Furnace of Pain and Matron’s Den) Also greatly increased Elite packs and density
 - 99 Uber Tristram 
 - Baal Waves:
-   - W1 = Extra Fast Dolls
-   - W2 = Extra Fast Deathlords
-   - W3 = Teleporation Souls
-   - W4 = Extra Fast Venom Lords
+   - W1 = Teleporation Souls
+   - W2 = Extra Fast Dolls
+   - W3 = Extra Fast Venom Lords
+   - W4 = Extra Fast Deathlords
    - W5 = Extra Fast Minions of Destruction
 - Area Level 90 Pit Lords in WorldStone Chamber
 
@@ -1697,86 +1710,164 @@ ORPHAN'S CALL
 - Enemy Monster Resistances 75 Physical, 75 Magic, 100 Cold, 100 Light, 100 Fire and 99 Poison
 
 ## Skills
-- Static is Always 60%
-- Removed Frozen Orb Cool Down
-- Teeth can Pierce and removed Next Hit Delay
-- Prayer no longer costs Mana
-- Multiple Shot Range decreased by ~50%
-- Guided Arrow Skill Pierces
-- Poison dagger Uninterruptable and Always Hits
-- Tiger Strike Always Hits
-- Bash Always Hits
-- Leap Attack Always Hits
-- Hunger Always Hits
-- Infinite Durations changes
-   - Frozen Armor
-   - Chilling Armor
-   - Shivering Armor
-   - Energy Shield
-   - Enchant
-   - Revives
-- Barb Shout Buffs have baseline 5 min duration
-- Monsters target Spirits/Wisps less and are way more tanky (oak sage etc)
-- Meteor fall time is 18 frames (was 60)
-- Immolation Arrow Casting Removed
-- Holy Shield Infinite Duration
-- Whirlwind Buff 50 (was 30%) Base Damage and 17% Damage Per Level (was 5%)
-- Removed Fist of Heavens cooldown
-   - FOH's Holy Bolt Damage Reduced
-- Iron Golem now has takes 70% less Damage across the board
-- Shrines now stack and dont interfere with curses
-- Battle Cry does not interfere with curses
-- Grim ward no longer Terrors but instead uses Innersite
-- Poison Dagger Mana cost reduced and generates mana at higher levels
-- Grim ward no longer Terrors but instead uses Innersite
-- Poison Dagger Mana cost reduced and generates mana at higher levels
-- FOH's Holy Bolt Synergy Reduced to 6%
-- Buffed Rabies (synergies 26%)
-   - Added 26% Feral Rage Synergy
-   - Rabies Spreads like Corona Virus
+
+- Dim Vision and Hit Blinds Target don't get overwritten by curses
 - Lower Resist Always breaks Poison Immunity (All Monsters Have a maximum psn resist of 105%)
-- Feral Rage now has 30 Second Duration
-- Increased Battle Cry Range Slightly and removed Radius Description
-- Phoenix Strike Always Hits and Meteor is much faster now
-- Fists of Fire Always Hits
-- Claws of Thunder Always Hits
-- Blades of Ice Always Hits
-- Cobra Strike Always Hits
-- Dim Vision and Hit Blinds Target doesn't get over written by curses
-- Shapeshifting duration removed
-- Cold Mastery now adds %Cold Skill Damage instead of -% Enemy Cold Resistance
-- Frost Nova synergies increased to 12%
-- Added Shiver Armor as a synergy
-- Frozen Orb
-- Added Frozen Armor as a synergy
-- Added Glacial Spike as a synergy
-- Multishot now has full effects for all of its arrows (Procs and CC)
-- Sorceress's Thunderstorm now casts a Nova after striking just like in PD2
+
+AMAZON
+
+Javelin and Spear:
+Passive and Magic:
+Bow and Crossbow:
+- Multiple Shot range decreased by ~50%
+- Guided Arrow
+   - Pierces
+- Multishot
+   - Can now proc and CC with all arrows
+   - 50% Range decrease
+- Immolation Arrow
+   - Removed Cooldown
+
+ASSASSIN
+
+Martial Arts:
+- Phoenix Strike
+   - Always Hits
+   - Meteor is much faster now
+- Fists of Fire
+   - Always Hits
+- Claws of Thunder
+   - Always Hits
+- Blades of Ice
+   - Always Hits
+- Cobra Strike
+   - Always Hits
+- Tiger Strike
+   - Always Hits
+Shadow Disciplines:
+Traps:
+
+NECROMANCER
+
+Summoning Spells:
+- Iron Golem
+   - takes 70% less Damage across the board
+- Revives
+   - Infinite Duration
+Poisons and Bone Spells:
+- Teeth
+   - Pierces (like multishot)
+   - Can Shotgun (removed Next Hit Delay)
+- Poison Dagger
+   - Mana cost reduced and generates Mana at higher levels
+   - Uninterruptable and Always Hits
+Curses:
+- Dim Vision and Hit Blinds Target don't get overwritten by curses
+- Lower Resist Always breaks Poison Immunity (All Monsters Have a maximum psn resist of 105%)
+
+BARBARIAN
+
+Warcries:
+- Infinite Durations
+   - Battle Orders
+   - Battle Command
+   - Shout
+- Battle Cry
+   - Does not interfere with curses
+   - Increased Range
+- Grim ward
+   - no longer Terrors but instead uses Innersite
+Combat Masteries:
+- Iron Skin defense buffed
+   - 50% baseline Defense 
+   - 15% Defense per level 
+   - 0.5% Damage Reduction/HardPoint 
 - Barbarian's Increased Stamina Changed to Increased Endurance
    - 0.5 Life After Each Kill Per Hardpoint
    - 1 Mana After Each Kill Per Softpoint
-- Barbarian's Iron Skin defense buffed
-   - 50% baseline Defense 
-   - 15% per level 
-   - 0.5% Damage Reduction Hard Point 
+Combat:
+- Whirlwind
+   - Base Damage 50% (was 30%) and 17% Damage Per Level (was 5%)
+- Bash Always Hits
+- Leap Attack Always Hits
+
+PALADIN
+
+Defensive Auras:
+- Prayer no longer costs Mana
+Offensive Auras:
+
+Combat:
+- Fist of Heavens
+   - Removed Cooldown
+   - 6% Holy Bolt Synergy
+- Holy Shield
+    Infinite Duration
+
+SORCERESS
+
+Cold Spells:
+- Cold Mastery now adds %Cold Skill Damage instead of -% Enemy Cold Resistance
+- Frost Nova
+   - 12% Synergies Shiver Armor, Blizzard and Frozen Orb
+- Frozen Orb
+   - Removed Cooldown
+   - 2% Synergies Ice Bolt, Frozen Armor and Glacial Spike
+- Frozen Armor
+   - Infinite Duration
+- Shivering Armor
+   - Infinite Duration
+- Chilling Armor
+   - Infinite Duration
+Lightning Spells:
+- Sorceress's Thunderstorm now casts a Nova after striking just like in PD2
+- Static is Always 60%
+- Thunderstorm now casts a Nova after striking
+- Energy Shield
+   - Infinite Duration
+Fire Spells:
+- Meteor fall time is 18 frames (was 60)
+- Enchant
+   - Infinite Duration
+   
+DRUID
+
+Elemental:
+- Molten Boulder has no Cooldown
+- Hurricane and Armageddon have an infinite duration
+Shape Shifting:
+- Werewolf and Werebear have infinite duration
+- Feral Rage
+   - 30 Second Duration
+- Rabies
+   - 26% Synergies Feral Rage and Poison Creeper
+   - Spreads like Corona Virus
+- Hunger
+   - Always Hits
 - Shockwave
-   - Doubled Base damage
-   - Can now shotgun and has 7 waves
-   - Added Synergies (Lycanthropy, Wearbear and Maul) 9%
-   - Reduced Stun length greatly
+   - Doubled Base Damage
+   - Shotguns (Removed Next Hit Delay)
+   - 7 Waves (was 5)
+   - Reduced Stun Length immensely 
+   - 9% Synergies Lycanthropy, Werebear and Maul
+Summoning:
 - Ravens
-   - Now Has 7 Hits before despawning
-   - Now does half Physical Damage and half Cold Damage
-- Werewolf and Werebear Infinite Duration enabled
-- Spirit Wolf 
-   - Maximum of 1 (was 5)
+   - Now move twice as fast
+   - Base Damage Greatly increased
+   - 7 hits before despawning
+   - Damage type changed to half Physical and half Cold
+- Spirit Wolf
+   - Can have 1 (was 5)
    - Now has Thorns based on Level
-   - Slight Damage Buff
+   - Small Damage buff
+   - Move Faster
 - Dire Wolf
-   - Added 4% Damage Synergies (Raven, Spirit Wolf, Summon Grizzly)
-   - Maximum of 5 (was 3)
-- Summon Grizzly 
-   - Added 4% Damage Synergies (Raven, Spirit Wolf, Dire Wolf)
+   - Can have 5 (was 3)
+   - 4% Synergies Ravens, Spirit Wolf, and Summon Grizzly
+   - Move Faster
+- Summon Grizzly
+   - 4% Damage Synergies added Ravens, Spirit Wolf and Dire Wolf
+- Monsters target Spirits/Wisps less and are way more tanky (oak sage etc)
 
 ## EXTRAS
 

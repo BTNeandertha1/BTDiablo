@@ -30,6 +30,17 @@
                 "filename": "$LeftHingeSprite"
             },
         },
+        // Merc Breakpoints
+        {
+            "type": "ButtonWidget", "name": "mercbreakpoints",
+            "fields": {
+                "rect": { "x": 60, "y": 60 },
+                "filename": "PANEL\\hud_02\\QuestLog",
+                "tooltipString": "@strMercBreakpoints",
+                "hoveredFrame": 2,
+                "onClickMessage": "PanelManager:OpenPanel:MercBreakpoints",
+            },
+        },
         {
             "type": "TextBoxWidget", "name": "Title",
             "fields": {

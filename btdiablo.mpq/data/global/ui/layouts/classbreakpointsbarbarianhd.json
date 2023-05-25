@@ -1,0 +1,254 @@
+{
+    "type": "VideoOptionsPanel", "name": "ClassBreakpointsBarbarian",
+    "fields": {
+        "priority": 9003,
+        "rect": "$OptionsPanelRect",
+        "anchor": { "x": 0.5 },
+        "applySettingsImmediately": false
+    },
+    "children": [
+        {
+            "type": "ImageWidget", "name": "ScrollBarBackground",
+            "fields": {
+                "rect": "$OptionsScrollBarBackgroundRect",
+                "anchor": { "x": 1.0 },
+                "filename": "PauseMenu\\VerticalScroll"
+            },
+            "children": [
+                {
+                    "type": "ScrollControllerWidget", "name": "ScrollController",
+                    "fields": {
+                        "rect": "$OptionsScrollBarRect",
+                        "anchor": { "x": 1.0 },
+                        "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+                        "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+                        "barFilepath": "PauseMenu\\VerticalIndicator",
+                        "viewName": "ScrollView",
+                        "wheelScrollSound": "cursor_scroll_hd",
+                        "buttonScrollSound": "cursor_scroll_hd"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "ScrollViewWidget", "name": "ScrollView",
+            "fields": {
+                "fitToParent": true,
+                "scrollControllerName": "ScrollController"
+            },
+            "children": [
+                {
+                    "type": "TableWidget", "name": "ClassBreakpointsBarbarianTable",
+                    "fields": {
+                        "columns": [ 
+                            { "width": 350, "alignment": { "h": "fit", "v": "fit" } },
+                            { "width": 1400, "alignment": { "h": "fit", "v": "fit" } }
+                        ],
+                        "rowHeight": "$OptionsTableRowHeight",
+                        "cellPadding": { "left": 0, "right": 10 }
+                    },
+                    "children": [
+                        {
+                            "type": "TableRowWidget", "name": "fcr_header",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "fcr_header_text",
+                                    "fields": {
+                                        "text": "@strFasterCastRate",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "fcr_frames_header_text",
+                                    "fields": {
+                                        "text": "@strCastingFrames",
+                                        "style": "$StyleSettingsTitle"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "fcr_subheader1",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "fcr_subheader_weaponskillform1",
+                                    "fields": {
+                                        "text": "@strForm",
+                                        "style": "$StyleSettingsTitle"
+                                    }
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "fcr_subheader_frames1",
+                                    "fields": {
+                                        "text": "13 |12 |11 |10 | 9 | 8 | 7",
+                                        "style": "$StyleSettingsTitle"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "fcr_tablerow_values1",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "fcr_values_weaponskillform1",
+                                    "fields": {
+                                        "text": "@strFormHuman",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "fcr_values1",
+                                    "fields": {
+                                        "text": " 0      9     20    37    63    105   200",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "fhr_header",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "fhr_header_text",
+                                    "fields": {
+                                        "text": "@strFasterHitRecovery",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "fhr_frames_header_text",
+                                    "fields": {
+                                        "text": "@strHitRecoveryFrames",
+                                        "style": "$StyleSettingsTitle"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "fhr_subheader1",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "fhr_subheader_weaponskillform1",
+                                    "fields": {
+                                        "text": "@strWeapons",
+                                        "style": "$StyleSettingsTitle"
+                                    }
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "fhr_subheader_frames1",
+                                    "fields": {
+                                        "text": " 9 | 8 | 7 | 6 | 5 | 4 | 3",
+                                        "style": "$StyleSettingsTitle"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "fhr_tablerow_values1",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "fhr_values_weaponskillform1",
+                                    "fields": {
+                                        "text": "@strAll",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "fhr_values1",
+                                    "fields": {
+                                        "text": " 0      7     15    27    48    86    200",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "block_header",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "block_header_text",
+                                    "fields": {
+                                        "text": "@strFasterBlockRate",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "block_frames_header_text",
+                                    "fields": {
+                                        "text": "@strBlockFrames",
+                                        "style": "$StyleSettingsTitle"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "block_subheader1",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "block_subheader_weaponskillform1",
+                                    "fields": {
+                                        "text": "@strWeapons",
+                                        "style": "$StyleSettingsTitle"
+                                    }
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "block_subheader_frames1",
+                                    "fields": {
+                                        "text": " 7 | 6 | 5 | 4 | 3 | 2",
+                                        "style": "$StyleSettingsTitle"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "block_tablerow_values1",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "block_values_weaponskillform1",
+                                    "fields": {
+                                        "text": "@strAll",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "block_values1",
+                                    "fields": {
+                                        "text": " 0      9    20    42    86    280",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
