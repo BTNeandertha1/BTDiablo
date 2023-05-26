@@ -125,3 +125,42 @@ Blade Talons	btl
 Scissors Katar	skr
 Circlet	ci0
 Coronet	ci1
+Small Charm	cm1
+Large Charm	cm2
+Grand Charm	cm3
+Jewel	jew
+Stag Bow	am1
+Reflex Bow	am2
+Maiden Spear	am3
+Maiden Pike	am4
+Maiden Javelin	am5
+Hatchet Hands	axf
+Cestus	ces
+Claws	clw
+Blade Talons	btl
+Scissors Katar	skr
+Eagle Orb	ob1
+Sacred Globe	ob2
+Smoked Sphere	ob3
+Clasped Orb	ob4
+Jared's Stone	ob5
+Jawbone Cap	ba1
+Fanged Helm	ba2
+Horned Helm	ba3
+Assault Helmet	ba4
+Avenger Guard	ba5
+Wolf Head	dr1
+Hawk Helm	dr2
+Antlers	dr3
+Falcon Mask	dr4
+Spirit Mask	dr5
+Preserved Head	ne1
+Zombie Head	ne2
+Unraveller Head	ne3
+Gargoyle Head	ne4
+Demon Head	ne5
+Targe	pa1
+Rondache	pa2
+Heraldic Shield	pa3
+Aerin Shield	pa4
+Crown Shield	pa5

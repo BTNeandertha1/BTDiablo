@@ -4,7 +4,7 @@ Set Reroll	1				0					2	any,set,eth	mfd						usetype,set	99		99	ethereal	100		1	
 Unique Reroll	1				0					2	any,uni,noe	mfd						usetype,uni	99		99																										mfd																																																										0
 Unique Reroll	1				0					2	any,uni,eth	mfd						usetype,uni	99		99	ethereal	100		1	1																					mfd																																																										0
 3 Thaw for MF Charm	1				100					3	wms,qty=3							mff,uni	99		99																																																																																				0
-1 antidote	0				100					1	apot							dgr	99		99	hit-skill-splash		373	100	1																																																																															0
+1 antidote	0				100					1	apot							tds	99		99																																																																																				0
 1 thawing	0				100					1	wpot							std	99		99																																																																																				0
 1 town portal scroll	0				100					1	tsc							cm1	99		99	addxp			500	500																																																																															0
 1 standard of heros	0				100					2	mpot,qty=2								99		99																																																																																				0
@@ -306,9 +306,9 @@ not used	0				100					3	ring,mag	jew	108					usetype,tmp				levelreq			3	3						
 not used	0				100					3	amu,mag	jew	108					usetype,tmp				levelreq			5	5																																																																															0
 not used	0				100					3	weap,tmp	101	gsv					useitem				levelreq			2	2	att			30	50																																																																										0
 3 Chipped Gems (Any) + 1 Magic Weapon -> Socketed Magic Weapon	1				0					4	weap,mag	ggm2,qty=3						usetype,mag	25		50	sock			1	2																																																																															0
-Matrons Den	1				100	28				4	tsc	pk1,qty=3						Red Portal,qty=133																																																																																							0
-Forgotten Sands	1				100	28				4	tsc	pk2,qty=3						Red Portal,qty=134																																																																																							0
-Furnace of pain	1				100	28				4	tsc	pk3,qty=3						Red Portal,qty=135																																																																																							0
+Matrons Den	0				100	28				4	tsc	pk1,qty=3						Red Portal,qty=133																																																																																							0
+Forgotten Sands	0				100	28				4	tsc	pk2,qty=3						Red Portal,qty=134																																																																																							0
+Furnace of pain	0				100	28				4	tsc	pk3,qty=3						Red Portal,qty=135																																																																																							0
 1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)	1				100	28				3	ukey,qty=3							Pandemonium Portal																																																																																							0
 1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)	1				100	28				3	orgn,qty=3							Pandemonium Finale Portal																																																																																							0
 1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Set Weapon -> Exceptional Set Weapon	1	1	2		100					4	weap,bas,set	108	112	gg4e				useitem,mod,exc																																																																																							0
@@ -381,14 +381,14 @@ Furnace of pain	1				100	28				4	tsc	pk3,qty=3						Red Portal,qty=135										
 1 Tir + 1 Key -> Eld Rune	1				100	18	70	1		2	103,qty=1	ggm2,qty=1						102																																																																																							0
 1 Eld + 1 Key -> El Rune	1				100	18	70	1		2	102,qty=1	ggm2,qty=1						101																																																																																							0
 1 El + 1 Key -> Rejuv	1				100	18	70	1		2	101,qty=1	ggm2,qty=1						rvl																																																																																							0
-1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Uber Keys	1				100					4	tes	ceh	bet	fed				pk1																													pk2																													pk3																													0
+1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Uber Keys	1				100					4	tes	ceh	bet	fed				pk1,qty=3																																																																																							0
 3 Twisted Essence of Suffering -> 1 Charged Essence of Hatred	1				100					3	tes,qty=3							ceh																																																																																							0
 3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1				100					3	ceh,qty=3							bet																																																																																							0
 3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1				100					3	bet,qty=3							fed																																																																																							0
 3 Festering Essence of Destruction -> Twisted Essence of Suffering	1				100					3	fed,qty=3							tes,qty=3																																																																																							0
-3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1				100	18	70	99		2	tes	wms						ceh,qty=33																													std																																																										0
-3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1				100	18	70	99		2	ceh	wms						bet,qty=33																													std																																																										0
-3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1				100	18	70	99		2	bet	wms						fed,qty=33																													std																																																										0
+3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1				100	18	70	100		2	tes	wms						ceh,qty=33																													std																																																										0
+3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1				100	18	70	100		2	ceh	wms						bet,qty=33																													std																																																										0
+3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1				100	18	70	100		2	bet	wms						fed,qty=33																													std																																																										0
 3 Key of Terror -> Key of Hate	0				100					3	pk1,qty=2	tsc						pk2																																																																																							0
 3 Key of Terror -> Key of Hate	0				100					3	pk1,qty=2	isc						pk3																																																																																							0
 3 Key of Hate -> Key of Destruction	0				100					3	pk2,qty=2	tsc						pk3																																																																																							0
@@ -676,7 +676,7 @@ Boots Inf	1				100					2	boot,low	mls						usetype,rar	99																							
 Boots Sup	1				100					2	boot,hiq,noe	mls						usetype,rar	99																																																																																						0
 Boots Eth	1				100					2	boot,nor,eth	mls						usetype,rar	99			ethereal	100		1	1																																																																															0
 Boots Eth Sup	1				100					2	boot,hiq,eth	mls						usetype,rar	99			ethereal	100		1	1																																																																															0
-Jewels	1				100					10	jew,qty=9	mls						usetype,rar	99																																																																																						0
+Jewels	0				100					10	jew,qty=9	mls						usetype,rar	99																																																																																						0
 	0																																																																																																								0
 SOCKETS	0																																																																																																								0
 	0																																																																																																								0
@@ -748,10 +748,9 @@ Throwing Javelins	1				100					2	jave,crf,nos	lmr						useitem				sock			1	1				
 ENDGAME RECIPES	0																																																																																																								0
 																																																																																																									0
 100 P Diamonds -> Diablo's Soulstone	1				0	18	70	100		2	gg4d	wms						dss																																																																																							0
-Reroll Charms	1				0					3	cm1,mag,qty=3							cm1,mag		95																																																																																					0
-																																																																																																									0
-Reroll Charms	1				0					3	cm2,mag,qty=3							cm2,mag		95																																																																																					0
-Reroll Charms	1				0					3	cm3,mag,qty=3							cm3,mag		95																																																																																					0
+Reroll Charms	0				0					3	cm1,mag,qty=3							cm1,mag		95																																																																																					0
+Reroll Charms	0				0					3	cm2,mag,qty=3							cm2,mag		95																																																																																					0
+Reroll Charms	0				0					3	cm3,mag,qty=3							cm3,mag		95																																																																																					0
 Hellfire Ashes break down	1				0					2	Hellfire Torch	mls						tds																																																																																							0
 Hellfire Ash + Stam = SOH	1				0					2	tds	wms						std																																																																																							0
 Break down Anni to SOH	1				0					2	Annihilus	mls						std																																																																																							0
@@ -767,40 +766,40 @@ Generic F Emerald	1				0	18	70	9		2	gxm4	gpg						1pg,qty=4																					
 Generic F Ruby	1				0	18	70	9		2	gxm4	gpr						1pr,qty=4																																																																																							0
 Generic F Sapphire	1				0	18	70	9		2	gxm4	gpb						1pb,qty=4																																																																																							0
 Generic F Topaz	1				0	18	70	9		2	gxm4	gpy						1py,qty=4																																																																																							0
-Generic F Amethyst	1				0	18	70	99		2	gxm4	gpv						1pv,qty=34																																																																																							0
-Generic F Diamond	1				0	18	70	99		2	gxm4	gpw						1pw,qty=34																																																																																							0
-Generic F Emerald	1				0	18	70	99		2	gxm4	gpg						1pg,qty=34																																																																																							0
-Generic F Ruby	1				0	18	70	99		2	gxm4	gpr						1pr,qty=34																																																																																							0
-Generic F Sapphire	1				0	18	70	99		2	gxm4	gpb						1pb,qty=34																																																																																							0
-Generic F Topaz	1				0	18	70	99		2	gxm4	gpy						1py,qty=34																																																																																							0
-Generic F Amethyst	1				0	18	70	99		2	gg3a	wms						1pv,qty=33																													std																																																										0
-Generic F Diamond	1				0	18	70	99		2	gg3d	wms						1pw,qty=33																													std																																																										0
-Generic F Emerald	1				0	18	70	99		2	gg3e	wms						1pg,qty=33																													std																																																										0
-Generic F Ruby	1				0	18	70	99		2	gg3r	wms						1pr,qty=33																													std																																																										0
-Generic F Sapphire	1				0	18	70	99		2	gg3s	wms						1pb,qty=33																													std																																																										0
-Generic F Topaz	1				0	18	70	99		2	gg3t	wms						1py,qty=33																													std																																																										0
-Generic F Skull	1				0	18	70	99		2	gg3z	wms						1kz,qty=33																													std																																																										0
-3 x Rare Jewels + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel = Random Unique Jewel	1				100					8	jew,rar,qty=3	tds,qty=3	lmr	jew,uni				jew,uni	99		99																																																																																				0
-r1	1				0	18	70	99		2	101	wms						102,qty=33																													std																																																										0
-r2	1				0	18	70	99		2	102	wms						103,qty=33																													std																																																										0
-r3	1				0	18	70	99		2	103	wms						104,qty=33																													std																																																										0
-r4	1				0	18	70	99		2	104	wms						105,qty=33																													std																																																										0
-r5	1				0	18	70	99		2	105	wms						106,qty=33																													std																																																										0
-r6	1				0	18	70	99		2	106	wms						107,qty=33																													std																																																										0
-r7	1				0	18	70	99		2	107	wms						108,qty=33																													std																																																										0
-r8	1				0	18	70	99		2	108	wms						109,qty=33																													std																																																										0
-r9	1				0	18	70	99		2	109	wms						110,qty=33																													std																																																										0
-r10	1				0	18	70	99		2	110	wms						111,qty=33																													std																																																										0
-r11	1				0	18	70	99		2	111	wms						112,qty=33																													std																																																										0
-r12	1				0	18	70	99		2	112	wms						113,qty=33																													std																																																										0
-r13	1				0	18	70	99		2	113	wms						114,qty=33																													std																																																										0
-r14	1				0	18	70	99		2	114	wms						115,qty=33																													std																																																										0
-r15	1				0	18	70	99		2	115	wms						116,qty=33																													std																																																										0
-r16	1				0	18	70	99		2	116	wms						117,qty=33																													std																																																										0
-r17	1				0	18	70	99		2	117	wms						118,qty=33																													std																																																										0
-r18	1				0	18	70	99		2	118	wms						119,qty=33																													std																																																										0
-r19	1				0	18	70	99		2	119	wms						120,qty=33																													std																																																										0
-r20	1				0	18	70	99		2	120	wms						121,qty=33																													std																																																										0
+Generic F Amethyst	1				0	18	70	100		2	gxm4	gpv						1pv,qty=34																																																																																							0
+Generic F Diamond	1				0	18	70	100		2	gxm4	gpw						1pw,qty=34																																																																																							0
+Generic F Emerald	1				0	18	70	100		2	gxm4	gpg						1pg,qty=34																																																																																							0
+Generic F Ruby	1				0	18	70	100		2	gxm4	gpr						1pr,qty=34																																																																																							0
+Generic F Sapphire	1				0	18	70	100		2	gxm4	gpb						1pb,qty=34																																																																																							0
+Generic F Topaz	1				0	18	70	100		2	gxm4	gpy						1py,qty=34																																																																																							0
+Generic F Amethyst	1				0	18	70	100		2	gg3a	wms						1pv,qty=33																													std																																																										0
+Generic F Diamond	1				0	18	70	100		2	gg3d	wms						1pw,qty=33																													std																																																										0
+Generic F Emerald	1				0	18	70	100		2	gg3e	wms						1pg,qty=33																													std																																																										0
+Generic F Ruby	1				0	18	70	100		2	gg3r	wms						1pr,qty=33																													std																																																										0
+Generic F Sapphire	1				0	18	70	100		2	gg3s	wms						1pb,qty=33																													std																																																										0
+Generic F Topaz	1				0	18	70	100		2	gg3t	wms						1py,qty=33																													std																																																										0
+Generic F Skull	1				0	18	70	100		2	gg3z	wms						1kz,qty=33																													std																																																										0
+9 Pskulls + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel = Random Unique Jewel	1				100					14	1kz,qty=9	lmr	jew,uni	tds,qty=3				jew,uni	99		99																																																																																				0
+r1	1				0	18	70	100		2	101	wms						102,qty=33																													std																																																										0
+r2	1				0	18	70	100		2	102	wms						103,qty=33																													std																																																										0
+r3	1				0	18	70	100		2	103	wms						104,qty=33																													std																																																										0
+r4	1				0	18	70	100		2	104	wms						105,qty=33																													std																																																										0
+r5	1				0	18	70	100		2	105	wms						106,qty=33																													std																																																										0
+r6	1				0	18	70	100		2	106	wms						107,qty=33																													std																																																										0
+r7	1				0	18	70	100		2	107	wms						108,qty=33																													std																																																										0
+r8	1				0	18	70	100		2	108	wms						109,qty=33																													std																																																										0
+r9	1				0	18	70	100		2	109	wms						110,qty=33																													std																																																										0
+r10	1				0	18	70	100		2	110	wms						111,qty=33																													std																																																										0
+r11	1				0	18	70	100		2	111	wms						112,qty=33																													std																																																										0
+r12	1				0	18	70	100		2	112	wms						113,qty=33																													std																																																										0
+r13	1				0	18	70	100		2	113	wms						114,qty=33																													std																																																										0
+r14	1				0	18	70	100		2	114	wms						115,qty=33																													std																																																										0
+r15	1				0	18	70	100		2	115	wms						116,qty=33																													std																																																										0
+r16	1				0	18	70	100		2	116	wms						117,qty=33																													std																																																										0
+r17	1				0	18	70	100		2	117	wms						118,qty=33																													std																																																										0
+r18	1				0	18	70	100		2	118	wms						119,qty=33																													std																																																										0
+r19	1				0	18	70	100		2	119	wms						120,qty=33																													std																																																										0
+r20	1				0	18	70	100		2	120	wms						121,qty=33																													std																																																										0
 r21	1				0	18	70	100		2	121	wms						122,qty=50																													std																																																										0
 r22	1				0	18	70	100		2	122	wms						123,qty=50																													std																																																										0
 r23	1				0	18	70	100		2	123	wms						124,qty=50																													std																																																										0

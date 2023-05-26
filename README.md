@@ -107,25 +107,38 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
-Skills
-- Immolation Arrow
-   - Base Burn Damage Doubled
-   - .6 Second Cooldown 
-   - 5% Synergies Fire Arrow and Exploding Arrow (both Burn damage and Impact Damage)
-- Exploding Arrow
-   - 7% Synergies Fire Arrow and Immolation Arrow
-   - Explosion Radius increased by 40%
-- Freezing Arrow 
-   - 6% Synergies Cold Arrow and Ice Arrow
-- Multishot
-   - Reduced Mana Cost
-Monster changes
-- Eldritch is reverted to orignal mob type
-- Adjusted Baal Waves
-Extras
-- Added Crafting Recipes on a 7th tab in the Cube
-- Added Class Breakpoints to the Character Screen
-- Added Mercenary Breakpoints in the Mercenary Screen
+Items
+- Uber Portals are always Random
+- Simplified the Ubers to just have 1 item for Keys and 1 for Organs
+   - Changed the Uber Keys to "Pandemonium Keys"
+   - Changed the Uber Organs to "Demon's Ear"
+- All Recipes that required 99 quantity are now 100
+- Added Gamble Items
+   - Class Items
+   - Jewels
+   - Charms
+- Unique Jewel Reroll recipe changed
+   - 9 Perfect Skulls + 3 Hell Fire Ashes + Larzuk's Forging Hammer + Unique Jewel (All items need to be single stack) = New Unique Jewel
+- Removed Following Recipes
+   - Reroll Grand Charm 3 of the same type
+   - 9 Jewels + Malus for rare Jewel
+- Jewels and Charms Value Changed to account for new gambling system
+
+Merchants
+- Act 1 Pain (Normal) Maximum Sell value 1000 (was 5000)
+- Act 2 Pain Maximum Sell value 5000 (was 10000)
+- Act 3 Pain Maximum Sell value 10000 (was 15000)
+- Act 4 Pain Maximum Sell value 15000 (was 20000)
+- Act 5 Pain Maximum Sell value 25000
+
+Rifts
+- Halved the Gold Drop in Rifts
+
+Bug Fixes
+- Fixed Exploding Arrow Synergy (Immolation Arrow)
+- Fixed Lycanthropy verbiage
+- Removed Extra Synergy Information that wasnt accurate for Hurricane and Armageddon
+- Fixed Hell Temptress' broken AI
 
 ## Characters
 - Walking is the same as running
@@ -1476,12 +1489,18 @@ ORPHAN'S CALL
 - Ormus now sells Stamina, Antidotes and Thawing Potions
 - Added Dyes and Bleach to Alkor
 
+## Gambling
+- Added Gamble Items
+   - Class Items
+   - Jewels
+   - Charms
+   
 ## Recipes
 - Rune Downgrading 1 to 1 (Flawed Gem + Rune = Downgrade)
 - Removed Level Requirement increase upon Upping and item.
 - Essence Transmuting to next Tier use 3 essences
    - Blue > Yellow > Red > Green > 3 Blue
-- 1 of Each Essence = 1 of each Uber Key
+- 1 of Each Essence = 3 Pandemonium Keys
 - ANY 3 Uber Organs now open Uber Tristram (Diablo's Horn, Baal's Eye or Mephisto's Brain)
 - 2 Unique Jewerly (Rings, Amulets, Jewels) + Thawing Potion = Standard of Heroes
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
@@ -1491,32 +1510,27 @@ ORPHAN'S CALL
 - Hratli's Spiritual Herb + Standard of Heroes
    - Repairs Durability (works on Magics, Rares, Crafted and Uniques)
    - Replenishes Quantity for Any Throwing Weapons
-- 9 Jewels + Charsi's Malus = 1 Rare Jewel
-- 99 Stacked Flawless Gems + Stamina Potion = 33 Perfect Gems of the same type
-- 99 Stacked Runes El-Lem + Stamina Potion = 33 Runes of the next tier
-- 100 Stacked Runes Pul-Cham + Stamina Potion = 50 Runes of the next tier
-- 99 Stacked Essences + Stamina Potion = 33 of the next tier (Doesn't Work for Green Essence)
-- 3 Charms cubed = 1 of the same charm type
+- 100 Stacked Flawless Gems + Thawing Potion = 33 Perfect Gems of the same type
+- 100 Stacked Runes El-Lem + Thawing Potion = 33 Runes of the next tier
+- 100 Stacked Runes Pul-Cham + Thawing Potion = 50 Runes of the next tier
+- 100 Stacked Essences + Thawing Potion = 33 of the next tier (Doesn't Work for Green Essence)
 - 9 Stacked Perfect Gems + Active Perfect Gem of your choosing = 4 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
    - Example: 9 Stacked Perfect Topaz + 1 Perfect Emerald = 4 Stacked Perfect Emeralds
-- 99 Stacked Perfect Gems + Active Perfect Gem of your choosing = 34 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
-   - Example: 99 Stacked Perfect Topaz + 1 Perfect Emerald = 34 Stacked Perfect Emeralds
+- 100 Stacked Perfect Gems + Active Perfect Gem of your choosing = 34 Perfect Stacked Gems of your choosing (Doesn't Create Perfect Skulls)
+   - Example: 100 Stacked Perfect Topaz + 1 Perfect Emerald = 34 Stacked Perfect Emeralds
 - Charsi's Malus + Hellfire Torch = Hellfire Ash
 - Gheed's Fortune + Charsi's Malus = 3 Magic Find Potions
 - Annihilus + Charsi's Malus = 3 Standard of Heros
-- 100 Stacked Perfect Topaz + Stamina Potion = 1 Vex
+- 100 Stacked Perfect Topaz + Thawing Potion = 1 Vex
 - 1 hellfire Ashes + Stamina = Standard of Heroes
 - Any 3 Uber Keys Spawn Random Uber Portals
 - Superior Items also use the same Socket Recipes
-- 3 Terror Keys + TP Scroll = Matrons Den
-- 3 Hate Keys + TP Scroll = Forgotten Sands
-- 3 Destruction Keys + TP Scroll = Furnace of Pain
-- Transmuting up with Pul-Zod require stamina potion for added safety 
+- Transmuting up with Pul-Zod require Thawing Potion for added safety 
 - Secret Cow Level only requires Wirt's leg
 - Added Unique Jewel Reroll Recipe
-   - 3 x Rare Jewels + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel
+   - 9 x Perfect Skulls + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel
 - 100 Stacked Perfect Amethyst + Stamina = 2 Unique Amulets
-- 100 Stacked Perfect Ruby + Stamina Potion = 2 Unique Rings
+- 100 Stacked Perfect Ruby + Thawing Potion = 2 Unique Rings
 - 100 Stacked Perfect Sapphire + Stamina = Unique Jewel
 - 100 Stacked Perfect Emerald + Stamina = Gheed's Fortune
 - Use dye in cube + weapon, shield, helm, or chest to recolor it, then use the bleach to remove.
@@ -1599,23 +1613,23 @@ ORPHAN'S CALL
    - Countess has her drop table fixed P8 now is best for not only keys but also Runes
 - Following Bosses can now drop Uber Keys
 - Blood Raven now summons Souls and Has Charger Minions
-- Key Bosses
-   - Blood Raven = Terror
-   - Countess = Terror
-   - The Smith = Terror
-   - Radament = Hate
-   - The Summoner = Hate
-   - Hephasto = Hate
-   - Izual = Destruction
-   - Nihlathak = Destruction
-   - Snapchip Shatter = Destruction
+- Pandemonium Key Bosses
+   - Blood Raven
+   - Countess
+   - The Smith
+   - Radament
+   - The Summoner
+   - Hephasto
+   - Izual
+   - Nihlathak
+   - Snapchip Shatter
 - Ubers Updated
    - Mephisto Drops a Standard of Heros
    - Diablo Drops a Standard of Heros
    - Baal Drops a Grand Charm
 - Swarms in Forgotten Sands Physical Resistance reduced to 60% (was 99%)
 - Succubus Birds in Matron's Den have their damage halfed
-- Lilith Also Drops a Destruction Key!
+- Lilith Also Drops a Pandemonium Key!
 
 ## Elites
 - 2x Aura Range
@@ -1641,6 +1655,11 @@ ORPHAN'S CALL
 ## Difficulties
 
 ### Pain (was Normal)
+- Act 1 Pain Maximum Sell value 1000 (was 5000)
+- Act 2 Pain Maximum Sell value 5000 (was 10000)
+- Act 3 Pain Maximum Sell value 10000 (was 15000)
+- Act 4 Pain Maximum Sell value 15000 (was 20000)
+- Act 5 Pain Maximum Sell value 25000
 - Only you start with -30% Resistance
 - 10% Experience loss on death
 

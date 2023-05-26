@@ -413,90 +413,6 @@
                             ]
                         },
                         {
-                            "type": "TableRowWidget", "name": "uber_mini_portal_lilith",
-                            "children": [
-                                {
-                                    "type": "TextBoxWidget", "name": "Ingredients",
-                                    "fields": {
-                                        "text": "@strUberMiniPortalLilithIngredient",
-                                        "style": "$StyleSettingsText"
-                                    },
-                                    "children": [
-                                        {
-                                            "type": "ImageWidget", "name": "Divider",
-                                            "fields": {
-                                                "rect": "$OptionsDividerRect",
-                                                "filename": "PauseMenu\\Divider"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "TextBoxWidget", "name": "Result",
-                                    "fields": {
-                                        "text": "@strUberMiniPortalLilithResult",
-                                        "style": "$StyleSettingsText"
-                                    }
-                                }
-                            ]
-                        },
-                        {
-                            "type": "TableRowWidget", "name": "uber_mini_portal_duriel",
-                            "children": [
-                                {
-                                    "type": "TextBoxWidget", "name": "Ingredients",
-                                    "fields": {
-                                        "text": "@strUberMiniPortalDurielIngredient",
-                                        "style": "$StyleSettingsText"
-                                    },
-                                    "children": [
-                                        {
-                                            "type": "ImageWidget", "name": "Divider",
-                                            "fields": {
-                                                "rect": "$OptionsDividerRect",
-                                                "filename": "PauseMenu\\Divider"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "TextBoxWidget", "name": "Result",
-                                    "fields": {
-                                        "text": "@strUberMiniPortalDurielResult",
-                                        "style": "$StyleSettingsText"
-                                    }
-                                }
-                            ]
-                        },
-                        {
-                            "type": "TableRowWidget", "name": "uber_mini_portal_izual",
-                            "children": [
-                                {
-                                    "type": "TextBoxWidget", "name": "Ingredients",
-                                    "fields": {
-                                        "text": "@strUberMiniPortalIzualIngredient",
-                                        "style": "$StyleSettingsText"
-                                    },
-                                    "children": [
-                                        {
-                                            "type": "ImageWidget", "name": "Divider",
-                                            "fields": {
-                                                "rect": "$OptionsDividerRect",
-                                                "filename": "PauseMenu\\Divider"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "TextBoxWidget", "name": "Result",
-                                    "fields": {
-                                        "text": "@strUberMiniPortalIzualResult",
-                                        "style": "$StyleSettingsText"
-                                    }
-                                }
-                            ]
-                        },
-                        {
                             "type": "TableRowWidget", "name": "uber_portal",
                             "children": [
                                 {
@@ -687,34 +603,6 @@
                                     "type": "TextBoxWidget", "name": "Result",
                                     "fields": {
                                         "text": "@strEssenceConvertNextTierResult",
-                                        "style": "$StyleSettingsText"
-                                    }
-                                }
-                            ]
-                        },
-                        {
-                            "type": "TableRowWidget", "name": "magic_charm_reroll",
-                            "children": [
-                                {
-                                    "type": "TextBoxWidget", "name": "Ingredients",
-                                    "fields": {
-                                        "text": "@strMagicCharmRerollIngredient",
-                                        "style": "$StyleSettingsText"
-                                    },
-                                    "children": [
-                                        {
-                                            "type": "ImageWidget", "name": "Divider",
-                                            "fields": {
-                                                "rect": "$OptionsDividerRect",
-                                                "filename": "PauseMenu\\Divider"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "TextBoxWidget", "name": "Result",
-                                    "fields": {
-                                        "text": "@strMagicCharmRerollResult",
                                         "style": "$StyleSettingsText"
                                     }
                                 }

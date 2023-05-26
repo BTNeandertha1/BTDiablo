@@ -105,62 +105,6 @@
                             ]
                         },
                         {
-                            "type": "TableRowWidget", "name": "malus_rare_jewel",
-                            "children": [
-                                {
-                                    "type": "TextBoxWidget", "name": "Ingredients",
-                                    "fields": {
-                                        "text": "@strMalusRareJewelIngredient",
-                                        "style": "$StyleSettingsText"
-                                    },
-                                    "children": [
-                                        {
-                                            "type": "ImageWidget", "name": "Divider",
-                                            "fields": {
-                                                "rect": "$OptionsDividerRect",
-                                                "filename": "PauseMenu\\Divider"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "TextBoxWidget", "name": "Result",
-                                    "fields": {
-                                        "text": "@strMalusRareJewelResult",
-                                        "style": "$StyleSettingsText"
-                                    }
-                                }
-                            ]
-                        },
-                        {
-                            "type": "TableRowWidget", "name": "malus_torch",
-                            "children": [
-                                {
-                                    "type": "TextBoxWidget", "name": "Ingredients",
-                                    "fields": {
-                                        "text": "@strMalusTorchIngredient",
-                                        "style": "$StyleSettingsText"
-                                    },
-                                    "children": [
-                                        {
-                                            "type": "ImageWidget", "name": "Divider",
-                                            "fields": {
-                                                "rect": "$OptionsDividerRect",
-                                                "filename": "PauseMenu\\Divider"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "TextBoxWidget", "name": "Result",
-                                    "fields": {
-                                        "text": "@strMalusTorchResult",
-                                        "style": "$StyleSettingsText"
-                                    }
-                                }
-                            ]
-                        },
-                        {
                             "type": "TableRowWidget", "name": "malus_gheeds",
                             "children": [
                                 {

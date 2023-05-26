@@ -717,7 +717,7 @@
   { "pk1": { "asset": "key/mephisto_key" } },
   { "pk2": { "asset": "key/summoner_key" } },
   { "pk3": { "asset": "key/nil_key" } },
-  { "dhn": { "asset": "body_part/fang" } },
+  { "dhn": { "asset": "body_part/player_ear" } },
   { "bey": { "asset": "body_part/eye" } },
   { "mbr": { "asset": "body_part/brain" } },
   { "toa": { "asset": "quest/token_of_absolution" } },

@@ -32897,19 +32897,19 @@
   {
     "id": 29024,
     "Key": "strUberMiniPortalRandomIngredient",
-    "enUS": "Any 3 Keys",
-    "zhTW": "任何3个键",
-    "deDE": "Alle 3 Schlüssel",
-    "esES": "Cualquier 3 llaves",
-    "frFR": "Du 3 clés",
-    "itIT": "Qualsiasi 3 chiavi",
-    "koKR": "3 개의 키",
-    "plPL": "Dowolne 3 klucze",
-    "esMX": "Cualquier 3 llaves",
-    "jaJP": "任意の3つのキー",
-    "ptBR": "Quaisquer 3 chaves",
-    "ruRU": "Любые 3 ключа",
-    "zhCN": "任何3个键"
+    "enUS": "3 Pandemonium Keys",
+    "zhTW": "3个Pandemonium键",
+    "deDE": "3 Pandemoniumschlüssel",
+    "esES": "3 llaves de pandemonium",
+    "frFR": "3 clés pandémonium",
+    "itIT": "3 chiavi pandemonium",
+    "koKR": "3 판 데모 늄 키",
+    "plPL": "3 klucze pandemonium",
+    "esMX": "3 llaves de pandemonium",
+    "jaJP": "3つのパンデモニウムキー",
+    "ptBR": "3 chaves de pandemônio",
+    "ruRU": "3 ключи от попоквания",
+    "zhCN": "3个Pandemonium键"
   },
   {
     "id": 29025,
@@ -32927,7 +32927,7 @@
     "ptBR": "Portal Random Mini-UBER",
     "ruRU": "Случайный портал Mini-Uber",
     "zhCN": "随机迷你uber门户"
-  },
+  },/*
   {
     "id": 29026,
     "Key": "strUberMiniPortalLilithIngredient",
@@ -33029,23 +33029,23 @@
     "ptBR": "Portal para Furância da Dor",
     "ruRU": "Портал для схватки боли",
     "zhCN": "痛苦愤怒的门户"
-  },
+  },*/
   {
     "id": 29032,
     "Key": "strUberPortalIngredient",
-    "enUS": "Any 3 Organs",
-    "zhTW": "任何3个器官",
-    "deDE": "Alle 3 Organe",
-    "esES": "Cualquier 3 órganos",
-    "frFR": "Tous 3 organes",
-    "itIT": "Qualsiasi 3 organi",
-    "koKR": "3 개의 장기",
-    "plPL": "Wszelkie 3 narządy",
-    "esMX": "Cualquier 3 órganos",
-    "jaJP": "3つの臓器",
-    "ptBR": "Quaisquer 3 órgãos",
-    "ruRU": "Любые 3 органа",
-    "zhCN": "任何3个器官"
+    "enUS": "3 Demon Ears",
+    "zhTW": "3个恶魔耳朵",
+    "deDE": "3 Dämonenohren",
+    "esES": "3 orejas de demonio",
+    "frFR": "3 oreilles de démon",
+    "itIT": "3 orecchie di demoni",
+    "koKR": "3 악마 귀",
+    "plPL": "3 Demonowe uszy",
+    "esMX": "3 orejas de demonio",
+    "jaJP": "3つの悪魔の耳",
+    "ptBR": "3 ouvidos de demônios",
+    "ruRU": "3 Демон Уши",
+    "zhCN": "3个恶魔耳朵"
   },
   {
     "id": 29033,
@@ -33237,19 +33237,19 @@
   {
     "id": 29044,
     "Key": "strEssenceConvertNextTierIngredient",
-    "enUS": "99 stacked Essences (not Festering) + Thawing Potion",
-    "zhTW": "99堆放的精华（不是乱伦） +解冻药水",
-    "deDE": "99 gestapelte Essenzen (nicht öfter) + Auftauungstrank",
-    "esES": "99 esencias apiladas (no soportador) + Poción de descongelación",
-    "frFR": "99 Essences empilées (pas purniques) + Potion dégelante",
-    "itIT": "99 Essenze impilate (non festeggiate) + pozione di scongelamento",
-    "koKR": "99 쌓인 에센스 (재물이 아님) + 해동 물약",
-    "plPL": "99 Esencji ułożone (nie ropieć) + mikstury rozmrażania",
-    "esMX": "99 esencias apiladas (no soportador) + Poción de descongelación",
-    "jaJP": "99積み重ねられたエッセンス（おもしろくない） +解凍ポーション",
-    "ptBR": "99 essências empilhadas (não festas) + Poção de descongelamento",
-    "ruRU": "99 Сложные эссенции (не гнойно) + оттаивание зелья",
-    "zhCN": "99堆放的精华（不是乱伦） +解冻药水"
+    "enUS": "100 stacked Essences (not Festering) + Thawing Potion",
+    "zhTW": "100个堆叠的本质（不是乱伦） +解冻药水",
+    "deDE": "100 gestapelte Essenzen (nicht öfter) + Auftauentrank",
+    "esES": "100 esencias apiladas (no soportador) + Poción de descongelación",
+    "frFR": "100 essences empilées (pas purniques) + Potion de décongélation",
+    "itIT": "100 essenze impilate (non festeggianti) + pozione di scongelamento",
+    "koKR": "100 개의 쌓인 에센스 (재물이 아님) + 해동 물약",
+    "plPL": "100 ułożonych esencji (nie ropieć) + mikstury rozmrażania",
+    "esMX": "100 esencias apiladas (no soportador) + Poción de descongelación",
+    "jaJP": "100の積み重ねられたエッセンス（おもしろくない） +解凍ポーション",
+    "ptBR": "100 essências empilhadas (não festas) + poção de descongelamento",
+    "ruRU": "100 сложенных эссенций (не гнойно) + оттаивание зелья",
+    "zhCN": "100个堆叠的本质（不是乱伦） +解冻药水"
   },
   {
     "id": 29045,
@@ -33267,9 +33267,9 @@
     "ptBR": "33 essências da próxima camada",
     "ruRU": "33 Эссенции следующего уровня",
     "zhCN": "33下一层的本质"
-  },
+  },/*
   {
-    "id": 29046,
+//*   "id": 29046,
     "Key": "strMagicCharmRerollIngredient",
     "enUS": "3 Magic Charms of the same type",
     "zhTW": "3个魔术魅力相同类型",
@@ -33301,7 +33301,7 @@
     "ptBR": "1 charme mágico do mesmo tipo",
     "ruRU": "1 Волшебное очарование того же типа",
     "zhCN": "1个相同类型的魔术魅力"
-  },
+  },*/
   {
     "id": 29048,
     "Key": "strAnniCorruptIngredient",
@@ -33475,19 +33475,19 @@
   {
     "id": 29058,
     "Key": "strStackConversionLowIngredient",
-    "enUS": "99 stacked El-Lem Runes + Thawing Potion",
-    "zhTW": "99堆放的EL-LEM符文 +解冻药水",
-    "deDE": "99 gestapelte El-Lem-Runen + Auftauentrank",
-    "esES": "99 Runas El-Lem apiladas + Poción de descongelación",
-    "frFR": "99 Runes El-lem empilées + Potion dégelante",
-    "itIT": "99 Rune El-Lem impilate + Pozione di scongelamento",
-    "koKR": "99 쌓인 엘 리렘 룬 + 해동 물약",
-    "plPL": "99 Run El-Lem Runs + Mikstura rozmrażania",
-    "esMX": "99 Runas El-Lem apiladas + Poción de descongelación",
-    "jaJP": "99積み重ねられたエルレムルーン +解凍ポーション",
-    "ptBR": "99 Runas El-Lem empilhadas + Poção de descongelamento",
-    "ruRU": "99 Сложные руны El-Lem + отталкивающее зелье",
-    "zhCN": "99堆放的EL-LEM符文 +解冻药水"
+    "enUS": "100 stacked El-Lem Runes + Thawing Potion",
+    "zhTW": "100个堆叠的EL-LEM符文 +解冻药水",
+    "deDE": "100 gestapelte El-Lem-Runen + Auftauentrank",
+    "esES": "100 runas El-Lem apiladas + Poción de descongelación",
+    "frFR": "100 runes el-lem empilées + potion de dégel",
+    "itIT": "100 rune el-lem impilate + pozione di scongelamento",
+    "koKR": "100 쌓인 el-lem 룬 + 해동 물약",
+    "plPL": "100 Run El-Lem Runs + Mikstura rozmrażania",
+    "esMX": "100 runas El-Lem apiladas + Poción de descongelación",
+    "jaJP": "100個の積み重ねられたエルレムルーン +解凍ポーション",
+    "ptBR": "100 runas el-lem + poção de descongelamento",
+    "ruRU": "100 сложенных рун El-Lem + отталкивающее зелье",
+    "zhCN": "100个堆叠的EL-LEM符文 +解冻药水"
   },
   {
     "id": 29059,
@@ -33679,19 +33679,19 @@
   {
     "id": 29070,
     "Key": "strGemStackConversionLowIngredient",
-    "enUS": "99 stacked Flawless Gems + Thawing Potion",
-    "zhTW": "99堆放完美无瑕的宝石 +解冻药水",
-    "deDE": "99 gestapelte makellose Edelsteine ​​+ Auftauentrank",
-    "esES": "99 Gemas impecables apiladas + Poción de descongelación",
-    "frFR": "99 Gemmes impeccables empilées + potion de dégel",
-    "itIT": "99 gemme impilabili e pozioni scongelanti",
-    "koKR": "99 쌓인 완벽한 보석 + 해동 물약",
-    "plPL": "99 ułożone w stosach bezbłędnych klejnotów + mikstury rozmrażania",
-    "esMX": "99 Gemas impecables apiladas + Poción de descongelación",
-    "jaJP": "99積み重ねられた完璧な宝石 +解凍ポーション",
-    "ptBR": "99 Gemas impecáveis ​​empilhadas + Poção de descongelamento",
-    "ruRU": "99 сложенных безупречных драгоценных камней + оттаивание зелья",
-    "zhCN": "99堆放完美无瑕的宝石 +解冻药水"
+    "enUS": "100 stacked Flawless Gems + Thawing Potion",
+    "zhTW": "100堆放完美无瑕的宝石 +解冻药水",
+    "deDE": "100 gestapelte makellose Edelsteine ​​+ Auftauentrank",
+    "esES": "100 Gemas impecables apiladas + Poción de descongelación",
+    "frFR": "100 Gemmes impeccables empilées + potion de dégel",
+    "itIT": "100 gemme impilabili e pozioni scongelanti",
+    "koKR": "100 쌓인 완벽한 보석 + 해동 물약",
+    "plPL": "100 ułożone w stosach bezbłędnych klejnotów + mikstury rozmrażania",
+    "esMX": "100 Gemas impecables apiladas + Poción de descongelación",
+    "jaJP": "100積み重ねられた完璧な宝石 +解凍ポーション",
+    "ptBR": "100 Gemas impecáveis ​​empilhadas + Poção de descongelamento",
+    "ruRU": "100 сложенных безупречных драгоценных камней + оттаивание зелья",
+    "zhCN": "100堆放完美无瑕的宝石 +解冻药水"
   },
   {
     "id": 29071,
@@ -33747,19 +33747,19 @@
   {
     "id": 29074,
     "Key": "strGemConversionHighIngredient",
-    "enUS": "99 stacked Perfect Gems + Perfect Gem of your choosing",
-    "zhTW": "99个堆叠完美的宝石 +您选择的完美宝石",
-    "deDE": "99 gestapelte perfekte Edelsteine ​​+ perfektes Juwel Ihrer Wahl",
-    "esES": "99 gemas perfectas apiladas + joya perfecta de tu elección",
-    "frFR": "99 Gemmes parfaites empilées + gemme parfaite de votre choix",
-    "itIT": "99 gemme perfette impilate + gemme perfette di tua scelta",
-    "koKR": "99 쌓인 완벽한 보석 + 당신이 선택한 완벽한 보석",
-    "plPL": "99 Ustawiane idealne klejnoty + doskonały klejnot wyboru",
-    "esMX": "99 gemas perfectas apiladas + joya perfecta de tu elección",
-    "jaJP": "99積み重ねられた完璧な宝石 +あなたの選択の完璧な宝石",
-    "ptBR": "99 Gemas perfeitas empilhadas + jóias perfeitas da sua escolha",
-    "ruRU": "99 сложенных идеальных драгоценных камней + идеальная жемчужина по вашему выбору",
-    "zhCN": "99个堆叠完美的宝石 +您选择的完美宝石"
+    "enUS": "100 stacked Perfect Gems + Perfect Gem of your choosing",
+    "zhTW": "100个堆叠完美的宝石 +您选择的完美宝石",
+    "deDE": "100 gestapelte perfekte Edelsteine ​​+ perfektes Juwel Ihrer Wahl",
+    "esES": "100 gemas perfectas apiladas + joya perfecta de tu elección",
+    "frFR": "100 Gemmes parfaites empilées + gemme parfaite de votre choix",
+    "itIT": "100 gemme perfette impilate + gemme perfette di tua scelta",
+    "koKR": "100 쌓인 완벽한 보석 + 당신이 선택한 완벽한 보석",
+    "plPL": "100 Ustawiane idealne klejnoty + doskonały klejnot wyboru",
+    "esMX": "100 gemas perfectas apiladas + joya perfecta de tu elección",
+    "jaJP": "100積み重ねられた完璧な宝石 +あなたの選択の完璧な宝石",
+    "ptBR": "100 Gemas perfeitas empilhadas + jóias perfeitas da sua escolha",
+    "ruRU": "100 сложенных идеальных драгоценных камней + идеальная жемчужина по вашему выбору",
+    "zhCN": "100个堆叠完美的宝石 +您选择的完美宝石"
   },
   {
     "id": 29075,
@@ -33815,19 +33815,19 @@
   {
     "id": 29078,
     "Key": "strUniqueJewelRerollIngredient",
-    "enUS": "3 Rare Jewels + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel",
-    "zhTW": "3个稀有珠宝 + 3 Hellfire Ash + Larzuk的锻造锤 +独特的珠宝",
-    "deDE": "3 seltene Juwelen + 3 Höllenfeuer Asche + Larzuks Schmiedenshammer + einzigartiges Juwel",
-    "esES": "3 Joyas raras + 3 Hellfire Ash + Larzuk's Forging Hammer + Jewel único",
-    "frFR": "3 bijoux rares + 3 cendres de Hellfire + marteau de forge de Larzuk + bijou unique",
-    "itIT": "3 gioielli rari + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel",
-    "koKR": "3 희귀 보석 + 3 Hellfire Ash + Larzuk의 단조 망치 + 독특한 보석",
-    "plPL": "3 rzadkie klejnoty + 3 piekielne popiół + kuszy młot Lararzuk + unikalny klejnot",
-    "esMX": "3 Joyas raras + 3 Hellfire Ash + Larzuk's Forging Hammer + Jewel único",
-    "jaJP": "3つの珍しい宝石 + 3 Hellfire Ash + Larzuk's Forging Hammer +ユニークな宝石",
-    "ptBR": "3 jóias raras + 3 Hellfire Ash + Larzuk Hammer + Jewel exclusivo",
-    "ruRU": "3 редкие драгоценности + 3 чертов",
-    "zhCN": "3个稀有珠宝 + 3 Hellfire Ash + Larzuk的锻造锤 +独特的珠宝"
+    "enUS": "9 Perfect Skulls + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel",
+    "zhTW": "9个完美的头骨 + 3 Hellfire Ash + Larzuk的锻造锤 +独特的珠宝",
+    "deDE": "9 Perfect Skulls + 3 Hellfire Ash + Larzuks Schmieden Hammer + einzigartiges Juwel",
+    "esES": "9 calaveras perfectas + 3 Hellfire Ash + Larzuk's Forging Hammer + Joya única",
+    "frFR": "9 crânes parfaits + 3 cendres de Hellfire + marteau de forge de Larzuk + bijou unique",
+    "itIT": "9 teschi perfetti + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel",
+    "koKR": "9 완벽한 두개골 + 3 Hellfire Ash + Larzuk의 단조 망치 + 독특한 보석",
+    "plPL": "9 Perfect Skulls + 3 Hellfire Ash + Larzuk's Forging Hammer + unikalny klejnot",
+    "esMX": "9 calaveras perfectas + 3 Hellfire Ash + Larzuk's Forging Hammer + Joya única",
+    "jaJP": "9パーフェクトスカル + 3ヘルファイアアッシュ +ラルツクの鍛造ハンマー +ユニークな宝石",
+    "ptBR": "9 crânios perfeitos + 3 hellfire ash + larzuk hammer + jóia única",
+    "ruRU": "9 идеальных черепов + 3 адского ясенника + коел Ларзук + уникальный драгоценный камень",
+    "zhCN": "9个完美的头骨 + 3 Hellfire Ash + Larzuk的锻造锤 +独特的珠宝"
   },
   {
     "id": 29079,
@@ -34049,7 +34049,7 @@
     "ptBR": "Reabastecer a quantidade",
     "ruRU": "Пополнить количество",
     "zhCN": "补充数量"
-  },
+  },/*
   {
     "id": 29092,
     "Key": "strMalusRareJewelIngredient",
@@ -34083,7 +34083,7 @@
     "ptBR": "1 jóia rara",
     "ruRU": "1 редкая драгоценность",
     "zhCN": "1个稀有珠宝"
-  },
+  },*/
   {
     "id": 29094,
     "Key": "strSoHHellfireAshIngredient",
