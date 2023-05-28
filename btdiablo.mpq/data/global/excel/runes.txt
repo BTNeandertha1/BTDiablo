@@ -11,7 +11,7 @@ Runeword9	Bramble	1			110	tors									RalOhmSurEth	r08	r27	r29	r05			balance2		
 Runeword10	Brand	1			Previously Ladder Only	miss									JahLoMalGul	r31	r28	r23	r25			dmg%		260	340	dmg-demon		280	330	hit-skill	Bone Spear	100	18	gethit-skill	Amplify Damage	35	14	knock		1	1	swing2		30	30	explosivearrow		15	15	0
 Runeword11	Breath of the Dying	1			110	weap									VexHelElEldZodEth	r26	r15	r01	r02	r33	r05	swing2		60	60	dmg-undead		125	125	lifesteal		12	15	noheal		1	1	kill-skill	Poison Nova	50	20	dmg%		350	400	all-stats		30	30	0
 Runeword12	Broken Promise																																																	0
-Runeword13	Call to Arms	1			110	weap									AmnRalMalIstOhm	r11	r08	r23	r24	r27		swing2		40	40	dmg%		200	240	allskills		1	1	oskill	Battle Command	2	6	oskill	Battle Orders	1	6	oskill	Battle Cry	1	4	regen		12	12	0
+Runeword13	Call to Arms	1			110	weap									AmnRalMalIstOhm	r11	r08	r23	r24	r27		swing2		40	40	dmg%		200	240	allskills		1	1	oskill	Battle Command	1	1	oskill	Battle Orders	1	1	oskill	Battle Cry	1	1	regen		12	12	0
 Runeword14	Chains of Honor	1			110	tors									DolUmBerIst	r14	r22	r30	r24			res-all		50	50	ac%		70	70	dmg-demon		200	200	dmg-undead		100	100	lifesteal		8	8	allskills		2	2	str		20	20	0
 Runeword15	Chance																																																	0
 Runeword16	Chaos	1			110	h2h									FalOhmUm	r19	r27	r22				demon-heal		15	15	dmg%		240	290	dmg-mag		216	471	oskill	Whirlwind	1	1	swing2		35	35	hit-skill	Frozen Orb	9	11	hit-skill	Charged Bolt	11	9	0
@@ -49,7 +49,7 @@ Runeword47	Grief	1			Previously Ladder Only	swor	axe								EthTirGulVexRal	r05	
 Runeword48	Hand of Justice	1			110	weap									SurChamAmnLo	r29	r32	r11	r28			swing2		33	33	dmg%		280	330	aura	Holy Fire	16	16	levelup-skill	Blaze	100	36	death-skill	Meteor	100	48	ignore-ac		1	1	pierce-fire		20	20	0
 Runeword49	Harmony	1			Previously Ladder Only	miss									TirIthSolKo	r03	r06	r12	r18			dmg%		275	325	dmg-elem		55	160	charged	Revive	25	20	aura	Vigor	10	10	oskill	Valkyrie	2	6	regen-mana		20	20	light		2	2	0
 Runeword50	Hatred																																																	0
-Runeword51	Heart of the Oak	1			110	staf	mace								KoVexPulThul	r18	r26	r21	r10			cast2		40	40	charged	Oak Sage	25	4	mana%		15	15	allskills		3	3	regen		20	20	res-all		30	40	charged	Raven	60	14	0
+Runeword51	Heart of the Oak	1			110	staf	mace								KoVexPulThul	r18	r26	r21	r10			cast2		40	40	mana%		15	15	allskills		3	3	regen		20	20	res-all		30	40	charged	Raven	60	14					0
 Runeword52	Heaven's Will																																																	0
 Runeword53	Holy Tears																																																	0
 Runeword54	Holy Thunder	1			109	mele									EthRalOrtTal	r05	r08	r09	r07			dmg%		100	100	dmg-ltng		20	60	dmg-max		15	15	res-ltng		60	60	res-ltng-max		5	5	aura	118	5	5	item_poisonlengthresist		75	75	0
@@ -127,7 +127,7 @@ Runeword126	Silence	1			109	weap									DolEldHelIstTirVex	r14	r02	r15	r24	r03	
 Runeword127	Siren's Song																																																	0
 Runeword128	Smoke	1			109	tors									NefLum	r04	r17					ac-miss		250	250	ac%		75	75	res-all		50	50	balance2		20	20	light		-1	-1	charged	72	18	6					0
 Runeword129	Sorrow																																																	0
-Runeword130	Spirit	1			Previously Ladder Only	shld									MalThulOrtPul	r23	r10	r09	r21			balance3		55	55	mana		89	112	res-pois		35	35	vit		22	22	cast3		35	35	abs-mag		3	8	allskills		2	2	0
+Runeword130	Spirit	1			Previously Ladder Only	shld									MalThulOrtPul	r23	r10	r09	r21			balance3		25	25	mana		89	112	res-pois		35	35	vit		22	22	cast3		35	35	abs-mag		3	8	allskills		1	1	0
 Runeword131	Splendor	1			110	shld									EthLum	r05	r17					light		3	3	gold%		50	50	mag%		20	20	ac%		60	100	block2		20	20	cast2		20	20	allskills		1	1	0
 Runeword132	Starlight																																																	0
 Runeword133	Stealth	1			109	tors									TalEth	r07	r05					red-mag		3	3	dex		6	6	stam		15	15	move2		25	25	cast2		25	25	balance2		25	25					0
@@ -168,7 +168,7 @@ Runeword167	Wonder																																																	0
 Runeword168	Wrath	1			Previously Ladder Only	miss									PulLumBerMal	r21	r17	r30	r23			dmg%		300	375	swing2		30	30	dmg-ltng		41	240	dmg-mag		85	120	hit-skill	Life Tap	5	10	hit-skill	Decrepify	30	1	nofreeze		1	1	0
 Runeword169	Youth																																																	0
 Runeword170	Zephyr	1			109	miss									OrtEth	r09	r05					move2		25	25	swing2		25	25	dmg%		100	100	att%		20	20	hit-skill	240	14	2	pierce		33	33	mana		30	30	0
-Runeword171	Soul	1			Previously Ladder Only	swor									TalThulOrtAmn	r07	r10	r09	r11			balance3		55	55	mana		89	112	ac-miss		250	250	vit		22	22	cast3		30	30	abs-mag		3	8	randclassskill3		0	6	0
+Runeword171	Soul	1			Previously Ladder Only	swor									TalThulOrtAmn	r07	r10	r09	r11			balance3		25	25	mana		89	112	ac-miss		250	250	vit		22	22	cast3		30	30	abs-mag		3	8	randclassskill3		0	6	0
 Runeword172	Hustle (armor)	1	3		D2R Ladder 3	tors									ShaelKoEld	r13	r18	r02				move2		65	65	stamdrain		35	35	swing2		40	40	res-all		10	10	oskill	Evade	6	6									0
 Runeword173	Hustle (weapon)	1	3		D2R Ladder 3	weap									ShaelKoEld	r13	r18	r02				hit-skill	Quickness	5	1	swing2		10	10	dmg%		180	200	aura	Fanaticism	1	1													0
 Runeword174	Mosaic	1	3		D2R Ladder 3	h2h									MalGulAmn	r23	r25	r11				skilltab	20	2	2	charge-noconsume		50	50	swing2		20	20	dmg%		200	250	extra-fire		8	15	extra-cold		8	15	extra-ltng		8	15	0

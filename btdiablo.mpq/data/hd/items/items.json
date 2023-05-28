@@ -760,5 +760,8 @@
   { "do1": { "asset": "potion/elixir" } },
   { "db3": { "asset": "potion/elixir" } },
   { "1dr": { "asset": "potion/magic_find_potion" } },
-  { "gwh": { "asset": "quest/griswolds_heirloom" } }
+  { "gwh": { "asset": "quest/griswolds_heirloom" } },
+  { "dsd": { "asset": "body_part/divine" } },
+  { "fel": { "asset": "quest/flask" } },
+  { "brk": { "asset": "quest/brick" } }
 ]

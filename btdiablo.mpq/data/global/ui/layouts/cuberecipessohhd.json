@@ -324,6 +324,34 @@
                                     "fields": {
                                         "text": "@strCorruptResult",
                                         "style": "$StyleSettingsText"
+                                                                            }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "stack_soh",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strStackSOHIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strStackSOHResult",
+                                        "style": "$StyleSettingsText"
                                     }
                                 }
                             ]

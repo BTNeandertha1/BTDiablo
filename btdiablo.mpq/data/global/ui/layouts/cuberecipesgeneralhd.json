@@ -691,6 +691,63 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "stack_brick",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strStackBrickIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strStackBrickResult",
+                                        "style": "$StyleSettingsText"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget", "name": "flask",
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget", "name": "Ingredients",
+                                    "fields": {
+                                        "text": "@strFlaskIngredient",
+                                        "style": "$StyleSettingsText"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget", "name": "Divider",
+                                            "fields": {
+                                                "rect": "$OptionsDividerRect",
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TextBoxWidget", "name": "Result",
+                                    "fields": {
+                                        "text": "@strFlaskResult",
+                                        "style": "$StyleSettingsText"
+
+                                    }
+                                }
+                            ]
                         }
                     ]
                 }

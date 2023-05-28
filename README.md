@@ -108,37 +108,63 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 2. **Paste New btdiablo.mpq folder**
 
 Items
-- Uber Portals are always Random
-- Simplified the Ubers to just have 1 item for Keys and 1 for Organs
-   - Changed the Uber Keys to "Pandemonium Keys"
-   - Changed the Uber Organs to "Demon's Ear"
-- All Recipes that required 99 quantity are now 100
-- Added Gamble Items
-   - Class Items
-   - Jewels
-   - Charms
-- Unique Jewel Reroll recipe changed
-   - 9 Perfect Skulls + 3 Hell Fire Ashes + Larzuk's Forging Hammer + Unique Jewel (All items need to be single stack) = New Unique Jewel
-- Removed Following Recipes
-   - Reroll Grand Charm 3 of the same type
-   - 9 Jewels + Malus for rare Jewel
-- Jewels and Charms Value Changed to account for new gambling system
+- New items
+   - Brick (earn 1 each time you destroy an item for corruptions)
+   - Flask of Etheric Light (Created by cubing 100 Standard of Heros)
+      - Turn ANY Item Ethereal including sets and Corruptions! (does not work on BOWS)
+   - The Divine Standard (Created by cubing 100 Bricks)
+- Gheed's Fortune Corruption can now roll 10 Maximum Damage and 76 Attack Rating
 
-Merchants
-- Act 1 Pain (Normal) Maximum Sell value 1000 (was 5000)
-- Act 2 Pain Maximum Sell value 5000 (was 10000)
-- Act 3 Pain Maximum Sell value 10000 (was 15000)
-- Act 4 Pain Maximum Sell value 15000 (was 20000)
-- Act 5 Pain Maximum Sell value 25000
+Uniques
+- Kuko Shakaku 
+   - Added 2-3 Exploding Arrow
+   - 2-3 Immolation Arrow
+   - 20% Increased Attack Speed
+- Eaglehorn
+   - 2 Amazon Skills (was 1)
+   - Added + 7 to Valkyrie
+- Hellfire Torch
+   - Removed Firestorm on Striking
+
+Runewords
+- Call to Arms
+   - Always Rolls 1 to Battle Orders, Battle Command, and Battle Cry
+- Heart of the oak
+   - Removed Oak Sage Charges
+- Spirit shield
+   - 25% Faster Hit Recovery (was 55%)
+   - 1 to All Skills (was 2)
+- Soul sword
+   - 25% Faster Hit Recovery (was 55%)
+   
+Sets
+- Bul-Kathos Swords
+   - 200-250 ED (was 250-300) 
+   - Reduced Open Wounds to 15% (was 35%)
+   - +100 Damage (was 200)
+   - Removed Full Set Deadly Strike Bonus
+- All Class Sets when fully equiped grant +2 All Skills (was 3)
+
+Recipes
+- 1 of Each Essence Recipe now gives 2 Pandemonium keys instead of 3
+- 100 Bricks + Thawing Potion = The Divine Standard
+- 100 Standard of Heros + Thawing Potion = Flask of Etheric Light
+- Flask of Etheric Light + any Weapon or Armor = Ethereal Version **WARNING DO NOT TRY RECIPE IF ITEM IS ZODDED**
+- The Divine Standard has a .1% chance to create a Zod when Corrupting a Unique TC84 or TC87
+- The Divine Standard works the same way as the Standard of Heros but stays after the Corruption (does not replace recipes that need to include a Standard of Heros)
+
+Monsters
+- Increased Movement Speed of monsters
+- Monsters in Agony respond 2 times as Fast as normal
+- Monsters in Insanity now respond almost instantly and have an increased Aggro range
 
 Rifts
-- Halved the Gold Drop in Rifts
+- Bricks can drop in Rifts roughly at the rate of a Pul Rune
 
-Bug Fixes
-- Fixed Exploding Arrow Synergy (Immolation Arrow)
-- Fixed Lycanthropy verbiage
-- Removed Extra Synergy Information that wasnt accurate for Hurricane and Armageddon
-- Fixed Hell Temptress' broken AI
+Terror Zones
+- Removed Terror Zones in Agony and Pain
+- Changed map pool rotations to Rifts, Uber Portals, and Act 5 Red Portals for now
+- Terror Zones Simulate Players 15
 
 ## Characters
 - Walking is the same as running
@@ -157,11 +183,14 @@ Bug Fixes
    - Half Magic Find% per level
 - Spirit Shield [Mal Thul Ort Pul] (was Tal Thul Ort Amn)
    - Always Rolls 35% Faster Cast Rate
+   - 25% Faster Hit Recovery (was 55%)
+   - 1 to All Skills (was 2)
 - Splendor [Eth Lum]
    - 20% Faster Cast Rate (was 10%)
 - Added Soul Sword Runeword [Tal Thul Ort Amn] (was Spirit Sword, Spirit was changed)
    - +1 to Random Class (was +2 to all Skills)
    - 30% Faster Cast Rate (was 25-35 Faster Cast Rate)
+   - 25% Faster Hit Recovery (was 55%)
 - Holy Thunder [Eth Ral Ort Tal] works in any melee weapon (was Sceptors)
    - +100% Enhanced Damage (was 60) 
    - +15 Maximum Damage (was 10) 
@@ -247,6 +276,15 @@ Bug Fixes
 - Myth [Hel Amn Nef]
    - Replaced Howl when struck to 20% Faster Run/Walk
 - Principle [Ral Ko Eld] (was Ral Gul Eld)
+- Call to Arms [Amn Ral Mal Ist Ohm]
+   - Always Rolls 1 to Battle Orders, Battle Command, and Battle Cry
+- Heart of the Oak [Ko Vex Pul Thul]
+   - Removed Oak Sage Charges
+- Dilemma [Dol Lem Mal] (New Armor)
+   - +1 to Teleport
+   - Drain Life 20 to 40
+   - -25 to -35 Life After Each Kill
+   - 35-50% Magic Find
    
 ## Runes
 - Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
@@ -308,7 +346,10 @@ Bug Fixes
 - Removed Light Radius all Unique and Set items (exception Hellfire Torch)
 - Removed Indestructible From all Unique and Set items (exceptions Shadow Killer, Ethereal Edge and Ghost Flame)
 - Removed Stamina from all Unique and Set items
-
+- Brick (earn 1 each time you destroy an item for corruptions)
+- Flask of Etheric Light (Created by cubing 100 Standard of Heros) **WARNING DO NOT TRY RECIPE IF ITEM IS ZODDED**
+- Turn ANY Item Ethereal including sets and Corruptions! (does not work on BOWS)
+- The Divine Standard (Created by cubing 100 Bricks) Infinite Corruption Item
    
 ## Uniques
 - Cranium Basher
@@ -977,6 +1018,15 @@ Bug Fixes
 - Warshrike
    - 269-320 Enhanced Damage (was 200-250)
    - 40% Chance to cast LEVEL 20 Nova on hit (was 25% LVL 9)
+- Kuko Shakaku 
+   - Added 2-3 Exploding Arrow
+   - 2-3 Immolation Arrow
+   - 20% Increased Attack Speed
+- Eaglehorn
+   - 2 Amazon Skills (was 1)
+   - Added + 7 to Valkyrie
+- Hellfire Torch
+   - Removed Firestorm on Striking
 
 ## Sets
 - Ondal's Almighty
@@ -1123,27 +1173,27 @@ Natalya's Odium (Full Set)
    
 Bul-Kathos' Children (Full Set)
    - 4 All Skills (was 2)
-   - +200 Damage (was 200 Fire)
+   - +100 Damage
    - 300% Enhanced Damage (was 200 demons and undead)
-   - 35% Deadly Strike (was 20)
+   - Removed Deadly Strike
    - 20% Physical Damage Reduction
    - Added 50% All resistances
    - Added 100% Magic Find
 - Bul-Kathos' Sacred Charge
    - Removed Sockets
-   - 250-300 Enhanced Damage (was 200)
+   - 200-250 Enhanced Damage (was 200)
    - 10-20 All Resistances (was 20)
    - Added Hit Blinds Target
    - Added 20-30 Dexterity
    - Added 5% Mana Stolen Per Hit
 - Bul-Kathos' Tribal Guardian
    - Removed Sockets
-   - 250-300 Enhanced Damage (was 200)
+   - 200-250 Enhanced Damage (was 200)
    - 10-20 All Resistances (was 50 Fire resist)
    - 20% Chance to Cast Level 10 Poison Nova on Striking (was 50 poison damage)
    - Added 20-30 Strength
    - Added 5% Life Stolen Per Hit
-   - Added 35% Chance to Open Wounds
+   - Added 15% Chance to Open Wounds
    
 M'avina's Battle Hymn (Full Set)
    - Removed Defense
@@ -1500,7 +1550,7 @@ ORPHAN'S CALL
 - Removed Level Requirement increase upon Upping and item.
 - Essence Transmuting to next Tier use 3 essences
    - Blue > Yellow > Red > Green > 3 Blue
-- 1 of Each Essence = 3 Pandemonium Keys
+- 1 of Each Essence = 2 Pandemonium Keys
 - ANY 3 Uber Organs now open Uber Tristram (Diablo's Horn, Baal's Eye or Mephisto's Brain)
 - 2 Unique Jewerly (Rings, Amulets, Jewels) + Thawing Potion = Standard of Heroes
 - 3 Perfect Skulls + Rare Item = Low Quality Rare Reroll (was 6 Pskulls)
@@ -1535,6 +1585,11 @@ ORPHAN'S CALL
 - 100 Stacked Perfect Emerald + Stamina = Gheed's Fortune
 - Use dye in cube + weapon, shield, helm, or chest to recolor it, then use the bleach to remove.
    - NOTE: When applying dyes to sets, do not have any set items equipped!
+- 100 Bricks + Thawing Potion = The Divine Standard
+- 100 Standard of Heros + Thawing Potion = Flask of Etheric Light
+- Flask of Etheric Light + any Weapon or Armor = Ethereal Version **WARNING DO NOT TRY RECIPE IF ITEM IS ZODDED**
+- The Divine Standard works the same way as the Standard of Heros but stays after the Corruptions (does not work for other recipes)
+- The Divine Standard has a .1% chance to create a Zod when Corrupting a Unique TC84 or TC87
 
 ## Endgame
 - Augment Recipes:
@@ -1598,6 +1653,7 @@ ORPHAN'S CALL
       - Hellfire Ashes + Gheed's = Corrupted
 	     - Adds + 1 to Skill Tree
 		 - 20-40% Gold Find + 5-10% Magic Find + 5% Vendor Prices
+		 - 10 Maximum Damage + 76 Attack Rating
 		 - 7% Faster Run/Walk
 		 - 12% Faster Hit Recovery
 		 - 15% All Resistance
@@ -1630,6 +1686,10 @@ ORPHAN'S CALL
 - Swarms in Forgotten Sands Physical Resistance reduced to 60% (was 99%)
 - Succubus Birds in Matron's Den have their damage halfed
 - Lilith Also Drops a Pandemonium Key!
+Monsters
+- Increased Movement Speed of monsters
+- Monsters in Agony respond 2 times as Fast as normal
+- Monsters in Insanity now respond almost instantly and have an increased Aggro range
 
 ## Elites
 - 2x Aura Range
@@ -1669,13 +1729,14 @@ ORPHAN'S CALL
 - 5% more density
 - 10% more Elites
 - 10% Experience loss on death
+- Monsters React 2x as Fast
 
 ### Insanity (was Hell)
 - Sell Max 50k (was 35k)
 - -110% Resistance (was -100)
 - 25% more Density and Elites
 - 10% Experience loss on death
-- Monsters React 15% Faster
+- Monsters React WAY Faster
 
 ## Area Changes
 (Level changes are for Insanity Only)
@@ -1723,10 +1784,15 @@ ORPHAN'S CALL
    - W4 = Extra Fast Deathlords
    - W5 = Extra Fast Minions of Destruction
 - Area Level 90 Pit Lords in WorldStone Chamber
+### Terror Zones
+- Removed Terror Zones in Agony and Pain
+- Changed map pool rotations to Rifts, Uber Portals, and Act 5 Red Portals for now
+- Terror Zones Simulate Players 15
 
 ### Rifts
 - Gems, Runes and sometimes Standard of Heros now drop in Rifts
 - Enemy Monster Resistances 75 Physical, 75 Magic, 100 Cold, 100 Light, 100 Fire and 99 Poison
+- Bricks can drop in Rifts roughly at the rate of a Pul Rune
 
 ## Skills
 
