@@ -97,6 +97,7 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - BaronBeefStick bug fixes and Dev work
 - Precell and Wigglez for helping with Rune Drop Light Beams
 - Wigglez huge help for adding panels and QOL to the mod
+- JeyP with Map help and knowledge
 
 # Future Ideas
 Please see the [Future Ideas](https://github.com/BTNeandertha1/BTDiablo/issues/16) issue.  
@@ -108,63 +109,30 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 2. **Paste New btdiablo.mpq folder**
 
 Items
-- New items
-   - Brick (earn 1 each time you destroy an item for corruptions)
-   - Flask of Etheric Light (Created by cubing 100 Standard of Heros)
-      - Turn ANY Item Ethereal including sets and Corruptions! (does not work on BOWS)
-   - The Divine Standard (Created by cubing 100 Bricks)
-- Gheed's Fortune Corruption can now roll 10 Maximum Damage and 76 Attack Rating
-
-Uniques
-- Kuko Shakaku 
-   - Added 2-3 Exploding Arrow
-   - 2-3 Immolation Arrow
-   - 20% Increased Attack Speed
-- Eaglehorn
-   - 2 Amazon Skills (was 1)
-   - Added + 7 to Valkyrie
-- Hellfire Torch
-   - Removed Firestorm on Striking
-
-Runewords
-- Call to Arms
-   - Always Rolls 1 to Battle Orders, Battle Command, and Battle Cry
-- Heart of the oak
-   - Removed Oak Sage Charges
-- Spirit shield
-   - 25% Faster Hit Recovery (was 55%)
-   - 1 to All Skills (was 2)
-- Soul sword
-   - 25% Faster Hit Recovery (was 55%)
+- All Amp Procs for Unique Items spawn with 20% chance to Cast now
    
-Sets
-- Bul-Kathos Swords
-   - 200-250 ED (was 250-300) 
-   - Reduced Open Wounds to 15% (was 35%)
-   - +100 Damage (was 200)
-   - Removed Full Set Deadly Strike Bonus
-- All Class Sets when fully equiped grant +2 All Skills (was 3)
+Crafting
+- 30-50% Enhanced Damage on Safety Weapons (was 20-30%) 
 
-Recipes
-- 1 of Each Essence Recipe now gives 2 Pandemonium keys instead of 3
-- 100 Bricks + Thawing Potion = The Divine Standard
-- 100 Standard of Heros + Thawing Potion = Flask of Etheric Light
-- Flask of Etheric Light + any Weapon or Armor = Ethereal Version **WARNING DO NOT TRY RECIPE IF ITEM IS ZODDED**
-- The Divine Standard has a .1% chance to create a Zod when Corrupting a Unique TC84 or TC87
-- The Divine Standard works the same way as the Standard of Heros but stays after the Corruption (does not replace recipes that need to include a Standard of Heros)
-
-Monsters
-- Increased Movement Speed of monsters
-- Monsters in Agony respond 2 times as Fast as normal
-- Monsters in Insanity now respond almost instantly and have an increased Aggro range
+Skills
+- Skills that can now be cast in Shapeshift Forms
+   - Taunt
+   - Grim Ward
+   - Shout
+   - Battle Cry
+   - Battle Orders
+   - Battle Command
 
 Rifts
-- Bricks can drop in Rifts roughly at the rate of a Pul Rune
+- Rift Cave Levels Changed to Nihlathak's Halls of Vaught (Nihlathak Only Spawns Once Per game choose wisely)
+- Increased Drop Rates drastically to be a bit better than Cows
+- Standard of Heros drop rate is ~Lum
 
 Terror Zones
-- Removed Terror Zones in Agony and Pain
-- Changed map pool rotations to Rifts, Uber Portals, and Act 5 Red Portals for now
-- Terror Zones Simulate Players 15
+- Terror Zones Simulate Players 20 (was 15)
+
+Extras 
+- Moved Qual-Kex closer to the portal for faster Revives
 
 ## Characters
 - Walking is the same as running
@@ -352,6 +320,7 @@ Terror Zones
 - The Divine Standard (Created by cubing 100 Bricks) Infinite Corruption Item
    
 ## Uniques
+- All Amplify Damage Procs for Unique Items spawn with at least 20% chance to Cast
 - Cranium Basher
    - 60 Increased Attack Speed
    - 30% Level 10 Amplify Damage
@@ -1475,6 +1444,7 @@ ORPHAN'S CALL
    - 10% Faster Hit Recovery (was 8%)
 - Removed Hit Causes Monster to Flee and Knockback
 - 20% Chance to Cast Level 4 Amplify Damage (was 5% at level 1) 
+- All Amp Procs for Unique Items spawn with 20% chance to Cast now
 
 ## Crafting 
 - Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
@@ -1520,7 +1490,7 @@ ORPHAN'S CALL
    - Body 5-10% Physical Damage Reduction + 25-50 Defense + Half Freeze Duration + 50-60% Enhanced Defense
    - Amulet 3-5 Magic Damage Reduction/PDR + 10-20% Enhanced Defense + 10 Block Chance
    - Ring 3-5 Magic Damage Reduction/PDR + 10-20% Enhanced Defense + 5-10 Vitality
-   - Weapon 3-5 Magic Damage Reduction/PDR + 50-60% Enhanced Defense + 20-30% Enhanced Damage + 10-20 Increased Attack Speed
+   - Weapon 3-5 Magic Damage Reduction/PDR + 50-60% Enhanced Defense + 30-50% Enhanced Damage + 10-20 Increased Attack Speed
    
 ## Shop
 - Added Charsi's Malus to Imbue (575k)
@@ -1784,13 +1754,14 @@ Monsters
    - W4 = Extra Fast Deathlords
    - W5 = Extra Fast Minions of Destruction
 - Area Level 90 Pit Lords in WorldStone Chamber
+- Moved Qual-Kex closer to the portal for faster Revives
 ### Terror Zones
 - Removed Terror Zones in Agony and Pain
 - Changed map pool rotations to Rifts, Uber Portals, and Act 5 Red Portals for now
-- Terror Zones Simulate Players 15
+- Terror Zones Simulate Players 20
 
 ### Rifts
-- Gems, Runes and sometimes Standard of Heros now drop in Rifts
+- Drop Gems, Runes and sometimes Standard of Heros
 - Enemy Monster Resistances 75 Physical, 75 Magic, 100 Cold, 100 Light, 100 Fire and 99 Poison
 - Bricks can drop in Rifts roughly at the rate of a Pul Rune
 
@@ -1798,7 +1769,14 @@ Monsters
 
 - Dim Vision and Hit Blinds Target don't get overwritten by curses
 - Lower Resist Always breaks Poison Immunity (All Monsters Have a maximum psn resist of 105%)
-
+- Skills that can now be cast in Shapeshift Forms
+   - Taunt
+   - Grim Ward
+   - Shout
+   - Battle Cry
+   - Battle Orders
+   - Battle Command
+   
 AMAZON
 
 Javelin and Spear:

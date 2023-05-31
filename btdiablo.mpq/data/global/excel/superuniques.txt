@@ -1,4 +1,4 @@
-Superunique	Name	Class	hcIdx	MonSound	Mod1	Mod2	Mod3	MinGrp	MaxGrp	AutoPos	Stacks	Replaceable	Utrans	Utrans(N)	Utrans(H)	TC	TC Desecrated	TC(N)	TC(N) Desecrated	TC(H)	TC(H) Desecrated	*eol
+Description	Name	Class	hcIdx	MonSound	Mod1	Mod2	Mod3	MinGrp	MaxGrp	AutoPos	Stacks	Replaceable	Utrans	Utrans(N)	Utrans(H)	TC	TC Desecrated	TC(N)	TC(N) Desecrated	TC(H)	TC(H) Desecrated	*eol
 Bishibosh	Bishibosh	fallenshaman1	0		8	9	30	2	2	1	0		11	11	11	Act 1 Super A		Act 1 (N) Super A		Act 1 (H) Super A	Act 1 (H) Super A Desecrated	0
 Bonebreak	Bonebreak	skeleton1	1		5	8	30	5	5	1	0		5	5	5	Act 1 Super A		Act 1 (N) Super A		Act 1 (H) Super A	Act 1 (H) Super A Desecrated	0
 Coldcrow	Coldcrow	cr_archer1	2		18	30	0	4	4	1	0		18	18	18	Act 1 Super A		Act 1 (N) Super A		Act 1 (H) Super A	Act 1 (H) Super A Desecrated	0

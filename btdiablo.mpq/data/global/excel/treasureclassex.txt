@@ -1176,15 +1176,15 @@ Act 5 (H) Super Ax Desecrated	39	90	1					0	Act 5 (H) Super Ax	1																
 Act 5 (H) Super Bx Desecrated	39	93	1					0	Act 5 (H) Super Bx	1																									0
 Act 5 (H) Super Cx Desecrated	39	96	1					0	Act 5 (H) Super Cx	1																									0
 JEWTC	10	85	1					0	AND	1																									0
-STDTC	10	85	1					0	std	20	brk	7	AND	909																					0
-Act 5 (H) GoodLFRift			1					0	AND	82	Flawless Gem	28	Runes 17	14	JEWTC	6																			0
+STDTC	10	85	1					0	std	25	brk	7	AND	904																					0
+Act 5 (H) GoodLFRift			1					0	AND	88	Flawless Gem	28	Runes 17	14																					0
 Rift Drops Special			1					75	STDTC	4	AND	25																							0
-Rift Drops RunesG			1					75	Act 5 (H) GoodLFRift	4	AND	25																							0
-Rift Drops RunesHG			1					150	Act 5 (H) GoodLFRift	4	AND	54																							0
-Rift Drops Runes			1					100	Act 5 (H) GoodLFRift	2	AND	58																							0
+Rift Drops RunesG			1					7	Act 5 (H) GoodLFRift	2	AND	3																							0
+Rift Drops RunesHG			1					15	Act 5 (H) GoodLFRift	2	AND	7																							0
+Rift Drops Runes			1					100	Act 5 (H) GoodLFRift	1	AND	58																							0
 Rift Drops Uniques			-4					0	rvl	1	gld,mul=1024	1	Rift Drops RunesHG	1	Rift Drops Special	1																			0
 Rift Drops Champs			-6					0	gld,mul=1024	4	Rift Drops RunesHG	1	Rift Drops Special	1																					0
-Rift Drops Monsters			1					75	yps	2	wms	1	rvl	1																					0
+Rift Drops Monsters			1					75	yps	1	wms	1	rvl	2																					0
 Rift Drops BaseG			-2						Rift Drops Monsters	1	Rift Drops RunesG	1																							0
 Rift Drops BaseHG			-2						Rift Drops Monsters	1	Rift Drops RunesHG	1																							0
 Rift Drops Base			-2						Rift Drops Monsters	1	Rift Drops Runes	1																							0

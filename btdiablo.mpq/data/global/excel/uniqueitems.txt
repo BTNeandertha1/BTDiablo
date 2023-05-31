@@ -153,7 +153,7 @@ Moonfall	149	100	1			1	1	50	42	9mt	Jagged Star		5	5000				invmstu				hit-skill	5
 Baezil's Vortex	150	100	1			1	1	53	45	9fl	Knout		5	5000	dblu	dblu						hit-skill	48	5	8	dmg-ltng		1	150	mana		100	100	res-ltng		25	25	dmg%		160	200	swing2		20	20	oskill	48	15	15																						0
 Earthshaker	151	100	1			1	1	51	43	9wh	Battle Hammer		5	5000								hit-skill	234	5	7	knock		1	1	swing3		30	30	dmg%		180	180	stupidity		1	1	skilltab	17	3	3	dur		50	50																						0
 Bloodtree Stump	152	100	1			1	1	56	48	9m9	War Club		5	5000	dred							crush		50	50	dmg%		180	220	res-all		20	20	str		25	25	skilltab	13	2	2	skill	129	3	3	dur		40	40																						0
-The Gavel of Pain	153	100	1			1	1	53	45	9gm	Martel de Fer		5	5000				inv9gmu				hit-skill	66	5	1	gethit-skill	76	5	1	thorns		26	26	rep-dur	5			dmg-norm		12	30	dmg%		130	160	oskill	66	8	8																						0
+The Gavel of Pain	153	100	1			1	1	53	45	9gm	Martel de Fer		5	5000				inv9gmu				hit-skill	66	20	4	gethit-skill	76	5	1	thorns		26	26	rep-dur	5			dmg-norm		12	30	dmg%		130	160	oskill	66	8	8																						0
 Bloodletter	154	100	1			1	1	38	30	9ss	Gladius		5	5000	cred	cred						dmg-norm		12	45	att		90	90	lifesteal		8	8	swing2		20	20	dmg%		140	140	skill	127	2	4	skill	151	1	3	dur		30	30																		0
 Coldsteel Eye	155	100	1			1	1	39	31	9sm	Cutlass		5	5000	dgry			invscmu				stupidity		1	1	slow		30	30	deadly		50	50	dur		50	50	dmg%		200	250	swing2		20	20	manasteal		6	6																						0
 Hexfire	156	100	1			1	1	41	33	9sb	Shamshir		5	5000				invsbru				oskill	62	6	6	ignore-ac		1	1	res-fire		25	25	res-fire-max		10	10	dmg-norm		35	40	dmg%		140	160	fireskill		3	3																						0
@@ -164,7 +164,7 @@ Plague Bearer	160	100	1			1	1	49	41	9ls	Rune Sword		5	5000				inv9lsu				hit-ski
 The Atlantian	161	100	1			1	1	50	42	9wd	Ancient Sword		5	5000	lblu	lblu						dur		100	100	ac		75	75	str		16	16	dex		12	12	vit		8	8	dmg%		200	250	pal		2	2	att%		50	50																		0
 Crainte Vomir	162	100	1			1	1	50	42	92h	Espadon		5	5000	lgld			inv2hsu				slow		35	35	dmg-ac		-70	-70	move2		20	20	red-dmg%		10	10	dmg%		160	200	swing3		50	50																										0
 Bing Sz Wang	163	100	1			1	1	51	43	9cm	Dacian Falx		5	5000								ease		-30	-30	dmg-cold	75	50	140	str		20	20	freeze		2	2	hit-skill	64	5	3	dmg%		130	160																										0
-The Vile Husk	164	100	1			1	1	52	44	9gs	Tusk Sword		5	5000	dgry	dgry		invgisu				hit-skill	66	6	1	dmg-und/lvl	60			res-pois		50	50	dmg-pois	150	426	426	dmg%		150	200	att-und/lvl	20																												0
+The Vile Husk	164	100	1			1	1	52	44	9gs	Tusk Sword		5	5000	dgry	dgry		invgisu				hit-skill	66	20	4	dmg-und/lvl	60			res-pois		50	50	dmg-pois	150	426	426	dmg%		150	200	att-und/lvl	20																												0
 Cloudcrack	165	100	1			1	1	53	45	9b9	Gothic Sword		5	5000				invbswu				hit-skill	121	6	7	dmg-ltng		1	240	ac		30	30	res-ltng-max		10	10	dmg%		150	200	light-thorns		15	15	skilltab	10	2	2	skilltab	11	2	2																		0
 Todesfaelle Flamme	166	100	1			1	1	54	46	9fb	Zweihander		5	5000				inv9fbu				dmg-fire		50	200	res-fire		40	40	abs-fire		10	10	att-skill	47	10	6	dmg%		120	160	oskill	52	10	10	oskill	51	10	10																						0
 Swordguard	167	100	1			1	1	55	48	9gd	Executioner Sword		5	5000	bwht	bwht		invgsdu				ease		-50	-50	ac/lvl	40			res-all		10	20	ac-miss		100	100	dmg-to-mana		30	30	dmg%		170	180	ac-hth		200	200	balance2		20	20	block		20	20														0
@@ -273,7 +273,7 @@ The Cat's Eye	269	100	1			5	1	58	50	amu	Amulet		5	5000	oran	oran						move2		30	
 The Rising Sun	270	100	1			5	1	73	65	amu	Amulet		5	5000	lgld	lgld						abs-fire/lvl	6			gethit-skill	56	2	0	dmg-fire		24	48	fireskill		2	2	regen		10	10																														0
 Crescent Moon	271	100	1			5	1	58	50	amu	Amulet		5	5000	lblu	lblu						manasteal		11	15	red-mag		10	10	dmg-to-mana		10	10	mana		45	45	lifesteal		3	6																														0
 Mara's Kaleidoscope	272	100	1			5	1	80	67	amu	Amulet		5	5000	oran	oran						allskills		2	2	res-all		20	30	str		5	5	dex		5	5	vit		5	5	enr		5	5																										0
-Atma's Scarab	273	100	1			5	1	60	60	amu	Amulet		5	5000	cgrn	cgrn						dmg-pois	100	102	102	res-pois		75	75	thorns		5	5	hit-skill	66	10	3	att%		20	20																														0
+Atma's Scarab	273	100	1			5	1	60	60	amu	Amulet		5	5000	cgrn	cgrn						dmg-pois	100	102	102	res-pois		75	75	thorns		5	5	hit-skill	66	20	3	att%		20	20																														0
 Dwarf Star	274	100	1			10	1	53	45	rin	Ring		5	5000	dgry	dgry						gold%		100	100	hp		40	40	red-mag		12	15	abs-fire%		15	15																																		0
 Raven Frost	275	100	1			10	1	53	45	rin	Ring		5	5000	cblu	cblu						nofreeze		1	1	dmg-cold	100	15	45	abs-cold%		20	20	mana		40	40	dex		15	20	att		150	250																										0
 Highlord's Wrath	276	100	1			5	1	73	65	amu	Amulet		5	5000	bwht	bwht						res-ltng		35	35	dmg-ltng		1	30	swing2		20	20	allskills		1	1	deadly/lvl	3			light-thorns		15	15																										0

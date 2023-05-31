@@ -28,7 +28,7 @@
                 "bound_incl_min": 70,
                 "bound_incl_max": 96,
                 "boost_level": 2,
-                "difficulty_scale": 15,
+                "difficulty_scale": 20,
                 "boost_experience_percent": 25
             },
             "warnings": [
