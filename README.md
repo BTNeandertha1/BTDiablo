@@ -118,7 +118,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Selling and then buying back stacked currency from vendors
 - “Reorganizing" on controller to remove inventory debuffs
 
-## Charm inventory
+# Charm inventory
 - D2R provides limited modding capabilities, so some systems work by the word of honor.
   Here is a screenshot of how you should arrange your inventory, only utilizing the bottom(or top, if you want to).
 ![Image of of an okay inventory](./images/charmventory.png)
