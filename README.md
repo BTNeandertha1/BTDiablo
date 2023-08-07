@@ -90,6 +90,7 @@ Please use the [Issues](https://github.com/BTNeandertha1/BTDiablo/issues) sectio
 - Wolfieeiflow: Helping with Spreadsheets and brain power  
 - JeyP: Testing things then walking me through  
 - Kex: First Tester and first to Kill HC Hell Baal and help with Dev work
+- Moved Qual-Kex closer to the portal for faster Revives
 - Stackit (https://www.nexusmods.com/diablo2resurrected/mods/80) on Nexusmods to help with functionality of stacking!
 - Stucifer "loot filter" display
 - MrBrooksGaming Added UI Controller Support
@@ -108,13 +109,11 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
-Items
+# Items
 - All Amp Procs for Unique Items spawn with 20% chance to Cast now
-   
-Crafting
-- 30-50% Enhanced Damage on Safety Weapons (was 20-30%) 
 
-Skills
+
+# Skills
 - Skills that can now be cast in Shapeshift Forms
    - Taunt
    - Grim Ward
@@ -123,27 +122,25 @@ Skills
    - Battle Orders
    - Battle Command
 
-Rifts
+# Rifts
 - Rift Cave Levels Changed to Nihlathak's Halls of Vaught (Nihlathak Only Spawns Once Per game choose wisely)
 - Increased Drop Rates drastically to be a bit better than Cows
 - Standard of Heros drop rate is ~Lum
 
-Terror Zones
+# Terror Zones
 - Terror Zones Simulate Players 20 (was 15)
 
-Extras 
-- Moved Qual-Kex closer to the portal for faster Revives
 
 ## Characters
 - Stamina is effectively removed as an attribute. All items granting stamina have had their stats changed.
 - Walking has the same speed as running. You should always have your character walk to retain bonuses to block chance and defence.
-- Greatly improved Attack Rating for all classes (All classes start with 750 AR was -15 to 20)
+- Greatly improved Attack Rating for all classes (All classes start with 750 AR, was -15 to 20)
 - Doubled the Effect of Strength and Dexterity Bonuses on Weapons
 
 ## Shrines
-- Made Gem Shrines Much more common
+- Made Gem Shrines Much more common. Stacked gems do not work with gem shrines, so if you want to upgrade a flawless gem to perfect, you need to have an **unstacked** flawless gem in your inventory in order to upgrade to perfect.
    - Removed: Armor, Stamina, Portal, Fire, Exploding, Poison
-- Can now stack
+- Can now stack multiple shrines at the same time
 
 ## Runewords
 - Enigma [Jah Ith Sol] (was Jah Ith Ber)
@@ -256,7 +253,7 @@ Extras
    - 35-50% Magic Find
    
 ## Runes
-- Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
+- Runes now have Stack mode and drop stacked from the world! (other than hard coded drops, ie. hellforge)
 - Lem-Zod Now have a beam of light when they drop
 - Eld Rune has 5 Replenish Life (was 15% Stamina Drain)
 - Dol Rune has 2 Life After Each Kill for all slots
@@ -267,8 +264,8 @@ Extras
    - Added +1 to All Skills
 
 ## Gems
-- Gems now have Stack mode and drop stacked from the world! (other than hard coded drops)
-- Chipped and Flawed Gems are replaced with standard gems (other than hard coded drops)
+- Gems now have Stack mode and drop stacked from the world! (other than hard coded drops, ie. hellforge)
+- Chipped and Flawed Gems are replaced with standard gems (other than hard coded drops, ie. hellforge)
 - Topaz Changed to Faster Run/Walk
    - Standard 10% Faster Run/Walk
    - Flawless 15% Faster Run/Walk 
