@@ -109,9 +109,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
-# Items
-- All Amp Procs for Unique Items spawn with 20% chance to Cast now
-
 
 # Skills
 - Skills that can now be cast in Shapeshift Forms
