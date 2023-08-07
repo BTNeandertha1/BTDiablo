@@ -122,6 +122,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - D2R provides limited modding capabilities, so some systems work by the word of honor.
   Here is a screenshot of how you should arrange your inventory, only utilizing the bottom(or top, if you want to).
 ![Image of of an okay inventory](./images/charmventory.png)
+
 - Here is an example of what you should not do. Do not use your full inventory to fill it with charms.
 ![Image of a not okay inventory](./images/charmok.png)
 
