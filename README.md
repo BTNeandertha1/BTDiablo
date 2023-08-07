@@ -135,7 +135,8 @@ Extras
 - Moved Qual-Kex closer to the portal for faster Revives
 
 ## Characters
-- Walking is the same as running
+- Stamina is effectively removed as an attribute. All items granting stamina have had their stats changed.
+- Walking has the same speed as running. You should always have your character walk to retain bonuses to block chance and defence.
 - Greatly improved Attack Rating for all classes (All classes start with 750 AR was -15 to 20)
 - Doubled the Effect of Strength and Dexterity Bonuses on Weapons
 
