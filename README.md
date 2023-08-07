@@ -109,6 +109,14 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 1. **Delete btdiablo.mpq folder**
 2. **Paste New btdiablo.mpq folder**
 
+# Mod specific rules
+1. Here are the rules for BTDiablo! Do not do the following, these things are not intended and not part of the balance of the game.
+2. Larzuk Socketing Amulets, Rings, Gloves, Belts and Boots. You need to corrupt these items in order to get sockets to these items.
+3. Utilizing Charms with more than half your inventory (Only Top or Bottom allowed)
+4. Using Multiple Unique Charms of the same type (Example: 2x Hellfire, 2x Gheed or 2x Anni)
+5. Selling and then buying back stacked currency from vendors
+6. “Reorganizing" on controller to remove inventory debuffs
+7. All of these exploits are possible due to prioritizing your QOL while being limited by softcode changes in D2R modding. 
 
 # Skills
 - Skills that can now be cast in Shapeshift Forms
@@ -126,7 +134,6 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 
 # Terror Zones
 - Terror Zones Simulate Players 20 (was 15)
-
 
 ## Characters
 - Stamina is effectively removed as an attribute. All items granting stamina have had their stats changed.
