@@ -145,7 +145,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 
 ## Characters
 - Stamina is effectively removed as an attribute. All items granting stamina have had their stats changed.
-- Walking has the same speed as running. You should always have your character walk to retain bonuses to block chance and defence.
+- Walking has the same speed as running. It does not matter wether you run or walk.
 - Greatly improved Attack Rating for all classes (All classes start with 750 AR, was -15 to 20)
 - Doubled the Effect of Strength and Dexterity Bonuses on Weapons
 
