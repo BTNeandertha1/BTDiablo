@@ -150,8 +150,9 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 - Doubled the Effect of Strength and Dexterity Bonuses on Weapons
 
 ## Shrines
-- Made Gem Shrines Much more common. Stacked gems do not work with gem shrines, so if you want to upgrade a flawless gem to perfect, you need to have an **unstacked** flawless gem in your inventory in order to upgrade to perfect.
-   - Removed: Armor, Stamina, Portal, Fire, Exploding, Poison
+- Made Gem Shrines Much more common.
+- Stacked gems do not work with gem shrines, so if you want to upgrade a flawless gem to perfect, you need to have an **unstacked** flawless gem in your inventory in order to upgrade to perfect.
+- Removed: Armor, Stamina, Portal, Fire, Exploding, Poison
 - Can now stack multiple shrines at the same time
 
 ## Runewords
