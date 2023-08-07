@@ -118,6 +118,10 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 6. “Reorganizing" on controller to remove inventory debuffs
 7. All of these exploits are possible due to prioritizing your QOL while being limited by softcode changes in D2R modding. 
 
+
+## Charm inventory
+![Image of of an okay inventory](./images/charmok.png)
+
 # Skills
 - Skills that can now be cast in Shapeshift Forms
    - Taunt
