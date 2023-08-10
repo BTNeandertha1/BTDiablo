@@ -549,8 +549,8 @@ of Hydras	100			36		36		sor	30	1	44	oskill	62	1	1										staf	orb											0	
 of Hydras	100			72		72		sor	30	1	44	oskill	62	1	1										club												0	0
 of Frozen Orbs	100	1	1	36		36		sor	30	1	44	oskill	64	1	1										staf	orb											0	0
 of Frozen Orbs	100	1	1	72		72		sor	30	1	44	oskill	64	1	1										knif												0	0
-of Amplify Damage	100			7		7		nec	1	1	44	oskill	66	1	1										wand	knif	head										0	0
-of Amplify Damage	100			14		14		nec	1	1	44	oskill	66	1	1										blun												0	0
+of Amplify Damage	100			7		7		nec	1	1	44	oskill	66	20	22										wand	knif	head										0	0
+of Amplify Damage	100			14		14		nec	1	1	44	oskill	66	20	22										blun												0	0
 of Teeth	100	1	1	7		7		nec	1	1	44	oskill	67	1	1										wand	knif	head										0	0
 of Teeth	100	1	1	14		14		nec	1	1	44	oskill	67	1	1										swor												0	0
 of Bone Armor	100			7		7		nec	1	1	44	oskill	68	1	1										wand	knif	head										0	0
@@ -661,7 +661,7 @@ of Armageddon	100			36		36		dru	30	1	44	oskill	249	1	1										club												
 of Armageddon	100			72		72		dru	30	1	44	oskill	249	1	1										staf												0	0
 of Hurricane	100			36		36		dru	30	1	44	oskill	250	1	1										club												0	0
 of Hurricane	100			72		72		dru	30	1	44	oskill	250	1	1										amul	circ											0	0
-of Damage Amplification	100	1	1	3						1	44	hit-skill	66	20	4										weap							orb					0	0
+of Damage Amplification	100	1	1	3						1	44	hit-skill	66	20	22										weap							orb					0	0
 of the Icicle	100	1	1	37		29				2	10	cold-min		2	3	cold-max		6	10	cold-len		50	50	dblu	jewl												0	0
 of the Glacier	100	1	1	58		50				2	10	cold-min		4	5	cold-max		11	15	cold-len		50	50	dblu	jewl												0	0
 of Fire	100	1	1	36		28				2	12	fire-min		4	10	fire-max		11	30					dred	jewl												0	0

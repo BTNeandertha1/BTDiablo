@@ -61,7 +61,7 @@
                             /* Abaddon */
                             "level_id": 125,
                             /* Frigid Highlands */
-                            "waypoint_level_id": 111
+                            "waypoint_level_id": 109
                             /*
                                 The ability to override the defaults on a per-level basis exists.
                                 You can also only include the fields you want to modify.
@@ -91,18 +91,11 @@
                         {
                             /* Infernal Pit */
                             "level_id": 127
-                        }
-                    ]
-                },
-                {
+                        },
                     /* Matron's Den, Forgotten Sands, Furnace of Pain */
-                    "id": 2,
-                    "levels": [
                         {
                             /* Matron's Den */
                             "level_id": 133,
-                            /* Inner Cloister */
-                            "waypoint_level_id": 109
                         },
                         {
                             /* Forgotten Sands */
@@ -111,18 +104,11 @@
                         {
                             /* Furnace of Pain */
                             "level_id": 135
-                        }
-                    ]
-                },
-                {
+                        },
                     /* Rifts */
-                    "id": 3,
-                    "levels": [
                         {
                             /* Rift Level 1 */
                             "level_id": 137,
-                            /* Cold Plains */
-                            "waypoint_level_id": 109
                         },
                         {
                             /* Rift Level 2 */

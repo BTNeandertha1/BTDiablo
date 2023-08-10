@@ -258,7 +258,7 @@ Hellslayer	254	100	1			1	1	71	66	7bt	Decapitator		5	5000	dred	dred		invbtxu				s
 Messerschmidt's Reaver	255	100	1			1	1	75	70	7ga	Champion Axe		5	5000	blac	blac		invgaxu				dmg%/lvl	20			dmg%		200	200	str		15	15	dex		15	15	vit		15	15	enr		15	15	dmg-fire		20	240	dur		25	25	att%		100	100														0
 Baranar's Star	256	100	1			1	1	70	65	7mt	Devil Star		5	5000	lred	lred		invmstu				att%		200	200	dmg%		200	200	dex		15	15	str		15	15	swing2		50	50	dur		100	100	dmg-ltng		1	200	dmg-fire		1	200	dmg-cold		1	200														0
 Schaefer's Hammer	257	100	1			1	1	83	79	7wh	Legendary Mallet		5	5000	lblu	lblu						hit-skill	42	20	20	hp		50	50	att/lvl	16			res-ltng		75	75	swing2		60	60	dmg/lvl	16			rep-dur	5			dmg%		200	230	dmg-ltng		50	200														0
-The Cranium Basher	258	100	1			1	1	85	87	7gm	Thunder Maul		5	5000	blac	blac						swing2		60	60	rep-dur	5			str		25	30	res-all		25	35	crush		75	75	kill-skill	Twister	100	50	dmg%		250	300	hit-skill	66	30	10	ease		-50	-20	lifesteal		4	6										0
+The Cranium Basher	258	100	1			1	1	85	87	7gm	Thunder Maul		5	5000	blac	blac						swing2		60	60	rep-dur	5			str		25	30	res-all		25	35	crush		75	75	kill-skill	Twister	100	50	dmg%		250	300	hit-skill	66	30	22	ease		-50	-20	lifesteal		4	6										0
 Lightsabre	259	100	1			5	1	66	58	7cr	Phase Blade		5	5000	lblu			invcrsu				att-skill	53	5	0	ignore-ac	1	1	1	abs-ltng%		25	25	swing2		20	20	dmg-mag		60	120	dmg-ltng		1	200	manasteal		5	7	dmg%		150	200	dmg-norm		10	30														0
 Doombringer	260	100	1			1	1	75	69	7b7	Champion Sword		5	5000	dred	dred		invbswu				hp%		20	20	dmg%		180	250	att%		40	40	rep-dur	5			dmg-norm		30	100	hit-skill	72	8	3	lifesteal		5	7																						0
 The Grandfather	261	100	1			1	1	85	81	7gd	Colossus Blade		5	5000	lyel	lyel		invgsdu				all-stats		20	20	att%		50	50	hp		80	80	dmg/lvl	20			rep-dur	5			dmg%		200	300																										0
@@ -273,7 +273,7 @@ The Cat's Eye	269	100	1			5	1	58	50	amu	Amulet		5	5000	oran	oran						move2		30	
 The Rising Sun	270	100	1			5	1	73	65	amu	Amulet		5	5000	lgld	lgld						abs-fire/lvl	6			gethit-skill	56	2	0	dmg-fire		24	48	fireskill		2	2	regen		10	10																														0
 Crescent Moon	271	100	1			5	1	58	50	amu	Amulet		5	5000	lblu	lblu						manasteal		11	15	red-mag		10	10	dmg-to-mana		10	10	mana		45	45	lifesteal		3	6																														0
 Mara's Kaleidoscope	272	100	1			5	1	80	67	amu	Amulet		5	5000	oran	oran						allskills		2	2	res-all		20	30	str		5	5	dex		5	5	vit		5	5	enr		5	5																										0
-Atma's Scarab	273	100	1			5	1	60	60	amu	Amulet		5	5000	cgrn	cgrn						dmg-pois	100	102	102	res-pois		75	75	thorns		5	5	hit-skill	66	20	3	att%		20	20																														0
+Atma's Scarab	273	100	1			5	1	60	60	amu	Amulet		5	5000	cgrn	cgrn						dmg-pois	100	102	102	res-pois		75	75	thorns		5	5	hit-skill	66	20	22	att%		20	20																														0
 Dwarf Star	274	100	1			10	1	53	45	rin	Ring		5	5000	dgry	dgry						gold%		100	100	hp		40	40	red-mag		12	15	abs-fire%		15	15																																		0
 Raven Frost	275	100	1			10	1	53	45	rin	Ring		5	5000	cblu	cblu						nofreeze		1	1	dmg-cold	100	15	45	abs-cold%		20	20	mana		40	40	dex		15	20	att		150	250																										0
 Highlord's Wrath	276	100	1			5	1	73	65	amu	Amulet		5	5000	bwht	bwht						res-ltng		35	35	dmg-ltng		1	30	swing2		20	20	allskills		1	1	deadly/lvl	3			light-thorns		15	15																										0

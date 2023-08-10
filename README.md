@@ -109,30 +109,28 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 2. **Paste New btdiablo.mpq folder**
 
 Items
-- All Amp Procs for Unique Items spawn with 20% chance to Cast now
-   
-Crafting
-- 30-50% Enhanced Damage on Safety Weapons (was 20-30%) 
-
-Skills
-- Skills that can now be cast in Shapeshift Forms
-   - Taunt
-   - Grim Ward
-   - Shout
-   - Battle Cry
-   - Battle Orders
-   - Battle Command
+- All Amp Procs Items spawn with at least level 22 now
+- Mosaic [Mal Sur Amn] was (was Mal Gul Amn)
+   - Removed
+      - No consume charges
+      - Enhanced Damage
+      - Increased Attack Speed
+   - Added
+      - 5% - 12% Fire, Cold, and Lightning Pierce
 
 Rifts
-- Rift Cave Levels Changed to Nihlathak's Halls of Vaught (Nihlathak Only Spawns Once Per game choose wisely)
-- Increased Drop Rates drastically to be a bit better than Cows
-- Standard of Heros drop rate is ~Lum
+- Reduced Rune Drop Rates still better than Cows
 
 Terror Zones
-- Terror Zones Simulate Players 20 (was 15)
+- Terror Zones do not cycle areas anymore (Always the Same Areas)
+- TZ Rifts have even more Rune and Gem drops from Elites
 
-Extras 
-- Moved Qual-Kex closer to the portal for faster Revives
+Ubers
+- Fixed Uber Bosses Spawning on you too soon while loading?
+
+QOL
+- Improved Item Loot Filter Visuals for other languages
+- Ral and Ort Repairing now repairs to 500 Quantity
 
 ## Characters
 - Walking is the same as running
@@ -253,6 +251,13 @@ Extras
    - Drain Life 20 to 40
    - -25 to -35 Life After Each Kill
    - 35-50% Magic Find
+- Mosaic [Mal Sur Amn] (was Mal Gul Amn)
+   - Removed
+      - No consume charges
+      - Enhanced Damage
+      - Increased Attack Speed
+   - Added
+      - 5% - 12% Fire, Cold, and Lightning Pierce
    
 ## Runes
 - Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
@@ -323,7 +328,7 @@ Extras
 - All Amplify Damage Procs for Unique Items spawn with at least 20% chance to Cast
 - Cranium Basher
    - 60 Increased Attack Speed
-   - 30% Level 10 Amplify Damage
+   - 30% Level 22 Amplify Damage
    - Repair Durability
    - 25-30 Strength (was 25)
    - 25-35 All Resistances (was 25)
@@ -519,7 +524,7 @@ Extras
    - 1 to Heart of Wolverine
    - Remove Oak and Spirit of barbs charges
 - Atma's Scarab
-   - 10% Level 3 Amp
+   - 20% Level 22 Amp
 - Metalgrid
    - 20 to Iron golem, Summon Resist, and Golem Mastery
 - Seraph's Hymn
@@ -1443,8 +1448,7 @@ ORPHAN'S CALL
    - Added 1-3% - enemy resitances
    - 10% Faster Hit Recovery (was 8%)
 - Removed Hit Causes Monster to Flee and Knockback
-- 20% Chance to Cast Level 4 Amplify Damage (was 5% at level 1) 
-- All Amp Procs for Unique Items spawn with 20% chance to Cast now
+- 20% Chance to Cast Level 22 Amplify Damage (was 5% at level 1) 
 
 ## Crafting 
 - Added New Recipe: While Crafting use Eth Rune + Charsi's Malus to make the result ethereal
@@ -1757,8 +1761,9 @@ Monsters
 - Moved Qual-Kex closer to the portal for faster Revives
 ### Terror Zones
 - Removed Terror Zones in Agony and Pain
-- Changed map pool rotations to Rifts, Uber Portals, and Act 5 Red Portals for now
+- Changed Map Pool to not rotate and is always Rifts, Uber Portals, and Act 5 Red Portals
 - Terror Zones Simulate Players 20
+- TZ Rifts have even more Rune and Gem drops from Elites
 
 ### Rifts
 - Drop Gems, Runes and sometimes Standard of Heros

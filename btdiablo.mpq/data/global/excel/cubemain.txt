@@ -6,7 +6,8 @@ Unique Reroll	1				0					2	any,uni,noe	mfd						usetype,uni	99		99														
 Unique Reroll	1				0					3	any,sock	mfd	wms					useitem,rem																													mfd																																																										0
 3 Thaw for MF Charm	1				100					3	wms,qty=3							mff,uni	99		99																																																																																				0
 Magic Corruptor	0				0	17	362	0		2	armo,noe	apot						useitem			99	corruption1			-1	-1	corruption2			-500	-500																																																																										0
-1 thawing	1				100					1	wms							std,qty=100																																																																																							0
+1 thawing	0				100					1	wms							eli,2han,uni	99		99																																																																																				0
+1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Unique Weapon -> Elite Unique Weapon	0				100					2	eli,uni	wms						useitem	99		99	hit-skill-splash		1	1	1																																																																															0
 1 town portal scroll	0				100					1	isc							Red Portal,qty=144																																																																																							0
 1 standard of heros	0				100					1	tsc							fel																																																																																							0
 Test	0				100					1	wms							8s8,uni	99		99																										usetype,uni	99		99																										usetype,uni	99		99																										0
@@ -300,8 +301,8 @@ SUP 1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + 1 Normal Shield -> Socketed Shiel
 1 Fal Rune + 1 Um Rune + 1 Perfect Sapphire + 1 Exceptional Rare Weapon -> Elite Rare Weapon	1				100					4	weap,exc,crf	119	122	gg4s				useitem,mod,eli																																																																																							0
 1 Ko Rune + 1 Pul Rune + 1 Perfect Amethyst + 1 Exceptional Rare Armor -> Elite Rare Armor	1				100					4	armo,exc,rar	118	121	gg4a				useitem,mod,eli																																																																																							0
 1 Ko Rune + 1 Pul Rune + 1 Perfect Amethyst + 1 Exceptional Rare Armor -> Elite Rare Armor	1				100					4	armo,exc,crf	118	121	gg4a				useitem,mod,eli																																																																																							0
-1 Ort Rune + 1 Weapon -> Fully Repaired Weapon	1				100					2	weap,noe	109						useitem,rep,rch,qty=255																																																																																							0
-1 Ral Rune + 1 Armor -> Fully Repaired Armor	1				100					2	armo,noe	108						useitem,rep,rch,qty=255																																																																																							0
+1 Ort Rune + 1 Weapon -> Fully Repaired Weapon	1				100					2	weap,noe	109						useitem,rep,rch,qty=500																																																																																							0
+1 Ral Rune + 1 Armor -> Fully Repaired Armor	1				100					2	armo,noe	108						useitem,rep,rch,qty=500																																																																																							0
 1 Hel Rune + Scroll of Town Portal + 1 Socketed Item -> Clear Sockets on Item	1				100					3	any,sock	115	tsc					useitem,uns																																																																																							0
 not used	0				100					3	armo,hiq,nos	jew	108					useitem,tmp																																																																																							0
 not used	0				100					3	weap,hiq,nos	jew	108					useitem,tmp																																																																																							0
