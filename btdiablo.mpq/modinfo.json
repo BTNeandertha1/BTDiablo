@@ -5,8 +5,8 @@
 
 /*
 --My Mod Details--
-Mod Download: MyModZipLinkHere
-Mod Config Download: MyModInfoLinkHere
+Mod Download: https://github.com/BTNeandertha1/BTDiablo/archive/refs/heads/main.zip
+Mod Config Download: https://github.com/BTNeandertha1/BTDiablo/archive/refs/heads/main.zip
 Mod Version: 0.6.9
 News 1 Title: "Welcome to BTDiablo!"
 News 1 Message: "Thanks to Bonesy, we now have a launcher platform with some cool easy functionality with it!"
@@ -20,9 +20,9 @@ Customizations: Disabled
 Vault Access: Enabled
 
 --Additional Options--
-Item Icons: Enabled
+Item Icons: Disabled
 Runeword Sorting: Disabled
-HUD Display: Enabled
+HUD Display: Disabled
 Monster Stats Display: Disabled
 */
 
