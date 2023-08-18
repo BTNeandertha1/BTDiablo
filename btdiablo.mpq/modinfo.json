@@ -1,4 +1,29 @@
+
 {
-	"name": "btdiablo",
-	"savepath": "btdiablo/"
+    "name": "BTDiablo",
+    "savepath": "BTDiablo/"
+
+/*
+--My Mod Details--
+Mod Download: MyModZipLinkHere
+Mod Config Download: MyModInfoLinkHere
+Mod Version: 0.6.9
+News 1 Title: "Welcome to BTDiablo!"
+News 1 Message: "Thanks to Bonesy, we now have a launcher platform with some cool easy functionality with it!"
+News 2 Title: "News"
+News 2 Message: "Don't forget to join the discord! We have an awesome community for BTDiablo!"
+ 
+--General Options--
+Map Layouts: Enabled
+UI Themes: Enabled
+Customizations: Disabled
+Vault Access: Enabled
+
+--Additional Options--
+Item Icons: Enabled
+Runeword Sorting: Disabled
+HUD Display: Enabled
+Monster Stats Display: Disabled
+*/
+
 }
