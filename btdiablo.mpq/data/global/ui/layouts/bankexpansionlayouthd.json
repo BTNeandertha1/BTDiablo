@@ -3,41 +3,41 @@
     "type": "BankPanel", "name": "BankExpansionLayout",
     "children": [
         {
-            "type": "ClickCatcherWidget", "name": "click_catcher",
+            "type": "ClickCatcherWidget", "name": "click_catcher"
         },
         {
             "type": "ImageWidget", "name": "background",
             "fields": {
-                "filename": "PANEL\\Stash\\StashPanel_BG",
-            },
+                "filename": "PANEL\\Stash\\StashPanel_BG"
+            }
         },
         {
-            "type": "ImageWidget", "name": "LeftHinge",
+            "type": "ImageWidget", "name": "LeftHinge"
         },
         {
-            "type": "TextBoxWidget", "name": "title",
+            "type": "TextBoxWidget", "name": "title"
         },
         {
             "type": "TextBoxWidget", "name": "gold_amount",
             "fields": {
-                "rect": { "x": 482, "y": 1305 },
-            },
+                "rect": { "x": 482, "y": 1305 }
+            }
         },
         {
             "type": "ButtonWidget", "name": "gold_withdraw",
             "fields": {
-                "rect": { "x": 427, "y": 1304 },
-            },
+                "rect": { "x": 427, "y": 1304 }
+            }
         },
         {
-            "type": "ButtonWidget", "name": "close",
+            "type": "ButtonWidget", "name": "close"
         },
         {
             "type": "InventoryGridWidget", "name": "grid",
             "fields": {
                 "rect": { "x": 91, "y": 235 },
                 "cellCount": { "x": 10, "y": 10 },
-            },
+            }
         },
         {
             "type": "TabBarWidget", "name": "BankTabs",
@@ -54,8 +54,8 @@
                 "inactiveTextColor": "$TabsInactiveTextColor",
                 "tabSize": { "x": 142, "y": 75 },
                 "tabPadding": { "x": 0, "y": 0 },
-                "onSwitchTabMessage": "BankPanelMessage:SelectTab",
+                "onSwitchTabMessage": "BankPanelMessage:SelectTab"
             }
-        },
+        }
     ]
 }
