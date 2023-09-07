@@ -4,9 +4,9 @@
 
 /*
 --My Mod Details--
-Mod Download: https://github.com/BTNeandertha1/BTDiablo/archive/refs/heads/BTDiablo.zip?raw=true
+Mod Download: https://github.com/BTNeandertha1/BTDiablo/archive/refs/heads/BTDiablo.zip
 Mod Config Download: https://drive.google.com/uc?export=download&id=1uEuhJEatUbVra40h3Cif8W9v9nbVFOfV
-Mod Version: 0.0.1
+Mod Version: 1.0.5
 News 1 Title: "Welcome to BTDiablo!"
 News 1 Message: "Thanks to Bonesy, we now have a launcher platform with some cool easy functionality with it!"
 News 2 Title: "News"
@@ -15,14 +15,14 @@ News 2 Message: "Don't forget to join the discord! We have an awesome community 
 --General Options--
 Map Layouts: Enabled
 UI Themes: Enabled
-Customizations: Disabled
+Customizations: Enabled
 Vault Access: Enabled
 
 --Additional Options--
 Item Icons: Disabled
 Runeword Sorting: Disabled
 HUD Display: Disabled
-Monster Stats Display: Disabled
+Monster Stats Display: Enabled
 */
 
 }
