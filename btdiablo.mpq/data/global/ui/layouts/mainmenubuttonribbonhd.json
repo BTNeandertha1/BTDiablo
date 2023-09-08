@@ -108,7 +108,7 @@
                         {
                             "type": "TextBoxWidget", "name": "MotDHeaderText",
                             "fields": {
-                                "text": "BTDiablo August 8th 2023",
+                                "text": "BTDiablo September 8th 2023",
                                 "fitToParent": true,
                                 "style": {
                                     "pointSize": "$MediumLargeFontSize",
@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Small Balance and Item Changes\nCorruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.",
+                                        "text": "Check out the new Launcher by going to D2RModding.com\nCheck #BTD-Rules and #BTD-Announcements for clarification on what is intended in the mod and for more information.",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",
