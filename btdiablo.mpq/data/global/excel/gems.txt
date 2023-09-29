@@ -68,4 +68,3 @@ Ber Rune	r30L	18	r30	crush		20	20	addxp		2	2					red-dmg%		8	8	addxp		2	2					re
 Jah Rune	r31L	18	r31	ignore-ac		1	1	addxp		2	2					hp%		5	5	addxp		2	2					hp		50	50	addxp		2	2				0
 Cham Rune	r32L	18	r32	freeze		3	3	addxp		2	2					res-curse		34	34	addxp		2	2					res-curse		34	34	addxp		2	2				0
 Zod Rune	r33L	18	r33	indestruct		1	1	allskills		1	1	addxp		2	2	indestruct		1	1	allskills		1	1	addxp		2	2	indestruct		1	1	allskills		1	1	addxp		2	2
-																																							0
