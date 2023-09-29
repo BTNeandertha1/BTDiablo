@@ -3,10 +3,11 @@ Set Reroll	1				0					2	any,set,eth	mfd						usetype,set	99		99	ethereal	100		1	
 Set Reroll	1				0					2	any,set,noe	mfd						usetype,set	99		99																										mfd																																																										0
 Unique Reroll	1				0					2	any,uni,eth	mfd						usetype,uni	99		99	ethereal	100		1	1																					mfd																																																										0
 Unique Reroll	1				0					2	any,uni,noe	mfd						usetype,uni	99		99																										mfd																																																										0
-Unique Reroll	1				0					3	any,sock	mfd	wms					useitem,rem																													mfd																																																										0
+Unique Reroll	1				0					3	any,sock	apot	wms					useitem,rem																													mfd																																																										0
 3 Thaw for MF Charm	1				100					3	wms,qty=3							mff,uni	99		99																																																																																				0
 Magic Corruptor	0				0	17	362	0		2	armo,noe	apot						useitem			99	corruption1			-1	-1	corruption2			-500	-500																																																																										0
-1 thawing	0				100					1	wms							eli,2han,uni	99		99																																																																																				0
+1 thawing	1				100					1	wms							xla,uni	99		99																																																																																				0
+1 thawing	0				100					2	wms,qty=2							mfd																																																																																							0
 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Unique Weapon -> Elite Unique Weapon	0				100					2	eli,uni	wms						useitem	99		99	hit-skill-splash		1	1	1																																																																															0
 1 town portal scroll	0				100					1	isc							Red Portal,qty=144																																																																																							0
 1 standard of heros	0				100					1	tsc							fel																																																																																							0

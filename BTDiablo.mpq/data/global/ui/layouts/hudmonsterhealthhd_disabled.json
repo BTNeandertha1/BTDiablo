@@ -1,0 +1,97 @@
+{
+    "type": "MonsterHealthPanel", "name": "HUDMonsterHealth",
+    "fields": {
+        "priority": -100,
+        "anchor": { "x": 0.5 },
+        "rect": { "y": 63 }
+    },
+    "children": [
+        {
+            "type": "GrowableImageWidget", "name": "NormalMonsterBackground",
+            "rect": { "x": -500, "y": -12 },
+            "fields": {
+                "filename": "..\\..\\..\\D2RLaunch\\Monster Stats\\HB_M",
+                "leftCap/filename": "..\\..\\..\\D2RLaunch\\Monster Stats\\HB_L",
+                "rightCap/filename": "..\\..\\..\\D2RLaunch\\Monster Stats\\HB_R",
+                "leftCapOffset": { "x": 0, "y": 0 },
+                "rightCapOffset": { "x": 0, "y": 0 },
+                "placeCapsOutsideRect": true
+            }
+        },
+        {
+            "type": "GrowableImageWidget", "name": "UniqueMonsterBackground",
+            "rect": { "x": -500, "y": -12 },
+            "fields": {
+                "filename": "..\\..\\..\\D2RLaunch\\Monster Stats\\HB_M",
+                "leftCap/filename": "..\\..\\..\\D2RLaunch\\Monster Stats\\HB_L",
+                "rightCap/filename": "..\\..\\..\\D2RLaunch\\Monster Stats\\HB_R",
+                "leftCapOffset": { "x": 0, "y": 0 },
+                "rightCapOffset": { "x": 0, "y": 0 },
+                "placeCapsOutsideRect": true
+            }
+        },
+        {
+            "type": "HealthBarWidget", "name": "Health",
+            "fields": {
+                "rect": { "x": 0, "y": -12 },
+                "filename": "Controller/HUD/MonsterHealth/monsterhealth_console",
+                "transparency": 0.5,
+                "backgroundTransparency": 0.75,
+                "criticalHealthPercent": 0,
+                "warningHealthPercent": 0,
+                "drawWhenEmpty": true
+            },
+            "children": [
+                {
+                    "type": "TextBoxWidget", "name": "Name",
+                    "fields": {
+                        "rect": { "x": 0, "y": 0 },
+                        "anchor": { "x": 0.5, "y": 0.5 },
+                        "style": {
+                            "pointSize": "$LargeFontSize",
+                            "alignment": { "h": "center", "v": "center" },
+                            "options": { "pipeCharacterBehavior": "handle" }
+                        }
+                    }
+                },
+                {
+                    "type": "ImageWidget", "name": "Pentagram",
+                    "fields": {
+                        "rect": { "x": -275, "y": 28 },
+                        "anchor": { "x": 0.5, "y": 0.5 },
+                        "filename": "..\\..\\..\\D2RLaunch\\Monster Stats\\HB_A",
+                        "style": {
+                            "pointSize": "$LargeFontSize",
+                            "alignment": { "h": "center", "v": "center" },
+                            "options": { "pipeCharacterBehavior": "handle" }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "TextBoxWidget", "name": "Unique",
+            "fields": {
+                "rect": { "y": 110 },
+                "style": {
+                    "fontFace": "Formal",
+                    "pointSize": "$MediumFontSize",
+                    "alignment": { "h": "center" },
+                    "options": { "pipeCharacterBehavior": "handle" }
+                }
+            }
+        },
+        {
+            "type": "TextBoxWidget", "name": "Additional",
+            "fields": {
+                "rect": { "y": 155 },
+                "style": {
+                    "fontFace": "Formal",
+                    "pointSize": "$MediumFontSize",
+                    "alignment": { "h": "center" },
+                    "options": { "pipeCharacterBehavior": "handle" }
+                }
+            }
+        }
+    ]
+}
