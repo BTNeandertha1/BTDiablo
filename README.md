@@ -1942,1155 +1942,1158 @@ Summoning:
 - 3 Thawing Potions = Level 90 Scaling Magic Find Charm
 - Blank Item on "BlankItems" Character is used to update Uniques and Set items
 
-The Gnasher
-8 STR -> 15
-60-70 ED% -> 180-200
-added 25 IAS
-added 10 Deadly strike
-
-Deathspade
-60-70 ED% -> 250 always
-added 40 IAS
-added 40 Deadly strike
-
-Bladebone
-removed dmg to undead
-removed AR to undead
-removed Defense 
-removed fire dmg
-added FCR 20
-added Oskill Blade Shield
-added Oskill blade fury
-ED% 30-50 -> 150-180
-
-Skull Splitter
-removed dmg to undead
-removed AR to undead
-removed Defense
-removed Fire Dmg
-added FHR 20%
-added FRW 20%
-
-Rakescar
-ED% 75-150 -> 200-250
-removed poison dmg
-removed attack rating
-added oskill Venom
-added FHR 20%
-added FRW 20%
-
-Axe of Fechmar
-ED% 70-90 -> 200 
-removed freeze on hit
-added Oskill Frozen Armor
-added FHR 50%
-added Max dmg 20
-
-Goreshovel
-added Min dmg 20
-ED% 40-50 -> 180 
-Max dmg 9 -> 20
-
-The Chieftan
-lightning dmg 1-60 -> 1-250
-ED% 100 -> 200 
-all res 10-20 -> 30 
-IAS% 20 -> 40
-
-Brainhew
-ED%	50-80 -> 180 always
-Min dmg 14 -> 30
-removed Fire dmg
-added IAS% 50
-
-The Humongous
-ED% 80-120 -> 200-230
-requirements 20 -> -50
-Min dmg	8 -> 40
-Max dmg 15-25 -> 40
-added IAS% 40
-
-Iros Torch
-Mana regen 5 -> 25
-removed +1 Necro
-removed lifesteal
-removed Fire dmg
-added FRW 50
-added FCR 30
-added Oskill Warmth
-added Mana 100
-added +1-2 All Skill
-
-Maelstromwrath
-lightning dmg 1-9 -> 1-100
-mana 13 -> 80
-removed Terror
-removed Iron Maden
-added Bone Armor
-added Bone Mastery
-added +1-2 Necro
-
-Gravespine
-mana 25 -> 60
-Necro skills +2 -> +2-4 
-removed cold dmg
-removed manasteal
-added 20 FCR
-added 20 FRW
-
-Umes Lament
-Necro skills 2 -> 2-3
-Mana 40 -> 80
-FCR 20 -> 40
-Decrepify 2 -> 2-3
-removed Terror
-added skeleton mastery
-
-Felloak
-ED % 70-80 -> 190
-Fire dmg 6-8 -> 100
-removed knockback
-removed fire dmg
-added 20 IAS
-added 20 VIT
-
-Knell Striker
-ED % 70-80 -> 170-180
-removed Mana
-removed AR
-added MPK 15
-added IAS 20
-added Lifesteal 6
-added +1 all skills
-
-Rusthandle
-flat mdr 1 -> 7
-ED% 50-60 -> 180
-removed dmg
-removed dmg to undead
-removed vengeance
-removed +3 Thorns 
-added flat dr 7
-added Aura when equipped Might lvl 5
-added sacrifice
-added Zeal
-
-Stormeye
-lightning dmg 1-6 -> 1-400
-removed cold dmg
-removed ED%
-removed resist Lightning 
-removed Holy shock
-removed Fist of heavens
-added 20 FCR
-added 40 IAS
-added Oskill resist Lightning 3-5
-added Oskill Holy Shock 3-5
-added Oskill Fist of Heavens 1-3
-
-Stoutnail
-Thorns 3-10 -> 50
-ED%	100 -> 150
-VIT 7 -> 20
-flat mdr 2 -> 7
-added 20 IAS
-added 20 FRW
-
-Crushflange
-removed knockback
-removed ED%
-added 50 IAS
-added 10% openwounds
-added 50 Min dmg
-added 50 Max dmg
-
-Bloodrise
-ED% 120 -> 220
-removed AR
-removed sacrifice
-added Oskill Corpse Explosion lvl 1
-
-The Generals Tan Do Li Ga
-ED% 50-60 -> 150-170
-IAS 20 -> 30
-removed Min dmg
-removed Max dmg
-removed Defense
-added all stats 10
-added 30 Min dmg
-
-Ironstone
-ED% 100-150 -> 200
-removed AR
-removed Lightning dmg
-added 40 IAS
-added dmg to undead 100%
-added dmg to demon 150%
-
-Bonesnap
-added Oskill bone armor
-added always ethereal
-
-Steeldriver
-ED% 150-250 -> 250
-added 5% DR
-added 10% Life
-
-Rixots Keen
-Min dmg 5 -> 25
-ED% 100 -> 250
-removed AR
-removed Defense
-added Max dmg 50
-added IAS 20%
-added FRW 40%
-
-
-Blood Crescent
-ED% 60-80 -> 220
-Life 15 -> 50
-IAS% 15 -> 35
-
-Skewer of Krintiz
-added IAS 40%
-added VIT 10
-ED% 50 -> 190
-Dmg 3-7 -> 20-40
-
-Gleamscythe
-removed Defense
-added STR 25
-Mana 30 -> 50
-IAS% 20 -> 35
-ED% 60-100 -> 150
-Cold Dmg 3-5 -> 100
-
-Griswold's Edge
-removed Fire Dmg
-removed AR
-removed STR
-removed Knockback
-added 9 Health per Kill
-added 15 all stats
-added -50% Target defense
-IAS% 10 -> 30
-ED% 80-120 -> 150-200
-
-Hellplague
-removed ED%
-added IAS% 20
-added FCR 20
-poison dmg 48-96 -> 150
-Fire dmg 25-75 -> 100
-Fire Skills 2 -> 1-3
-
-Culwens Point
-all skills 1 -> 1-2
-PLR 50 -> 100
-FHR 20 -> 25
-ED% 70-80 -> 170-180
-removed AR
-added all stats 10
-added allways ethereal
-
-Shadowfang
-Cold dmg 10-30 -> 100
-ED% 100 -> 200
-added 40 IAS
-
-Soulflay
-ED% 70-100 -> 160
-all res 5 -> 25
-IAS 10 -> 30
-added FHR 30
-added Mana 80
-
-Kinemils Awl
-Mana 20 -> 60
-ED% 80-100 -> 150
-removed AR
-removed Fire dmg
-removed Holy fire 
-added IAS 40
-added Holy Fire Oskill 3
-added resist Fire Oskill 3
-
-Blacktongue
-ED% 50-60 -> 180
-removed AR
-added IAS 30
-added str 20
-
-Ripsaw
-ED% 80-100 -> 150-180
-added 60 IAS
-added 20 FRW
-added -50 requirements
-
-The Patriarch
-flat dr 6 -> 10
-flat mdr 6 -> 10
-
-The Diggler
-ED% 50 -> 200
-added Min Dmg 20
-added 10 STR
-
-The Jade Tan Do
-removed AR
-added 50 IAS
-added 15 DEX
-added 15 STR
-
-Spectral Shard
-removed AR
-removed all res
-added 50 Life
-added Oskill Fade lvl 1
-
-The Dragon Chang
-Fire Dmg 3-6 -> 200
-removed AR
-removed dmg to undead
-added Oskill Inferno lvl 10
-added Mana per Kill 5
-added Max dmg 10
-added 20 IAS
-
-Razortine
-ED% 30-50 -> 180
-added Lifesteal 10
-
-Bloodthief
-Life 26 -> 60
-ED% 50-70 -> 190-210
-added 40 IAS
-
-Lance of Yaggai
-Lightning Dmg 60 -> 400
-All Res 15 -> 25
-added Heal per Kill 6
-
-The Tannr Gorerod
-Fire res 15 -> 30
-ED% 80-100 -> 150-190
-removed Fire dmg
-removed AR
-added Open wounds 15
-
-Dimoaks Hew
-ED% 100 -> 200
-IAS 20 -> 50
-removed Defense
-added Heal per Kill 15
-added drain 15 Life
-added 50 Life
-added 20 Vit
-
-Steelgoad
-All res 5 -> 35
-ED% 60-80 -> 200-240
-removed AR
-added 20 STR
-added 50 IAS
-
-Soul Harvest
-All res 20-30
-ED% 50-90 -> 150-200
-ENR 5 -> 30
-removed AR
-added 30 IAS
-added drain life 15
-
-The Battlebranch
-ED% 50-70 -> 170-200
-added 50 FHR
-
-Woestave
-ED% 20-40 -> 200
-added 30 IAS
-
-The Grimreaper
-ED% 20 -> 200
-Life -20 -> -50
-added 80 IAS
-added 50 FRW
-
-Bane Ash
-Fire dmg 4-6 -> 200
-Mana 30 -> 70
-IAS 20 -> 30
-ED% 50-60 -> 150-160
-removed Fire bolt
-removed Warmth
-added 40 FCR
-
-Serpent Lord
-Poison dmg 40 -> 100
-ED% 30-40 -> 100-200
-removed Mana
-added 60 Life 
-added 40 IAS
-
-Lazarus Spire
-+Sorc 1 -> 2-3
-flat DR 5 -> 7-14
-ENR 15 -> 30
-Chainlightning lvl 1 -> 2-3
-Lightning Lvl 2 -> 2-3
-removed Static Field
-removed Lightning dmg
-added 60 FCR
-
-The Salamander
-Firewall Lvl 1 -> 3
-Fireball Lvl 2 -> 3
-Fireskills 2 -> 3
-removed Fire dmg
-removed Warmth
-added 30 FCR
-added 50 Mana
-
-The Iron Jang Bong
-+Sorc 2 -> 2-4
-FCR 20 -> 69
-Blaze Lvl 2 -> 2-4
-removed ED%
-removed AR%
-removed Nova
-added Replenish Life 20
-
-Pluckeye
-ED% 100 -> 250
-Life 10 -> 80
-added 30 IAS
-removed AR
-added 40 Min dmg
-added 40 Max dmg
-
-Witherstring
-ED% 40-50 -> 150
-removed Max dmg
-removed Min dmg
-removed AR
-added Oskill Magic Arrow lvl 3
-added 50 Cold dmg 
-added 50 Fire dmg
-added 1-100 Lightning dmg
-
-Raven Claw
-Dex 3 -> 15
-Str 3 -> 15
-Explosive Arrow 3-5
-removed AR%
-removed ED%
-added 30 IAS
-added 20 FRW
-added 100 Fire Dmg
-added Heal per Kill 8
-
-Rogues Bow
-ED% 40-60 -> 160
-All res 10 -> 30
-dmg to undead 100 -> 150
-removed AR
-added 150% dmg to demons
-added Min Dmg 30
-added Max dmg 30
-added +Amazon 1-3
-added Oskill Valkyrie Lvl 3
-
-Stormstrike
-Lightning dmg 1-30 -> 1-300
-Str 8 -> 15
-removed AR 
-removed ED%
-added 50 IAS
-added 50% chance Skill on Hit Chainlightning Lvl 50
-added 15% chance skill on hit Lower Resist lvl 15
-
-Wizendraw
-IAS 20 -> 40
-Cold res 26 -> 40
-Mana 30 -> 90
-ENR 15 -> 15-25
-Cold Pierce 20-35 -> 25-35
-removed Magic arrow when Firing
-removed AR
-removed ED%
-added 10-15 Cold Abs%
-added 25% FRW
-added Oskill Freezing Arrow
-
-Hellclap
-IAS 40
-Fire res 40
-Mana 90
-ENR 15-25
-Fire Pierce 25-35
-added 10-15 Fire Abs%
-added 25% FRW
-added Oskill Exploding Arrow
-Fire version of Wizendraw
-
-Blastbark
-ED% 70-130 -> 200-260
-Str 5 -> 20
-+Amazon 1 -> 1-3
-removed Exploding Arrow
-added 30 DEX
-added Oskill Burst of Speed Lvl 3
- 
-Leadcrow
-Dex 10 -> 20
-Life 10 -> 60
-ED% 70 -> 210
-removed AR
-added 60 IAS
-added 34% Pierce
- 
-Ichorsting
-poison dmg
-ED% 50 -> 200
-IAS 20 -> 50 
-removed AR
-added 20 STR
-
-Hellcast
-Fires Explosive arrows or bolts 5 -> 10
-IAS 20 -> 60
-ED% 70-80 -> 170-180
-Fire dmg 15-35 -> 100-150
-added 34% Pierce
-
-Doomslinger
-IAS 30 -> 40
-Life 15 -> 50
-ED% 60-100 -> 150
-added 50 Mana
-added 30 FRW
-added +1 Bows and Crossbows skill tab
-
-Biggins Bonnet
-ED% 30 -> 80
-removed AR
-added 15 all stats
-added 1% MF/Lvl
-
-Tarnhelm
-GF% 75 -> 100-250
-MF% 25-50 -> 35-60
-added CBF
-
-Coif of Glory
-Lightning res 15 -> 30
-removed AR
-removed Thorns
-added 100 defense vs Melee
-added 50 Life
-added 30 Fire res
-added 30 FHR
-
-Duskdeep
-Dmg Max 8 -> 20
-removed AR
-added flat MDR 7
-added 15 Dex
-added 40 Life
-
-Wormskull
-+Necro 1 -> 1-2
-Lifesteal 5 -> 6-9
-Mana 10 -> 70
-Poison res 25 -> 50
-added 30 FHR
-added 10 STR
-
-Howltusk
-flat MDR 2 -> 12
-removed knockback
-removed Thorns
-added Mana 50
-added -40% Req
-added 20 FHR
-added Oskill Howl Lvl 10
-
-Undead Crown
-Lifesteal 5 -> 9
-dmg to undead% 50 -> 150
-removed Defense
-removed Half freeze duration
-removed AR vs Undead
-added CBF
-added Oskill Raise Skeleton Lvl 3-5
-added Oskill Skeleton Mastery Lvl 3-5
-
-The Face of Horror
-All res 10 -> 10-25
-removed dmg to undead
-removed defense
-added 40 FHR
-added 30 FRW
-added 9 Health per kill
-
-The Centurion
-added 10% DR%
-
-Exceptional :
-
-Coldkill
-cold dmg 40 -> 250
-Frost nova when struck 10% chance Lvl 5 -> 25% chance Lvl 40
-ED% 150-190 -> 200
-removed Ice blast on hit
-added 25% Chance lvl 10 Glacial Strike on hit
-
-Butchers Pupil
-ED% 150-200 -> 200
-added 8 Mana per Kill
-
-Islestrike
-ED% 170-190 -> 200
-removed +Druid
-added 40 IAS
-added +1-3 All Skills
-
-Pompeiis Wrath
-ED% 140-170 -> 180-190
-removed knockback
-removod volcano on striking
-added 30 IAS
-added Fire Pierce
-added 35% chance Lvl 10 Fissure on striking
-
-Guardian Naga
-Poison nova when striking lvl 8 5% chance -> Lvl 10 33% chance
-ED% 150-180 -> 180-200
-removed thorns
-added 20 IAS
-added 7 lifesteal
-added -10 - -20 enemy poison resist
-
-Warlords Trust
-All res 10 -> 25
-ED% 175 -> 200
-removed defense
-added defense vs melee
-added 30-40 FHR
-added Min dmg
-added Max dmg
-
-Stormrider
-5% chance Lvl 10 Chainlightning on striking -> 45% chance Lvl 30
-removed Dmg
-removed ED% 
-removed Charged bolt on striking
-removed Thorns
-removed charged bolt when struck
-added 30 IAS
-added Oskill Thunderstorm Lvl 20
-added 40% chance Lvl 30 Nova on striking
-added 15% chance lvl 10 Lower resist when struck
-
-Boneslayer Blade
-Str 8 -> 20
-IAS 20 -> 60
-removed AR/Lvl
-removed Holy bolt when struck
-removed Holy bolt Oskill
-added -50 requirements
-added 75% chance Holy bolt Lvl 20 when striking
-
-The Minotaur
-Half freeze -> CBF
-ED% 140-200 -> 200-250
-added 50 IAS
-
-Suicide Branch
-FCR 50 -> 70
-All res 10 -> -30
-Mana% 10 -> 1-20
-Life 40 -> 1-50
-removed Thorns
-added 1-50 Mana
-added 1-5 Life%
-
-Carin Shard
-FCR 10 -> 30-40
-Replenish Life 5 -> 30
-+Necro 1 -> 1-3
-+Necro Summoning 2 -> 2-3
-
-Arm of King Leoric
-+Necro Summoning 2 -> 1-4
-+Necro P&B 2 -> 1-2
-FCR 10 -> 30
-5% chance Lvl 10 Bone spirit when struck -> 15% Lvl 40 Bone spirit when struck
-removed Bone Prison when struck
-removed Terror
-removed Raise Skeleton Mage
-added 15% chance Lvl 30 Bone armor when struck
-added +2 Corpse Explosion
-added +2 Summon Resist
-
-Blackhand Key
-+Necro Curses 1 -> 1-3
-
-Dark Clan Crusher
-removed +Druid
-removed AR vs Demon
-removed Heal per Demon Kill
-added 1 All Skills
-added 30 Min Dmg
-added 15 Health per Kill
-added 20 IAS
-
-Zakarums Hand
-Mana regen 10 -> 10-20
-Replenish Life 15 -> 15-20
-6% chance Lvl 5 Blizzard on striking -> 60% Chance Lvl 25 Blizzard on striking
-Holy Shock 2 -> 2-3
-Holy Freeze 2 -> 2-3
-added 1-2 +Paladin
-
-The Fetid Sprinkler
-5% chance Lvl 1 Decrepify on striking -> 33% chance lvl 10 Decrepify on striking
-ED% 160-190 -> 200
-Damage 15-25 -> 30-50
-removed AR
-removed Confuse when striking
-added 25 IAS
-
-Hand of Blessed Light
-+Paladin 2 -> 1-3
-Holy Bolt 4 -> 1-3
-Fist of Heavens 2 -> 1-3
-removed ED%
-removed AR%
-removed Defense
-removed Damage
-removed FoH on striking
-added 30 FCR
-added 20 IAS
-
-Fleshrender
-added 20 IAS
-
-Sureshrill Frost
-Cold dmg 63-112 -> 255-400
-removed ED%
-removed Damage
-removed Freeze on hit
-added 20 IAS
-added Cold Pierce 10-15
-
-Moonfall
-5% chance Lvl 6 Meteor on striking -> 40% chance Lvl 30 Meteor on striking
-Fire Dmg 55-115 -> 300
-ED% 120-150 -> 180-200
-removed Damage
-added 20 IAS
-
-Baezils Vortex
-5% chance Lvl 8 Nova on striking -> 20% Chance Lvl 30 on striking
-Lightning Dmg 1-150 -> 1-300
-ED% 160-200 -> 200
-
-Earthshaker
-added +3-4 Elemental skills
-added 30 FCR
-
-Bloodtree Stump
-+Barb Masteries 2 -> 4-6
-removed Str
-removed Mace mastery
-added 50 Life
-added 5 Lifesteal
-added 50 IAS
-
-Bloodletter
-Dmg 12-45 -> 50-80
-ED% 140 -> 200
-IAS 20 -> 30
-Whirlwind 1-3 -> 2-4
-removed AR
-removed blade mastery
-added 1-3 +Barb Masteries 
-
-Coldsteel Eye
-ED% 200-250 -> 250
-IAS 20 -> 35
-
-Hexfire
-removed Damage
-removed ED%
-added 300 Fire dmg
-added 30 IAS
-added 10 Fire Pierce
-added 20 FCR
-
-Ginters Rift
-IAS 30 -> 40
-ED% 150 -> 200
-removed Magic dmg
-added 100 Flat dmg 
-added 15 Deadly Strike
-
-Headstriker
-ED% 150 -> 200
-added 30 IAS
-
-Plague Bearer
-5% chance Lvl 4 Poison Nova on striking -> 40% chance Lvl 20 on striking
-Poison dmg 300 -> 491
-removed ED%
-removed damage
-added 5-15 Poison Pierce
-added 20 IAS
-
-The Atlantian
-ED% 200-250 -> 250-280
-removed Defense
-removed STR
-removed DEX
-removed Vit 
-added 35 IAS
-added Lvl 8-12 Holy Freeze aura when equipped
-added 10-20 All stats
-added 5-10 Cold Pierce
-
-Crainte Vomir
-FRW 20 -> 30
-DR% 10 -> 20
-ED% 160-200 -> 200
-added 5 Manasteal
-
-Bing Sz Wang
-Cold dmg 50-140 -> 100-200
-5% chance Lvl 3 Frozen Orb on striking -> 50% chance Lvl 17
-ED% 130-160 -> 150-200
-added 20 IAS
-
-The Vile Husk
-20% chance Lvl 4 Amp on striking -> 20% chance Lvl 22 Amp on striking
-ED% 150-200 -> 200
-removed AR/Lvl
-added 20 IAS
-
-Cloudcrack
-6% chance Lvl 7 FoH on striking -> 50% chance Lvl 25 Foh on striking
-Lightning dmg 1-240 -> 1-400
-Thorns 15 -> 500
-+Paladin Offense Aura 2 -> 2-4
-+Paladin Defense Aura 2 -> 2-4
-removed defense
-added defense vs melee
-added 25 IAS
-
-Todesfaelle Flamme
-removed Fireball on Attack
-removed Oskill Fire wall
-added Oskill Warmth
-added Oskill Fire Mastery
-added Lvl 10-12 Holy Fire when equipped
-added -10 enemy fire resist
-added 40 IAS
-
-Swordguard
-Defense vs Missiles 100 -> 200
-ED% 170-180 -> 200
-removed defense per lvl
-added 30 IAS
-added 20 Dex
-
-Heart Carver
-removed Find Potion
-removed Find Item
-removed Grim Ward
-added 1-3 Oskill Find Potion
-added 1-3 Oskill Find Item
-added 1-3 Grim Ward
-added 10-40% MF
-added 20 FCR
-added 59 Level requirements
-
-Blackbogs Sharp
-Poison Dagger 5 -> 6
-Poison Explosion 5 -> 6
-Poison Nova 5 -> 6
-IAS 30 -> 60
-removed Defense
-removed Damage
-added -15% enemy Poison resist
-
-Stormspike
-removed Lightning Thorns
-removed charged bolts when struck
-removed ED%
-added -5 to -10 enemy Lightning resist
-added +5% to 10% Lightning skill dmg
-added +1-3 Lightning Skills
-added 30 FCR
-added 25% chance Lvl 50 lightning when struck
-added 30 IAS
-
-The Impaler
-ED% 140-170 -> 200
-removed AR
-removed Impale
-removed Power Strike
-added Oskill Zeal
-
-Kelpie Snare
-ED% 140-180 -> 200
-added 30 IAS
-added 20% chance lvl 3 Decrepify on striking
-
-Soulfeast Tine
-ED% 150-190 -> 180-200
-removed AR
-added 40 IAS
-added 20 Open wounds
-
-Hone Sudan
-IAS 80 -> 20-25
-
-Spire of Honor
-Damage 20-40 -> 30-50
-ED% 150-200 -> 200
-removed Paladin Combat Skilltab
-removed Defense
-added 20 IAS
-
-The Meat Scraper
-ED% 150-200 -> 200
-MF% 25 -> 50
-removed Barb Masteries skilltab
-added +3 Barb
-
-Blackleach Blade
-ED% 100-140 -> 150-180
-removed weaken when striking
-added 20 IAS
-added 25% chance lvl 35 Poison Nova when striking
-
-Athenas Wrath
-ED% 150-180 -> 200
-removed +Druid skill
-added 20 IAS
-added Oskill Werewolf
-added Oskill Lycanthropy
-added Oskill Fury
-
-Pierre Tombale Couant
-Damage 12-20 -> 40-60
-ED% 160-220 -> 200
-removed +Barb
-removed AR
-added 35 IAS
-added +2 all skills
-
-Grims Burning Dead
-Fire Dmg 131-232 -> 300
-ED% 140-180 -> 200
-requirements -50 -> -80
-+Necro 3 -> 3-5
-removed Defense
-removed thorns
-added 50 IAS
-
-Razorswitch
-FCR 30 -> 40-50
-Life 80 -> 100
-all skills 1 -> 2
-removed Thorns
-
-Ribcracker
-removed Defense flat and %
-added 150 Defense vs Melee
-added 150 Defense vs Missiles
-
-Chromatic Ire
-all res 20-40 -> 40
-FCR 20 -> 50
-removed Lightning Thorns
-removed Lightning Mastery
-removed Fire Mastery
-removed Cold Mastery
-added +3-5 Chainlightning
-added +3 Meteor
-added +3 Blizzard
-
-Warpspear
-removed ignore target defense
-removed energy shield
-added Meteor
-added 40 FCR
-added 150 Mana
-added 55 FHR
-
-Skullcollector
-MPK 20 -> 10-20
-all skill 2 -> 1-4
-added 40-50 FCR
-
-Skystrike
-lightning dmg 1-250 -> 1-301
-IAS 30 -> 40
-+Amazon 1 -> 2
-2% chance lvl 6 meteor on striking -> 33% chance lvl 18 Meteor on striking
-removed AR
-added +1 Bows and Crossbows skilltab
-added 20 Min dmg
-
-Riphook
-openwounds 30 -> 5-50
-Mana 35 -> 90
-IAS 30 -> 40
-added 5-40 deadly strike
-added 5-40 crushing blow
-
-Endlesshail
-Mana 40 -> 80
-Defense vs Missiles 50 -> 150
-ED% 180-220 -> 200
-Cold dmg 15-30 -> 300
-removed Strafe
-removed cold res
-added 30 IAS
-added Oskill Strafe
-
-Cliffkiller
-+Amazon 2 -> 2-3
-Defense vs Missiles 80 -> 200
-Life 50 -> 100
-Min Dmg 5-10 -> 20-30
-Max dmg 20-30 -> 40-50
-added 20 FHR
-
-Magewrath
-Dex 10 -> 25
-ED% 120-150 -> 150-200
-+Amazon 1 -> 1-3
-removed AR
-added 20 IAS
-
-Goldstrike Arch
-ED% 200-250 -> 250
-dmg to undead 100 -> 200
-dmg to demons 100 -> 200
-removed AR%
-removed FoH on striking
-added 200% Gold Find
-added +2 Amazon
-
-Langer Briser
-ED% 170-200 -> 200
-MF% 30-60 -> 50-75
-removed knockback
-added 60 IAS
-added 34 Pierce
-
-Pus Spitter
-IAS 10 -> 20
-4% chance lvl 1 Lower resist on striking -> 30% chance Lvl 30 Lower resist on striking
-removed +Necro
-added +2 all skills
-added 34% Pierce
-
-Demon Machine
-added 30 IAS
-
-Peasent Crown
-Energy 20 -> 25-50
-Vitality 20 -> 10-20
-FRW 15 -> 30
-Defense% 100 -> 200
-Goldfind% -50
-
-Rockstopper
-Lightning res 20-40 -> 20-50
-DR% 10 -> 10-20
-Cold res 20-40 -> 20-50
-Vitality 15 -> 15-20
-added 20 FHR
-
-Darksight Helm
-6% chance lvl 3 dim vision when struck -> 33% chance lvl 30 dim vision when struck
-removed Defense per Lvl 
-added 20-40 Lightning res 
-added 5-8 Life%
-
-Valkyrie Wing
-MPK 2-4 -> 4-6
-
-Crown of Thieves
-Dex 25 -> 25-35
-Life 50 -> 75-90
-Mana 35 -> 35-50
-Goldfind% 80-100 -> 150-190
-added 20 FRW
-
-Blackhorns Face
-lightning abs% 20 -> 20-30
-Lightning res 15 -> 50
-removed Light thorns
-added 20 FBR
-added Kick dmg per Lvl 
-
-Veil of Steel
-added +1 all skills
-added 40-80 ED%
-
-Arkaine's Valor
-added +1 random class skill
-
-Windforce
-Dex 5 -> 20
-Str 10 -> 20
-ED% 250 -> 250-300
-
-Atmas Scarab
-Amp on Striking 20% -> 25%
-Thorns 5 -> 120
-
-Lycanders Aim
-+Amazon 2 -> 2-3
-+Bow 2 -> 2-3
-ED% 150-200 -> 200-250
-IAS 35
-removed defense%
-added prevent monster heal
-added 30% piercing attack
-
-Lycanders Flank
-+Amazon 2 -> 3-4
-+Java 2 -> 3-4
-ED% 150-200 -> 200
-IAS 30 -> 60
-removed Defense%
-added 30 FRW
-added 1% MF per Lvl
-
-Bartucs Cut Throat
-+Sin 2 -> 1-3
-+MA 1 -> 1-3
-ED% 150-200 -> 200-250
-removed AR%
-added 30 IAS
-added -5 to -10 enemy Lightning/Cold/Fire resist
-
-Lacerator
-33% chance Lvl 3 AMP on striking -> 33% Lvl 22 AMP on striking
-
-Hellrack
-added 34% Pierce attack
-
-Shadowkiller
-ED% 170-220 -> 250-290
-IAS 20 -> 30
-+Shadow 3-5 -> 4-5
-removed blade shield
-removed MPK
-added 6-9 Manasteal
-added Oskill Berserk
+### Normal:
+
+- The Gnasher
+   - 8 STR -> 15
+   - 60-70 ED% -> 180-200
+   - added 25 IAS
+   - added 10 Deadly strike
+
+- Deathspade
+   - 60-70 ED% -> 250 always
+   - added 40 IAS
+   - added 40 Deadly strike
+
+- Bladebone
+   - removed dmg to undead
+   - removed AR to undead
+   - removed Defense
+   - removed fire dmg
+   - added FCR 20
+   - added Oskill Blade Shield
+   - added Oskill blade fury
+   - ED% 30-50 -> 150-180
+
+- Skull Splitter
+   - removed dmg to undead
+   - removed AR to undead
+   - removed Defense
+   - removed Fire Dmg
+   - added FHR 20%
+   - added FRW 20%
+
+- Rakescar
+   - ED% 75-150 -> 200-250
+   - removed poison dmg
+   - removed attack rating
+   - added oskill Venom
+   - added FHR 20%
+   - added FRW 20%
+
+- Axe of Fechmar
+   - ED% 70-90 -> 200
+   - removed freeze on hit
+   - added Oskill Frozen Armor
+   - added FHR 50%
+   - added Max dmg 20
+
+- Goreshovel
+   - added Min dmg 20
+   - ED% 40-50 -> 180
+   - Max dmg 9 -> 20
+
+- The Chieftan
+   - lightning dmg 1-60 -> 1-250
+   - ED% 100 -> 200
+   - all res 10-20 -> 30
+   - IAS% 20 -> 40
+
+- Brainhew
+   - ED%	50-80 -> 180 always
+   - Min dmg 14 -> 30
+   - removed Fire dmg
+   - added IAS% 50
+
+- The Humongous
+   - ED% 80-120 -> 200-230
+   - requirements 20 -> -50
+   - Min dmg	8 -> 40
+   - Max dmg 15-25 -> 40
+   - added IAS% 40
+
+- Iros Torch
+   - Mana regen 5 -> 25
+   - removed +1 Necro
+   - removed lifesteal
+   - removed Fire dmg
+   - added FRW 50
+   - added FCR 30
+   - added Oskill Warmth
+   - added Mana 100
+   - added +1-2 All Skill
+
+- Maelstromwrath
+   - lightning dmg 1-9 -> 1-100
+   - mana 13 -> 80
+   - removed Terror
+   - removed Iron Maden
+   - added Bone Armor
+   - added Bone Mastery
+   - added +1-2 Necro
+
+- Gravespine
+   - mana 25 -> 60
+   - Necro skills +2 -> +2-4
+   - removed cold dmg
+   - removed manasteal
+   - added 20 FCR
+   - added 20 FRW
+
+- Umes Lament
+   - Necro skills 2 -> 2-3
+   - Mana 40 -> 80
+   - FCR 20 -> 40
+   - Decrepify 2 -> 2-3
+   - removed Terror
+   - added skeleton mastery
+
+- Felloak
+   - ED % 70-80 -> 190
+   - Fire dmg 6-8 -> 100
+   - removed knockback
+   - removed fire dmg
+   - added 20 IAS
+   - added 20 VIT
+
+- Knell Striker
+   - ED % 70-80 -> 170-180
+   - removed Mana
+   - removed AR
+   - added MPK 15
+   - added IAS 20
+   - added Lifesteal 6
+   - added +1 all skills
+
+- Rusthandle
+   - flat mdr 1 -> 7
+   - ED% 50-60 -> 180
+   - removed dmg
+   - removed dmg to undead
+   - removed vengeance
+   - removed +3 Thorns
+   - added flat dr 7
+   - added Aura when equipped Might lvl 5
+   - added sacrifice
+   - added Zeal
+
+- Stormeye
+   - lightning dmg 1-6 -> 1-400
+   - removed cold dmg
+   - removed ED%
+   - removed resist Lightning
+   - removed Holy shock
+   - removed Fist of heavens
+   - added 20 FCR
+   - added 40 IAS
+   - added Oskill resist Lightning 3-5
+   - added Oskill Holy Shock 3-5
+   - added Oskill Fist of Heavens 1-3
+
+- Stoutnail
+   - Thorns 3-10 -> 50
+   - ED%	100 -> 150
+   - VIT 7 -> 20
+   - flat mdr 2 -> 7
+   - added 20 IAS
+   - added 20 FRW
+
+- Crushflange
+   - removed knockback
+   - removed ED%
+   - added 50 IAS
+   - added 10% openwounds
+   - added 50 Min dmg
+   - added 50 Max dmg
+
+- Bloodrise
+   - ED% 120 -> 220
+   - removed AR
+   - removed sacrifice
+   - added Oskill Corpse Explosion lvl 1
+
+- The Generals Tan Do Li Ga
+   - ED% 50-60 -> 150-170
+   - IAS 20 -> 30
+   - removed Min dmg
+   - removed Max dmg
+   - removed Defense
+   - added all stats 10
+   - added 30 Min dmg
+
+- Ironstone
+   - ED% 100-150 -> 200
+   - removed AR
+   - removed Lightning dmg
+   - added 40 IAS
+   - added dmg to undead 100%
+   - added dmg to demon 150%
+
+- Bonesnap
+   - added Oskill bone armor
+   - added always ethereal
+
+- Steeldriver
+   - ED% 150-250 -> 250
+   - added 5% DR
+   - added 10% Life
+
+- Rixots Keen
+   - Min dmg 5 -> 25
+   - ED% 100 -> 250
+   - removed AR
+   - removed Defense
+   - added Max dmg 50
+   - added IAS 20%
+   - added FRW 40%
+
+-
+   - Blood Crescent
+   - ED% 60-80 -> 220
+   - Life 15 -> 50
+   - IAS% 15 -> 35
+
+- Skewer of Krintiz
+   - added IAS 40%
+   - added VIT 10
+   - ED% 50 -> 190
+   - Dmg 3-7 -> 20-40
+
+- Gleamscythe
+   - removed Defense
+   - added STR 25
+   - Mana 30 -> 50
+   - IAS% 20 -> 35
+   - ED% 60-100 -> 150
+   - Cold Dmg 3-5 -> 100
+
+- Griswold's Edge
+   - removed Fire Dmg
+   - removed AR
+   - removed STR
+   - removed Knockback
+   - added 9 Health per Kill
+   - added 15 all stats
+   - added -50% Target defense
+   - IAS% 10 -> 30
+   - ED% 80-120 -> 150-200
+
+- Hellplague
+   - removed ED%
+   - added IAS% 20
+   - added FCR 20
+   - poison dmg 48-96 -> 150
+   - Fire dmg 25-75 -> 100
+   - Fire Skills 2 -> 1-3
+
+- Culwens Point
+   - all skills 1 -> 1-2
+   - PLR 50 -> 100
+   - FHR 20 -> 25
+   - ED% 70-80 -> 170-180
+   - removed AR
+   - added all stats 10
+   - added allways ethereal
+
+- Shadowfang
+   - Cold dmg 10-30 -> 100
+   - ED% 100 -> 200
+   - added 40 IAS
+
+- Soulflay
+   - ED% 70-100 -> 160
+   - all res 5 -> 25
+   - IAS 10 -> 30
+   - added FHR 30
+   - added Mana 80
+
+- Kinemils Awl
+   - Mana 20 -> 60
+   - ED% 80-100 -> 150
+   - removed AR
+   - removed Fire dmg
+   - removed Holy fire
+   - added IAS 40
+   - added Holy Fire Oskill 3
+   - added resist Fire Oskill 3
+
+- Blacktongue
+   - ED% 50-60 -> 180
+   - removed AR
+   - added IAS 30
+   - added str 20
+
+- Ripsaw
+   - ED% 80-100 -> 150-180
+   - added 60 IAS
+   - added 20 FRW
+   - added -50 requirements
+
+- The Patriarch
+   - flat dr 6 -> 10
+   - flat mdr 6 -> 10
+
+- The Diggler
+   - ED% 50 -> 200
+   - added Min Dmg 20
+   - added 10 STR
+
+- The Jade Tan Do
+   - removed AR
+   - added 50 IAS
+   - added 15 DEX
+   - added 15 STR
+
+- Spectral Shard
+   - removed AR
+   - removed all res
+   - added 50 Life
+   - added Oskill Fade lvl 1
+
+- The Dragon Chang
+   - Fire Dmg 3-6 -> 200
+   - removed AR
+   - removed dmg to undead
+   - added Oskill Inferno lvl 10
+   - added Mana per Kill 5
+   - added Max dmg 10
+   - added 20 IAS
+
+- Razortine
+   - ED% 30-50 -> 180
+   - added Lifesteal 10
+
+- Bloodthief
+   - Life 26 -> 60
+   - ED% 50-70 -> 190-210
+   - added 40 IAS
+
+- Lance of Yaggai
+   - Lightning Dmg 60 -> 400
+   - All Res 15 -> 25
+   - added Heal per Kill 6
+
+- The Tannr Gorerod
+   - Fire res 15 -> 30
+   - ED% 80-100 -> 150-190
+   - removed Fire dmg
+   - removed AR
+   - added Open wounds 15
+
+- Dimoaks Hew
+   - ED% 100 -> 200
+   - IAS 20 -> 50
+   - removed Defense
+   - added Heal per Kill 15
+   - added drain 15 Life
+   - added 50 Life
+   - added 20 Vit
+
+- Steelgoad
+   - All res 5 -> 35
+   - ED% 60-80 -> 200-240
+   - removed AR
+   - added 20 STR
+   - added 50 IAS
+
+- Soul Harvest
+   - All res 20-30
+   - ED% 50-90 -> 150-200
+   - ENR 5 -> 30
+   - removed AR
+   - added 30 IAS
+   - added drain life 15
+
+- The Battlebranch
+   - ED% 50-70 -> 170-200
+   - added 50 FHR
+
+- Woestave
+   - ED% 20-40 -> 200
+   - added 30 IAS
+
+- The Grimreaper
+   - ED% 20 -> 200
+   - Life -20 -> -50
+   - added 80 IAS
+   - added 50 FRW
+
+- Bane Ash
+   - Fire dmg 4-6 -> 200
+   - Mana 30 -> 70
+   - IAS 20 -> 30
+   - ED% 50-60 -> 150-160
+   - removed Fire bolt
+   - removed Warmth
+   - added 40 FCR
+
+- Serpent Lord
+   - Poison dmg 40 -> 100
+   - ED% 30-40 -> 100-200
+   - removed Mana
+   - added 60 Life
+   - added 40 IAS
+
+- Lazarus Spire
+   - +Sorc 1 -> 2-3
+   - flat DR 5 -> 7-14
+   - ENR 15 -> 30
+   - Chainlightning lvl 1 -> 2-3
+   - Lightning Lvl 2 -> 2-3
+   - removed Static Field
+   - removed Lightning dmg
+   - added 60 FCR
+
+- The Salamander
+   - Firewall Lvl 1 -> 3
+   - Fireball Lvl 2 -> 3
+   - Fireskills 2 -> 3
+   - removed Fire dmg
+   - removed Warmth
+   - added 30 FCR
+   - added 50 Mana
+
+- The Iron Jang Bong
+   - +Sorc 2 -> 2-4
+   - FCR 20 -> 69
+   - Blaze Lvl 2 -> 2-4
+   - removed ED%
+   - removed AR%
+   - removed Nova
+   - added Replenish Life 20
+
+- Pluckeye
+   - ED% 100 -> 250
+   - Life 10 -> 80
+   - added 30 IAS
+   - removed AR
+   - added 40 Min dmg
+   - added 40 Max dmg
+
+- Witherstring
+   - ED% 40-50 -> 150
+   - removed Max dmg
+   - removed Min dmg
+   - removed AR
+   - added Oskill Magic Arrow lvl 3
+   - added 50 Cold dmg
+   - added 50 Fire dmg
+   - added 1-100 Lightning dmg
+
+- Raven Claw
+   - Dex 3 -> 15
+   - Str 3 -> 15
+   - Explosive Arrow 3-5
+   - removed AR%
+   - removed ED%
+   - added 30 IAS
+   - added 20 FRW
+   - added 100 Fire Dmg
+   - added Heal per Kill 8
+
+- Rogues Bow
+   - ED% 40-60 -> 160
+   - All res 10 -> 30
+   - dmg to undead 100 -> 150
+   - removed AR
+   - added 150% dmg to demons
+   - added Min Dmg 30
+   - added Max dmg 30
+   - added +Amazon 1-3
+   - added Oskill Valkyrie Lvl 3
+
+- Stormstrike
+   - Lightning dmg 1-30 -> 1-300
+   - Str 8 -> 15
+   - removed AR
+   - removed ED%
+   - added 50 IAS
+   - added 50% chance Skill on Hit Chainlightning Lvl 50
+   - added 15% chance skill on hit Lower Resist lvl 15
+
+- Wizendraw
+   - IAS 20 -> 40
+   - Cold res 26 -> 40
+   - Mana 30 -> 90
+   - ENR 15 -> 15-25
+   - Cold Pierce 20-35 -> 25-35
+   - removed Magic arrow when Firing
+   - removed AR
+   - removed ED%
+   - added 10-15 Cold Abs%
+   - added 25% FRW
+   - added Oskill Freezing Arrow
+
+- Hellclap
+   - IAS 40
+   - Fire res 40
+   - Mana 90
+   - ENR 15-25
+   - Fire Pierce 25-35
+   - added 10-15 Fire Abs%
+   - added 25% FRW
+   - added Oskill Exploding Arrow
+   - Fire version of Wizendraw
+
+- Blastbark
+   - ED% 70-130 -> 200-260
+   - Str 5 -> 20
+   - +Amazon 1 -> 1-3
+   - removed Exploding Arrow
+   - added 30 DEX
+   - added Oskill Burst of Speed Lvl 3
+
+   - Leadcrow
+   - Dex 10 -> 20
+   - Life 10 -> 60
+   - ED% 70 -> 210
+   - removed AR
+   - added 60 IAS
+   - added 34% Pierce
+
+   - Ichorsting
+   - poison dmg
+   - ED% 50 -> 200
+   - IAS 20 -> 50
+   - removed AR
+   - added 20 STR
+
+- Hellcast
+   - Fires Explosive arrows or bolts 5 -> 10
+   - IAS 20 -> 60
+   - ED% 70-80 -> 170-180
+   - Fire dmg 15-35 -> 100-150
+   - added 34% Pierce
+
+- Doomslinger
+   - IAS 30 -> 40
+   - Life 15 -> 50
+   - ED% 60-100 -> 150
+   - added 50 Mana
+   - added 30 FRW
+   - added +1 Bows and Crossbows skill tab
+
+- Biggins Bonnet
+   - ED% 30 -> 80
+   - removed AR
+   - added 15 all stats
+   - added 1% MF/Lvl
+
+- Tarnhelm
+   - GF% 75 -> 100-250
+   - MF% 25-50 -> 35-60
+   - added CBF
+
+- Coif of Glory
+   - Lightning res 15 -> 30
+   - removed AR
+   - removed Thorns
+   - added 100 defense vs Melee
+   - added 50 Life
+   - added 30 Fire res
+   - added 30 FHR
+
+- Duskdeep
+   - Dmg Max 8 -> 20
+   - removed AR
+   - added flat MDR 7
+   - added 15 Dex
+   - added 40 Life
+
+- Wormskull
+   - +Necro 1 -> 1-2
+   - Lifesteal 5 -> 6-9
+   - Mana 10 -> 70
+   - Poison res 25 -> 50
+   - added 30 FHR
+   - added 10 STR
+
+- Howltusk
+   - flat MDR 2 -> 12
+   - removed knockback
+   - removed Thorns
+   - added Mana 50
+   - added -40% Req
+   - added 20 FHR
+   - added Oskill Howl Lvl 10
+
+- Undead Crown
+   - Lifesteal 5 -> 9
+   - dmg to undead% 50 -> 150
+   - removed Defense
+   - removed Half freeze duration
+   - removed AR vs Undead
+   - added CBF
+   - added Oskill Raise Skeleton Lvl 3-5
+   - added Oskill Skeleton Mastery Lvl 3-5
+
+- The Face of Horror
+   - All res 10 -> 10-25
+   - removed dmg to undead
+   - removed defense
+   - added 40 FHR
+   - added 30 FRW
+   - added 9 Health per kill
+
+- The Centurion
+   - added 10% DR%
+
+### Exceptional:
+
+- Coldkill
+   - cold dmg 40 -> 250
+   - Frost nova when struck 10% chance Lvl 5 -> 25% chance Lvl 40
+   - ED% 150-190 -> 200
+   - removed Ice blast on hit
+   - added 25% Chance lvl 10 Glacial Strike on hit
+
+- Butchers Pupil
+   - ED% 150-200 -> 200
+   - added 8 Mana per Kill
+
+- Islestrike
+   - ED% 170-190 -> 200
+   - removed +Druid
+   - added 40 IAS
+   - added +1-3 All Skills
+
+- Pompeiis Wrath
+   - ED% 140-170 -> 180-190
+   - removed knockback
+   - removod volcano on striking
+   - added 30 IAS
+   - added Fire Pierce
+   - added 35% chance Lvl 10 Fissure on striking
+
+- Guardian Naga
+   - Poison nova when striking lvl 8 5% chance -> Lvl 10 33% chance
+   - ED% 150-180 -> 180-200
+   - removed thorns
+   - added 20 IAS
+   - added 7 lifesteal
+   - added -10 - -20 enemy poison resist
+
+- Warlords Trust
+   - All res 10 -> 25
+   - ED% 175 -> 200
+   - removed defense
+   - added defense vs melee
+   - added 30-40 FHR
+   - added Min dmg
+   - added Max dmg
+
+- Stormrider
+   - 5% chance Lvl 10 Chainlightning on striking -> 45% chance Lvl 30
+   - removed Dmg
+   - removed ED%
+   - removed Charged bolt on striking
+   - removed Thorns
+   - removed charged bolt when struck
+   - added 30 IAS
+   - added Oskill Thunderstorm Lvl 20
+   - added 40% chance Lvl 30 Nova on striking
+   - added 15% chance lvl 10 Lower resist when struck
+
+- Boneslayer Blade
+   - Str 8 -> 20
+   - IAS 20 -> 60
+   - removed AR/Lvl
+   - removed Holy bolt when struck
+   - removed Holy bolt Oskill
+   - added -50 requirements
+   - added 75% chance Holy bolt Lvl 20 when striking
+
+- The Minotaur
+   - Half freeze -> CBF
+   - ED% 140-200 -> 200-250
+   - added 50 IAS
+
+- Suicide Branch
+   - FCR 50 -> 70
+   - All res 10 -> -30
+   - Mana% 10 -> 1-20
+   - Life 40 -> 1-50
+   - removed Thorns
+   - added 1-50 Mana
+   - added 1-5 Life%
+
+- Carin Shard
+   - FCR 10 -> 30-40
+   - Replenish Life 5 -> 30
+   - +Necro 1 -> 1-3
+   - +Necro Summoning 2 -> 2-3
+
+- Arm of King Leoric
+   - +Necro Summoning 2 -> 1-4
+   - +Necro P&B 2 -> 1-2
+   - FCR 10 -> 30
+   - 5% chance Lvl 10 Bone spirit when struck -> 15% Lvl 40 Bone spirit when struck
+   - removed Bone Prison when struck
+   - removed Terror
+   - removed Raise Skeleton Mage
+   - added 15% chance Lvl 30 Bone armor when struck
+   - added +2 Corpse Explosion
+   - added +2 Summon Resist
+
+- Blackhand Key
+   - +Necro Curses 1 -> 1-3
+
+- Dark Clan Crusher
+   - removed +Druid
+   - removed AR vs Demon
+   - removed Heal per Demon Kill
+   - added 1 All Skills
+   - added 30 Min Dmg
+   - added 15 Health per Kill
+   - added 20 IAS
+
+- Zakarums Hand
+   - Mana regen 10 -> 10-20
+   - Replenish Life 15 -> 15-20
+   - 6% chance Lvl 5 Blizzard on striking -> 60% Chance Lvl 25 Blizzard on striking
+   - Holy Shock 2 -> 2-3
+   - Holy Freeze 2 -> 2-3
+   - added 1-2 +Paladin
+
+- The Fetid Sprinkler
+   - 5% chance Lvl 1 Decrepify on striking -> 33% chance lvl 10 Decrepify on striking
+   - ED% 160-190 -> 200
+   - Damage 15-25 -> 30-50
+   - removed AR
+   - removed Confuse when striking
+   - added 25 IAS
+
+- Hand of Blessed Light
+   - +Paladin 2 -> 1-3
+   - Holy Bolt 4 -> 1-3
+   - Fist of Heavens 2 -> 1-3
+   - removed ED%
+   - removed AR%
+   - removed Defense
+   - removed Damage
+   - removed FoH on striking
+   - added 30 FCR
+   - added 20 IAS
+
+- Fleshrender
+   - added 20 IAS
+
+- Sureshrill Frost
+   - Cold dmg 63-112 -> 255-400
+   - removed ED%
+   - removed Damage
+   - removed Freeze on hit
+   - added 20 IAS
+   - added Cold Pierce 10-15
+
+- Moonfall
+   - 5% chance Lvl 6 Meteor on striking -> 40% chance Lvl 30 Meteor on striking
+   - Fire Dmg 55-115 -> 300
+   - ED% 120-150 -> 180-200
+   - removed Damage
+   - added 20 IAS
+
+- Baezils Vortex
+   - 5% chance Lvl 8 Nova on striking -> 20% Chance Lvl 30 on striking
+   - Lightning Dmg 1-150 -> 1-300
+   - ED% 160-200 -> 200
+
+- Earthshaker
+   - added +3-4 Elemental skills
+   - added 30 FCR
+
+- Bloodtree Stump
+   - +Barb Masteries 2 -> 4-6
+   - removed Str
+   - removed Mace mastery
+   - added 50 Life
+   - added 5 Lifesteal
+   - added 50 IAS
+
+- Bloodletter
+   - Dmg 12-45 -> 50-80
+   - ED% 140 -> 200
+   - IAS 20 -> 30
+   - Whirlwind 1-3 -> 2-4
+   - removed AR
+   - removed blade mastery
+   - added 1-3 +Barb Masteries
+
+- Coldsteel Eye
+   - ED% 200-250 -> 250
+   - IAS 20 -> 35
+
+- Hexfire
+   - removed Damage
+   - removed ED%
+   - added 300 Fire dmg
+   - added 30 IAS
+   - added 10 Fire Pierce
+   - added 20 FCR
+
+- Ginters Rift
+   - IAS 30 -> 40
+   - ED% 150 -> 200
+   - removed Magic dmg
+   - added 100 Flat dmg
+   - added 15 Deadly Strike
+
+- Headstriker
+   - ED% 150 -> 200
+   - added 30 IAS
+
+- Plague Bearer
+   - 5% chance Lvl 4 Poison Nova on striking -> 40% chance Lvl 20 on striking
+   - Poison dmg 300 -> 491
+   - removed ED%
+   - removed damage
+   - added 5-15 Poison Pierce
+   - added 20 IAS
+
+- The Atlantian
+   - ED% 200-250 -> 250-280
+   - removed Defense
+   - removed STR
+   - removed DEX
+   - removed Vit
+   - added 35 IAS
+   - added Lvl 8-12 Holy Freeze aura when equipped
+   - added 10-20 All stats
+   - added 5-10 Cold Pierce
+
+- Crainte Vomir
+   - FRW 20 -> 30
+   - DR% 10 -> 20
+   - ED% 160-200 -> 200
+   - added 5 Manasteal
+
+- Bing Sz Wang
+   - Cold dmg 50-140 -> 100-200
+   - 5% chance Lvl 3 Frozen Orb on striking -> 50% chance Lvl 17
+   - ED% 130-160 -> 150-200
+   - added 20 IAS
+
+- The Vile Husk
+   - 20% chance Lvl 4 Amp on striking -> 20% chance Lvl 22 Amp on striking
+   - ED% 150-200 -> 200
+   - removed AR/Lvl
+   - added 20 IAS
+
+- Cloudcrack
+   - 6% chance Lvl 7 FoH on striking -> 50% chance Lvl 25 Foh on striking
+   - Lightning dmg 1-240 -> 1-400
+   - Thorns 15 -> 500
+   - +Paladin Offense Aura 2 -> 2-4
+   - +Paladin Defense Aura 2 -> 2-4
+   - removed defense
+   - added defense vs melee
+   - added 25 IAS
+
+- Todesfaelle Flamme
+   - removed Fireball on Attack
+   - removed Oskill Fire wall
+   - added Oskill Warmth
+   - added Oskill Fire Mastery
+   - added Lvl 10-12 Holy Fire when equipped
+   - added -10 enemy fire resist
+   - added 40 IAS
+
+- Swordguard
+   - Defense vs Missiles 100 -> 200
+   - ED% 170-180 -> 200
+   - removed defense per lvl
+   - added 30 IAS
+   - added 20 Dex
+
+- Heart Carver
+   - removed Find Potion
+   - removed Find Item
+   - removed Grim Ward
+   - added 1-3 Oskill Find Potion
+   - added 1-3 Oskill Find Item
+   - added 1-3 Grim Ward
+   - added 10-40% MF
+   - added 20 FCR
+   - added 59 Level requirements
+
+- Blackbogs Sharp
+   - Poison Dagger 5 -> 6
+   - Poison Explosion 5 -> 6
+   - Poison Nova 5 -> 6
+   - IAS 30 -> 60
+   - removed Defense
+   - removed Damage
+   - added -15% enemy Poison resist
+
+- Stormspike
+   - removed Lightning Thorns
+   - removed charged bolts when struck
+   - removed ED%
+   - added -5 to -10 enemy Lightning resist
+   - added +5% to 10% Lightning skill dmg
+   - added +1-3 Lightning Skills
+   - added 30 FCR
+   - added 25% chance Lvl 50 lightning when struck
+   - added 30 IAS
+
+- The Impaler
+   - ED% 140-170 -> 200
+   - removed AR
+   - removed Impale
+   - removed Power Strike
+   - added Oskill Zeal
+
+- Kelpie Snare
+   - ED% 140-180 -> 200
+   - added 30 IAS
+   - added 20% chance lvl 3 Decrepify on striking
+
+- Soulfeast Tine
+   - ED% 150-190 -> 180-200
+   - removed AR
+   - added 40 IAS
+   - added 20 Open wounds
+
+- Hone Sudan
+   - IAS 80 -> 20-25
+
+- Spire of Honor
+   - Damage 20-40 -> 30-50
+   - ED% 150-200 -> 200
+   - removed Paladin Combat Skilltab
+   - removed Defense
+   - added 20 IAS
+
+- The Meat Scraper
+   - ED% 150-200 -> 200
+   - MF% 25 -> 50
+   - removed Barb Masteries skilltab
+   - added +3 Barb
+
+- Blackleach Blade
+   - ED% 100-140 -> 150-180
+   - removed weaken when striking
+   - added 20 IAS
+   - added 25% chance lvl 35 Poison Nova when striking
+
+- Athenas Wrath
+   - ED% 150-180 -> 200
+   - removed +Druid skill
+   - added 20 IAS
+   - added Oskill Werewolf
+   - added Oskill Lycanthropy
+   - added Oskill Fury
+
+- Pierre Tombale Couant
+   - Damage 12-20 -> 40-60
+   - ED% 160-220 -> 200
+   - removed +Barb
+   - removed AR
+   - added 35 IAS
+   - added +2 all skills
+
+- Grims Burning Dead
+   - Fire Dmg 131-232 -> 300
+   - ED% 140-180 -> 200
+   - requirements -50 -> -80
+   - +Necro 3 -> 3-5
+   - removed Defense
+   - removed thorns
+   - added 50 IAS
+
+- Razorswitch
+   - FCR 30 -> 40-50
+   - Life 80 -> 100
+   - all skills 1 -> 2
+   - removed Thorns
+
+- Ribcracker
+   - removed Defense flat and %
+   - added 150 Defense vs Melee
+   - added 150 Defense vs Missiles
+
+- Chromatic Ire
+   - all res 20-40 -> 40
+   - FCR 20 -> 50
+   - removed Lightning Thorns
+   - removed Lightning Mastery
+   - removed Fire Mastery
+   - removed Cold Mastery
+   - added +3-5 Chainlightning
+   - added +3 Meteor
+   - added +3 Blizzard
+
+- Warpspear
+   - removed ignore target defense
+   - removed energy shield
+   - added Meteor
+   - added 40 FCR
+   - added 150 Mana
+   - added 55 FHR
+
+- Skullcollector
+   - MPK 20 -> 10-20
+   - all skill 2 -> 1-4
+   - added 40-50 FCR
+
+- Skystrike
+   - lightning dmg 1-250 -> 1-301
+   - IAS 30 -> 40
+   - +Amazon 1 -> 2
+   - 2% chance lvl 6 meteor on striking -> 33% chance lvl 18 Meteor on striking
+   - removed AR
+   - added +1 Bows and Crossbows skilltab
+   - added 20 Min dmg
+
+- Riphook
+   - openwounds 30 -> 5-50
+   - Mana 35 -> 90
+   - IAS 30 -> 40
+   - added 5-40 deadly strike
+   - added 5-40 crushing blow
+
+- Endlesshail
+   - Mana 40 -> 80
+   - Defense vs Missiles 50 -> 150
+   - ED% 180-220 -> 200
+   - Cold dmg 15-30 -> 300
+   - removed Strafe
+   - removed cold res
+   - added 30 IAS
+   - added Oskill Strafe
+
+- Cliffkiller
+   - +Amazon 2 -> 2-3
+   - Defense vs Missiles 80 -> 200
+   - Life 50 -> 100
+   - Min Dmg 5-10 -> 20-30
+   - Max dmg 20-30 -> 40-50
+   - added 20 FHR
+
+- Magewrath
+   - Dex 10 -> 25
+   - ED% 120-150 -> 150-200
+   - +Amazon 1 -> 1-3
+   - removed AR
+   - added 20 IAS
+
+- Goldstrike Arch
+   - ED% 200-250 -> 250
+   - dmg to undead 100 -> 200
+   - dmg to demons 100 -> 200
+   - removed AR%
+   - removed FoH on striking
+   - added 200% Gold Find
+   - added +2 Amazon
+
+- Langer Briser
+   - ED% 170-200 -> 200
+   - MF% 30-60 -> 50-75
+   - removed knockback
+   - added 60 IAS
+   - added 34 Pierce
+
+- Pus Spitter
+   - IAS 10 -> 20
+   - 4% chance lvl 1 Lower resist on striking -> 30% chance Lvl 30 Lower resist on striking
+   - removed +Necro
+   - added +2 all skills
+   - added 34% Pierce
+
+- Demon Machine
+   - added 30 IAS
+
+- Peasent Crown
+   - Energy 20 -> 25-50
+   - Vitality 20 -> 10-20
+   - FRW 15 -> 30
+   - Defense% 100 -> 200
+   - Goldfind% -50
+
+- Rockstopper
+   - Lightning res 20-40 -> 20-50
+   - DR% 10 -> 10-20
+   - Cold res 20-40 -> 20-50
+   - Vitality 15 -> 15-20
+   - added 20 FHR
+
+- Darksight Helm
+   - 6% chance lvl 3 dim vision when struck -> 33% chance lvl 30 dim vision when struck
+   - removed Defense per Lvl
+   - added 20-40 Lightning res
+   - added 5-8 Life%
+
+- Valkyrie Wing
+   - MPK 2-4 -> 4-6
+
+- Crown of Thieves
+   - Dex 25 -> 25-35
+   - Life 50 -> 75-90
+   - Mana 35 -> 35-50
+   - Goldfind% 80-100 -> 150-190
+   - added 20 FRW
+
+- Blackhorns Face
+   - lightning abs% 20 -> 20-30
+   - Lightning res 15 -> 50
+   - removed Light thorns
+   - added 20 FBR
+   - added Kick dmg per Lvl
+
+- Veil of Steel
+   - added +1 all skills
+   - added 40-80 ED%
+
+- Arkaine's Valor
+   - added +1 random class skill
+
+- Windforce
+   - Dex 5 -> 20
+   - Str 10 -> 20
+   - ED% 250 -> 250-300
+
+- Atmas Scarab
+   - Amp on Striking 20% -> 25%
+   - Thorns 5 -> 120
+
+- Lycanders Aim
+   - +Amazon 2 -> 2-3
+   - +Bow 2 -> 2-3
+   - ED% 150-200 -> 200-250
+   - IAS 35
+   - removed defense%
+   - added prevent monster heal
+   - added 30% piercing attack
+
+- Lycanders Flank
+   - +Amazon 2 -> 3-4
+   - +Java 2 -> 3-4
+   - ED% 150-200 -> 200
+   - IAS 30 -> 60
+   - removed Defense%
+   - added 30 FRW
+   - added 1% MF per Lvl
+
+- Bartucs Cut Throat
+   - +Sin 2 -> 1-3
+   - +MA 1 -> 1-3
+   - ED% 150-200 -> 200-250
+   - removed AR%
+   - added 30 IAS
+   - added -5 to -10 enemy Lightning/Cold/Fire resist
+
+- Lacerator
+   - 33% chance Lvl 3 AMP on striking -> 33% Lvl 22 AMP on striking
+
+- Hellrack
+   - added 34% Pierce attack
+
+- Shadowkiller
+   - ED% 170-220 -> 250-290
+   - IAS 20 -> 30
+   - +Shadow 3-5 -> 4-5
+   - removed blade shield
+   - removed MPK
+   - added 6-9 Manasteal
+   - added Oskill Berserk
+
