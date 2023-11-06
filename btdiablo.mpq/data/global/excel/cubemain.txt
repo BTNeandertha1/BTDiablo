@@ -6,7 +6,7 @@ Unique Reroll	1				0					2	any,uni,noe	mfd						usetype,uni	99		99														
 Unique Reroll	1				0					3	any,sock	apot	wms					useitem,rem																													mfd																																																										0
 3 Thaw for MF Charm	1				100					3	wms,qty=3							mff,uni	99		99																																																																																				0
 Magic Corruptor	0				0	17	362	0		2	armo,noe	apot						useitem			99	corruption1			-1	-1	corruption2			-500	-500																																																																										0
-1 thawing	1				100					1	wms							xla,uni	99		99																																																																																				0
+1 thawing	0				100					1	wms							xla,uni	99		99																																																																																				0
 1 thawing	0				100					2	wms,qty=2							mfd																																																																																							0
 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Unique Weapon -> Elite Unique Weapon	0				100					2	eli,uni	wms						useitem	99		99	hit-skill-splash		1	1	1																																																																															0
 1 town portal scroll	0				100					1	isc							Red Portal,qty=144																																																																																							0
@@ -17,7 +17,7 @@ Test	0				100					1	rin							usetype,uni	99		99																										usetyp
 Test	0				100					1	amu							usetype,uni	99		99																										usetype,uni	99		99																										usetype,uni	99		99																										0
 2 stamina	0				100					2	spot,qty=2								99		99																																																																																				0
 2 antidote	0				100					2	apot,qty=2								99		99																																																																																				0
-1 mana potion	0				100					1	mpot							cm1	99		99	state		175	1	1																																																																															0
+1 mana potion	0				100					1	mpot							cm1	99		99	cheap			200	200																																																																															0
 ,set	0				100					2	hpot,qty=2								99		99																																																																																				0
 ,uni	0				100					2	helm	cm1						useitem	99		99	state		175	1	1																																																																															0
 DyesTest	0				100					2	helm	jew,mag						useitem	99		99	state		198	1	1																																																																															0
@@ -1625,3 +1625,4 @@ Remove LGr	1				100	18	368	1		2	weap	1dr						useitem	99		99	state		223	-1	-1	dy
 Remove DY	1				100	18	369	1		2	weap	1dr						useitem	99		99	state		224	-1	-1	dyedarkyellow1			-1	-1	dyed1			-1	-1																																																																					0
 Remove LP	1				100	18	370	1		2	weap	1dr						useitem	99		99	state		225	-1	-1	dyelightpurple1			-1	-1	dyed1			-1	-1																																																																					0
 Remove DP	1				100	18	371	1		2	weap	1dr						useitem	99		99	state		226	-1	-1	dyedarkpurple1			-1	-1	dyed1			-1	-1																																																																					0
+Remove Orange	1				100	18	372	1		2	weap	1dr						useitem	99		99	state		227	-1	-1	dyeorange1			-1	-1	dyed1			-1	-1																																																																					0
