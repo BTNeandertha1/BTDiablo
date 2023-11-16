@@ -924,6 +924,9 @@ QOL
 - Eschuta's Temper
    - 2-3 Sorceress Skills (was 1-3)
    - -5 to -15 To enemy Fire and Lightning Resistance (was 10-20 Fire and Lightning Skill Damage)
+- Harlequin's Crest
+   - 25-50% Magic Find
+   - 5-10% Damage Reduction
 - Axe of Fechmar
    - Removed Light Radius
    - Added 20% Increased Attack Speed
