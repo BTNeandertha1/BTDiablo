@@ -2169,159 +2169,159 @@ Normal Sets
 All Normal Sets Have No Required Level.
 ---------------------------------------
 
-Civerb's Vestments
-	Civerb's Ward: Changed 15 Defense to 55. Changed 15% Block Chance to 20%. Added 25 Faster Hit Recovery. Added 30% Cold Resist.
-		2 Pieces: Changed 22 Mana to 50 life. Changed 26% Poison Resist to 40.
-	Civerb's Icon: Changed 4 Replenish Life to 7-12. Added 1.5-1.75 Mana Based on Character Level.
-		2 Pieces: Removed 25 Defense. Changed 25% Cold Resist to 25 Mana.
-	Civerb's Cudgel: Changed 75 Attack Rating to 8 Attack Rating Base on Character Level. Changed Maximum Damage 17-23 to 23. Added 1-20 Lightning Damage.
-	2 Piece Bonus: Changed 25% Fire Resist to 30. Added 10 Faster Cast Rate.
-	3 Piece Bonus: Changed 15 Strength to 20. Changed 25% Lighting Resist to 30. Changed 50 Defense to 10 Physical Damage Reduction. Added 15% Experience gain. Added 100% Magic find.
-Hsarus' Defense
-	Iron Heel: Changed 20 Faster Run Walk to 25.
-		2 Pieces: Added +6 Damage.
-	Iron Fist: Changed Physical Damage Reduced by 2 to 10. Added Magical Damage Reducted by 10. Added 75% Reduced Poison Length. Changed 10 Strength to 25 Health.
-		2 Pieces: Changed 20 Defense per level to 5 Dexterity and 5 Vitality.
-	Iron Stay: Changed 20 Health to 25. Changed 20% Cold Resist to 25. 
-		2 Pieces: Changed 20 Defense per level to 5 Strength and 5 Energy.
-	2 Piece Bonus: Changed 5 Thorns to 1 Thorns Damage Per Level.
-	3 Piece Bonus: Changed 5 Maximum Damage to 1.5 Thorns Per Level. Changed 25% Lightning Resist to 30. Added 30% Poison Resist. Added 15% Experience Gain. Added 100% Magic Find.
-Cleglaw's Brace
-	Cleglaw's Tooth: Changed 50% Deadly Strike to 75. Added +10 Damage.
-		2 Pieces: Changed 1.25 Damage Per Level to 1.375.
-	Cleglaw's Claw: Changed 17 Defense to 55. Added 10% Cold Resist. Added 5 Reduced Physical Damage.
-		2 Pieces: Changed 15% All Resist to 20.
-	Cleglaw's Pincers: Changed Knockback to 20% Increased Attack Speed. Added 10% Fire Resist.
-	2 Piece Bonus: Changed 50 Defense to 35% Openwounds. Added 1-10 Damage.
-	3 Piece Bonus: Changed 35% Crushing Blow to 6% Lifesteal. Changed 20% Increased Attack Speed to 25. Added 15% Experience Gain. Added 100% Magic Find.
-Iratha's Finery
-	Iratha's Collar: Added 20 Mana.
-	Iratha's Cuff: Added 1-20 Lightning Damage. Changed Half Freeze Duration to 15 Health.
-	Iratha's Coil: Added 30% Fire Resist.
-		2 Pieces: Changed 10 Dexterity to 20.
-	Iratha's Cord: Changed 25 Defense to 15 Dexterity. Changed +5 to Minimum Damage to 8.
-	2 Piece Bonus: Changed 50 Defense to 3 Mana Per Kill.
-	3 Piece Bonus: Changed 20% Faster Run/Walk to 25. Removed 24% Pierce.
-	4 Piece Bonus: Changed 15 Dexterity to 60% Pierce. Added 15% Experience Gain. Added 100% Magic Find. 
-Isenhart's Armory
-	Isenhart's Lightbrand: Added 13-15 Fire Damage. Added 100% Enhanced Damage Versus Undead.
-		2 Pieces: Changed 1.25 Attack Rating Per Level to 1.25 Fire Damager Per Level.
-	Isenhart's Parry: Added +1 All Skills. Changed 40 Defense to 30% Block Chance. Added 20% Lightning Resist. Changed Attcker Takes Lightning Damage of 4 to 13-16.
-		2 Pieces: Changed 8% All Resist to 10.
-	Isenhart's Case: Changed 40 Defense to 100. Changed 2 Reduced Magical Damage to 5. Added 35 Health.
-	Isenhart's Horns: Changed 6 Dexterity to 10 Strength. Changed 2 Reduced Physical Damage to 5. Added 30 Health.
-		2 Pieces: Changed 8% All Resist to 10.
-	4 Piece Bonus: Changed 20% Faster Run/Walk to 25. Added 5% Manasteal. Added +1 All Skills. Removed 30% Block Chance. Added 15% Experience gain. Added 100% Magic Find.
-Vidala's Rig
-	Vidala's Barb: Changed 1-20 Lightning Damage to 100 Poison Damage Over 4 seconds. Added 20% Openwounds. Added 60-75 Enhanced Damage.
-		2 Pieces: Changed 8 Attack Rating per level to 3 Poison Damage per level.
-	Vidala's Fetlock: Changed 150 Stamina to 10 Vitality.
-		2 Pieces: Changed 8% All Resist to 10.
-	Vidala's Ambush: Added 12% Chance to Cast Level 1 Poison Nova when struck. Changed 11 Dexterity to 15. Changed 50 Defense to 20% Fire Resist. Added 20% Lightning Resist.
-		2 Pieces: Changed 24% Fire Resist to +2 Amazon Skills.
-	Vidala's Snare: Added 20% Poison Resist.
-	4 Piece Bonus: Changed 1.5 Cold Damager per Level to 1.5 Poison Damager per Level. Changed Freezes target to +1 All Skills. Added 15% Experience gain. Added 50% Magic Find.
-Milabrega's Regalia
-	Milabrega's Orb: Changed 25 Defense to 60. Added 25% Block Chance. Changed 20% Magic Find to 0.625 Magic Find per level.
-		2 Piece: Changed 50 life to 40% Lightning Resist. Changed 50% Enhanced Defense to 100%.
-	Milabrega's Rod: Changed +1 Paladin Skills to +1 All Skills. Changed 50% Enhanced Damage to 100%. Removed +2 Light Radius.
-		2 Piece: Added 9-18 Cold Damage.
-	Milabrega's Diadem: Changed 15 Life to 30. Changed 15 Mana to 30.
-	Milabrega's Robe: Changed Attacker Takes Damage of 3 to 5 Reduced Magical Damage. Changed 2 Physical Damage Reduction to 5. Added 10% Faster Cast Rate. Added -45% Requirements. Added 10 Faster Run/Walk.
-		2 Piece: Added 40% Fire Resist.
-	2 Piece Bonus: Changed 75 Attack Rating to 125. Changed 2 Lightning Damager Per Level to 2 Cold Damage Per Level.
-	4 Piece Bonus: Changed +2 Paladin Skills to +2 All Skills. Changed 15% Poison Resist to 40%. Added 15% Experience Gain. Added 100% Magic Find.
-Cathan's Traps
-	Cathan's Rule: Changed +1 Fire Skills to +2. Added 15% Faster Cast Rate. Changed 10 Fire Damage to 10-15.
-	Cathan's Mesh: Changed 15 Defense to 50. Added 15% All Resist. Added 15% Faster Run/Walk.
-	Cathan's Visage: Changed 20 Mana to 50.
-		2 Piece: Changed Defense per Level to 0.375 Vitality per Level.
-	Cathan's Sigil: Changed Attacker Takes 5 lightning Damage to 10. Changed 10% Faster Hit Recovery to 23%. Added 15% Mana Regen.
-		2 Piece: Changed 50 Defense to 10 Energy. Changed 25% Magic Find to 40.
-	Cathan's Seal: Changed 6% Lifesteal to 2 Life After Each Kill. Added 10% Faster Cast Rate.
-		2 Piece: Changed 10 Strength to 5. Added 5 Defense.
-	2 Piece Bonus: Changed 16% Mana Regen to 20.
-	3 Piece Bonus: Changed 25% Lightning Resist to 30.
-	5 Piece Bonus: Changed 60 Attack Rating to +2 Fire Skills. Changed 3 Reduced Magical Damage to 5. Changed 25% All Resist to 20. Added 25% Increased Attack Speed. Changed 20 Mana to 2 Mana After Each Kill. Added 15% Experience Gain. Added 60% Magic Find.
-Tancred's Battlegear
-	Tancred's Crowbill: Changed 80% Enhanced Damage to 100%. Added 35% Crushing Blow. Changed 75 Attack Rating to 2 Attack Rating Per Level. Added 1.5 Damage Per Level.
-		3 Pieces: Changed 20% Increased Attack Speed to 30.
-	Tancred's Spine: Changed 40 Health to 50. Changed 15 Strength to 20. Added 27% Faster Hit Recovery. Added 25-34% Curse Reduction.
-	Tancred's Hobnails: Changed Heal Stamina Plus 25% to 25 Health.
-	Tancred's Weird: Changed 2 Physical Damage Reduction to 5. Changed 1 Magical Damage Reduction to 5. Added 20 Lightning Damage.
-	Tancred's Skull: Changed 10% Enhanced Damage to 25%. Changed 40 Attack Rating to 80.
-		2 Pieces: Changed 10% All Resist to 15.
-	5 Piece Bonus: Changed 75% Gold Find to 125%. Changed 10% All Resist to 35%. Added +1 All Skills. Added 10% Physical Damage Reduction. Added 15% Experience Gain. Added 100% Magic Find.
-Sigon's Complete Steel
-	Sigon's Gage: Changed 10 Strength to 20. Changed 20 Attack Rating to 60.
-		2 Pieces: Changed 30% Increased Attack Speed to 35%.
-	Sigon's Visor: Changed 25 Defense to 50. Added 20% Poison Resist.
-	Sigon's Shelter: Changed 25% Enhanced Defense to 50%. Added 27 Faster Hit Recovery.
-		2 Pieces: Changed Attacker Takes Damage of 20 to 2 Defense per Level.
-	Sigon's Sabot: Changed 20% Faster Run/Walk to 25. 
-		2 Pieces: Changed 50 Attack Rating to 60.
-	Sigon's Wrap: Unchanged.
-		2 Pieces: Changed 2 Defense per Level to Attacker Takes Damage of 20.
-	Sigon's Guard: CHanged 20% Block Chance to 30%; Added Oskill Level 1 Frozen Armor.
-		2 Pieces: Added Half Freeze Duration.
-	6 Piece Bonus: Added +2 All Skills. Changed 12% Fire Resist to 35% All Resist. Changed Attacker Takes Damage of 12 to 12% Reduced Physical Damage. Changed 24 Fire Damage to 43. Changed 20 Mana to 35. Added 15% Experience Gain. Added 50% Magic Find.
-Infernal Tools
-	Infernal Cranium: Changed 10% All Resist to 20%. Added +1 Necromancer Skills.
-		2 Pieces: Changed 2 Defense Per Level to 2 Mana Per Level.
-	Infernal Torch: Changed +1 Necromancer Skills to +2. Changed +8 to Minimum Damage to 20% Faster Cast Rate.
-		2 Pieces: Changed 10 Attack Rating Per Level to 30 Mana.
-	Infernal Sign: Changed 25 Defense to 50. Changed 20 Health to 25. Added 25 Mana.
-		3 Pieces: Changed Half Freeze Duration to 15% Faster Run/Walk.
-	2 Piece Bonus: Changed 8 Poison Damage over 3 seconds to 25% Fire Resist. Changed 10 Mana to 40.
-	3 Piece Bonus: Changed 20% Attack Rating Bonus to 75% Reduced Poison Length. Changed +1 Necromancer Skills to +1 All Skills. Changed 20% Open Wounds to 100 Defense vs Missle. Changed 6% Manasteal to 3 Mana After Each Kill. Added 15% Experience Gain. Added 100% Magic Find.
-Berserker's Garb
-	Berserker's Headgear: Changed 15 Defense to 0.5 Strength Per Level. Added 27% Faster Hit Recovery.
-		2 Pieces: Changed x Attack Rating Per Level to 25% Lightning Resist.
-	Berserker's Hauberk: Changed 2 Magical Damage Reduction to 8 Added 8 Physical Damage Reduction. Added 15% Faster Run/Walk.
-		2 Pieces: Changed x Defense Per Level with 25% Cold Resist.
-	Berserker's Hatchet: Changed 30% Bonus Attack Rating to +10-20 Damage. Added 5% lifesteal. Added 20% Increased Attack Speed. Added 10% Open Wounds.
-		2 Pieces: Added 10 Strength. Added 1.25 Damage Per Level.
-	3 Piece Bonus: Changed 5-9 Poison Damage over 3 Seconds to 20% All Resist. Added 15% Experience Gain. Added 75% Gold Find. Added 100% Magic Find.
-Death's Disguise
-	Death's Hand: Unchanged.
-	Death's Guard: Unchanged.
-	Death's Touch: Changed 25% Enhanced Damage to 75%. Added 4% Manasteal. Added -30% Requirements. Added 1.75 Damage Damage Per Level.
-	3 Piece Bonus: Added +1 All Skills. Added 15% Experience Gain. Added 100% Magic Find.
-Angelical Raiment
-	Angelic Sickle: Changed 75 Attack Rating to 75% Enhanced Damage. Added 1% Damage to Undead per Level.
-		2 Pieces: Changed 75% Enhanced Damage to +20 Magic Damage. Added 2 Damage Per Level.
-	Angelic Mantle: Changed 3 Physical Damage Reduction to 5. Changed 40% Enhanced Defense to 65%. Added 6% Physical Damage Reduction. Added 15% Faster Run/Walk.
-		2 Pieces: Changed 50% Fire Resist to 15% All Resist.
-	Angelic Halo: Changed 6 Replenish Life to 8. Changed 20 Health to 30. Added 5 Strength.
-		3 Pieces: Changed 50% Magic Find to 25%.
-	Angelic Wings: Changed +3 Light Radius to 30 Mana. Added 10% Faster Cast Rate.
-	2 Piece Bonus: Changed 10 Dexterity to 15.
-	3 Piece Bonus: Changed 50 Mana to 75.
-	4 Piece Bonus: Changed 40% Magic Find to 50%. Added +1 All Skills. Added 15% Experience Gain.
-Arctic Gear
-	Arctic Horn: Changed 50% Enhanced Damage to 135%. Added 10 Cold Damage.
-		2 Pieces: Changed 8 Attack Rating Per Level to 30 Cold Damage.
-		3 Pieces: Changed 20-30 Cold Damage to 40 Mana.
-		4 Pieces: Added 8 Attack Rating Per Level.
-	Arctic Furs: Changed 275-325% Enhanced Defense to 300%. Changed 10% All Resist to 20%. Added +1 All Skills.
-		2 Pieces: Changed 15% Cold Resist to 50 Mana.
-	Arctic Binding: Changed 30 Defense to 30 Mana.
-		2 Pieces: Changed 50% Magic Find to 10% Faster Run/Walk.
-		3 Pieces: Changed 10% Cold Resist to 50% Magic Find.
-	Arctic Mitts: Changed 20 Health to 30. Changed 10% Increased Attack Speed to 20%.
-		2 Pieces: Changed 50 Attack Rating to 15% All Resist.
-	2 Piece Bonus: Changed 5 Strength to 15 Dexterity.
-	3 Piece Bonus: Changed 50 Health to 3 Mana After Each Kill.
-	4 Piece Bonus: Changed 2 Cold Damage Per Level to 2.5. Added +1 All Skills. Added 15% Experience Gain. Added 60% Magic Find.
-Arcanna's Tricks
-	Arcanna's Sign: Added 10% Faster Cast Rate; Changed 15 Mana to 40.
-		3 Pieces: Changed 20% Fire Resist to 25%.
-	Arcanna's Deathwand: Changed 25% Deadly Strike to 25% Faster Cast Rate. Changed +1 Sorceress Skills to +1 All Skills.
-	Arcanna's Head: Changed 4 Replenish Life to 3 Life After Each Kill. Changed Attacker Takes Damage of 2 to 25% Poison Resist. Added 10% Damage Goes To Mana. .
-		2 Pieces: Changed 3 Defense Per Level to 10 Energy. Changed 15% Lightning Resist to 25%.
-	Arcanna's Flesh: Changed +2 Light Radius to 25% Cold Resist. Changed 3 Physical Damage Reduction to 6. Added 15% Faster Run/Walk.
-		3 Pieces: Changed 10 Energy to 3 Defense Per Level.
-	4 Piece Bonus: Changed +1 All Skills to +2. Changed 5% Manasteal to 6 Mana After Each Kill. Added 15% Experience Gain. Added 50% Magic find.
+- Civerb's Vestments
+	- Civerb's Ward: Changed 15 Defense to 55. Changed 15% Block Chance to 20%. Added 25 Faster Hit Recovery. Added 30% Cold Resist.
+		- 2 Pieces: Changed 22 Mana to 50 life. Changed 26% Poison Resist to 40.
+	- Civerb's Icon: Changed 4 Replenish Life to 7-12. Added 1.5-1.75 Mana Based on Character Level.
+		- 2 Pieces: Removed 25 Defense. Changed 25% Cold Resist to 25 Mana.
+	- Civerb's Cudgel: Changed 75 Attack Rating to 8 Attack Rating Base on Character Level. Changed Maximum Damage 17-23 to 23. Added 1-20 Lightning Damage.
+	- 2 Piece Bonus: Changed 25% Fire Resist to 30. Added 10 Faster Cast Rate.
+	- 3 Piece Bonus: Changed 15 Strength to 20. Changed 25% Lighting Resist to 30. Changed 50 Defense to 10 Physical Damage Reduction. Added 15% Experience gain. Added 100% Magic find.
+- Hsarus' Defense
+	- Iron Heel: Changed 20 Faster Run Walk to 25.
+		- 2 Pieces: Added +6 Damage.
+	- Iron Fist: Changed Physical Damage Reduced by 2 to 10. Added Magical Damage Reducted by 10. Added 75% Reduced Poison Length. Changed 10 Strength to 25 Health.
+		- 2 Pieces: Changed 20 Defense per level to 5 Dexterity and 5 Vitality.
+	- Iron Stay: Changed 20 Health to 25. Changed 20% Cold Resist to 25. 
+		- 2 Pieces: Changed 20 Defense per level to 5 Strength and 5 Energy.
+	- 2 Piece Bonus: Changed 5 Thorns to 1 Thorns Damage Per Level.
+	- 3 Piece Bonus: Changed 5 Maximum Damage to 1.5 Thorns Per Level. Changed 25% Lightning Resist to 30. Added 30% Poison Resist. Added 15% Experience Gain. Added 100% Magic Find.
+- Cleglaw's Brace
+	- Cleglaw's Tooth: Changed 50% Deadly Strike to 75. Added +10 Damage.
+		- 2 Pieces: Changed 1.25 Damage Per Level to 1.375.
+	- Cleglaw's Claw: Changed 17 Defense to 55. Added 10% Cold Resist. Added 5 Reduced Physical Damage.
+		- 2 Pieces: Changed 15% All Resist to 20.
+	- Cleglaw's Pincers: Changed Knockback to 20% Increased Attack Speed. Added 10% Fire Resist.
+	- 2 Piece Bonus: Changed 50 Defense to 35% Openwounds. Added 1-10 Damage.
+	- 3 Piece Bonus: Changed 35% Crushing Blow to 6% Lifesteal. Changed 20% Increased Attack Speed to 25. Added 15% Experience Gain. Added 100% Magic Find.
+- Iratha's Finery
+	- Iratha's Collar: Added 20 Mana.
+	- Iratha's Cuff: Added 1-20 Lightning Damage. Changed Half Freeze Duration to 15 Health.
+	- Iratha's Coil: Added 30% Fire Resist.
+		- 2 Pieces: Changed 10 Dexterity to 20.
+	- Iratha's Cord: Changed 25 Defense to 15 Dexterity. Changed +5 to Minimum Damage to 8.
+	- 2 Piece Bonus: Changed 50 Defense to 3 Mana Per Kill.
+	- 3 Piece Bonus: Changed 20% Faster Run/Walk to 25. Removed 24% Pierce.
+	- 4 Piece Bonus: Changed 15 Dexterity to 60% Pierce. Added 15% Experience Gain. Added 100% Magic Find. 
+- Isenhart's Armory
+	- Isenhart's Lightbrand: Added 13-15 Fire Damage. Added 100% Enhanced Damage Versus Undead.
+		- 2 Pieces: Changed 1.25 Attack Rating Per Level to 1.25 Fire Damager Per Level.
+	- Isenhart's Parry: Added +1 All Skills. Changed 40 Defense to 30% Block Chance. Added 20% Lightning Resist. Changed Attcker Takes Lightning Damage of 4 to 13-16.
+		- 2 Pieces: Changed 8% All Resist to 10.
+	- Isenhart's Case: Changed 40 Defense to 100. Changed 2 Reduced Magical Damage to 5. Added 35 Health.
+	- Isenhart's Horns: Changed 6 Dexterity to 10 Strength. Changed 2 Reduced Physical Damage to 5. Added 30 Health.
+		- 2 Pieces: Changed 8% All Resist to 10.
+	- 4 Piece Bonus: Changed 20% Faster Run/Walk to 25. Added 5% Manasteal. Added +1 All Skills. Removed 30% Block Chance. Added 15% Experience gain. Added 100% Magic Find.
+- Vidala's Rig
+	- Vidala's Barb: Changed 1-20 Lightning Damage to 100 Poison Damage Over 4 seconds. Added 20% Openwounds. Added 60-75 Enhanced Damage.
+		- 2 Pieces: Changed 8 Attack Rating per level to 3 Poison Damage per level.
+	- Vidala's Fetlock: Changed 150 Stamina to 10 Vitality.
+		- 2 Pieces: Changed 8% All Resist to 10.
+	- Vidala's Ambush: Added 12% Chance to Cast Level 1 Poison Nova when struck. Changed 11 Dexterity to 15. Changed 50 Defense to 20% Fire Resist. Added 20% Lightning Resist.
+		- 2 Pieces: Changed 24% Fire Resist to +2 Amazon Skills.
+	- Vidala's Snare: Added 20% Poison Resist.
+	- 4 Piece Bonus: Changed 1.5 Cold Damager per Level to 1.5 Poison Damager per Level. Changed Freezes target to +1 All Skills. Added 15% Experience gain. Added 50% Magic Find.
+- Milabrega's Regalia
+	- Milabrega's Orb: Changed 25 Defense to 60. Added 25% Block Chance. Changed 20% Magic Find to 0.625 Magic Find per level.
+		- 2 Piece: Changed 50 life to 40% Lightning Resist. Changed 50% Enhanced Defense to 100%.
+	- Milabrega's Rod: Changed +1 Paladin Skills to +1 All Skills. Changed 50% Enhanced Damage to 100%. Removed +2 Light Radius.
+		- 2 Piece: Added 9-18 Cold Damage.
+	- Milabrega's Diadem: Changed 15 Life to 30. Changed 15 Mana to 30.
+	- Milabrega's Robe: Changed Attacker Takes Damage of 3 to 5 Reduced Magical Damage. Changed 2 Physical Damage Reduction to 5. Added 10% Faster Cast Rate. Added -45% Requirements. Added 10 Faster Run/Walk.
+		- 2 Piece: Added 40% Fire Resist.
+	- 2 Piece Bonus: Changed 75 Attack Rating to 125. Changed 2 Lightning Damager Per Level to 2 Cold Damage Per Level.
+	- 4 Piece Bonus: Changed +2 Paladin Skills to +2 All Skills. Changed 15% Poison Resist to 40%. Added 15% Experience Gain. Added 100% Magic Find.
+- Cathan's Traps
+	- Cathan's Rule: Changed +1 Fire Skills to +2. Added 15% Faster Cast Rate. Changed 10 Fire Damage to 10-15.
+	- Cathan's Mesh: Changed 15 Defense to 50. Added 15% All Resist. Added 15% Faster Run/Walk.
+	- Cathan's Visage: Changed 20 Mana to 50.
+		- 2 Piece: Changed Defense per Level to 0.375 Vitality per Level.
+	- Cathan's Sigil: Changed Attacker Takes 5 lightning Damage to 10. Changed 10% Faster Hit Recovery to 23%. Added 15% Mana Regen.
+		- 2 Piece: Changed 50 Defense to 10 Energy. Changed 25% Magic Find to 40.
+	- Cathan's Seal: Changed 6% Lifesteal to 2 Life After Each Kill. Added 10% Faster Cast Rate.
+		- 2 Piece: Changed 10 Strength to 5. Added 5 Defense.
+	- 2 Piece Bonus: Changed 16% Mana Regen to 20.
+	- 3 Piece Bonus: Changed 25% Lightning Resist to 30.
+	- 5 Piece Bonus: Changed 60 Attack Rating to +2 Fire Skills. Changed 3 Reduced Magical Damage to 5. Changed 25% All Resist to 20. Added 25% Increased Attack Speed. Changed 20 Mana to 2 Mana After Each Kill. Added 15% Experience Gain. Added 60% Magic Find.
+- Tancred's Battlegear
+	- Tancred's Crowbill: Changed 80% Enhanced Damage to 100%. Added 35% Crushing Blow. Changed 75 Attack Rating to 2 Attack Rating Per Level. Added 1.5 Damage Per Level.
+		- 3 Pieces: Changed 20% Increased Attack Speed to 30.
+	- Tancred's Spine: Changed 40 Health to 50. Changed 15 Strength to 20. Added 27% Faster Hit Recovery. Added 25-34% Curse Reduction.
+	- Tancred's Hobnails: Changed Heal Stamina Plus 25% to 25 Health.
+	- Tancred's Weird: Changed 2 Physical Damage Reduction to 5. Changed 1 Magical Damage Reduction to 5. Added 20 Lightning Damage.
+	- Tancred's Skull: Changed 10% Enhanced Damage to 25%. Changed 40 Attack Rating to 80.
+		- 2 Pieces: Changed 10% All Resist to 15.
+	- 5 Piece Bonus: Changed 75% Gold Find to 125%. Changed 10% All Resist to 35%. Added +1 All Skills. Added 10% Physical Damage Reduction. Added 15% Experience Gain. Added 100% Magic Find.
+- Sigon's Complete Steel
+	- Sigon's Gage: Changed 10 Strength to 20. Changed 20 Attack Rating to 60.
+		- 2 Pieces: Changed 30% Increased Attack Speed to 35%.
+	- Sigon's Visor: Changed 25 Defense to 50. Added 20% Poison Resist.
+	- Sigon's Shelter: Changed 25% Enhanced Defense to 50%. Added 27 Faster Hit Recovery.
+		- 2 Pieces: Changed Attacker Takes Damage of 20 to 2 Defense per Level.
+	- Sigon's Sabot: Changed 20% Faster Run/Walk to 25. 
+		- 2 Pieces: Changed 50 Attack Rating to 60.
+	- Sigon's Wrap: Unchanged.
+		- 2 Pieces: Changed 2 Defense per Level to Attacker Takes Damage of 20.
+	- Sigon's Guard: CHanged 20% Block Chance to 30%; Added Oskill Level 1 Frozen Armor.
+		- 2 Pieces: Added Half Freeze Duration.
+	- 6 Piece Bonus: Added +2 All Skills. Changed 12% Fire Resist to 35% All Resist. Changed Attacker Takes Damage of 12 to 12% Reduced Physical Damage. Changed 24 Fire Damage to 43. Changed 20 Mana to 35. Added 15% Experience Gain. Added 50% Magic Find.
+- Infernal Tools
+	- Infernal Cranium: Changed 10% All Resist to 20%. Added +1 Necromancer Skills.
+		- 2 Pieces: Changed 2 Defense Per Level to 2 Mana Per Level.
+	- Infernal Torch: Changed +1 Necromancer Skills to +2. Changed +8 to Minimum Damage to 20% Faster Cast Rate.
+		- 2 Pieces: Changed 10 Attack Rating Per Level to 30 Mana.
+	- Infernal Sign: Changed 25 Defense to 50. Changed 20 Health to 25. Added 25 Mana.
+		- 3 Pieces: Changed Half Freeze Duration to 15% Faster Run/Walk.
+	- 2 Piece Bonus: Changed 8 Poison Damage over 3 seconds to 25% Fire Resist. Changed 10 Mana to 40.
+	- 3 Piece Bonus: Changed 20% Attack Rating Bonus to 75% Reduced Poison Length. Changed +1 Necromancer Skills to +1 All Skills. Changed 20% Open Wounds to 100 Defense vs Missle. Changed 6% Manasteal to 3 Mana After Each Kill. Added 15% Experience Gain. Added 100% Magic Find.
+- Berserker's Garb
+	- Berserker's Headgear: Changed 15 Defense to 0.5 Strength Per Level. Added 27% Faster Hit Recovery.
+		- 2 Pieces: Changed x Attack Rating Per Level to 25% Lightning Resist.
+	- Berserker's Hauberk: Changed 2 Magical Damage Reduction to 8 Added 8 Physical Damage Reduction. Added 15% Faster Run/Walk.
+		- 2 Pieces: Changed x Defense Per Level with 25% Cold Resist.
+	- Berserker's Hatchet: Changed 30% Bonus Attack Rating to +10-20 Damage. Added 5% lifesteal. Added 20% Increased Attack Speed. Added 10% Open Wounds.
+		- 2 Pieces: Added 10 Strength. Added 1.25 Damage Per Level.
+	- 3 Piece Bonus: Changed 5-9 Poison Damage over 3 Seconds to 20% All Resist. Added 15% Experience Gain. Added 75% Gold Find. Added 100% Magic Find.
+- Death's Disguise
+	- Death's Hand: Unchanged.
+	- Death's Guard: Unchanged.
+	- Death's Touch: Changed 25% Enhanced Damage to 75%. Added 4% Manasteal. Added -30% Requirements. Added 1.75 Damage Damage Per Level.
+	- 3 Piece Bonus: Added +1 All Skills. Added 15% Experience Gain. Added 100% Magic Find.
+- Angelical Raiment
+	- Angelic Sickle: Changed 75 Attack Rating to 75% Enhanced Damage. Added 1% Damage to Undead per Level.
+		- 2 Pieces: Changed 75% Enhanced Damage to +20 Magic Damage. Added 2 Damage Per Level.
+	- Angelic Mantle: Changed 3 Physical Damage Reduction to 5. Changed 40% Enhanced Defense to 65%. Added 6% Physical Damage Reduction. Added 15% Faster Run/Walk.
+		- 2 Pieces: Changed 50% Fire Resist to 15% All Resist.
+	- Angelic Halo: Changed 6 Replenish Life to 8. Changed 20 Health to 30. Added 5 Strength.
+		- 3 Pieces: Changed 50% Magic Find to 25%.
+	- Angelic Wings: Changed +3 Light Radius to 30 Mana. Added 10% Faster Cast Rate.
+	- 2 Piece Bonus: Changed 10 Dexterity to 15.
+	- 3 Piece Bonus: Changed 50 Mana to 75.
+	- 4 Piece Bonus: Changed 40% Magic Find to 50%. Added +1 All Skills. Added 15% Experience Gain.
+- Arctic Gear
+	- Arctic Horn: Changed 50% Enhanced Damage to 135%. Added 10 Cold Damage.
+		- 2 Pieces: Changed 8 Attack Rating Per Level to 30 Cold Damage.
+		- 3 Pieces: Changed 20-30 Cold Damage to 40 Mana.
+		- 4 Pieces: Added 8 Attack Rating Per Level.
+	- Arctic Furs: Changed 275-325% Enhanced Defense to 300%. Changed 10% All Resist to 20%. Added +1 All Skills.
+		- 2 Pieces: Changed 15% Cold Resist to 50 Mana.
+	- Arctic Binding: Changed 30 Defense to 30 Mana.
+		- 2 Pieces: Changed 50% Magic Find to 10% Faster Run/Walk.
+		- 3 Pieces: Changed 10% Cold Resist to 50% Magic Find.
+	- Arctic Mitts: Changed 20 Health to 30. Changed 10% Increased Attack Speed to 20%.
+		- 2 Pieces: Changed 50 Attack Rating to 15% All Resist.
+	- 2 Piece Bonus: Changed 5 Strength to 15 Dexterity.
+	- 3 Piece Bonus: Changed 50 Health to 3 Mana After Each Kill.
+	- 4 Piece Bonus: Changed 2 Cold Damage Per Level to 2.5. Added +1 All Skills. Added 15% Experience Gain. Added 60% Magic Find.
+- Arcanna's Tricks
+	- Arcanna's Sign: Added 10% Faster Cast Rate; Changed 15 Mana to 40.
+		- 3 Pieces: Changed 20% Fire Resist to 25%.
+	- Arcanna's Deathwand: Changed 25% Deadly Strike to 25% Faster Cast Rate. Changed +1 Sorceress Skills to +1 All Skills.
+	- Arcanna's Head: Changed 4 Replenish Life to 3 Life After Each Kill. Changed Attacker Takes Damage of 2 to 25% Poison Resist. Added 10% Damage Goes To Mana. .
+		- 2 Pieces: Changed 3 Defense Per Level to 10 Energy. Changed 15% Lightning Resist to 25%.
+	- Arcanna's Flesh: Changed +2 Light Radius to 25% Cold Resist. Changed 3 Physical Damage Reduction to 6. Added 15% Faster Run/Walk.
+		- 3 Pieces: Changed 10 Energy to 3 Defense Per Level.
+	- 4 Piece Bonus: Changed +1 All Skills to +2. Changed 5% Manasteal to 6 Mana After Each Kill. Added 15% Experience Gain. Added 50% Magic find.
 
 ------------------
 Exceptional Sets
@@ -2329,81 +2329,75 @@ Exceptional Sets
 All Exceptional Set Required Level got Averaged for each Set.
 ------------------
 
-The Disciple (Level 56 set) >Now Multi-Colored<
-	Telling of Beads: Cold Resist 18% to 30%. Added 10 Faster Cast Rate.
-	Laying of Hands: Chance to Cast level 3 Holy Bolt changed to level 16 Holy Bolt. Changed Damage to Demons 350% to 150-200%.
-	Rite of Passage: Removed Maximum Stamina. Changed Half Freeze Duration to Cannot be Frozen.	Changed +25 Defense to 20% Magic Find.
-	Spiritual Custodian: Chance to Cast level 3 Nova change to level 20 Nova. Removed Poison Damage. Changed +24 Fire Resist to 50% Lightning Resist. Added +1-2 All skills. Added 20% Faster Cast Rate.
-	Credendum: Changed +50 Defense to 5-10% Physical Damage Reduction.
-	2 Piece Bonus: Changed +150 Defense to 150 Mana.
-	3 Piece Bonus: Changed 22 Poison Damage over 3 seconds to 30% Poison Damage.
-	4 Piece Bonus: Changed 10 Strength to Strength that scales 1:1 with Character Level.
-		Moved and Changed 10 Dexterity to Dexterity that scales 1:1 with Character Level.
-	5 Piece Bonus: Changed 100 Mana to 100 Health. Added 15% experience gain. Added 125% Magic Find.
+- The Disciple (Level 56 set) >Now Multi-Colored<
+	- Telling of Beads: Cold Resist 18% to 30%. Added 10 Faster Cast Rate.
+	- Laying of Hands: Chance to Cast level 3 Holy Bolt changed to level 16 Holy Bolt. Changed Damage to Demons 350% to 150-200%.
+	- Rite of Passage: Removed Maximum Stamina. Changed Half Freeze Duration to Cannot be Frozen.	Changed +25 Defense to 20% Magic Find.
+	- Spiritual Custodian: Chance to Cast level 3 Nova change to level 20 Nova. Removed Poison Damage. Changed +24 Fire Resist to 50% Lightning Resist. Added +1-2 All skills. Added 20% Faster Cast Rate.
+	- Credendum: Changed +50 Defense to 5-10% Physical Damage Reduction.
+	- 2 Piece Bonus: Changed +150 Defense to 150 Mana.
+	- 3 Piece Bonus: Changed 22 Poison Damage over 3 seconds to 30% Poison Damage.
+	- 4 Piece Bonus: Changed 10 Strength to Strength that scales 1:1 with Character Level. Moved and Changed 10 Dexterity to Dexterity that scales 1:1 with Character Level.
+	- 5 Piece Bonus: Changed 100 Mana to 100 Health. Added 15% experience gain. Added 125% Magic Find.
 
-Heaven's Brethren (Level 65 Set) >Now White Colored<
-	Dangoon's Teaching: Changed Chance to cast Level 3 Frost Nova to Level 20 Meteor. Added 200% Enhanced Damage. Added Oskill Zeal. Added 25% Crushing blow.
-	Heaven's Taebaek: Changed Indestructable to Replenish Durability. Changed +50 Defense to +500. Added 40% Faster Cast Rate.
-	Haemosu's Adament: Changed +40 Defense vs Melee to +300 Defense. Changed +35 Defense vs Missle to +250 Defense.	Changed +75 Life to +200 Life. Added +45 All resist.
-	Ondal's Almighty: Changed Chance to Cast Level 3 Weaken to Prayer Aura level 15. Added +2 All Skills. Added 10% Faster Cast Rate.
-	2 Piece Bonus: Changed Heal Stamina to 10% Lifesteal.
-	3 Piece Bonus: Changed Replenish Life 20 to 30. Moved and Changed 30 Fire Damage to 3 Fire Damage per Level.
-	4 Piece Bonus: Added Attack Rating 10%. Added 24% Physical Damage Reduction. Added 15% Experience gain.
-		Added 125% Magic Find.
+- Heaven's Brethren (Level 65 Set) >Now White Colored<
+	- Dangoon's Teaching: Changed Chance to cast Level 3 Frost Nova to Level 20 Meteor. Added 200% Enhanced Damage. Added Oskill Zeal. Added 25% Crushing blow.
+	- Heaven's Taebaek: Changed Indestructable to Replenish Durability. Changed +50 Defense to +500. Added 40% Faster Cast Rate.
+	- Haemosu's Adament: Changed +40 Defense vs Melee to +300 Defense. Changed +35 Defense vs Missle to +250 Defense. Changed +75 Life to +200 Life. Added +45 All resist.
+	- Ondal's Almighty: Changed Chance to Cast Level 3 Weaken to Prayer Aura level 15. Added +2 All Skills. Added 10% Faster Cast Rate.
+	- 2 Piece Bonus: Changed Heal Stamina to 10% Lifesteal.
+	- 3 Piece Bonus: Changed Replenish Life 20 to 30. Moved and Changed 30 Fire Damage to 3 Fire Damage per Level.
+	- 4 Piece Bonus: Added Attack Rating 10%. Added 24% Physical Damage Reduction. Added 15% Experience gain. Added 125% Magic Find.
 
-Orphan's Call (Level 35 Set)
-	Guillaume's Face: Unchanged.
-	Wilhelm's Pride: Changed 10% Cold Resist to 25%. Added Oskill Increased Endurance level 6.
-	Magnus' Skin: Removed Light Radius +3. Changed 15% Fire Resist to 25%. Changed 100 Attack Rating to 500.
-	Wihtstan's Guard: Removed Light Radius +5. Changed Half Freeze Duration to Cannot Be Frozen. Added 50 Lightning and Poison Resistance.
-	2 Piece Bonus: Changed +35 Life to +100 Life.
-	3 Piece Bonus: Changed Thorns 5 damage to +5% Maximum Life.
-	4 Piece Bonus: Removed 50 Life. Changed 15% All resist to 20%. Changed 80% Magic Find to 125%. Added 15% Experience gain.
+- Orphan's Call (Level 35 Set)
+	- Guillaume's Face: Unchanged.
+	- Wilhelm's Pride: Changed 10% Cold Resist to 25%. Added Oskill Increased Endurance level 6.
+	- Magnus' Skin: Removed Light Radius +3. Changed 15% Fire Resist to 25%. Changed 100 Attack Rating to 500.
+	- Wihtstan's Guard: Removed Light Radius +5. Changed Half Freeze Duration to Cannot Be Frozen. Added 50 Lightning and Poison Resistance.
+	- 2 Piece Bonus: Changed +35 Life to +100 Life.
+	- 3 Piece Bonus: Changed Thorns 5 damage to +5% Maximum Life.
+	- 4 Piece Bonus: Removed 50 Life. Changed 15% All resist to 20%. Changed 80% Magic Find to 125%. Added 15% Experience gain.
 
-Hwanin's Majesty (Level 34 Set)
-	Hwanin's Splendor: Changed 20 Replenish Life to 33. Added 10 Physical Damage Reduction.
-	Hwanin's Refuge: Changed 10% Chance to Cast level 3 Static field to 15% CTC level 16 Static Field. Changed 200 Defense to 450. Changed 100 Life to 175. Changed 27% Poison Resist to 60. Added 10% Physical Damage Reduction.
-	Hwanin's Seal: Changed 3-33 Lightning Damage to 1-300. Changed Damage Taken Goes To Mana to 7% Physical Damage Reduction.
-	Hwanin's Justice: Changed Chance to Cast level 3 Ice Blast to Level 14 Nova. Changed 5-25 Lightning Damage to 1-300.
-	2 Piece Bonus: Changed 100 Defense to 10% Lifesteal.
-	3 Piece Bonus: Changed 200 Defense to 10% Lifesteal. Added 5% Physical Damage Reduction.
-	4 Piece Bonus: Added Holy Shock Aura level 10. Added 100 Life. Added 15% Experience gain.
+- Hwanin's Majesty (Level 34 Set)
+	- Hwanin's Splendor: Changed 20 Replenish Life to 33. Added 10 Physical Damage Reduction.
+	- Hwanin's Refuge: Changed 10% Chance to Cast level 3 Static field to 15% CTC level 16 Static Field. Changed 200 Defense to 450. Changed 100 Life to 175. Changed 27% Poison Resist to 60. Added 10% Physical Damage Reduction.
+	- Hwanin's Seal: Changed 3-33 Lightning Damage to 1-300. Changed Damage Taken Goes To Mana to 7% Physical Damage Reduction.
+	- Hwanin's Justice: Changed Chance to Cast level 3 Ice Blast to Level 14 Nova. Changed 5-25 Lightning Damage to 1-300.
+	- 2 Piece Bonus: Changed 100 Defense to 10% Lifesteal.
+	- 3 Piece Bonus: Changed 200 Defense to 10% Lifesteal. Added 5% Physical Damage Reduction.
+	- 4 Piece Bonus: Added Holy Shock Aura level 10. Added 100 Life. Added 15% Experience gain.
 
-Sazabi's Grand Tribute (Level 61 Set)
-	Sazabi's Cobalt Redeemer: Changed Indestructable to Replenish Durability. Changed 150% Enhanced Damage to 250%.	Changed 25-35 Cold Damage to 20% Deadly Strike.
-	Sazabi's Ghost Liberator: Changed 50-75 Life to 150 Life. Added 10% Physical Damage Reduction. Added 20-25% Cold Resist.
-	Sazabi's Mental Sheath: Changed +1 to All Skills to +2. Changed Lightning Resist and Fire Resist 15-20% to 20-25%. Added 20% Crushing Blow.
-	2 Piece Bonus: Changed 75% Poison Length Reduced to 200%.
-	3 Piece Bonus: Changed +1 to All Skills to +2. Changed 16% Physical Damage Reduction to 20%. Added 15% Experience gain.
-		Added 125% Magic Find.
+- Sazabi's Grand Tribute (Level 61 Set)
+	- Sazabi's Cobalt Redeemer: Changed Indestructable to Replenish Durability. Changed 150% Enhanced Damage to 250%. Changed 25-35 Cold Damage to 20% Deadly Strike.
+	- Sazabi's Ghost Liberator: Changed 50-75 Life to 150 Life. Added 10% Physical Damage Reduction. Added 20-25% Cold Resist.
+	- Sazabi's Mental Sheath: Changed +1 to All Skills to +2. Changed Lightning Resist and Fire Resist 15-20% to 20-25%. Added 20% Crushing Blow.
+	- 2 Piece Bonus: Changed 75% Poison Length Reduced to 200%.
+	- 3 Piece Bonus: Changed +1 to All Skills to +2. Changed 16% Physical Damage Reduction to 20%. Added 15% Experience gain. Added 125% Magic Find.
 
-Cow King's Leathers (Level 22 Set) >Now Black Colored<
-	Cow King's Horns: Changed +75 Defense to 5-10% Physical Damage Reduction. Changed Attacker Takes Damage of 10 to 25 Strength. Added 35 durability.
-	Cow King's Hide: Changed 10% Chance to Cast level 5 Chain lightning to 100% level 20 Charged Bolt. Changed 60% Enhanced Defense to 200%. Changed 30 Life to 100 Life. Changed 18% All resist to 75% Lightning resist. Added 20% Faster Run/Walk. Added 10% Physical Damage Reduction.
-		3 Pieces:  Added Level 1 Conviction Aura.
-	Cow King's Hoofs: Changed 25-35 Fire Damage to 1-450 Lightning Damage.
-	2 Piece Bonus: Changed 25% Poison Resist to 50% Lightning Damage.
-	3 Piece Bonus: Removed 25% Chance to Cast level 5 Static Field when struck. Changed +1 All Skills to +3.
-		Changed 100 Stamina to 45% All Resist. Changed 100% Magic Find to 125%. Added 15% Experience Gain.
+- Cow King's Leathers (Level 22 Set) >Now Black Colored<
+	- Cow King's Horns: Changed +75 Defense to 5-10% Physical Damage Reduction. Changed Attacker Takes Damage of 10 to 25 Strength. Added 35 durability.
+	- Cow King's Hide: Changed 10% Chance to Cast level 5 Chain lightning to 100% level 20 Charged Bolt. Changed 60% Enhanced Defense to 200%. Changed 30 Life to 100 Life. Changed 18% All resist to 75% Lightning resist. Added 20% Faster Run/Walk. Added 10% Physical Damage Reduction.
+		- 3 Pieces:  Added Level 1 Conviction Aura.
+	- Cow King's Hoofs: Changed 25-35 Fire Damage to 1-450 Lightning Damage.
+	- 2 Piece Bonus: Changed 25% Poison Resist to 50% Lightning Damage.
+	- 3 Piece Bonus: Removed 25% Chance to Cast level 5 Static Field when struck. Changed +1 All Skills to +3. Changed 100 Stamina to 45% All Resist. Changed 100% Magic Find to 125%. Added 15% Experience Gain.
 
-Naj's Ancient Set (Level 59 Set)
-	Naj's Puzzler: Changed Teleport Charges to Oskill Teleport.
-	Naj's Light Plate: Added 30% Faster Cast Rate. Changed +1 All Skills to +2 Random Class Skills.
-	Naj's Circlet: Changed Chance to Cast level 5 Chain Lightning to Random Class Skill +1.	Changed Adds 25-35 Fire Damage to 30% Faster Cast Rate. Changed 75 Defense to 75 Mana.
-	2 Piece Bonus: Changed 175 Defense to 30% Faster Caste Rate.
-	3 Piece Bonus: Changed +2 Fire Skills to +2 more All Skills. Changed Maximum life 12% to 20%. Changed 100 Mana to 20% Maximum Mana.
-		Added 15% Experience gain.
+- Naj's Ancient Set (Level 59 Set)
+	- Naj's Puzzler: Changed Teleport Charges to Oskill Teleport.
+	- Naj's Light Plate: Added 30% Faster Cast Rate. Changed +1 All Skills to +2 Random Class Skills.
+	- Naj's Circlet: Changed Chance to Cast level 5 Chain Lightning to Random Class Skill +1. Changed Adds 25-35 Fire Damage to 30% Faster Cast Rate. Changed 75 Defense to 75 Mana.
+	- 2 Piece Bonus: Changed 175 Defense to 30% Faster Caste Rate.
+	- 3 Piece Bonus: Changed +2 Fire Skills to +2 more All Skills. Changed Maximum life 12% to 20%. Changed 100 Mana to 20% Maximum Mana. Added 15% Experience gain.
 
-Sander's Folly (Level 24 Set)
-	Sander's Paragon: Changed Defense per Level to +2 Necromancer Skills. Changed Attacker Takes Damage of 8 to 33% Pierce.
-	Sander's Riprap: Changed 100 Attack Rating to 15% Fire Resist.
-	Sander's Taboo: Changed 20% Increase Attack Speed to 10% Faster Cast Rate. Changed 9-11 Poison Damage to +2 Teeth. Changed 20-25 Defense to 40 Mana. Added 3 Mana after each Kill.
-	Sander's Superstition: Changed 20% Faster Cast Rate to 45%. Changed 75% Enhanced Damage to +2 Bonespear. Changed 25-75 Cold Damage to +2 Bonewall. Changed 8% Manasteal to +2 Boneprison. Changed 25 Mana to 50 Mana.
-		3 Pieces: Added Level 1 Meditation Aura.
-	2 Piece Bonus: Changed 50 Defense to 5% Maximum Mana.
-	3 Piece Bonus: Changed 75 Attack Rating to 15% All Resist.
-	4 Piece Bonus: Changed +1 All Skills to +2 Poison and Bone Skills. Changed 4% Lifesteal to 20% Faster Cast Rate. 
-		Changed 50% Magic find to 125%. Added 15% Experience gain.
+- Sander's Folly (Level 24 Set)
+	- Sander's Paragon: Changed Defense per Level to +2 Necromancer Skills. Changed Attacker Takes Damage of 8 to 33% Pierce.
+	- Sander's Riprap: Changed 100 Attack Rating to 15% Fire Resist.
+	- Sander's Taboo: Changed 20% Increase Attack Speed to 10% Faster Cast Rate. Changed 9-11 Poison Damage to +2 Teeth. Changed 20-25 Defense to 40 Mana. Added 3 Mana after each Kill.
+	- Sander's Superstition: Changed 20% Faster Cast Rate to 45%. Changed 75% Enhanced Damage to +2 Bonespear. Changed 25-75 Cold Damage to +2 Bonewall. Changed 8% Manasteal to +2 Boneprison. Changed 25 Mana to 50 Mana.
+		- 3 Pieces: Added Level 1 Meditation Aura.
+	- 2 Piece Bonus: Changed 50 Defense to 5% Maximum Mana.
+	- 3 Piece Bonus: Changed 75 Attack Rating to 15% All Resist.
+	- 4 Piece Bonus: Changed +1 All Skills to +2 Poison and Bone Skills. Changed 4% Lifesteal to 20% Faster Cast Rate. Changed 50% Magic find to 125%. Added 15% Experience gain.
 
 --------------------
 Elite Sets
@@ -2411,132 +2405,132 @@ Elite Sets
 
 --------------------
 
-Natalya's Odium
-	Natalya's Totem: Added +1-2 All Skills.
-		2 Pieces: Added 15 Energy.
-		3 Pieces: Added 15% Poison Damage.
-		4 Pieces: Added 5% Increased Maximum Poison Resist.
-	Natalya's Mark: Added +2 All Skills. Changed 50 Cold Damage to 100. Changed 12-17 Fire Damage to 100.
-		2 Pieces: Added 15 Vitality.
-		3 Pieces: Added 15% Lightning Damage.
-		4 Pieces: Added 5% Increased Maximum Lightning Resist.
-	Natalya's Shadow: Changed 150-225 Defense to 500-600. Changed 1 Life Based on Character Level to 1-1.5. Changed +1-2 Assassin Skills to +2-3 Skills of Each Assassin Skill Tree. Changed 75% Poison Length Reduction to 75-150%. Removed 3 Open Sockets.
-		2 Pieces: Added 15 Strength.
-		3 Pieces: Added 15% Cold Damage.
-		4 Pieces: Added 5% Increased Maximum Cold Resist.
-	Natalya's Soul: Removed Stamina Based on Character Level. Added 3-5 Cold,Fire,Lightning,Poison Pierce.
-		2 Pieces: Added 15 Dexterity.
-		3 Pieces: Added 15% Fire Damage.
-		4 Pieces: Added 5% Increased Maximum FireResist.
-	2 Piece Bonus: Changed 15 Magic Damage Reduction to 30.
-	3 Piece Bonus: Changed 200 Defense to 20% Poison Resist.
-	4 Piece Bonus: Changed +3 Assassin Skills to +2 All Skills. Added +7 to Phoenix Strike. Added 100% Magic Find.
+- Natalya's Odium
+	- Natalya's Totem: Added +1-2 All Skills.
+		- 2 Pieces: Added 15 Energy.
+		- 3 Pieces: Added 15% Poison Damage.
+		- 4 Pieces: Added 5% Increased Maximum Poison Resist.
+	- Natalya's Mark: Added +2 All Skills. Changed 50 Cold Damage to 100. Changed 12-17 Fire Damage to 100.
+		- 2 Pieces: Added 15 Vitality.
+		- 3 Pieces: Added 15% Lightning Damage.
+		- 4 Pieces: Added 5% Increased Maximum Lightning Resist.
+	- Natalya's Shadow: Changed 150-225 Defense to 500-600. Changed 1 Life Based on Character Level to 1-1.5. Changed +1-2 Assassin Skills to +2-3 Skills of Each Assassin Skill Tree. Changed 75% Poison Length Reduction to 75-150%. Removed 3 Open Sockets.
+		- 2 Pieces: Added 15 Strength.
+		- 3 Pieces: Added 15% Cold Damage.
+		- 4 Pieces: Added 5% Increased Maximum Cold Resist.
+	- Natalya's Soul: Removed Stamina Based on Character Level. Added 3-5 Cold,Fire,Lightning,Poison Pierce.
+		- 2 Pieces: Added 15 Dexterity.
+		- 3 Pieces: Added 15% Fire Damage.
+		- 4 Pieces: Added 5% Increased Maximum FireResist.
+	- 2 Piece Bonus: Changed 15 Magic Damage Reduction to 30.
+	- 3 Piece Bonus: Changed 200 Defense to 20% Poison Resist.
+	- 4 Piece Bonus: Changed +3 Assassin Skills to +2 All Skills. Added +7 to Phoenix Strike. Added 100% Magic Find.
 
-Aldur's Watchtower
-	Aldur's Stony Gaze: Removed 2 Open Sockets. Removed +5 Light Radius. Changed 17% Regen Mana to 75 Mana. Changed 1-2 Druid Skills to 1-2 All Skills. Added 40-50% Lighting Resist.
-	Aldur's Deception: Changed 1-2 Druid Skills to 2-3 Skills Of Each Druid Skill Tree. Changed 20 Strength to 20-30. Changed 15 Dexterity to 15-25. Added 50 Life.
-	Aldur's Gauntlet: Removed 3 Open Sockets. Changed 200% Enhanced Damage to 300%. Changed 30% Increased Attack Speed to 45%.
-	Aldur's Advance: Removed Stamina and Stamina Heal. Added 10 Replenish Life. Added 10% Mana Regen. Changed Indestructable to Replenish Durability.
-	3 Piece Bonus: Changed 50% Magic Find to 100%.
-	4 Piece Bonus: Changed +3 Druid Skills to +2 All Skills. Added 20% Physical Damage Reduction. Added +7 Grizzly.
+- Aldur's Watchtower
+	- Aldur's Stony Gaze: Removed 2 Open Sockets. Removed +5 Light Radius. Changed 17% Regen Mana to 75 Mana. Changed 1-2 Druid Skills to 1-2 All Skills. Added 40-50% Lighting Resist.
+	- Aldur's Deception: Changed 1-2 Druid Skills to 2-3 Skills Of Each Druid Skill Tree. Changed 20 Strength to 20-30. Changed 15 Dexterity to 15-25. Added 50 Life.
+	- Aldur's Gauntlet: Removed 3 Open Sockets. Changed 200% Enhanced Damage to 300%. Changed 30% Increased Attack Speed to 45%.
+	- Aldur's Advance: Removed Stamina and Stamina Heal. Added 10 Replenish Life. Added 10% Mana Regen. Changed Indestructable to Replenish Durability.
+	- 3 Piece Bonus: Changed 50% Magic Find to 100%.
+	- 4 Piece Bonus: Changed +3 Druid Skills to +2 All Skills. Added 20% Physical Damage Reduction. Added +7 Grizzly.
 
-Immortal King
-	Immortal King's Will: Changed 25-40% Magic Find to 30-45%. Changed 37% Gold Find to 40-50%. Changed +2 Warcries to 1-3. Added 30% Fire Resist.
-		2 Pieces: Added 15 Energy.
-		3 Pieces: Added 15 Vitality.
-		4 Pieces: Added 15 Strength.
-		5 Pieces: Added 15 Dexterity.
-		6 Pieces: Added 20% Faster Cast Rate.
-	Immortal King's Soul Cage: Changed 5% Chance To Cast Level 5 Enchant to 20%. Changed +2 Combat Skills to 2-3+ Barbarian Skills. Added -30-50% Requirements. Added 40% Faster Cast Rate.
-	Immortal King's Detail: Unchanged.
-		2 Pieces: Changed 20% Physical Damage Reduction to 30%.
-	Immortal King's Forge: Changed 12% Chance to Cast Level 4 Charged Bolt when Struck to 12% Chance to Cast Level 20 Static Field when Struck.
-		6 Pieces: Changed Freezes Target with 34% Curse Reduction.
-	Immortal King's Pillar: Changed 44 Life to 10-15 Vitality. Added 3-5% Physical Damage Reduction. Added 30-40% Magic Resist.
-		6 Pieces: Changed 25% Magic Find to 15 Strength.
-	Immortal King's Stone Crusher: Changed 200% Enhanced Damage to 250-300%. Changed 200% Damage to Demons and Undead to 250%. Changed Indestructable to Replenish Durability. Added -40% Requirements. Added +2 Combat Masteries. 
-		4 Pieces: Changed 127-364 Cold Damage to 204 Poison Damage over 6 seconds.
-		5 Pieces: Changed 204 Poison Damage over 6 seconds to 250-361 Magic Damage.
-		6 Pieces: Changed 250-361 Magic Damage to +250 Damage.
-	6 Piece Bonus: Changed +3 Barbarian Skills to +2 All Skills. Added 300% Enhanced Damage. Added 100% Magic Find. Changed 10 Magical Damage Reduction to 30. Added +7 Item Find.
+- Immortal King
+	- Immortal King's Will: Changed 25-40% Magic Find to 30-45%. Changed 37% Gold Find to 40-50%. Changed +2 Warcries to 1-3. Added 30% Fire Resist.
+		- 2 Pieces: Added 15 Energy.
+		- 3 Pieces: Added 15 Vitality.
+		- 4 Pieces: Added 15 Strength.
+		- 5 Pieces: Added 15 Dexterity.
+		- 6 Pieces: Added 20% Faster Cast Rate.
+	- Immortal King's Soul Cage: Changed 5% Chance To Cast Level 5 Enchant to 20%. Changed +2 Combat Skills to 2-3+ Barbarian Skills. Added -30-50% Requirements. Added 40% Faster Cast Rate.
+	- Immortal King's Detail: Unchanged.
+		- 2 Pieces: Changed 20% Physical Damage Reduction to 30%.
+	- Immortal King's Forge: Changed 12% Chance to Cast Level 4 Charged Bolt when Struck to 12% Chance to Cast Level 20 Static Field when Struck.
+		- 6 Pieces: Changed Freezes Target with 34% Curse Reduction.
+	- Immortal King's Pillar: Changed 44 Life to 10-15 Vitality. Added 3-5% Physical Damage Reduction. Added 30-40% Magic Resist.
+		- 6 Pieces: Changed 25% Magic Find to 15 Strength.
+	- Immortal King's Stone Crusher: Changed 200% Enhanced Damage to 250-300%. Changed 200% Damage to Demons and Undead to 250%. Changed Indestructable to Replenish Durability. Added -40% Requirements. Added +2 Combat Masteries. 
+		- 4 Pieces: Changed 127-364 Cold Damage to 204 Poison Damage over 6 seconds.
+		- 5 Pieces: Changed 204 Poison Damage over 6 seconds to 250-361 Magic Damage.
+		- 6 Pieces: Changed 250-361 Magic Damage to +250 Damage.
+	- 6 Piece Bonus: Changed +3 Barbarian Skills to +2 All Skills. Added 300% Enhanced Damage. Added 100% Magic Find. Changed 10 Magical Damage Reduction to 30. Added +7 Item Find.
 
-Tal Rasha's Wrappings
-	Tal Rasha's Fire-Spun Cloth: Unchanged.
-	Tal Rasha's Adjudication: Unchanged.
-	Tal Rasha's Lidless Eye: Changed +2 Masteries to 2-3 Sorceress Skills.
-	Tal Rasha's Howling Wind: Unchanged.
-	Tal Rasha's Horadric Crest: Unchanged.
-	5 Piece Bonus: Changed +3 Sorceress Skills to +2 All Skills. Added +7 Warmth.
+- Tal Rasha's Wrappings
+	- Tal Rasha's Fire-Spun Cloth: Unchanged.
+	- Tal Rasha's Adjudication: Unchanged.
+	- Tal Rasha's Lidless Eye: Changed +2 Masteries to 2-3 Sorceress Skills.
+	- Tal Rasha's Howling Wind: Unchanged.
+	- Tal Rasha's Horadric Crest: Unchanged.
+	- 5 Piece Bonus: Changed +3 Sorceress Skills to +2 All Skills. Added +7 Warmth.
 
-Griswold's Legacy
-	Griswold's Valor: Changed 5% All Resist to 25%. Added +1-2 All Skills. Removed Sockets. Added 0.33% Deadly Strike Based On Character Level. Added 100% Poison Length Reduction.
-		3 Pieces: Added 15% Manasteal.
-		4 Pieces: Added 5% Increased Maximum Poison Resist.
-	Griswold's Heart: Changed +1-2 Paladin Skills to +1-3 Skill of Each Paladin Skill Tree. Changed 20 Strength to 20-30. Chanced 500 Defense to 600. Removed Sockets.
-		2 Pieces: Added +2 to Defensive Skills. 
-		3 Pieces: Added 27% Increased Maximum Life.
-		4 Pieces: Added 5% Increased Maximum Lightning Resist.
-	Griswolds's Redemption: Changed 200-240% Enhanced Damage to 300-350%. Changed 40% Increased Attack Speed to 60%. Added +190-250 Damage. Added -50% to Target Defense. Removed Sockets. Removed 250% Damage to Undead. Added 15% Chance to Cast Level 5 Frost Nova.
-		3 Pieces: Changed 10-20 Damage to 15% Lifesteal.
-		4 Pieces: Changed 10-20 Damage to 5% Increased Maximum Cold Resist.
-	Griswold's Honor: Changed 20% Block Chance to 60%. Added 45% Faster Cast Rate. Added +3 All Skills. Changed 108 Defense to 150-200% Enhanced Defense. Added 20-30 Physical Damage Reduction. Added 20-30 Magical Damage Reduction. Removed Sockets. 
-		2 Pieces: Added 15 Strength. 
-		3 Pieces: Added 25% Faster Hit Recovery.
-		4 Pieces: Added 5% Increased Maximum Fire Resist.
-	3 Piece Bonus: Added 40% Faster Run/Walk.
-	4 Piece Bonus: Changed +3 Paladin Skills to +2 All Skills. Removed 200 Attack Rating. Added + 7 Holy Shield. Added 300% Enhanced Damage. Added 25% Physical Damage Reduction.
+- Griswold's Legacy
+	- Griswold's Valor: Changed 5% All Resist to 25%. Added +1-2 All Skills. Removed Sockets. Added 0.33% Deadly Strike Based On Character Level. Added 100% Poison Length Reduction.
+		- 3 Pieces: Added 15% Manasteal.
+		- 4 Pieces: Added 5% Increased Maximum Poison Resist.
+	- Griswold's Heart: Changed +1-2 Paladin Skills to +1-3 Skill of Each Paladin Skill Tree. Changed 20 Strength to 20-30. Chanced 500 Defense to 600. Removed Sockets.
+		- 2 Pieces: Added +2 to Defensive Skills. 
+		- 3 Pieces: Added 27% Increased Maximum Life.
+		- 4 Pieces: Added 5% Increased Maximum Lightning Resist.
+	- Griswolds's Redemption: Changed 200-240% Enhanced Damage to 300-350%. Changed 40% Increased Attack Speed to 60%. Added +190-250 Damage. Added -50% to Target Defense. Removed Sockets. Removed 250% Damage to Undead. Added 15% Chance to Cast Level 5 Frost Nova.
+		- 3 Pieces: Changed 10-20 Damage to 15% Lifesteal.
+		- 4 Pieces: Changed 10-20 Damage to 5% Increased Maximum Cold Resist.
+	- Griswold's Honor: Changed 20% Block Chance to 60%. Added 45% Faster Cast Rate. Added +3 All Skills. Changed 108 Defense to 150-200% Enhanced Defense. Added 20-30 Physical Damage Reduction. Added 20-30 Magical Damage Reduction. Removed Sockets. 
+		- 2 Pieces: Added 15 Strength. 
+		- 3 Pieces: Added 25% Faster Hit Recovery.
+		- 4 Pieces: Added 5% Increased Maximum Fire Resist.
+	- 3 Piece Bonus: Added 40% Faster Run/Walk.
+	- 4 Piece Bonus: Changed +3 Paladin Skills to +2 All Skills. Removed 200 Attack Rating. Added + 7 Holy Shield. Added 300% Enhanced Damage. Added 25% Physical Damage Reduction.
 
-Trang-Oul's Avatar (Full Set no longer turns you into a Ghoul)
-	Trang-Oul's Guise: Added Level 15 Thorns Aura. Added +2 All Skills. Added +2 to Druid and Necromancer Summon Skills.
-		2 Pieces: Added 15 Energy.
-		3 Pieces: Added 25% Fire Pierce.
-		4 Pieces: Added 15 Dexterity.
-		5 Pieces: Added 5% Increased Maximum Lightning Resist.
-	Trang-Oul's Scales: Changed +1-2 Necromancer Skills to +1-3 Skills of Each Necromancer Skill Tree. Added -40% Requirements.
-		2 Pieces: Added 15 Strength.		
-		4 Pieces: Added 15 Vitality.		
-	Trang-Oul's Wing: Changed 25 Strength to 20-30. Changed 15 Dexterity to 20-30. Changed 45% Fire Resist to 35-50%. Added 35% Faster Cast Rate.
-		2 Pieces: Added 35% Faster Block Rate.
-		4 Pieces: Added 15 Strength.
-		5 Pieces: Added 5% Maximum Fire Resistance.
-	Trang-Oul's Claws: Removed 25% Poison Damage.
-		2 Pieces: Added 15 Dexterity.
-		3 Pieces: Added 15 Energy.
-		4 Pieces: Added 25% Poison Damage.
-		5 Pieces: Added 5% Increased Maximum Poison Resist.
-	Trang-Oul's Girth: Changed 5 Replenish Life to 25. Changed 30 Stamina to 20% Faster Cast Rate.
-		2 Pieces: Added 15 Vitality
-		4 Pieces: Added 15% Lightning Absorb
-		5 Pieces: Added 5% Maximum Cold Resistance
-	5 Piece Bonus: Changed +3 Necromancer Skills to +2 All Skills. Added +7 Lower Resist. Changed 50% All Resist to 60. Added 100% Magic Find.
+- Trang-Oul's Avatar (Full Set no longer turns you into a Ghoul)
+	- Trang-Oul's Guise: Added Level 15 Thorns Aura. Added +2 All Skills. Added +2 to Druid and Necromancer Summon Skills.
+		- 2 Pieces: Added 15 Energy.
+		- 3 Pieces: Added 25% Fire Pierce.
+		- 4 Pieces: Added 15 Dexterity.
+		- 5 Pieces: Added 5% Increased Maximum Lightning Resist.
+	- Trang-Oul's Scales: Changed +1-2 Necromancer Skills to +1-3 Skills of Each Necromancer Skill Tree. Added -40% Requirements.
+		- 2 Pieces: Added 15 Strength.		
+		- 4 Pieces: Added 15 Vitality.		
+	- Trang-Oul's Wing: Changed 25 Strength to 20-30. Changed 15 Dexterity to 20-30. Changed 45% Fire Resist to 35-50%. Added 35% Faster Cast Rate.
+		- 2 Pieces: Added 35% Faster Block Rate.
+		- 4 Pieces: Added 15 Strength.
+		- 5 Pieces: Added 5% Maximum Fire Resistance.
+	- Trang-Oul's Claws: Removed 25% Poison Damage.
+		- 2 Pieces: Added 15 Dexterity.
+		- 3 Pieces: Added 15 Energy.
+		- 4 Pieces: Added 25% Poison Damage.
+		- 5 Pieces: Added 5% Increased Maximum Poison Resist.
+	- Trang-Oul's Girth: Changed 5 Replenish Life to 25. Changed 30 Stamina to 20% Faster Cast Rate.
+		- 2 Pieces: Added 15 Vitality
+		- 4 Pieces: Added 15% Lightning Absorb
+		- 5 Pieces: Added 5% Maximum Cold Resistance
+	- 5 Piece Bonus: Changed +3 Necromancer Skills to +2 All Skills. Added +7 Lower Resist. Changed 50% All Resist to 60. Added 100% Magic Find.
 
-M'avina's Battle Hymn
-	M'avina's True Sight: Unchanged.
-		2 Pieces: Changed +1 All Skills to +2.
-		5 Pieces: Added 5% Maximum Cold Resistance
-	M'avina's Embrace: Changed +1-2 Amazon Skills to +1-3 Skill of Each Amazon Skill Tree. Changed 350 Defense to 500-600. Added 30 Health.
-		2 Pieces: 15 Energy
-		4 Pieces: 20% Physical Damage Reduction
-		5 Pieces: 5% Maximum Fire Resistance
-	M'avina's Icy Clutch: Changed 6-18 Cold Damage to 100. Changed Half Freeze Duration to Cannot Be Frozen. Changed 56% Gold Find to 100-150%. Changed 10 Strength to 20-30. Changed 15 Dexterity to 20-30.
-		2 Pieces: Added 15 Vitality.
-		3 Pieces: Added 25% Increased Attack Speed.
-		4 Pieces: Changed 131-252 Cold Damage to 20% Cold Pierce.
-	M'avina's Tenet: Changed 20% Faster Run/Walk to 30%. Added 10-15% All Resist. Added 3-5 Mana Ater Each Kill. Removed +5 Light Radius.
-		2 Pieces: 20% Fire Pierce
-		3 Pieces: 15 Strength
-		5 Pieces: 5% Maximum Poison Resistance
-	M'avina's Caster: Added +4-5 Bow and Crossbow Skills. Added 34% Pierce.
-		2 Pieces: Changed 114-377 Magic Damage to 15 Dexterity.
-		3 Pieces: Changed 10% Chance to Cast Level 15 Nova to 114-377 Magic Damage
-		5 Pieces: Added 5% Maximum Lightning Resistance
-	3 Piece Bonus: Added 10 Mana After Each Kill.
-	5 Piece Bonus: Changed +3 Amazon Skills to +2 All Skills. Changed 100 Attack Rating to 300. Changed 100 Defense to 40% Faster Run/Walk. Added -50% Cold Pierce. Added +7 Valkyrie.
+- M'avina's Battle Hymn
+	- M'avina's True Sight: Unchanged.
+		- 2 Pieces: Changed +1 All Skills to +2.
+		- 5 Pieces: Added 5% Maximum Cold Resistance
+	- M'avina's Embrace: Changed +1-2 Amazon Skills to +1-3 Skill of Each Amazon Skill Tree. Changed 350 Defense to 500-600. Added 30 Health.
+		- 2 Pieces: 15 Energy
+		- 4 Pieces: 20% Physical Damage Reduction
+		- 5 Pieces: 5% Maximum Fire Resistance
+	- M'avina's Icy Clutch: Changed 6-18 Cold Damage to 100. Changed Half Freeze Duration to Cannot Be Frozen. Changed 56% Gold Find to 100-150%. Changed 10 Strength to 20-30. Changed 15 Dexterity to 20-30.
+		- 2 Pieces: Added 15 Vitality.
+		- 3 Pieces: Added 25% Increased Attack Speed.
+		- 4 Pieces: Changed 131-252 Cold Damage to 20% Cold Pierce.
+	- M'avina's Tenet: Changed 20% Faster Run/Walk to 30%. Added 10-15% All Resist. Added 3-5 Mana Ater Each Kill. Removed +5 Light Radius.
+		- 2 Pieces: 20% Fire Pierce
+		- 3 Pieces: 15 Strength
+		- 5 Pieces: 5% Maximum Poison Resistance
+	- M'avina's Caster: Added +4-5 Bow and Crossbow Skills. Added 34% Pierce.
+		- 2 Pieces: Changed 114-377 Magic Damage to 15 Dexterity.
+		- 3 Pieces: Changed 10% Chance to Cast Level 15 Nova to 114-377 Magic Damage
+		- 5 Pieces: Added 5% Maximum Lightning Resistance
+	- 3 Piece Bonus: Added 10 Mana After Each Kill.
+	- 5 Piece Bonus: Changed +3 Amazon Skills to +2 All Skills. Changed 100 Attack Rating to 300. Changed 100 Defense to 40% Faster Run/Walk. Added -50% Cold Pierce. Added +7 Valkyrie.
 
-Bul-Kathos' Children
-	Bul-Kathos' Sacred Charge: Changed 200% Enhanced Damage to 200-250%. Added Hit Blinds Target. Added 20-30 Dexterity. Added 5% Mana Stolen Per Hit. Removed Sockets.
-	Bul-Kathos' Tribal Guardian: Changed 200% Enhanced Damage to 200-250%. Changed 50% Fire Resist to 10-20% All Resist. Changed 20 Strength to 20-30. Added 5% Life Stolen Per Hit. Added 15% Chance to Open Wounds. Changed 50 Poison Damage Over 2 Seconds to 20% Chance to Cast Level 10 Poison Nova on Striking.
-	2 Piece Bonus: Changed +2 All Skills to +4. Changed 200% Damage to Demons and Undead to 300% Enhanced Damage. Changed 20% Deadly Strike to +100 Damage. Added 20% Physical Damage Reduction. Added 50% All resistances. Added 100% Magic Find. Removed +200 Fire Damage. Removed 10% Lifesteal.
+- Bul-Kathos' Children
+	- Bul-Kathos' Sacred Charge: Changed 200% Enhanced Damage to 200-250%. Added Hit Blinds Target. Added 20-30 Dexterity. Added 5% Mana Stolen Per Hit. Removed Sockets.
+	- Bul-Kathos' Tribal Guardian: Changed 200% Enhanced Damage to 200-250%. Changed 50% Fire Resist to 10-20% All Resist. Changed 20 Strength to 20-30. Added 5% Life Stolen Per Hit. Added 15% Chance to Open Wounds. Changed 50 Poison - Damage Over 2 Seconds to 20% Chance to Cast Level 10 Poison Nova on Striking.
+	- 2 Piece Bonus: Changed +2 All Skills to +4. Changed 200% Damage to Demons and Undead to 300% Enhanced Damage. Changed 20% Deadly Strike to +100 Damage. Added 20% Physical Damage Reduction. Added 50% All resistances. Added 100% Magic Find. Removed +200 Fire Damage. Removed 10% Lifesteal.
    
 ## Affixes
 - Added Rare Affixes
