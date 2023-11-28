@@ -363,15 +363,15 @@ skill_missile_damage_scale	360			32	16																																										
 corrupted	361		1	10	10													22	0	10	1	3	0														254	3		StrCorrupted	StrCorrupted										0
 corruptordesc	362		1	10	10													22	0	10	1	3	0																												0
 augmented	363		1	10	10													22	0	10	1	3	0														255	3	2	StrAugmented	StrAugmented										0
-dyewhite	364			3														22	1	10	1	3	0														256	3	 	dyewhite	dyewhite										0
-dyeblack	365			3														3	1	3	1																256	3		dyeblack	dyeblack										0
-dyecblue	366			3														3	1	3	1																256	3		dyecblue	dyecblue										0
-dyecred	367			3														3	1	3	1																256	3		dyecred	dyecred										0
-dyelightgreen	368			3														3	1	3	1																256	3		dyelightgreen	dyelightgreen										0
-dyedarkyellow	369			3														3	1	3	1																256	3		dyedarkyellow	dyedarkyellow										0
-dyelightpurple	370			3														3	1	3	1																256	3		dyelightpurple	dyelightpurple										0
-dyedarkpurple	371			3														3	1	3	1																256	3		dyedarkpurple	dyedarkpurple										0
-dyeorange	372			3														3	1	3	1																256	3		dyeorange	dyeorange										0
+dyewhite	364			3														22	1	10	1	3	0														256	3	 	dw1	dw1										0
+dyeblack	365			3														3	1	3	1																256	3		db1	db1										0
+dyecblue	366			3														3	1	3	1																256	3		dc1	dc1										0
+dyecred	367			3														3	1	3	1																256	3		dc2	dc2										0
+dyelightgreen	368			3														3	1	3	1																256	3		dl3	dl3										0
+dyedarkyellow	369			3														3	1	3	1																256	3		dd4	dd4										0
+dyelightpurple	370			3														3	1	3	1																256	3		dl6	dl6										0
+dyedarkpurple	371			3														3	1	3	1																256	3		dd6	dd6										0
+dyeorange	372			3														3	1	3	1																256	3		do1	do1										0
 dyed	373			3														22	1	10	1	3	0														256	0		dyed	dyed										0
 item_elemskill_cold	374		1	3	3						1				76	1024		4	0	3	0	3															157	19	1	ModStrColdskills	ModStrColdskills										0
 item_elemskill_fire	375		1	3	3						1				76	1024		4	0	3	0	3															157	19	1	ModStrFireskills	ModStrFireskills										0
