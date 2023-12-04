@@ -479,7 +479,6 @@ QOL
    - 85% Faster Cast Rate
    - 5-15% Experience Gained
 - Azurewrath
-   - Holy Freeze instead
    - 2 Skills
 - Grandfather
    - 200-300
