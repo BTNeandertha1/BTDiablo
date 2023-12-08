@@ -264,7 +264,7 @@ Doombringer	260	100	1			1	1	75	69	7b7	Champion Sword		5	5000	dred	dred		invbswu	
 The Grandfather	261	100	1			1	1	85	81	7gd	Colossus Blade		5	5000	lyel	lyel		invgsdu				all-stats		20	20	att%		50	50	hp		80	80	dmg/lvl	20			rep-dur	5			dmg%		200	300																										0
 Wizardspike	262	100	1			1	1	69	61	7dg	Bone Knife		5	5000	lgry	lgry						mana/lvl	16			regen-mana		15	15	mana%		15	15	res-all		75	75	rep-dur	5			cast3		50	50																										0
 Constricting Ring	263	100	0			1	1	95	95	rin	Ring		5	5000	cblu	cblu						res-all		100	100	regen		-30	-30	mag%		100	100	res-all-max		15	15										0																								0
-Stormspire	264	100	1			1	1	78	70	7wc	Giant Thresher		5	5000	dblu	dblu						res-ltng		50	50	gethit-skill	53	5	5	dmg%		200	300	str		20	20	gethit-skill	38	2	0	swing2		30	30	rep-dur	5			dmg-ltng		1	237	91	91	30	10	lifesteal		8	10	att%		150	150						0
+Stormspire	264	100	1			1	1	78	70	7wc	Giant Thresher		5	5000	dblu	dblu						res-ltng		50	50	gethit-skill	53	5	5	dmg%		200	300	str		20	20	gethit-skill	38	2	0	swing2		30	30	rep-dur	5			dmg-ltng		1	237	91	91	30	10	lifesteal		8	10	att%		150	150	hit-skill	Lower Resist	30	10		0
 Eaglehorn	265	100	1			1	1	77	69	6l7	Crusader Bow		5	5000	dgld	dgld						ignore-ac		1	1	att/lvl	12			dmg%/lvl	16			dmg%		200	200	ama		2	2	dex		25	25	skill	32	7	7																						0
 Windforce	266	100	1			1	1	80	73	6lw	Hydra Bow		5	5000	dyel	dyel						dex		20	20	dmg/lvl	25			manasteal		6	8	knock		1	1	dmg%		250	300	swing2		20	20	str		20	20																						0
 Rings																																																																							0
