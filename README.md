@@ -328,6 +328,60 @@ QOL
 
 ### Normal Unique Armors
 
+- Biggins Bonnet
+   - ED% 30 -> 80
+   - removed AR
+   - added 15 all stats
+   - added 1% MF/Lvl
+- Tarnhelm
+   - GF% 75 -> 100-250
+   - MF% 25-50 -> 35-60
+   - added CBF
+- Coif of Glory
+   - Lightning res 15 -> 30
+   - removed AR
+   - removed Thorns
+   - added 100 defense vs Melee
+   - added 50 Life
+   - added 30 Fire res
+   - added 30 FHR
+- Duskdeep
+   - Dmg Max 8 -> 20
+   - removed AR
+   - added flat MDR 7
+   - added 15 Dex
+   - added 40 Life
+- Wormskull
+   - +Necro 1 -> 1-2
+   - Lifesteal 5 -> 6-9
+   - Mana 10 -> 70
+   - Poison res 25 -> 50
+   - added 30 FHR
+   - added 10 STR
+- Howltusk
+   - flat MDR 2 -> 12
+   - removed knockback
+   - removed Thorns
+   - added Mana 50
+   - added -40% Req
+   - added 20 FHR
+   - added Oskill Howl Lvl 10
+- Undead Crown
+   - Lifesteal 5 -> 9
+   - dmg to undead% 50 -> 150
+   - removed Defense
+   - removed Half freeze duration
+   - removed AR vs Undead
+   - added CBF
+   - added Oskill Raise Skeleton Lvl 3-5
+   - added Oskill Skeleton Mastery Lvl 3-5
+- The Face of Horror
+   - All res 10 -> 10-25
+   - removed dmg to undead
+   - removed defense
+   - added 40 FHR
+   - added 30 FRW
+   - added 9 Health per kill
 - Bloodfist
 	- added 2 max dmg/lvl
 - Hand of Broc
@@ -336,12 +390,12 @@ QOL
 - Chance Guard
 	- added 15 % Blockrate
 - Frostburn
-	- removed enhanced damage
-	- removed cold dmg
-	- added 5 dex
-	- added 5 to 10% cold skill dmg
-	- added 20 Fire res
-	- added oskill +1 warmth
+   - removed enhanced damage
+   - removed cold dmg
+   - added 5 dex
+   - added 5 to 10% cold skill dmg
+   - added 20 Fire res
+   - added oskill +1 warmth
 
 - Nightsmoke
     - removed Defense
@@ -1007,62 +1061,6 @@ QOL
    - added 50 Mana
    - added 30 FRW
    - added +1 Bows and Crossbows skill tab
-- Biggins Bonnet
-   - ED% 30 -> 80
-   - removed AR
-   - added 15 all stats
-   - added 1% MF/Lvl
-- Tarnhelm
-   - GF% 75 -> 100-250
-   - MF% 25-50 -> 35-60
-   - added CBF
-- Coif of Glory
-   - Lightning res 15 -> 30
-   - removed AR
-   - removed Thorns
-   - added 100 defense vs Melee
-   - added 50 Life
-   - added 30 Fire res
-   - added 30 FHR
-- Duskdeep
-   - Dmg Max 8 -> 20
-   - removed AR
-   - added flat MDR 7
-   - added 15 Dex
-   - added 40 Life
-- Wormskull
-   - +Necro 1 -> 1-2
-   - Lifesteal 5 -> 6-9
-   - Mana 10 -> 70
-   - Poison res 25 -> 50
-   - added 30 FHR
-   - added 10 STR
-- Howltusk
-   - flat MDR 2 -> 12
-   - removed knockback
-   - removed Thorns
-   - added Mana 50
-   - added -40% Req
-   - added 20 FHR
-   - added Oskill Howl Lvl 10
-- Undead Crown
-   - Lifesteal 5 -> 9
-   - dmg to undead% 50 -> 150
-   - removed Defense
-   - removed Half freeze duration
-   - removed AR vs Undead
-   - added CBF
-   - added Oskill Raise Skeleton Lvl 3-5
-   - added Oskill Skeleton Mastery Lvl 3-5
-- The Face of Horror
-   - All res 10 -> 10-25
-   - removed dmg to undead
-   - removed defense
-   - added 40 FHR
-   - added 30 FRW
-   - added 9 Health per kill
-- The Centurion
-   - added 10% DR%
 
 ### Exceptional Unique Armors
 
