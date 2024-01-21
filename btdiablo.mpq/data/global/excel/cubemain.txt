@@ -754,7 +754,7 @@ Reroll Charms	0				0					3	cm2,mag,qty=3							cm2,mag		95																						
 Reroll Charms	0				0					3	cm3,mag,qty=3							cm3,mag		95																																																																																					0
 Hellfire Ashes break down	1				0					2	Hellfire Torch	mls						tds																																																																																							0
 Hellfire Ash + Stam = SOH	1				0					2	tds	wms						std																																																																																							0
-Break down Anni to SOH	1				0					2	Annihilus	mls						std																																																																																							0
+Break down Anni to SOH	1				0					2	Annihilus	mls						std,qty=3																																																																																							0
 Break down Gheeds to MF potion	1				0					2	Gheed's Fortune	mls						mfp																													mfp																													mfp																													0
 100 P Amethyst to 2 Amulet	1				0	18	70	100		2	gg4a	wms						amu,uni	99		99																										amu,uni	99		99																																																							0
 100 P Ruby to 2 Ring	1				0	18	70	100		2	gg4r	wms						rin,uni	99		99																										rin,uni	99		99																																																							0
