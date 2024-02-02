@@ -117,7 +117,7 @@ Nightsmoke	114	0	1			1	1	27	20	mbl	Belt		5	5000	lyel	lyel						res-all		10	15	dm
 Goldwrap	115	0	1			1	1	36	27	tbl	Heavy Belt		5	5000	lblu	lblu						mag%		30	30	ac		25	25	swing2		10	10	ac%		40	60	gold%		70	100																														0
 Bladebuckle	116	0	1			1	1	39	29	hbl	Girdle		5	5000	dyel	dyel						thorns		88	88	ac		30	30	red-dmg		15	15	str		15	15	dex		10	10	ac%		80	100	balance2		30	30	ease		-10	-10																		0
 Nokozan Relic	117	0	1			20	1	14	10	amu	Amulet		5	5000	lgld							dmg-fire		3	6	res-fire-max		10	10	res-fire		50	50	balance2		20	20																																		0
-The Eye of Etlich	118	0	1			5	1	20	15	amu	Amulet		5	5000	dgld							ac-miss		10	40	allskills		1	1	lifesteal		3	7	cold-min		1	2	cold-max		3	5	cold-len		50	250																										0
+The Eye of Etlich	118	0	1			5	1	20	15	amu	Amulet		5	5000	dgld							ac-miss		10	40	coldskill		1	2	lifesteal		3	7	pierce-cold		8	15	dmg-cold		100	200																														0
 The Mahim-Oak Curio	119	0	1			10	1	34	25	amu	Amulet		5	5000	lpur							dex		10	10	str		10	10	enr		10	10	vit		10	10	ac		10	10	att%		10	10	res-all		10	10	ac%		10	10																		0
 Nagelring	120	0	1			15	1	10	7	rin	Ring		5	5000	dpur							red-mag		3	3	thorns		3	3	att		50	75	mag%		15	30																																		0
 Manald Heal	121	0	1			15	1	20	15	rin	Ring		5	5000	oran							manasteal		4	7	regen		5	8	hp		20	20	regen-mana		20	20																																		0
@@ -270,14 +270,14 @@ Windforce	266	100	1			1	1	80	73	6lw	Hydra Bow		5	5000	dyel	dyel						dex		20	20	
 Rings																																																																							0
 Bul Katho's Wedding Band	268	100	1			1	1	66	58	rin	Ring		5	5000	dpur	dpur						hp/lvl	4			allskills		1	1	lifesteal		3	5																																						0
 The Cat's Eye	269	100	1			5	1	58	50	amu	Amulet		5	5000	oran	oran						move2		30	30	swing2		20	20	ac		100	100	ac-miss		100	100	dex		25	25																														0
-The Rising Sun	270	100	1			5	1	73	65	amu	Amulet		5	5000	lgld	lgld						abs-fire/lvl	6			gethit-skill	56	2	0	dmg-fire		24	48	fireskill		2	2	regen		10	10																														0
-Crescent Moon	271	100	1			5	1	58	50	amu	Amulet		5	5000	lblu	lblu						manasteal		11	15	red-mag		10	10	dmg-to-mana		10	10	mana		45	45	lifesteal		3	6																														0
+The Rising Sun	270	100	1			5	1	73	65	amu	Amulet		5	5000	lgld	lgld						abs-fire/lvl	6			gethit-skill	Fire Ball	50	40	dmg-fire		100	200	fireskill		2	2	regen		10	10	extra-fire		15	20																										0
+Crescent Moon	271	100	1			5	1	58	50	amu	Amulet		5	5000	lblu	lblu						manasteal		11	15	red-mag		10	10	dmg-to-mana		10	10	mana		45	45	lifesteal		3	6	ltngskill		2	2	swing2		15	15	cast2		15	15																		0
 Mara's Kaleidoscope	272	100	1			5	1	80	67	amu	Amulet		5	5000	oran	oran						allskills		2	2	res-all		20	30	str		5	5	dex		5	5	vit		5	5	enr		5	5																										0
 Atma's Scarab	273	100	1			5	1	60	60	amu	Amulet		5	5000	cgrn	cgrn						dmg-pois	100	102	102	res-pois		75	75	thorns		120	120	hit-skill	66	25	22	att%		20	20																														0
 Dwarf Star	274	100	1			10	1	53	45	rin	Ring		5	5000	dgry	dgry						gold%		100	100	hp		40	40	red-mag		12	15	abs-fire%		15	15																																		0
 Raven Frost	275	100	1			10	1	53	45	rin	Ring		5	5000	cblu	cblu						nofreeze		1	1	dmg-cold	100	15	45	abs-cold%		20	20	mana		40	40	dex		15	20	att		150	250																										0
 Highlord's Wrath	276	100	1			5	1	73	65	amu	Amulet		5	5000	bwht	bwht						res-ltng		35	35	dmg-ltng		1	30	swing2		20	20	allskills		1	1	deadly/lvl	3			light-thorns		15	15																										0
-Saracen's Chance	277	100	1			5	1	55	47	amu	Amulet		5	5000	dpur	dpur						res-all		15	25	gethit-skill	76	10	2	str		12	12	dex		12	12	enr		12	12	vit		12	12																										0
+Saracen's Chance	277	100	1			5	1	55	47	amu	Amulet		5	5000	dpur	dpur						res-all		35	40	gethit-skill	Lower Resist	24	20	all-stats		20	30	randclassskill3		0	6																																		0
 Class Specific																																																																							0
 Arreat's Face	279	100	1			1	1	50	42	baa	Slayer Guard		5	5000								bar		2	2	skilltab	12	2	2	ac%		150	200	balance2		30	30	att%		20	20	str		20	20	dex		20	20	lifesteal		3	6	res-all		30	30														0
 Homunculus	280	100	1			1	1	50	42	nea	Heirophant Trophy		5	5000								nec		2	2	skilltab	6	2	2	ac%		150	200	block2		30	30	block		40	40	enr		20	20	regen-mana		33	33	mana-kill		5	5	res-all		40	40	pierce		50	50										0
@@ -293,7 +293,7 @@ Bloodmoon	289	100	1			1	1	69	61	7sb	elegant blade		5	5000	cred	cred		invsbru				
 Djinnslayer	290	100	1			1	1	73	65	7sm	ataghan		5	5000	dpur	dpur		invscmu				dmg-demon		300	400	dmg-mag		500	500	crush		25	25	att-demon		200	300	swing2		20	20	aura	Redemption	7	9																										0
 Deathbit	291	100	1			1	1	52	44	9tk	battle dart		5	5000								deadly		50	50	dmg%		200	269	reduce-ac		50	50	lifesteal		7	9	manasteal		4	6	rep-quant	25			stupidity		1	1	swing2		30	30																		0
 Warshrike	292	100	1			1	1	83	75	7bk	winged knife		5	5000	bwht	bwht		invtk3				dmg%		269	320	pierce		50	50	swing2		30	30	deadly		50	50	rep-quant	30			hit-skill	Nova	40	20																										0
-Gutsiphon	293	100	1			1	1	79	71	6rx	demon crossbow		5	5000	lgrn	lgrn		invrxbu				dmg%		160	220	pierce		34	34	lifesteal		12	18	slow		25	25	openwounds		33	33																														0
+Gutsiphon	293	100	1			1	1	79	71	6rx	demon crossbow		5	5000	lgrn	lgrn		invrxbu				dmg%		160	220	pierce		34	34	lifesteal		12	18	slow		25	25	openwounds		33	33	explosivearrow		50	50	swing3		35	35	ease		60	60	pierce-fire		15	20														0
 Razoredge	294	100	1			1	1	75	67	7ha	tomahawk		5	5000	lblu			invhaxu				dmg%		175	225	swing2		40	40	reduce-ac		33	33	deadly		50	50	openwounds		50	50																														0
 Gore Ripper	295	100				1	1						5	5000	dred	dred																																																							0
 Demonlimb	296	100	1			1	1	71	63	7sp	tyrant club		5	5000	dgrn	dgrn		invspcu				dmg%		180	230	dmg-fire		222	333	lifesteal		7	13	oskill	Enchant	23	23	rep-dur	5			dmg-demon		123	123	res-fire		15	20																						0
@@ -320,7 +320,7 @@ Stoneraven	316	100	1			1	1	72	64	amd	matriarchal spear		5	5000	dgry							dmg%		
 Leviathan	317	100	1			1	1	73	65	uld	kraken shell		5	5000	cgrn	cgrn						ac%		200	220	ac		169	169	red-dmg%		20	25	str		40	50	rep-dur	5			move2		20	20	balance2		30	30	res-pois-len		100	100	hp%		5	10	deadly		20	30										0
 Larzuk's Champion	318	100				1	1						5	5000	lgry		flphmr	invhfh																																																					0
 Wisp	319	100	1			1	1	84	76	rin	ring		5	5000	bwht	bwht						abs-ltng%		10	20	hit-skill	Lightning	10	16	mag%		10	20	oskill	Heart of Wolverine	5	5																																		0
-Gargoyle's Bite	320	100	1			1	1	78	70	7ts	winged harpoon		5	5000	cgrn	cgrn						dmg%		250	350	rep-quant	30			dmg-pois	250	300	300	lifesteal		11	15	skill	Plague Javelin	3	3	skill	Poison Javelin	3	3	pierce-pois		20	25	poisskill		1	3	swing2		30	30	levelreq		10	10										0
+Gargoyle's Bite	320	100	1			1	1	78	70	7ts	winged harpoon		5	5000	cgrn	cgrn						dmg%		250	350	rep-quant	30			dmg-pois	250	300	300	lifesteal		11	15	skill	Plague Javelin	3	3	skill	Poison Javelin	3	3	pierce-pois		20	25	poisskill		2	3	swing2		30	30	levelreq		10	10										0
 Lacerator	321	100	1			1	1	76	68	7b8	winged axe		5	5000	blac	blac						dmg%		240	280	rep-quant	25			swing2		30	30	noheal		1	1	openwounds		33	33	hit-skill	Amplify Damage	33	22																										0
 Mang Song's Lesson	322	100	1			1	1	86	82	6ws	archon staff		5	5000	dgld	dgld		inv8wsu				allskills		6	6	pierce-fire		20	25	pierce-ltng		20	25	pierce-cold		20	25	regen-mana		30	30	cast2		85	85	mana%		40	40	res-all		40	50																		0
 Viperfork	323	100	1			1	1	79	71	7br	war fork		5	5000	dgrn	dgrn						dmg%		190	240	dmg-pois	250	333	333	swing2		50	50	att		200	250	hit-skill	Poison Explosion	15	9	res-pois		30	50																										0
@@ -342,7 +342,7 @@ Thunderstroke	338	100	1			1	1	77	69	amf	matriarchal javelin		5	5000	dblu	dblu			
 Giantmaimer	339	100				1	1						5	5000	cred	cred																																																							0
 Demon's Arch	340	100	1			1	1	76	68	7s7	balrog spear		5	5000	cred	cred						dmg%		200	230	dmg-fire		300	420	heal-kill		9	12	rep-quant	30			swing2		30	30	dmg-ltng		69	420	dmg-cold		300	420	pierce-fire		8	15	pierce-ltng		8	15	pierce-cold		8	15	ease		-20	-20						0
 Boneflame	341	100	1			1	1	80	72	nee	succubae skull		3	5000	dred	dred						ac%		120	150	aura	Vigor	3	5	gethit-skill	Terror	15	3	nec		2	3	res-all		20	30	pierce		50	50																										0
-Steelpillar	342	100	1			1	1	77	69	7p7	war pike		3	5000								dmg%		280	350	swing2		30	40	reduce-ac		-66	-66	deadly		10	20	rep-dur	5			crush		33	44	lifesteal		7	12																						0
+Steelpillar	342	100	1			1	1	77	69	7p7	war pike		3	5000								dmg%		300	350	swing2		40	40	reduce-ac		66	66	deadly		35	40	rep-dur	12			crush		44	44	lifesteal		7	12	hit-skill	Amplify Damage	15	33																		0
 Nightwing's Veil	343	100	1			1	1	75	67	uhm	spired helm		3	5000	cblu	cblu						ac%		90	120	allskills		2	2	dex		10	20	abs-cold		5	9	half-freeze		1	1	extra-cold		8	12	ease		-50	-50	pierce-cold		8	12																		0
 Crown of Ages	344	100	1			1	1	86	82	urn	corona		3	5000	dgld	dgld						balance2		30	30	res-all		20	30	allskills		1	1	ac		100	150	rep-dur	5			red-dmg%		10	15	ac%		50	50	red-mag		12	15	heal-kill		7	9														0
 Andariel's Visage	345	100	1			1	1	85	83	usk	demonhead		3	5000	dred	dred						ac%		100	150	res-pois		70	70	allskills		2	2	res-pois-max		10	10	swing2		20	20	str		25	30	gethit-skill	92	15	15	oskill	278	3	3	lifesteal		8	10	res-fire		-30	-30										0
