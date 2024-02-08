@@ -589,6 +589,59 @@ QOL
    - 15-20 deadly strike
    - 10-15 Strength 10-15
    - -40 requirements
+- Pelta Lunata
+   - removed defense
+   - added +30 Life
+   - vitality increased from 10 to 20
+   - strenght increased from 2 to 20
+   - energy increased from 10 to 25-30
+   - added replenish life 15
+   - added flat dr 6-8
+- Umbral Disk
+   - removed defense
+   - dexterity increased from 10 to 20
+   - Life increased from 20 to 30
+   - added +30 mana
+   - added +1 all skills
+   - added 15 % DR
+   - added 7.75 defense based on char lvl
+- Stormguild
+   - removed lightning resistance
+   - mdr increased from 1 to 7
+   - defense increased from 30 to 100
+   - Lightning dmg increased from 1-6 to 1-150
+   - thorns increased from 3 to 100
+   - added aura when equipped lvl 3 resist lightning
+   - added 5 % Life
+- wall of the eyeless
+   - removed defense
+   - mpk increased from 5 to 7-10
+   - fcr increased from 20 to 25
+   - added 10% exp gain
+   - added +20 oskill bone wall
+- swordback hold 
+   - thorns increased from 10 to 50
+   - chance of blocking increased from 20 to 30
+   - added 5 crushing blow 
+   - added 25-50 grief dmg
+   - added 12 flat dr
+   - added 60 FRH
+- Steelclash
+   - removed paladin skill
+   - flat dr increased from 3 to 7-9
+   - all res increased from 15 to 25-35
+   - defense increased from 20 to 50-75
+   - added 3-5% Life
+   - added +1 all skills
+- Bverrit Keep
+   - strenght increased from 5 to 15
+   - flat dr increased from 5 to 10
+   - chance of blocking increased from 10 to 30
+   - added -20% req
+- The Ward
+   - flat mdr increased from 2 -> 7-14
+   - chance of blocking increased from 10 -> 50
+   - added -20% req
 
 ### Normal Unique Weapons
 
@@ -1067,9 +1120,58 @@ QOL
 - Moser's Blessed Circle
    - 55% Increased Block Chance
    - 60% Faster Block Rate
-   - 40 All Resistances (was 25) 
+   - 40 - 55 All Resistances (was 25)
+   - Cannot Be Frozen
+   - +20 flat mdr
 - Lidless Wall
    - Rolls 1-2 Skills
+- Visceratuant
+   - removed sorc skill
+   - thorns increased form 10 to 127
+   - added +100% poison lenght reduction
+   - added +50 Energy
+   - added +10-15 strenght
+   - added +1 all skills
+   - added 5-10% DR
+- Stormchaser
+   - removed Tornado when struck
+   - removed attack rating
+   - removed half freeze duration
+   - lightning damage increased from 1-60 to 1-500
+   - 4% chance lvl 6 blizzard increased to 75% lvl 30 blizzard when struck
+   - added 50% chance lvl 40 Twister when struck
+   - added 60 FRW
+   - added +25 Vitality
+   - added CBF
+   - added 150% bonus attack rating
+- Tiamats Rebuke
+   - cold dmg increased from 27-53 to 200-250
+   - fire dmg increased from 35-95 -> 200-250
+   - light dmg increased from 1-120 -> 1-301
+   - all res increased from 25-35 -> 35-45
+   - 5% chance lvl 9 frost nova increased to 50% chance lvl 50 frost nova when struck
+   - 5% chance lvl 7 nova increased to 50% chance lvl 40 Nova when struck
+   - 3% chance lvl 6 hydra increased to 33% chance lvl 63 hydra when struck 
+   - added 55 FHR
+   - added 12-16 flat dr
+- Gerkes Sanctuary
+   - flat dr increased from 11-16 to 15-21
+   - mdr increased from 14-18 to 16-22
+   - added -20% req
+- Radaments Sphere
+   - removed oskill poison explosion
+   - 5% chance lvl 5 poison nova increased to 50% chance lvl 45 Poison nova when struck
+   - added +1-3 poison skills
+   - added 175% PLR
+   - added 10% DR
+- Lance Guard
+   - life increased from 50 to 75-100
+   - FHR increased from 30 to 40
+   - thorns increased from 47 to 127
+   - added 25% chance of blocking
+   - added 30% block rate
+   - added +50 Vitality
+   - added 25% DR
 
 - Venom Grip
 	- removed crushing blow
