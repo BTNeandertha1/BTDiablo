@@ -231,8 +231,8 @@ Act 3 (H) Good	5	78	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	1
 Act 3 (H) GoodLF	5	78	1						Jewelry C	60	Flawless Gem	28	Runes 15	14	AND	28				14															0
 Act 4 (H) Good	5	82	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 16	14															0
 Act 4 (H) GoodLF	5	82	1						Jewelry C	60	Flawless Gem	28	Runes 16	14	AND	28																			0
-Act 5 (H) Good	5	85	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 17	14	gft	5													0
-Act 5 (H) GoodLF	5	85	1						Jewelry C	60	Flawless Gem	28	Runes 17	14	AND	28	gft	5																	0
+Act 5 (H) Good	5	85	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 17	14															0
+Act 5 (H) GoodLF	5	85	1						Jewelry C	60	Flawless Gem	28	Runes 17	14	AND	28																			0
 Act 1 Chest A	6	0	4					100	gld	15	Act 1 Junk	15	Act 1 Equip A	10	Act 1 Good	2																			0
 Act 1 Chest B	6	5	4					100	gld	15	Act 1 Junk	15	Act 1 Equip B	10	Act 1 Good	2																			0
 Act 1 Chest C	6	9	4					100	gld	15	Act 1 Junk	12	Act 2 Junk	3	Act 1 Equip C	15	Act 1 Good	2																	0
@@ -1177,7 +1177,7 @@ Act 5 (H) Super Bx Desecrated	39	93	1					0	Act 5 (H) Super Bx	1																
 Act 5 (H) Super Cx Desecrated	39	96	1					0	Act 5 (H) Super Cx	1																									0
 JEWTC	10	85	1					0	AND	1																									0
 STDTC	10	85	1					0	std	25	brk	7	AND	904																					0
-Act 5 (H) GoodLFRift			1					0	AND	88	Flawless Gem	28	Runes 17	14	gft	5																			0
+Act 5 (H) GoodLFRift			1					0	AND	88	Flawless Gem	28	Runes 17	14																					0
 Rift Des Champion			1					0	AND	26	Flawless Gem	2	Runes 17	1																					0
 Rift Des Unique			1					0	AND	13	Flawless Gem	2	Runes 17	1																					0
 Rift Drops Special			1					75	STDTC	4	AND	25																							0
