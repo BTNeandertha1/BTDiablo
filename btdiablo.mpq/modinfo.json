@@ -7,10 +7,10 @@
 Mod Download: https://github.com/BTNeandertha1/BTDiablo/archive/refs/heads/BTDiablo.zip
 Mod Config Download: https://drive.google.com/uc?export=download&id=1X9Nl4cY53vGuLAOSlQwZGpsYOTY_osCN
 Mod Version: 1.1.0
-News 1 Title: "Welcome to BTDiablo!"
-News 1 Message: "Thanks to Bonesy, we now have a launcher platform with some cool easy functionality with it!"
-News 2 Title: "News"
-News 2 Message: "New ELITE unique items patch from 15th March! Don't forget to join the discord! We have an awesome community for BTDiablo!"
+News 1 Title: "BTDiablo Update 1.1.0 Released! (March 15th)"
+News 1 Message: "Update 1.1.0 adds 10 new unique items that add a range of new build options to experiment with. Holiday gifts have been removed and version numbers are now displayed in the MOTD panel. Enjoy the changes!"
+News 2 Title: "D2RLaunch"
+News 2 Message: "Further integration to D2RLaunch has been added. Mod updates can now be performed with a single click. In addition, the launcher will now display our mod logo, allow quick access to our discord, wiki and patreon. Thanks Bonesy!"
  
 --General Options--
 Map Layouts: Enabled
@@ -23,6 +23,11 @@ Item Icons: Disabled
 Runeword Sorting: Disabled
 HUD Display: Disabled
 Monster Stats Display: Enabled
+
+--Author Links--
+Discord: https://discord.gg/BTNeandertha1
+Wiki: https://btd.miraheze.org/wiki/Main_Page
+Patreon: https://www.patreon.com/BTNeanderthal
 */
 
 }
