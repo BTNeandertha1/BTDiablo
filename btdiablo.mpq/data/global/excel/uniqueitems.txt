@@ -47,7 +47,7 @@ Razortine	44	0	1			1	1	16	12	tri	Trident		5	5000	oran			invtriu				slow		25	25	r
 Bloodthief	45	0	1			1	1	23	17	brn	Brandistock		5	5000	whit	whit						openwounds		35	35	str		10	10	lifesteal		8	12	hp		60	60	dmg%		190	210	swing3		40	40																										0
 Lance of Yaggai	46	0	1			1	1	30	22	spt	Spetum		5	5000	lred	lred						thorns		8	8	ltng-min		1	1	ltng-max		400	400	res-all		25	25	swing2		40	40	heal-kill		6	6																										0
 The Tannr Gorerod	47	0	1			1	1	36	27	pik	Pike		5	5000	lgry	lgry						swing3		30	30					res-fire-max		15	15	hp		30	30					res-fire		30	30	dmg%		100	130	openwounds		15	15																		0
-Dimoaks Hew	48	0	1			1	1	11	8	bar	Bardiche		5	5000	blac	blac						dex		15	15	dmg%		200	200	swing2		50	50	heal-kill		15	15	regen		-15	-15	hp		50	50	Vit		20	20																						0
+Dimoaks Hew	48	0	1			1	1	11	8	bar	Bardiche		5	5000	blac	blac						dex		15	15	dmg%		200	200	swing2		50	50	heal-kill		15	15	regen		-15	-15	hp		400	479	Vit		20	20																						0
 Steelgoad	49	0	1			1	1	19	14	vou	Voulge		5	5000	cgrn	cgrn						deadly		30	30	swing3		50	50	res-all		35	35	dmg%		200	240	dur		20	40	str		20	20																										0
 Soul Harvest	50	0	1			1	1	26	19	scy	Scythe		5	5000	dgry			invscyu				openwounds		30	30	swing3		30	30	res-all		30	30	dmg%		150	200	manasteal		10	10	enr		30	30	regen		-15	-15																						0
 The Battlebranch	51	0	1			1	1	34	25	pax	Poleaxe		5	5000	lblu	lblu						swing3		30	30	dex		10	10	dmg%		170	200	att		50	100	lifesteal		7	7	balance3		50	50																										0
@@ -165,7 +165,7 @@ The Atlantian	161	100	1			1	1	50	42	9wd	Ancient Sword		5	5000	lblu	lblu						dur
 Crainte Vomir	162	100	1			1	1	50	42	92h	Espadon		5	5000	lgld			inv2hsu				slow		35	35	dmg-ac		-70	-70	move2		30	30	red-dmg%		20	20	dmg%		200	200	swing3		50	50	manasteal		5	5																						0
 Bing Sz Wang	163	100	1			1	1	51	43	9cm	Dacian Falx		5	5000								ease		-30	-30	dmg-cold	75	100	200	str		20	20	freeze		2	2	hit-skill	64	50	17	dmg%		150	200					swing2		20	20																		0
 The Vile Husk	164	100	1			1	1	52	44	9gs	Tusk Sword		5	5000	dgry	dgry		invgisu				hit-skill	66	20	22	dmg-und/lvl	60			res-pois		50	50	dmg-pois	150	426	426	dmg%		200	200	swing2		20	20																										0
-Cloudcrack	165	100	1			1	1	53	45	9b9	Gothic Sword		5	5000				invbswu				hit-skill	121	50	25	dmg-ltng		1	400	ac-hth		200	200	res-ltng-max		10	10	dmg%		150	200	light-thorns		500	500	skilltab	10	2	4	skilltab	11	2	4	swing2		25	25														0
+Cloudcrack	165	100	1			1	1	53	45	9b9	Gothic Sword		5	5000				invbswu				hit-skill	121	50	25	dmg-ltng		1	400	ac-hth		200	200	res-ltng-max		10	10	dmg%		150	200	light-thorns		31	31	skilltab	10	2	4	skilltab	11	2	4	swing2		25	25														0
 Todesfaelle Flamme	166	100	1			1	1	54	46	9fb	Zweihander		5	5000				inv9fbu				dmg-fire		50	200	res-fire		40	40	abs-fire		10	10	aura	Holy Fire	10	12	dmg%		120	160	oskill	52	10	10	oskill	37	10	10	swing3		40	40	oskill	61	1	1	pierce-fire		10	10										0
 Swordguard	167	100	1			1	1	55	48	9gd	Executioner Sword		5	5000	bwht	bwht		invgsdu				ease		-50	-50					res-all		10	20	ac-miss		200	200	dmg-to-mana		30	30	dmg%		200	200	ac-hth		200	200	balance2		20	20	block		20	20	swing2		30	30	dex		20	20						0
 Spineripper	168	100	1			1	1	40	32	9dg	Poignard		5	5000								ignore-ac		1	1	lifesteal		8	8	noheal		1	1	swing3		30	30	dex		30	30	dmg%		250	250	dmg-norm		30	54	nec		2	2	oskill	73	3	3														0
