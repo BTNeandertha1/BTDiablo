@@ -3166,6 +3166,662 @@ Summoning:
 
 ## EXTRAS
 
+
 - 3 Thawing Potions = Level 90 Scaling Magic Find Charm
 - Blank Item on "BlankItems" Character is used to update Uniques and Set items
 
+## NOT PROPERLY DISPLAYED IN GITHUB YET ( PATCHNOTES )
+
+Patch from 30th Jan
+
+Fixed 
+Bloodfist max dmg is now working properly
+Deathbit hits blinds targets is now properly displayed
+bladebuckle -10 % req is now properly displayed
+black hades 15 ias is now properly displayed
+Arkraine Valor random class skill is now working as intended
+
+adjustment
+
+Stoneraven
+Java skills increased from 2-4 to 3-6
+added 40 ias
+added 50 FRW
+added -35 Enemy lightning res
+added oskill natural resist +1
+
+item update unique shields
+
+Pelta Lunata
+removed defense
+added +30 Life
+vitality increased from 10 to 20
+strenght increased from 2 to 20
+energy increased from 10 to 25-30
+added replenish life 15
+added flat dr 6-8 
+
+Umbral disk
+removed defense
+dexterity increased from 10 to 20
+Life increased from 20 to 30
+added +30 mana
+added +1 all skills
+added 15 % DR
+added 7.75 defense based on char lvl
+
+Stormguild
+removed lightning resistance
+mdr increased from 1 to 7
+defense increased from 30 to 100
+Lightning dmg increased from 1-6 to 1-150
+thorns increased from 3 to 100
+added aura when equipped lvl 3 resist lightning
+added 5 % Life
+
+wall of the eyeless
+removed defense
+mpk increased from 5 to 7-10
+fcr increased from 20 to 25
+added 10% exp gain
+added +20 oskill bone wall
+
+swordback hold 
+thorns increased from 10 to 50
+chance of blocking increased from 20 to 30
+added 5 crushing blow 
+added 25-50 grief dmg
+added 12 flat dr
+added 60 FRH
+
+Steelclash
+removed paladin skill
+flat dr increased from 3 to 7-9
+all res increased from 15 to 25-35
+defense increased from 20 to 50-75
+added 3-5% Life
+added +1 all skills
+
+Bverrit Keep
+strenght increased from 5 to 15
+flat dr increased from 5 to 10
+chance of blocking increased from 10 to 30
+added -20% req
+
+The Ward
+flat mdr increased from 2 -> 7-14
+chance of blocking increased from 10 -> 50
+added -20% req
+
+Visceratuant
+removed sorc skill
+thorns increased form 10 to 127
+added +100% poison lenght reduction
+added +50 Energy
+added +10-15 strenght
+added +1 all skills
+added 5-10% DR
+
+Mosers Blessed Circle
+all res increased from 40 to 40-55
+added cannot be frozen
+added +20 mdr
+
+Stormchaser
+removed Tornado when struck
+removed attack rating
+removed half freeze duration
+lightning damage increased from 1-60 to 1-500
+4% chance lvl 6 blizzard increased to 75% lvl 30 blizzard when struck
+added 50% chance lvl 40 Twister when struck
+added 60 FRW
+added +25 Vitality
+added CBF
+added 150% bonus attack rating
+
+Tiamats Rebuke
+cold dmg increased from 27-53 to 200-250
+fire dmg increased from 35-95 -> 200-250
+light dmg increased from 1-120 -> 1-301
+all res increased from 25-35 -> 35-45
+5% chance lvl 9 frost nova increased to 50% chance lvl 50 frost nova when struck
+5% chance lvl 7 nova increased to 50% chance lvl 40 Nova when struck
+3% chance lvl 6 hydra increased to 33% chance lvl 63 hydra when struck 
+added 55 FHR
+added 12-16 flat dr
+
+Gerkes Sanctuary
+flat dr increased from 11-16 to 15-21
+mdr increased from 14-18 to 16-22
+added -20% req
+
+Radaments Sphere
+removed oskill poison explosion
+5% chance lvl 5 poison nova increased to 50% chance lvl 45 Poison nova when struck
+added +1-3 poison skills
+added 175% PLR
+added 10% DR
+
+Lance Guard
+life increased from 50 to 75-100
+FHR increased from 30 to 40
+thorns increased from 47 to 127
+added 25% chance of blocking
+added 30% block rate
+added +50 Vitality
+added 25% DR
+
+Medusas Gaze
+added 20-30% DR
+added +1 all skills
+added +2 random class skill
+
+Silence Runeword
+Dol Eld Hel Ist Tir Vex changed to Shael Eld Hel Ist Tir Vex
+removed FHR
++2 all skills increased to +2 to 3 all skills
+added 22% chance to cast Amp when striking
+
+Death Runeword
+removed Blood golem charges
+added 25% IAS
+
+Breath of the Dying Runeword
+increased chance and lvl of Poison Nova from 50% lvl20 to 66% lvl45
+added 200% Damage to Demons
+
+Lawbringer Runeword
+removed Rest in Peace
+increased aura lvl from 16-18 to 30-31
+increased chance and lvl of Decrepify from 20% lvl15 to 25% lvl30
+increased fire and cold dmg to 200-210
+added 200-250 Defense vs Melee
+
+Obedience Runeword
+removed 200-300 defense
+added 25% IAS
+
+Famine Runeword
+axes & hammer -> all weapons
+removed PMH
+increased all elemental dmg to 200-210
+increased magic dmg from 180-200 to 200-300
+added +10 to 20 all attributes
+added 50% Deadly Strike
+
+Duress Runeword
+removed stamina drain
+removed Cold Damage
+increased ED% from 10-20 to 80-100
+added 9-15 heal per kill
+added 15-20 mana per kill
+
+Crescent Moon Runeword
+polearm axes swords -> all weapons
+removed spirit wolf charges
+increased chance and lvl of Chain Lightning from 10% lvl17 to 34% lvl34
+increased chance and lvl of Static Field from 7% lvl13 to 25% lvl25
+increased magic abs from 9-11 to 12-18
+added lvl 14-16 Holy Shock Aura
+
+Wind Runeword
+Sur El changed to Sur Mal
+melee -> all weapons
+removed Twister Charges
+increased chance and lvl of Tornado from 10% lvl9 to 33% Lvl30
+increased FRW from 20 to 40
+increased FHR from 15 to 30
+increased ED% from 120-160 to 260-280
+added 25% chance lvl 35 Twister on striking
+
+Venom Runeword
+Tal Dol Mal changed to Tal Shael Mal
+removed charges
+removed poison dmg
+added +2-3 Poison skills
+added 20% IAS
+added +30 Venom oskill 
+added -20 to -30 enemy poison resistance
+added 190-240% ED
+
+Kingslayer Runeword
+sword axes -> melee
+replace oskill Vengeance with Berserk
+increased ED% from 230-270 to 260-300
+increased Goldfind from 40% to 350%
+
+Pattern Runeword
+removed AR%
+removed fire dmg
+removed block
+increased 40-80 ED% to 80-120%
+increased Strenght and Dexterity from 6 to 15
+added +1 MA
+added 15% FHR
+added +100 all elemental dmg 
+
+Pride Runeword
+polearm spears -> all weapons
+removed AR%
+removed replenish life
+increased gold find per lvl from 1.875 to 3.75
+increased Fire Wall lvl from 17 to 50
+Fire Wall when struck changed to when striking
+added 260-300% ED
+added 1% Damage to Undead per lvl
+
+Gut Siphon
+added 35% Increased Attack Speed
+added -15 to -20 enemy fire resistance
+added Fires Explosive Arrows or Bolts
+added +60% Requirements
+
+Steelpillar
+added 15% chance to cast AMP on striking
+fixed - target defense (before -127%, now -66%)
+
+Gargoyles Bite
+increased +1-3 poison skills to +2-3
+
+Crescent moon (amulet)
+added +2 Lightning Skills
+added +15% increased attack speed
+added +15% faster cast rate
+
+The Rising Sun
+increased Fire dmg from 24-48 to 100-200
+when struck meteor changed to Fire Ball
+increased chance and lvl of when struck skill from 2% lvl13-19 to 50% lvl40
+added +15-20% fire skill dmg
+
+Saracen's Chance
+increased all res from 15-25 to 35-40
+increased all attributes from 12 to 20-30
+changed when struck skill Iron Maiden to Lower Resist
+increased chance and lvl of when struck skill from 10% lvl2 to 24% lvl20
+added +1 to random class
+
+The Eye of Etlich
+removed +1 all skills
+increased cold dmg from 1-5 to 100-200
+added +1-2 Cold Skills
+added -8 to -15 enemy cold resistance
+
+Patch from 15th March
+
+NEW UNIQUES
+
+TC 81, 84 and 87
+
+Archon Plate Unsullieds Glory & Legacy both TC84 
+
+Glory (Phys)
++2 all skills
+200% Enhanced Damage
++10 max All Resistence
++40% Faster Hit Recovery
++30% Increased Attack Speed
++25% Faster Run/Walk
+15% Chance to cast lvl 25 Amp on Striking
++300-400 defense
+
+Legacy (Caster)
++2 all skills
++35% Faster Cast Rate
++10 max All Resistence
++40% Faster Hit Recovery
++25% Faster Run/Walk
++20-30 All Attributes
++300-400 defense
+
+Mirrored Boots Meshif's Traveller TC81
++50% Faster Run/Walk
++10% Deadly Strike
++80-100% enhanced defense
++75-100 Life
+Aura When Equipped Resist Cold Lvl 3
+-Cannot Be Frozen-
++1 random class skills
+
+Lacquered Plate Baal's Heart TC84
++3 to Cold Skills
+Aura when Equipped Holy Freeze lvl 5-12 
++150-200 Life
++10% Life
++66 Cold Resistence
+Cannot Be Frozen
++66% Faster Hit Recovery
++80-150% enhanced defense
++15-20 magic damage reduction
++20-25 mana per kill
+
+Guardian Crown Bul-Kathos Mind TC87
++1-2 to Warcries 
++2 to Barbarian Skills 
++20 Faster Cast Rate
++15-20 All Attributes
++20 Faster Hit Recovery
++0.5 Magic Find per Character Level
++150-200% enhanced defense
+
+Dream Spirit Gungnirs Almighty TC87
++3-4 to Druid Skills 
++15% Faster Cast Rate 
++1 Natural Resistence Oskill
++15-25 Strenght 
++100-150% enhanced defense
++10% Faster Run/Walk 
++30% Faster Hit Recovery
+
+Colossus Girdle Giants Protection TC87
++1 to Random Class Skills
++25-35 Flat DR
++25-35 Flat MDR
++5 to Cyclone Armor Oskill
++100-150 Life 
++10-15 Strenght
+-15% Faster Run/Walk
++80-100% enhanced defense
+
+Matriachal Pike Gaias Precision TC81
+Aura when equipped Conviction Lvl 3-6 
++3-4 to Amazon skills
++3-4 to Java Skills
++ -20 to -30 enemy lightning resistence 
++10-20 All Attributes 
++200-300 Defense 
++15-20 Flat DR
+  40% Increased Attack Speed
+
+Scissors Suwayyah Saboteurs Blade TC87
+Aura when equipped Vigor Lvl 5
++1-2 to Assasin Skills
++2 to Trap Skills
+-20 to -30 enemy Light Resistence
+-20 to -30 enemy Fire Resistence
++3 to Weapon Block 
++30% Increased Attack Speed
++250-300% Enhanced Damage
+
+Mythical Sword Mistiltein TC87
+Aura when equipped Holy Freeze Lvl 18 
++50% Increased Attack Speed
++300-350% Enhanced Damage
++ -15 to -20 enemy Cold Resistence
+Cannot Be Frozen
++1 Oskill Cold Mastery
+Ignore Target Defense
+
+Patch from 24th April
+
+Amazon
+
+Impale 
+durability loss chance from 50% -> 5%
+75% max slow -> 5%
+25% dmg per lvl -> 50%
+
+Immolation arrow
+explosion radius 4 -> 5
+removed casting delay
+synergy 5% -> 8%
+
+Valkyrie
+now can have 3 valks at the same time
+
+Sorceress
+
+Frost nova
+synergy 12% -> 18%
+mana cost slightly decreased
+added left click
+
+Fire Wall
+decreased casting delay 1.4 sec -> 0.6
+inferno synergy 1% -> 3%
+warmth synergy 4% -> 5%
+mana cost slightly decreased
+
+Thunderstorm
+radius 17 -> 30
+synergy 7% -> 20%
+can be used in town
+lightning strucks faster
+ 
+Necromancer
+
+Teeth
+removed bone wall and bone prison synergy
+buffed synergy from 15% -> 38%
+
+Bone Spear
+removed bone wall and bone prison synergy
+buffed synergy from 8% -> 33%
+
+Bone Spirit
+removed bone wall and bone prison synergy
+buffed synergy from 8% -> 35%
+
+Clay Golem
+now can be summoned 3x
+increased damage to be even with Raised Skeleton on lvl 20
+
+Blood Golem
+Increased Damage
+Increased Life convert to caster 30% -> 50%
+
+Fire Golem
+now can be summoned 3x
+increased Damage and Holy Fire Damage
+
+Paladin
+
+Sanctuary Aura
+synergy 7% -> 35%
+Aura Radius Base 5 -> 8
+baseline dmg to undead 150%->200%
+30% dmg to undead per lvl -> 50%
+added dmg synergy from Fist of the Heavens
+
+Vengeance
+baseline dmg increased from 70% -> 100%
+increased dmg per lvl from 6% -> 10%
+removed salvation synergy
+added conviction synergy
+increased ele dmg synergy from 10% -> 15%
+increased conviction synergy from 2% -> 5%
+reduced mana cost from 16 -> 4
+
+Fist of the Heavens
+holy bolt dmg synergy increased from 6% to 9%
+Mana per use slightly decreased 25 -> 20
+
+Druid
+
+Following skills can now be used in Wolf and Bear Form
+Teleport
+Feral Rage
+Maul
+Rabies
+Shockwave
+
+Hunger
+removed -75% dmg
+added 50% dmg
+
+Twister
+added cyclone armor synergy
+synergy increased from 10% -> 40%
+increased missiles 3 -> 5
+
+Fire Claw
+increased synergy from 22% -> 33%
+
+Volcano
+increased physical damage synergy from 16% -> 20%
+increased fire damage synergy from 12% -> 35%
+casting delay removed
+
+Fissure
+decreased casting delay from 2 sec -> 0.6
+
+Summon Grizzly
+can now summon 3 copies
+
+Assasin
+
+Tiger Strike
+increased Baseline dmg from 100% -> 300%
+increased dmg per lvl from 20% -> 30%
+slightly increased duration 375 -> 400
+
+Venom
+increased duration 300 -> 99999
+
+Shadow Warrior
+can now summon 3 copies
+
+Shadow Master
+can now summon 3 copies
+
+All Traps
+can now have 6 summons instead of 5
+
+Items:
+
+Messerschmidt's Reaver
+increased enhanced damage from 200% -> 200%-300%
+increased all attributes from 15 -> 15-30
+added aura when equipped Might lvl 8 - 10
+increased fire dmg from 20-240 -> 200-500
+added +0.5 deadly striker per Lvl
+added +1 fire absorb per lvl 
+added prevent monster healing
+
+Kira's Guardian
+added +2 random class skills
+added +5 All Max res
+added -10 to -20 Fire Pierce
+
+Nightwing's Veil
+increased cold pierce from -8 to -12 -> -10 to -20
+
+Windhammer
+increased lvl of Twister when striking from 33 -> 44
+
+Alma Negra
+increased Paladin skills from 1-2 -> 1-3
+increased mdr from 5-9 -> 7-13
+increased enhanced dmg from 100%-300% -> 180%-300%
+added freeze enemy target
+
+Wizardspike
+decreased all res from 75 -> 35-50
+added +1 all skills
+
+Doombringer
+removed weaken on striking
+added lvl 35 Glacial Spike on striking 33%
+added 40% ias
+added lvl 60 Chilling armor when struck 10%
+increased adds dmg from 30-100 -> 100-200
+increased enhanced damage from 180%-250% -> 200%-280%
+
+Fleshripper
+added 100 kick damage
+
+Cranebeak
+increased oskill lvl 8 -> 20
+increased Magicfind from 25-50 -> 30-65
+added 50 minimum damage
+added 2.5 maximum damage per Lvl
+added oskill +1 lighting mastery
+removed lightning damage
+
+New Item
+Constricting Ring
++20 all res
++20 magic find
+Life Drain -10
++1-3 max all res
+
+Runewords
+
+Soul
+now grants +1 all skills again instead of +1 random class
+
+Beast
+can now be made in all melee weapons
+
+Black
+can now be made in swords 
+
+Crescent Moon
+adjusted lightning pierce from 35 -> 25-35
+
+Death
+can now be made in all melee weapons
+
+Dream
+increased all res from 5-20 -> 14-20
+increased magic find from 12-25 -> 20-30
+
+Doom
+can now be made in all melee weapons
+removed Volcano on striking
+added Blizzard on striking
+increased Blizzard chance and Lvl on striking from 5% Lvl 18 -> 20% Lvl 40
+increased Cold Pierce from 40-60 -> 50-75
+
+Dragon
+increased all attributes from 3-5 -> 5-10
+increased Hydra chance and Lvl on striking from 12% Lvl 15 -> 20% Lvl 35
+
+Hand of Justice
+increased fire pierce from 20% -> 20-25%
+
+Ice
+increased cold pierce from -20 -> -25 to -30
+increased Frost Nova Lvl on striking from Lvl 22 -> Lvl 35
+
+King's Grace
+can now be made in all weapons
+increased enhanced dmg from 100% -> 130-180%
+increased damage to demon and undead from 100/50 -> 150
+removed attack rating
+added 150% attack rating
+added +1 all skills
+
+New Runewords
+
+Fortune
+only in 3 socketed Helm
+Runes: Sol Tir Shael
+20% chance to cast Lvl 20 Blaze when struck (40FRW & 400-500dps)
+Lvl 7 Prayer Aura when equipped
++ 77% enhanced Defense
++ 5 Mana after each kill
++ 77% extra Gold from Monsters
++ 25%-40% Magic find
+
+Broken Promise
+only in 4 socketed Armor
+Runes: Io Lum Fal Ko
++ 20% Faster Hit Recovery
++ 20% Faster Run/Walk
++ 20% Faster Cast Rate
++ 20% Increased Attack Speed
++ 20% Magic find
++ 10 all Attributes
+cannot be frozen
+
+Knight's Vigil
+only in 2 socketed Shield
+Runes: Sol Dol
++ 15 Strenght
++ 7 magic damage reduction
++ 50 Life
++ 15% All Resistances
++ 50% Increased Chance of Blocking
++ 5%-10% Max Cold Resistance
+Lvl 10 Defiance Aura when equipped
