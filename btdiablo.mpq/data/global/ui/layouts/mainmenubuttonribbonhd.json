@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nIntroducing NEW Runewords and Buffs to Skills, Items and Runewords!\nVersion 1.1.2 26th April",
+                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nIntroducing Buffed Gems and Items and brand new Uniques!\nVersion 1.1.3 29th May",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",
