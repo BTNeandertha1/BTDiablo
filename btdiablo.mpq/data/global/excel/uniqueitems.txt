@@ -191,7 +191,7 @@ Skullcollector	187	100	1			1	1	49	41	8ws	Rune Staff		5	5000	blac	blac		inv8wsu		
 Skystrike	188	100	1			1	1	36	28	8sb	Edge Bow		5	5000								dmg-ltng		1	301	dmg-min		20	20	enr		10	10	swing3		40	40	dmg%		150	200	hit-skill	56	33	18	ama		2	2	skilltab	0	1	1																		0
 Riphook	189	100	1			1	1	39	31	8hb	Razor Bow		5	5000	cred	cred						openwounds		5	50	dmg%		180	220	slow		30	30	mana		90	90	swing3		40	40	lifesteal		7	10	deadly		5	40	crush		5	40																		0
 Kuko Shakaku	190	100	1			1	1	41	33	8lb	CedarBow		5	5000	lpur	lpur		inv8lbu				skill	27	2	3	skill	16	2	3	dmg%		150	180	pierce		50	50	dmg-fire		40	180	skilltab	0	3	3	swing2		20	20																						0
-Endlesshail	191	100	1			1	1	44	36	8cb	Double Bow		5	5000				invcbwu								mana		80	80	ac-miss		150	150	oskill	26	3	3	dmg%		200	200	dmg-cold	75	300	300	swing3		30	30																						0
+Endlesshail	191	100	1			1	1	44	36	8cb	Double Bow		5	5000	cblu	cblu		invcbwu				hit-skill	Ice Bolt	45	45	mana		80	80	ac-miss		150	150	oskill	26	3	3	hit-skill	Glacial Spike	45	45	dmg-cold	75	300	300	swing3		30	30	hit-skill	Lower Resist	5	1	knock		1	1														0
 Whichwild String	192	100	1			1	1	47	39	8s8	Short Siege Bow		5	5000	lblu	lblu		inv8s8u				hit-skill	66	20	22	res-all		40	40	deadly/lvl	8			dmg%		180	200	magicarrow		20	20	swing2		20	20																										0
 Cliffkiller	193	100	1			1	1	49	41	8l8	Long Siege Bow		5	5000	dgld							ama		2	3	dmg%		190	230	ac-miss		200	200	knock		1	1	hp		100	100	dmg-min		20	30	dmg-max		40	50	balance2		20	20																		0
 Magewrath	194	100	1			1	1	51	43	8sw	Rune Bow		5	5000	oran			invswbu				manasteal		15	15	red-mag		9	13	skill	22	3	3	swing2		20	20	dex		25	25	stupidity		1	1	dmg-norm		25	50	dmg%		150	200	ama		1	3														0
@@ -331,7 +331,7 @@ Spiritkeeper	327	100	1			1	1	75	67	drd	earth spirit		5	5000								ac%		170	190	
 Hellrack	328	100	1			1	1	84	76	6hx	colossus crossbow		5	5000	cred			invhxbu				dmg%		180	230	dmg-elem	33	400	400	swing2		30	30	att%		100	150	hit-skill	91	20	10	oskill	Immolation Arrow	18	18	pierce		34	34																						0
 Alma Negra	329	100	1			1	1	85	77	pac	sacred rondache		5	5000	blac	blac						ac%		180	210	block2		30	30	pal		1	3	block		20	20	red-mag		7	13	att%		75	150	dmg%		180	300	aura	Salvation	1	1	freeze		1	1														0
 Darkforge Spawn	330	100	1			1	1	72	64	nef	bloodlord skull		5	5000	cred	cred						ac%		140	180	cast2		30	30	mana%		10	10	skilltab	6	2	3	skilltab	7	2	3	skilltab	8	2	3	skill	Teeth	5	5	skill	Bone Armor	5	5	skill	Bone Spear	5	5	skill	Bone Spirit	5	5	pierce		50	50						0
-Widowmaker	331	100	1			1	1	73	65	6sw	ward bow		5	5000	dred	dred		invswbu				dmg%		150	200	deadly		33	33	ignore-ac		1	1	magicarrow		11	11	oskill	Guided Arrow	3	5																														0
+Widowmaker	331	100	1			1	1	73	65	6sw	ward bow		5	5000	dred	dred		invswbu				dmg%		200	250	deadly		33	33	ignore-ac		1	1	magicarrow		11	11	oskill	Guided Arrow	3	5	swing2		30	30	pierce		50	50	gethit-skill	Slow Missiles	75	20	openwounds		15	15														0
 Bloodraven's Charge	332	100	1			1	1	79	71	amb	matriarchal bow		5	5000	dgld	dgld		invswbu				dmg%		180	230	att%		200	300	explosivearrow		13	13	skilltab	0	4	6	oskill	Revive	5	5	swing2		30	30																										0
 Ghostflame	333	100	1			1	1	70	62	7bl	legend spike		5	5000	cblu	cblu						fireskill		4	4	pierce-fire		5	10	dmg-mag		108	108	extra-fire		5	10	ethereal		1	1	indestruct		1	1	cast2		30	30	res-fire-max		5	5																		0
 Shadowkiller	334	100	1			1	1	85	78	7cs	battle cestus		5	5000				invaxfu				dmg%		250	290	reduce-ac		25	25	swing2		30	30	manasteal		6	9	skilltab	19	4	5	ethereal		1	1	indestruct		1	1	oskill	Berserk	1	1	ignore-ac		1	1														0
@@ -401,9 +401,9 @@ Rainbow Facet	397	100	1			1	1	85	49	jew	jewel		3	5000								dmg-cold	3	24	38	pi
 Rainbow Facet	398	100	1			1	1	85	49	jew	jewel		3	5000								dmg-fire		17	45	pierce-fire		4	5	extra-fire		4	5	levelup-skill	Blaze	100	29	addxp		2	2																														0
 Rainbow Facet	399	100	1			1	1	85	49	jew	jewel		3	5000								dmg-pois	50	187	187	pierce-pois		4	5	extra-pois		4	5	levelup-skill	Venom	100	23	addxp		2	2																														0
 Hellfire Torch	400	100	1			1	1	110	75	cm2	charm		3	5000			flptrch	invtrch	item_gem	12	item_gem	randclassskill1		0	6	all-stats		10	20	res-all		10	20	light		8	8	charged	Hydra	10	30																														0
-Starting Charm	401	100	1			1	1	1	1	mfc	charm	1	3	5000			flptrch		item_gem	12	item_gem	mag%		-199	-199	res-all		-30	-30																																										0
+Starting Charm	401	100	1			1	1	1	1	mfc	charm	1	3	5000			flptrch		item_gem	12	item_gem	mag%		-199	-199	res-all		-30	-30	allskills		1	1																																						0
 Neverfrost	402	100	1			1	1	78	29	jew	jewel		3	5000								cast2		1	3	swing2		5	10	nofreeze		1	1	addxp		2	2																																		0
-Startin Charm	403	100	1			1	1	1	90	mfe	charm	1	3	5000			flptrch		item_gem	12	item_gem	mag%		-199	-199	res-all		-30	-30																																										0
+Startin Charm	403	100	1			1	1	1	1	mfe	charm	1	3	5000			flptrch		item_gem	12	item_gem	mag%		-199	-199	res-all		-30	-30																																										0
 Startin Charm1	404	100	1			1	1	1	90	mf1	charm	1	3	5000			flptrch		item_gem	12	item_gem	mag%		-199	-199	res-all		-30	-30																																										0
 Scale Charm	405	100	1			1	1	1	90	mff	charm	1	3	5000			flptrch		item_gem	12	item_gem	mag%/lvl	7																																																0
 Unsullied's Glory	406	100	1			2	1	85	95	utp	archon plate		5	5000	blac	blac						allskills		2	2	dmg%		200	200	res-all-max		10	10	balance3		40	40	move3		25	25	swing3		30	30	hit-skill	Amplify Damage	15	25	ac		300	400																		0
@@ -416,3 +416,6 @@ Giant's Protection	412	100	1			8	1	85	93	uhc	colossus girdle		5	5000	dgld	dgld		
 Gaia's Precision	413	100	1			3	1	85	91	ame	matriarchal pik		5	5000	cred	cred						aura	conviction	3	6	ama		3	4	skilltab	2	3	4	pierce-ltng		20	30	all-stats		10	20	ac		200	300	red-dmg		15	20	swing3		40	40																		0
 Saboteurs Blade	414	100	1			5	1	85	95	7qr	scissors suwayh		5	5000	dgrn	dgrn						skilltab	18	2	2	ass		1	2	pierce-ltng		20	30	pierce-fire		20	30	swing2		30	30	dmg%		250	300	aura	Vigor	5	5	skill	Weapon Block	3	3																		0
 Mistiltein	415	100	1			8	1	85	90	7wd	mythical sword		5	5000	cblu	cblu						Aura	Holy Freeze	18	18	swing3		50	50	dmg%		300	350	pierce-cold		15	20	oskill	Cold Mastery	1	1	stupidity		1	1	ignore-ac		1	1																						0
+Thunderfury	416	100	1			1	1	78	80	7bs	conquest sword		5	5000	dgld	dgld						swing2		20	20	dmg%		200	250	dmg-ltng		1	480	oskill	Zeal	1	1	noheal		1	1	hit-skill	Chain Lightning	15	40	hit-skill	Static Field	20	12	pierce-ltng		10	20																		0
+Elemental Union	417	100	1			8	1	85	90	paf	vortex shield		5	5000	dgry	dgry						Aura	Holy Freeze	15	20	hit-skill	Nova	85	55	kill-skill	Enchant	25	50	block		20	20	block2		20	20	pal		2	2	skill	Vengeance	4	5	res-all		25	45	dmg-fire		300	300	dmg-cold		300	300	dmg-ltng		300	300						0
+King's Absolution	418	100	1			3	1	85	90	ci1	coronet		5	5000	oran	oran						allskills		1	1	randclassskill3		0	6	kill-skill	Lower Resist	20	1	mana-kill		10	15	heal-kill		10	15	addxp		5	10	ac		66	99																						0
