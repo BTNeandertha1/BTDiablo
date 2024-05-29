@@ -3825,3 +3825,94 @@ Runes: Sol Dol
 + 50% Increased Chance of Blocking
 + 5%-10% Max Cold Resistance
 Lvl 10 Defiance Aura when equipped
+
+Patch Notes from 29th May
+
+Unique Items
+
+Endlesshail
+added 45% chance to cast lvl 45 Glacial Spike on Striking
+added 45% chance to cast lvl 45 Ice Bolt on Striking
+added 5% chance to cast lvl 1 lower resist on Striking
+removed Enhanced Damage
+
+Widowmaker
+increased Enhanced Damage from 150-200% to 200-250%
+added 30 IAS
+added 50% Pierce
+added 75% chance to cast slow missiles lvl 20 when struck
+added 15% chance to open wounds
+
+Skill
+
+Barbarian
+
+Bash
+Concentrate Attack Rating Synergy changed to Damage Synergy
+
+Gems
+
+Amethyst
+Gives now FCR when socketed in Weapons
+Normal 1, Flawless 2, Perfect 3
+When socketed in Armor, Str is now doubled
+Gives now Magic Damage Reduction when socketed in shields
+Normal 6, Flawless 9, Perfect 12
+
+
+Sapphire
+Increased Cold Damage when socketed in Weapons
+Normal 4 -> 16, Flawless 6 -> 20, Perfect 10 -> 30
+When socketed in Armor, Mana is now doubled
+
+Emerald
+When socketed in Armor, Dex is now doubled
+
+Ruby
+When socketed in Armor, Life is now doubled
+
+Diamond
+Gives now adds Damage when socketed in Weapons
+Normal adds 3-5, Flawless adds 6-9, Perfect adds 10-15
+Gives now All Attributes when socketed in Armor
+Normal 1, Flawless 2, Perfect 3
+
+New Items
+
+Thunderfury
+Conquest Sword TC 78 
+req Lvl 80
++20% IAS
++200-250% Enhanced Damage
++1-480 Lightning Damage
++1 Oskill Zeal
++ prevent monster heal
++ 15% Chance to cast Lvl 40 Chain Lightning on striking
++ 20% Chance to cast Lvl 12 Static Field on striking
++ -10 to -20 enemy Lightning Resistance
+
+Elemental Union
+Vortex Shield TC87
+req Lvl 90
+Lvl 15-20 Holy Freeze Aura when equipped
+85% Chance to cast lvl 55 Nova on striking
+25% Chance to cast lvl 50 Enchant on kill
++20% increased Block Chance
++20% Faster Block Rate
++2 Paladin Skills
++4-5 Vengeance (only paladin)
++25-45 All Resistance
++255-300 Fire Damage
++63-300 Lightning Damage
++255-300 Cold Damage
+
+King's Absolution
+Coronet TC54
+req Lvl 90
+20% Chance to cast lvl 1 Lower Resist on Kill
++1 All Skills
++1 Random Class Skills
++66-99 Defense
++10-15 Mana per Kill
++10-15 Life per Kill
++5-10% experience gained
