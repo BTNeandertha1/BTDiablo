@@ -1924,7 +1924,7 @@
   "uber": "charm/charm_start",
   "ultra": "charm/charm_start"
   } },
-  { "scale_charm": {
+  { "charm_level": {
   "normal": "charm/charm_level",
   "uber": "charm/charm_level",
   "ultra": "charm/charm_level"
