@@ -1,4 +1,3 @@
-
 index	name	version	PCode2a	PParam2a	PMin2a	PMax2a	PCode2b	PParam2b	PMin2b	PMax2b	PCode3a	PParam3a	PMin3a	PMax3a	PCode3b	PParam3b	PMin3b	PMax3b	PCode4a	PParam4a	PMin4a	PMax4a	PCode4b	PParam4b	PMin4b	PMax4b	PCode5a	PParam5a	PMin5a	PMax5a	PCode5b	PParam5b	PMin5b	PMax5b	FCode1	FParam1	FMin1	FMax1	FCode2	FParam2	FMin2	FMax2	FCode3	FParam3	FMin3	FMax3	FCode4	FParam4	FMin4	FMax4	FCode5	FParam5	FMin5	FMax5	FCode6	FParam6	FMin6	FMax6	FCode7	FParam7	FMin7	FMax7	FCode8	FParam8	FMin8	FMax8	*eol
 Civerb's Vestments	Civerb's Vestments	0	res-fire		30	30	cast1		10	10																									str	0	20	20	dmg-undead	0	200	200	res-ltng	0	30	30	att%	0	25	25	red-dmg		10	10	addxp		15	15	mag%		100	100					0
 Hsarus' Defense	Hsarus' Defense	0	thorns/lvl		8	8																													thorns/lvl	0	12	12	nofreeze	0	1	1	res-ltng	0	30	30	res-pois		30	30	addxp		15	15	mag%		100	100									0
