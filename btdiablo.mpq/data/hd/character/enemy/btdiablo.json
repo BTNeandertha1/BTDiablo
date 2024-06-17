@@ -1,0 +1,393 @@
+{
+  "dependencies": {
+    "particles": [
+    ],
+    "models": [
+      {
+        "path": "data/hd/character/enemy/diablo/lhandVFX.model"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/rhandVFX.model"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/spirit.model"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/torso.model"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/VFXshell.model"
+      }
+    ],
+    "skeletons": [
+      {
+        "path": "data/hd/character/enemy/diablo/skeleton/diablo.skeleton"
+      }
+    ],
+    "animations": [
+    ],
+    "textures": [
+      {
+        "path": "data/hd/character/common/common_alb.texture"
+      },
+      {
+        "path": "data/hd/character/common/common_cloud_threshold.texture"
+      },
+      {
+        "path": "data/hd/character/common/common_nrm.texture"
+      },
+      {
+        "path": "data/hd/character/common/common_orm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_body_alb.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_body_burned_ALB.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_body_burned_nrm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_body_burned_orm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_body_ktint.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_body_nrm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_body_orm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_horns_alb.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_horns_ktint.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_horns_nrm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_horns_orm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_legs_alb.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_legs_burned_ALB.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_legs_burned_nrm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_legs_burned_orm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_legs_ktint.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_legs_nrm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_legs_orm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_spirit_body_alb.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_spirit_body_nrm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_spirit_body_orm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_spirit_horns_alb.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_spirit_horns_nrm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_spirit_horns_orm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_spirit_legs_alb.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_spirit_legs_nrm.texture"
+      },
+      {
+        "path": "data/hd/character/enemy/diablo/textures/diablo_spirit_legs_orm.texture"
+      }
+    ],
+    "physics": [
+    ],
+    "json": [
+      {
+        "path": "data/hd/character/enemy/diablo/diablo_state_machine.json"
+      },
+      {
+        "path": "data/hd/missiles/diablo_lightning.json"
+      },
+      {
+        "path": "data/hd/missiles/ground_fire_big.json"
+      },
+      {
+        "path": "data/hd/missiles/ground_fire_medium.json"
+      },
+      {
+        "path": "data/hd/missiles/ground_fire_small.json"
+      },
+      {
+        "path": "data/hd/overlays/monster/diablolightning.json"
+      }
+    ],
+    "variantdata": [
+      {
+        "path": "data/hd/character/enemy/diablo/diablo_variant.json"
+      }
+    ],
+    "objecteffects": [
+    ],
+    "other": [
+    ]
+  },
+  "type": "UnitDefinition",
+  "name": "diablo",
+  "entities": [
+    {
+      "type": "Entity",
+      "name": "entity_root",
+      "id": 315426896,
+      "components": [
+        {
+          "type": "UnitRootComponent",
+          "name": "component_root",
+          "state_machine_filename": "data/hd/character/enemy/btdiablo/btdiablo_state_machine.json",
+          "doNotInheritRotation": false,
+          "rotationOverride": {
+            "x": 0.0,
+            "y": 0.3826834,
+            "z": 0.0,
+            "w": 0.9238795
+          },
+          "doNotUseHDHeight": false,
+          "hideAllMeshWhenInOpenedMode": false,
+          "onCreateEventName": "",
+          "animations": [
+          ]
+        },
+        {
+          "type": "SkeletonDefinitionComponent",
+          "name": "component_skeleton",
+          "filename": "data/hd/character/enemy/diablo/skeleton/diablo.skeleton"
+        },
+        {
+          "type": "VariantDefinitionComponent",
+          "name": "component_variant",
+          "filename": "data/hd/character/enemy/diablo/diablo_variant.json"
+        },
+        {
+          "type": "DefinitionPreloadComponent",
+          "name": "Root_DefinitionPreloadComponent",
+          "missiles": [
+            {
+              "type": "UnitDefinitionListEntry",
+              "name": "Root_UnitDefinitionList_Entry1",
+              "filename": "data/hd/missiles/ground_fire_big.json"
+            },
+            {
+              "type": "UnitDefinitionListEntry",
+              "name": "Root_UnitDefinitionList_Entry2",
+              "filename": "data/hd/missiles/ground_fire_small.json"
+            },
+            {
+              "type": "UnitDefinitionListEntry",
+              "name": "Root_UnitDefinitionList_Entry3",
+              "filename": "data/hd/missiles/diablo_lightning.json"
+            },
+            {
+              "type": "UnitDefinitionListEntry",
+              "name": "Root_UnitDefinitionList_Entry4",
+              "filename": "data/hd/missiles/ground_fire_medium.json"
+            }
+          ],
+          "overlays": [
+            {
+              "type": "OverlayDefinitionListEntry",
+              "name": "Root_OverlayDefinitionList_Entry1",
+              "filename": "data/hd/overlays/monster/diablolightning.json"
+            }
+          ],
+          "minions": [
+          ]
+        },
+        {
+          "type": "IKComponent",
+          "name": "entity_root_IK",
+          "preset": {
+          }
+        },
+        {
+          "type": "DeadAnimationSpeedOverrideComponent",
+          "name": "entity_root_DeadAnimationSpeedOverrideComponent",
+          "speed": 1.0
+        },
+        {
+          "type": "FidgetAnimationComponent",
+          "name": "entity_root_FidgetAnimation",
+          "neutralSet": {
+            "type": "FidgetAnimationSet",
+            "name": "entity_root_FidgetAnimation_neutralSet",
+            "options": [
+              {
+                "type": "FidgetAnimationOption",
+                "name": "entity_root_FidgetAnimation_neutralSet_options_0",
+                "stateName": "Fidget01",
+                "weight": 1.0,
+                "cooldownMin": 0.0,
+                "cooldownMax": 0.0
+              }
+            ],
+            "firstFidgetDelayMin": 0.0,
+            "firstFidgetDelayMax": 0.0,
+            "subsequentFidgetDelayMin": 5.0,
+            "subsequentFidgetDelayMax": 10.0
+          },
+          "townNeutralSet": {
+          },
+          "frontendSet": {
+          },
+          "characterSelectSet": {
+          }
+        }
+      ]
+    },
+    {
+      "type": "Entity",
+      "name": "entity_torso",
+      "id": 1187527945,
+      "components": [
+        {
+          "type": "UnitPartComponent",
+          "name": "component_part_torso",
+          "part": "torso",
+          "variant": "lit"
+        },
+        {
+          "type": "ModelDefinitionComponent",
+          "name": "component_model_torso",
+          "filename": "data/hd/character/enemy/diablo/torso.model",
+          "visibleLayers": 1,
+          "lightMask": 19,
+          "shadowMask": 3,
+          "ghostShadows": false,
+          "floorModel": false,
+          "terrainBlendEnableYUpBlend": false,
+          "terrainBlendMode": 1
+        }
+      ]
+    },
+    {
+      "type": "Entity",
+      "name": "entity_right_hand",
+      "id": 3073791334,
+      "components": [
+        {
+          "type": "UnitPartComponent",
+          "name": "entity_right_hand_UnitPart",
+          "part": "rhand",
+          "variant": "lit"
+        },
+        {
+          "type": "ModelDefinitionComponent",
+          "name": "entity_right_hand_ModelDefinition",
+          "filename": "data/hd/character/enemy/diablo/rhandVFX.model",
+          "visibleLayers": 1073741824,
+          "lightMask": 19,
+          "shadowMask": 3,
+          "ghostShadows": false,
+          "floorModel": false,
+          "terrainBlendEnableYUpBlend": false,
+          "terrainBlendMode": 1
+        }
+      ]
+    },
+    {
+      "type": "Entity",
+      "name": "entity_left_hand",
+      "id": 749959446,
+      "components": [
+        {
+          "type": "UnitPartComponent",
+          "name": "entity_left_hand_UnitPart",
+          "part": "lhand",
+          "variant": "lit"
+        },
+        {
+          "type": "ModelDefinitionComponent",
+          "name": "entity_left_hand_ModelDefinition",
+          "filename": "data/hd/character/enemy/diablo/lhandVFX.model",
+          "visibleLayers": 1073741824,
+          "lightMask": 19,
+          "shadowMask": 3,
+          "ghostShadows": false,
+          "floorModel": false,
+          "terrainBlendEnableYUpBlend": false,
+          "terrainBlendMode": 1
+        }
+      ]
+    },
+    {
+      "type": "Entity",
+      "name": "entity_VFXShell",
+      "id": 3939047416,
+      "components": [
+        {
+          "type": "ModelDefinitionComponent",
+          "name": "entity_VFXShell_ModelDefinition",
+          "filename": "data/hd/character/enemy/diablo/VFXshell.model",
+          "visibleLayers": 1073741824,
+          "lightMask": 19,
+          "shadowMask": 3,
+          "ghostShadows": false,
+          "floorModel": false,
+          "terrainBlendEnableYUpBlend": false,
+          "terrainBlendMode": 1
+        },
+        {
+          "type": "UnitPartComponent",
+          "name": "entity_VFXShell_UnitPart",
+          "part": "special3",
+          "variant": "lit"
+        }
+      ]
+    },
+    {
+      "type": "Entity",
+      "name": "entity_spirit",
+      "id": 3116316498,
+      "components": [
+        {
+          "type": "ModelDefinitionComponent",
+          "name": "entity_spirit_ModelDefinition",
+          "filename": "data/hd/character/enemy/diablo/spirit.model",
+          "visibleLayers": 1073741824,
+          "lightMask": 19,
+          "shadowMask": 3,
+          "ghostShadows": false,
+          "floorModel": false,
+          "terrainBlendEnableYUpBlend": false,
+          "terrainBlendMode": 1
+        },
+        {
+          "type": "UnitPartComponent",
+          "name": "entity_spirit_UnitPart",
+          "part": "special4",
+          "variant": "lit"
+        }
+      ]
+    }
+  ]
+}
