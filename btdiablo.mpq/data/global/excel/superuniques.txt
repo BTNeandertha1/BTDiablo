@@ -61,8 +61,11 @@ Magma Torquer	Magma Torquer	imp5	57		5	7	30	5	5	0	0		9	9	9	Act 5 Super C		Act 5 
 Blaze Ripper	Blaze Ripper	deathmauler5	58		17	6	30	4	4	0	0		10	10	10	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
 Frozenstein	Frozenstein	snowyeti4	59		18	25	30	5	6	0	0		19	19	19	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
 Nihlathak Boss	Nihlathak	nihlathakboss	60		30	0	0	0	0	0	1		28	28	28	Nihlathak	Nihlathak Desecrated	Nihlathak (N)	Nihlathak (N) Desecrated	Nihlathak (H)	Nihlathak (H) Desecrated	0
-Baal Subject 5	Baal Subject 1	willowisp7	61		26	30	0	4	4	0	1		29	29	29	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
-Baal Subject 5	Baal Subject 2	bonefetish5	62		6	30	0	5	5	0	1		21	21	21	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
-Baal Subject 5	Baal Subject 3	venomlord	63		6	30	0	6	6	0	1		36	36	36	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
-Baal Subject 5	Baal Subject 4	bloodlord5	64		6	30	0	7	7	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 1	Baal Subject 1	willowisp7	61		26	30	0	4	4	0	1		29	29	29	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 2	Baal Subject 2	bonefetish5	62		6	30	0	5	5	0	1		21	21	21	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 3	Baal Subject 3	venomlord	63		6	30	0	6	6	0	1		36	36	36	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 4	Baal Subject 4	bloodlord5	64		6	30	0	7	7	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
 Baal Subject 5	Baal Subject 5	baalminion1	65		6	30	0	7	7	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baron	Baron	baron	66		9	17	18	0	0	0	1		11	11	11	Act 2 Super A		Act 2 (N) Super A		Act 2 (N) Super A		0
+BTDiablo	BTDiablo	btdiablo	67		29	5	6	0	0	0	1		0	0	0	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C		0
+Kexicon	Kexicon	kexicon	68		26	27	29	2	2	0	1		29	29	29	Act 3 Super B		Act 3 (N) Super B		Act 3 (H) Super B		0
