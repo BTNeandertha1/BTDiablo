@@ -47,24 +47,24 @@ Runes 15			1						129	3	130	2	Runes 14	2941																					0
 Runes 16			1						131	3	132	2	Runes 15	3957																					0
 Runes 17			1						133	1	Runes 16	5170																							0
 Act 1 Junk			1						Potion 1	8	Misc 0	4	Ammo	4																					0
-Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4																			0
-Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4																			0
-Act 4 Junk			1						Act 3 Junk	2	Potion 4	8	Misc 1	4	Ammo	4																			0
-Act 5 Junk			1						Act 4 Junk	2	Potion 5	8	Misc 2	4	Ammo	4																			0
-Act 1 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
-Act 2 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
-Act 3 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
-Act 4 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
-Act 5 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
-Act 1 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
+Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	4																					0
+Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	4																					0
+Act 4 Junk			1						Act 3 Junk	2	Potion 4	8	Misc 1	4																					0
+Act 5 Junk			1						Act 4 Junk	2	Potion 5	8	Misc 2	4																					0
+Act 1 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
+Act 2 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
+Act 3 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
+Act 4 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
+Act 5 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
+Act 1 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
 Act 1 (H) JunkLF			1						Potion 6ND	8	AND	10																							0
-Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
+Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
 Act 2 (H) JunkLF			1						Potion 6ND	8	AND	10																							0
-Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
+Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
 Act 3 (H) JunkLF			1						Potion 6ND	8	AND	10																							0
-Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
+Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
 Act 4 (H) JunkLF			1						Potion 6ND	8	AND	10																							0
-Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
+Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
 Act 5 (H) JunkLF			1						Potion 6ND	8	AND	10																							0
 Act 1 Equip A	1	0	1						weap3	7	armo3	7																							0
 Act 1 Equip B	1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																			0
@@ -370,48 +370,48 @@ Act 5 (H) Cast A	8	81	1					100	gld	18	Act 5 (H) Equip A	15	Act 1 (H) JunkLF	18	
 Act 5 (H) Cast B	8	83	1					100	gld	18	Act 5 (H) Equip B	15	Act 1 (H) JunkLF	18	Act 5 (H) GoodLF	2	Act 5 (H) Magic B	7																	0
 Act 5 (H) Cast C	8	85	1					100	gld	18	Act 5 (H) Equip C	15	Act 1 (H) JunkLF	18	Act 5 (H) GoodLF	2	Act 5 (H) Magic B	7																	0
 Act 5 (H) Cast CLF	8	85	1					100	gld,mul=4608	1	Act 5 (H) Equip C	15	Act 5 (H) JunkLF	18	Act 5 (H) GoodLF	2	Act 5 (H) Magic CLF	7	AND	17															0
-Act 1 Miss A	9	0	1					100	gld	18	Act 1 Equip A	13	Act 1 Junk	18	Act 1 Good	2	Act 1 Bow A	6	Ammo	3															0
-Act 1 Miss B	9	5	1					100	gld	18	Act 1 Equip B	13	Act 1 Junk	18	Act 1 Good	2	Act 1 Bow B	6	Ammo	3															0
-Act 1 Miss C	9	9	1					100	gld	18	Act 1 Equip C	13	Act 1 Junk	18	Act 1 Good	2	Act 1 Bow C	6	Ammo	3															0
-Act 2 Miss A	9	12	1					100	gld	18	Act 2 Equip A	13	Act 2 Junk	18	Act 2 Good	2	Act 2 Bow A	6	Ammo	3															0
-Act 2 Miss B	9	15	1					100	gld	18	Act 2 Equip B	13	Act 2 Junk	18	Act 2 Good	2	Act 2 Bow B	6	Ammo	3															0
-Act 2 Miss C	9	18	1					100	gld	18	Act 2 Equip C	13	Act 2 Junk	18	Act 3 Good	2	Act 2 Bow C	6	Ammo	3															0
-Act 3 Miss A	9	20	1					100	gld	18	Act 3 Equip A	13	Act 3 Junk	18	Act 3 Good	2	Act 3 Bow A	6	Ammo	3															0
-Act 3 Miss B	9	22	1					100	gld	18	Act 3 Equip B	13	Act 3 Junk	18	Act 3 Good	2	Act 3 Bow B	6	Ammo	3															0
-Act 3 Miss C	9	24	1					100	gld	18	Act 3 Equip C	13	Act 3 Junk	18	Act 3 Good	2	Act 3 Bow C	6	Ammo	3															0
-Act 4 Miss A	9	26	1					100	gld	18	Act 4 Equip A	13	Act 4 Junk	18	Act 4 Good	2	Act 4 Bow A	6	Ammo	3															0
-Act 4 Miss B	9	29	1					100	gld	18	Act 4 Equip B	13	Act 4 Junk	18	Act 4 Good	2	Act 4 Bow B	6	Ammo	3															0
-Act 5 Miss A	9	32	1					100	gld	18	Act 5 Equip A	13	Act 5 Junk	18	Act 5 Good	2	Act 5 Bow A	6	Ammo	3															0
-Act 5 Miss B	9	34	1					100	gld	18	Act 5 Equip B	13	Act 5 Junk	18	Act 5 Good	2	Act 5 Bow B	6	Ammo	3															0
-Act 5 Miss C	9	36	1					100	gld	18	Act 5 Equip C	13	Act 5 Junk	18	Act 5 Good	2	Act 5 Bow B	6	Ammo	3															0
-Act 1 (N) Miss A	9	38	1					100	gld	18	Act 1 (N) Equip A	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow A	6	Ammo	3															0
-Act 1 (N) Miss B	9	40	1					100	gld	18	Act 1 (N) Equip B	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow B	6	Ammo	3															0
-Act 1 (N) Miss C	9	41	1					100	gld	18	Act 1 (N) Equip B	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow B	6	Ammo	3															0
-Act 2 (N) Miss A	9	42	1					100	gld	18	Act 2 (N) Equip A	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow A	6	Ammo	3															0
-Act 2 (N) Miss B	9	44	1					100	gld	18	Act 2 (N) Equip B	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow B	6	Ammo	3															0
-Act 2 (N) Miss C	9	45	1					100	gld	18	Act 2 (N) Equip B	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow B	6	Ammo	3															0
-Act 3 (N) Miss A	9	46	1					100	gld	18	Act 3 (N) Equip A	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow A	6	Ammo	3															0
-Act 3 (N) Miss B	9	48	1					100	gld	18	Act 3 (N) Equip B	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow B	6	Ammo	3															0
-Act 3 (N) Miss C	9	50	1					100	gld	18	Act 3 (N) Equip B	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow B	6	Ammo	3															0
-Act 4 (N) Miss A	9	51	1					100	gld	18	Act 4 (N) Equip A	13	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Bow A	6	Ammo	3															0
-Act 4 (N) Miss B	9	54	1					100	gld	18	Act 4 (N) Equip B	13	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Bow B	6	Ammo	3															0
-Act 5 (N) Miss A	9	57	1					100	gld	18	Act 5 (N) Equip A	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow A	6	Ammo	3															0
-Act 5 (N) Miss B	9	60	1					100	gld	18	Act 5 (N) Equip B	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow B	6	Ammo	3															0
-Act 5 (N) Miss C	9	62	1					100	gld	18	Act 5 (N) Equip C	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow B	6	Ammo	3															0
-Act 1 (H) Miss A	9	63	1					100	gld	18	Act 1 (H) Equip A	13	Act 1 (H) JunkLF	18	Act 1 (H) GoodLF	2	Act 1 (H) Bow A	6	Ammo	3															0
-Act 1 (H) Miss B	9	66	1					100	gld	18	Act 1 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 1 (H) GoodLF	2	Act 1 (H) Bow B	6	Ammo	3															0
-Act 1 (H) Miss C	9	68	1					100	gld	18	Act 1 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 1 (H) GoodLF	2	Act 1 (H) Bow B	6	Ammo	3															0
-Act 2 (H) Miss A	9	69	1					100	gld	18	Act 2 (H) Equip A	13	Act 1 (H) JunkLF	18	Act 2 (H) GoodLF	2	Act 2 (H) Bow A	6	Ammo	3															0
-Act 2 (H) Miss B	9	71	1					100	gld	18	Act 2 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 2 (H) GoodLF	2	Act 2 (H) Bow B	6	Ammo	3															0
-Act 2 (H) Miss C	9	72	1					100	gld	18	Act 2 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 2 (H) GoodLF	2	Act 2 (H) Bow B	6	Ammo	3															0
-Act 3 (H) Miss A	9	74	1					100	gld	18	Act 3 (H) Equip A	13	Act 1 (H) JunkLF	18	Act 3 (H) GoodLF	2	Act 3 (H) Bow A	6	Ammo	3															0
-Act 3 (H) Miss B	9	75	1					100	gld	18	Act 3 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 3 (H) GoodLF	2	Act 3 (H) Bow B	6	Ammo	3															0
-Act 3 (H) Miss C	9	77	1					100	gld	18	Act 3 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 3 (H) GoodLF	2	Act 3 (H) Bow B	6	Ammo	3															0
-Act 4 (H) Miss A	9	78	1					100	gld	18	Act 4 (H) Equip A	13	Act 1 (H) JunkLF	18	Act 4 (H) GoodLF	2	Act 4 (H) Bow A	6	Ammo	3															0
-Act 4 (H) Miss B	9	80	1					100	gld	18	Act 4 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 4 (H) GoodLF	2	Act 4 (H) Bow B	6	Ammo	3															0
-Act 5 (H) Miss A	9	81	1					100	gld	18	Act 5 (H) Equip A	13	Act 1 (H) JunkLF	18	Act 5 (H) GoodLF	2	Act 5 (H) Bow A	6	Ammo	3															0
-Act 5 (H) Miss B	9	83	1					100	gld	18	Act 5 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 5 (H) GoodLF	2	Act 5 (H) Bow B	6	Ammo	3															0
-Act 5 (H) Miss C	9	85	1					100	gld	18	Act 5 (H) Equip C	13	Act 1 (H) JunkLF	18	Act 5 (H) GoodLF	2	Act 5 (H) Bow B	6	Ammo	3															0
+Act 1 Miss A	9	0	1					100	gld	18	Act 1 Equip A	13	Act 1 Junk	18	Act 1 Good	2	Act 1 Bow A	6																	0
+Act 1 Miss B	9	5	1					100	gld	18	Act 1 Equip B	13	Act 1 Junk	18	Act 1 Good	2	Act 1 Bow B	6																	0
+Act 1 Miss C	9	9	1					100	gld	18	Act 1 Equip C	13	Act 1 Junk	18	Act 1 Good	2	Act 1 Bow C	6																	0
+Act 2 Miss A	9	12	1					100	gld	18	Act 2 Equip A	13	Act 2 Junk	18	Act 2 Good	2	Act 2 Bow A	6																	0
+Act 2 Miss B	9	15	1					100	gld	18	Act 2 Equip B	13	Act 2 Junk	18	Act 2 Good	2	Act 2 Bow B	6																	0
+Act 2 Miss C	9	18	1					100	gld	18	Act 2 Equip C	13	Act 2 Junk	18	Act 3 Good	2	Act 2 Bow C	6																	0
+Act 3 Miss A	9	20	1					100	gld	18	Act 3 Equip A	13	Act 3 Junk	18	Act 3 Good	2	Act 3 Bow A	6																	0
+Act 3 Miss B	9	22	1					100	gld	18	Act 3 Equip B	13	Act 3 Junk	18	Act 3 Good	2	Act 3 Bow B	6																	0
+Act 3 Miss C	9	24	1					100	gld	18	Act 3 Equip C	13	Act 3 Junk	18	Act 3 Good	2	Act 3 Bow C	6																	0
+Act 4 Miss A	9	26	1					100	gld	18	Act 4 Equip A	13	Act 4 Junk	18	Act 4 Good	2	Act 4 Bow A	6																	0
+Act 4 Miss B	9	29	1					100	gld	18	Act 4 Equip B	13	Act 4 Junk	18	Act 4 Good	2	Act 4 Bow B	6																	0
+Act 5 Miss A	9	32	1					100	gld	18	Act 5 Equip A	13	Act 5 Junk	18	Act 5 Good	2	Act 5 Bow A	6																	0
+Act 5 Miss B	9	34	1					100	gld	18	Act 5 Equip B	13	Act 5 Junk	18	Act 5 Good	2	Act 5 Bow B	6																	0
+Act 5 Miss C	9	36	1					100	gld	18	Act 5 Equip C	13	Act 5 Junk	18	Act 5 Good	2	Act 5 Bow B	6																	0
+Act 1 (N) Miss A	9	38	1					100	gld	18	Act 1 (N) Equip A	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow A	6																	0
+Act 1 (N) Miss B	9	40	1					100	gld	18	Act 1 (N) Equip B	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow B	6																	0
+Act 1 (N) Miss C	9	41	1					100	gld	18	Act 1 (N) Equip B	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow B	6																	0
+Act 2 (N) Miss A	9	42	1					100	gld	18	Act 2 (N) Equip A	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow A	6																	0
+Act 2 (N) Miss B	9	44	1					100	gld	18	Act 2 (N) Equip B	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow B	6																	0
+Act 2 (N) Miss C	9	45	1					100	gld	18	Act 2 (N) Equip B	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow B	6																	0
+Act 3 (N) Miss A	9	46	1					100	gld	18	Act 3 (N) Equip A	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow A	6																	0
+Act 3 (N) Miss B	9	48	1					100	gld	18	Act 3 (N) Equip B	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow B	6																	0
+Act 3 (N) Miss C	9	50	1					100	gld	18	Act 3 (N) Equip B	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow B	6																	0
+Act 4 (N) Miss A	9	51	1					100	gld	18	Act 4 (N) Equip A	13	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Bow A	6																	0
+Act 4 (N) Miss B	9	54	1					100	gld	18	Act 4 (N) Equip B	13	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Bow B	6																	0
+Act 5 (N) Miss A	9	57	1					100	gld	18	Act 5 (N) Equip A	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow A	6																	0
+Act 5 (N) Miss B	9	60	1					100	gld	18	Act 5 (N) Equip B	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow B	6																	0
+Act 5 (N) Miss C	9	62	1					100	gld	18	Act 5 (N) Equip C	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow B	6																	0
+Act 1 (H) Miss A	9	63	1					100	gld	18	Act 1 (H) Equip A	13	Act 1 (H) JunkLF	18	Act 1 (H) GoodLF	2	Act 1 (H) Bow A	6																	0
+Act 1 (H) Miss B	9	66	1					100	gld	18	Act 1 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 1 (H) GoodLF	2	Act 1 (H) Bow B	6																	0
+Act 1 (H) Miss C	9	68	1					100	gld	18	Act 1 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 1 (H) GoodLF	2	Act 1 (H) Bow B	6																	0
+Act 2 (H) Miss A	9	69	1					100	gld	18	Act 2 (H) Equip A	13	Act 1 (H) JunkLF	18	Act 2 (H) GoodLF	2	Act 2 (H) Bow A	6																	0
+Act 2 (H) Miss B	9	71	1					100	gld	18	Act 2 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 2 (H) GoodLF	2	Act 2 (H) Bow B	6																	0
+Act 2 (H) Miss C	9	72	1					100	gld	18	Act 2 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 2 (H) GoodLF	2	Act 2 (H) Bow B	6																	0
+Act 3 (H) Miss A	9	74	1					100	gld	18	Act 3 (H) Equip A	13	Act 1 (H) JunkLF	18	Act 3 (H) GoodLF	2	Act 3 (H) Bow A	6																	0
+Act 3 (H) Miss B	9	75	1					100	gld	18	Act 3 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 3 (H) GoodLF	2	Act 3 (H) Bow B	6																	0
+Act 3 (H) Miss C	9	77	1					100	gld	18	Act 3 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 3 (H) GoodLF	2	Act 3 (H) Bow B	6																	0
+Act 4 (H) Miss A	9	78	1					100	gld	18	Act 4 (H) Equip A	13	Act 1 (H) JunkLF	18	Act 4 (H) GoodLF	2	Act 4 (H) Bow A	6																	0
+Act 4 (H) Miss B	9	80	1					100	gld	18	Act 4 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 4 (H) GoodLF	2	Act 4 (H) Bow B	6																	0
+Act 5 (H) Miss A	9	81	1					100	gld	18	Act 5 (H) Equip A	13	Act 1 (H) JunkLF	18	Act 5 (H) GoodLF	2	Act 5 (H) Bow A	6																	0
+Act 5 (H) Miss B	9	83	1					100	gld	18	Act 5 (H) Equip B	13	Act 1 (H) JunkLF	18	Act 5 (H) GoodLF	2	Act 5 (H) Bow B	6																	0
+Act 5 (H) Miss C	9	85	1					100	gld	18	Act 5 (H) Equip C	13	Act 1 (H) JunkLF	18	Act 5 (H) GoodLF	2	Act 5 (H) Bow B	6																	0
 Act 5 (H) Miss CLF	9	85	1					100	gld,mul=4608	18	Act 5 (H) Equip C	13	Act 5 (H) JunkLF	18	Act 5 (H) GoodLF	2	Act 5 (H) Bow B	6	AND	20															0
 Act 1 Wraith A	10	0	1					75	Act 1 Good	4	Act 1 Magic A	25																							0
 Act 1 Wraith B	10	5	1					75	Act 1 Good	4	Act 1 Magic B	25																							0
