@@ -1,0 +1,11 @@
+mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	armor	weapon	shield	scepter	wand	staff	bow	boots	gloves	belt
+reduce-ac	0	10	15		0			0	1	0	1	1	1	1	0	0	0
+dmg%	0	5	15		0			0	1	0	1	1	1	1	0	0	0
+ac%	0	5	15		0			1	0	1	0	0	0	0	1	1	1
+reduce-ac	0	10	15	dmg%	0	5	15	0	1	0	1	1	1	1	0	0	0
+red-dmg	0	5	8		0			1	0	1	0	0	0	0	1	1	1
+reduce-ac	0	10	15	deadly	0	3	5	0	1	0	1	1	1	1	0	0	0
+dmg%	0	5	15	deadly	0	3	5	0	1	0	1	1	1	1	0	0	0
+ac%	0	5	15	red-dmg	0	5	8	1	0	1	0	0	0	0	1	1	1
+ease	0	5	10		0			1	1	1	1	1	1	1	0	0	0
+all-stats	0	3	5		0			1	1	1	1	1	1	1	1	1	1
