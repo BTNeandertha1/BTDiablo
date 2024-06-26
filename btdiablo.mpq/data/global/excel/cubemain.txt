@@ -297,8 +297,8 @@ Charsi Hammer + Larzuk Hammer + 1 Normal Set Weapon -> Exceptional Set Weapon	1	
 Charsi Hammer + Larzuk Hammer + 1 Normal Set Armor -> Exceptional Set Armor	1				100					3	armo,bas,set	mls	lmr					useitem,mod,exc																																																																																							0
 Charsi Hammer + Larzuk Hammer  +  Standard of Heros + 1 Exceptional Set Weapon -> Elite Set Weapon	1				100					4	weap,exc,set	mls	lmr	std				useitem,mod,eli																																																																																							0
 Charsi Hammer + Larzuk Hammer  +  Standard of Heros + 1 Exceptional Set Armor -> Elite Set Armor	1				100					4	armo,exc,set	mls	lmr	std				useitem,mod,eli																																																																																							0
-1 Ort Rune + 1 Weapon -> Fully Repaired Weapon	1				100					2	"weap,noe"	109						"useitem,rep,qty=500"																																																																																							0
-1 Ral Rune + 1 Armor -> Fully Repaired Armor	1				100					2	"armo,noe"	108						"useitem,rep,qty=500"																																																																																							0
+1 Ort Rune + 1 Weapon -> Fully Repaired Weapon	1				100					2	"weap,noe"	109						"useitem,rep,rch,qty=500"																																																																																							0
+1 Ral Rune + 1 Armor -> Fully Repaired Armor	1				100					2	"armo,noe"	108						"useitem,rep,rch,qty=500"																																																																																							0
 not used	0				100					3	amu,mag	jew	108					usetype,tmp				levelreq			5	5																																																																															0
 not used	0				100					3	weap,tmp	101	gsv					useitem				levelreq			2	2	att			30	50																																																																										0
 not used	0				0					4	weap,mag	ggm2,qty=3						usetype,mag	25		50	sock			1	2																																																																															0
