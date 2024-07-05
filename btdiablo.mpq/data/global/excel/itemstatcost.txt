@@ -6,7 +6,7 @@ vitality	3			11			1	0	10			1	1		100	55		7	32	7	32			9			maxhp	maxstamina								
 statpts	4			9			1	0	10																																										0
 newskills	5			9			1	0	8																																										0
 hitpoints	6			32			1	0	21								8													1	maxhp																				0
-maxhp	7			32			1	0	21		1	1	1		56	20	8	8	32	9	32																59	19		ModStr1u	ModStr1u										0
+maxhp	7			32			1	0	21		1	1	1		56	20	8	8	32	9	50																59	19		ModStr1u	ModStr1u										0
 mana	8			32			1	0	21								8						1							1	maxmana																				0
 maxmana	9			32			1	0	21		1	1	0		81	20	8	8	32	8	32																55	19		ModStr1e	ModStr1e										0
 stamina	10			32			1	0	21								8						1							1	maxstamina																				0
@@ -77,7 +77,7 @@ hpregen	74														451	410		6	30	6	30																56	19		ModStr2l	ModStr
 item_maxdurability_percent	75		1	7											117	10		7	20	7	20			13			maxdurability										3	19		ModStr2i	ModStr2i										0
 item_maxhp_percent	76		1	16											32093	204		6	10	6	10			11			maxhp										58	19		ModStr2g	ModStr2g										0
 item_maxmana_percent	77		1	16											56452	204		6	10	6	10			11			maxmana										54	19		ModStr2h	ModStr2h										0
-item_attackertakesdamage	78		1	16							1				112	128		7	0	7	0												attackedinmelee	6			13	19		ModStr1v	ModStr1v									2	0
+item_attackertakesdamage	78		1	16							1				112	128		7	0	9	0												attackedinmelee	6			13	19		ModStr1v	ModStr1v									2	0
 item_goldbonus	79		1	10											187	34		9	100	10	300																10	19		ModStr1w	ModStr1w									2	0
 item_magicbonus	80		1	9											577	102		8	100	10	300																8	19		ModStr1x	ModStr1x									2	0
 item_knockback	81		1	8							1				105	0		7	0	7	0											1	domeleedamage	7	domissiledamage	7	76	19		ModStr1y	ModStr1y									2	0
@@ -127,7 +127,7 @@ item_undead_tohit	124		1	13											11	7		10	128	10	128											1					106	19
 item_throwable	125		1	2											82	1024		1	0	1	0																5	19		ModStr5a	ModStr5a										0
 item_elemskill	126		1	3	3						1				76	1024		4	0	3	0	3															1														0
 item_allskills	127		1	8							1				15123	4096		3	0	7	64																158	19		ModStr3k	ModStr3k										0
-item_attackertakeslightdamage	128		1	6							1				4	102		5	0	5	0												damagedinmelee	10			14	19		ModStr3j	ModStr3j									2	0
+item_attackertakeslightdamage	128		1	6							1				4	102		5	0	9	0												damagedinmelee	10			14	19		ModStr3j	ModStr3j									2	0
 ironmaiden_level	129		1	10																																															0
 lifetap_level	130		1	10																																															0
 thorns_percent	131			12																																															0
@@ -360,9 +360,9 @@ passive_mag_mastery	357		1	12											1211	431		8	0	9	50																88	19	
 passive_mag_pierce	358		1	9												2812		8	0	8	0																88	19		ModitemenresMagsk	ModitemenresMagsk									2	0
 skill_cooldown	359			32	16																																														0
 skill_missile_damage_scale	360			32	16																																														0
-corrupted	361		1	10	10													22	0	10	1	3	0														254	3		StrCorrupted	StrCorrupted										0
+corrupted	361		1	10	10													22	0	10	1	3	0														501	3		StrCorrupted	StrCorrupted										0
 corruptordesc	362		1	10	10													22	0	10	1	3	0																												0
-augmented	363		1	10	10													22	0	10	1	3	0														255	3	2	StrAugmented	StrAugmented										0
+augmented	363		1	10	10													22	0	10	1	3	0														50	3	2	StrAugmented	StrAugmented										0
 dyewhite	364			3														22	1	10	1	3	0														256	3	 	dw1	dw1										0
 dyeblack	365			3														3	1	3	1																256	3		db1	db1										0
 dyecblue	366			3														3	1	3	1																256	3		dc1	dc1										0
@@ -379,3 +379,7 @@ item_elemskill_lightning	376		1	3	3						1				76	1024		4	0	3	0	3															1
 item_elemskill_poison	377		1	3	3						1				76	1024		4	0	3	0	3															157	19	1	ModStrPoisonskills	ModStrPoisonskills										0
 item_elemskill_magic	378		1	3	3						1				76	1024		4	0	3	0	3															157	19	1	ModStrMagicskills	ModStrMagicskills										0
 hit_skill_splash	379		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20	domissiledamage	20	160	15		SplashDmg	SplashDmg									2	0
+item_str_percent	380		1	16											32093	204		8	10	8	10			11			strength										66	19		Moditemstrpercent	Moditemstrpercent									2	0
+item_dex_percent	381		1	16											32093	204		8	10	8	10			11			dexterity										66	19		Moditemdexpercent	Moditemdexpercent									2	0
+item_vit_percent	382		1	16											32093	204		8	10	8	10			11			vitality										66	19		Moditemvitpercent	Moditemvitpercent									2	0
+item_enr_percent	383		1	16											32093	204		8	10	8	10			11			energy										66	19		Moditemenrpercent	Moditemenrpercent									2	0

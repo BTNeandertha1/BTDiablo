@@ -299,3 +299,7 @@ ltngskill	1	21	item_elemskill		2	3	item_elemskill_lightning																					
 poisskill	1	21	item_elemskill		5	3	item_elemskill_poison																							+# to Poison Skills		Min #	Max #		0
 magskill	1	21	item_elemskill		3	3	item_elemskill_magic																							+# to Magic Skills		Min #	Max #		0
 hit-skill-splash	1	11	hit_skill_splash																											#% Chance to cast level # [Skill] on striking	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+str%	1	1	item_str_percent																											+#% Strength		Min %	Max %		0
+dex%	1	1	item_dex_percent																											+#% Dexterity		Min %	Max %		0
+vit%	1	1	item_vit_percent																											+#% Vitality		Min %	Max %		0
+enr%	1	1	item_enr_percent																											+#% Energy		Min %	Max %		0
