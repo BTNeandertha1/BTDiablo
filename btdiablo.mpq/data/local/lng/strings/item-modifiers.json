@@ -5967,7 +5967,58 @@
     "zhCN": "％+D毒物技能"
   },
   {
-    "id": 65000,
+    "id": 64015,
+    "Key": "ModStrMagicskills",
+    "deDE": "%+d zu magischen Fähigkeiten",
+    "enUS": "%+d to Magic Skills",
+    "esES": "%+D a habilidades mágicas",
+    "esMX": "%+D a habilidades mágicas",
+    "frFR": "% + D à des compétences magiques",
+    "itIT": "%+d alle abilità magiche",
+    "jaJP": "魔法のスキルへの％+D",
+    "koKR": "마법 기술에 대한 %+d",
+    "plPL": "%+D do umiejętności magicznych",
+    "ptBR": "%d Skills Magic",
+    "ruRU": "%+D к магическим навыкам",
+    "zhCN": "％+D魔术技能",
+    "zhTW": "％+D魔术技能"
+  },
+  {
+    "id": 65016,
+    "Key": "ModitemdamMagsk",
+    "deDE": "%+d%% zum Schaden magischer Fertigkeiten",
+    "enUS": "%+d%% to Magic Skill Damage",
+    "esES": "%+d%% al daño de habilidad mágica",
+    "esMX": "%+d%% al daño de habilidad mágica",
+    "frFR": "%+d%% aux dégâts des compétences magiques",
+    "itIT": "%+d%% al danno delle abilità magiche",
+    "jaJP": "%+d%% 魔法スキルダメージ",
+    "koKR": "마법 스킬 피해 %+d%%",
+    "plPL": "%+d%% do obrażeń od umiejętności magicznych",
+    "ptBR": "%+d%% para Dano de Habilidade Mágica",
+    "ruRU": "%+d%% к урону магического умения",
+    "zhCN": "%+d%% 魔法技能伤害",
+    "zhTW": "%+d%% 魔法技能伤害"
+  },
+  {
+    "id": 65017,
+    "Key": "ModitemenresMagsk",
+    "deDE": "-%d%% zur Magieresistenz des Feindes",
+    "enUS": "-%d%% to Enemy Magic Resistance",
+    "esES": "-%d%% a la resistencia mágica del enemigo",
+    "esMX": "-%d%% a la resistencia mágica del enemigo",
+    "frFR": "-%d%% à la résistance magique de l'ennemi",
+    "itIT": "-%d%% alla resistenza magica del nemico",
+    "jaJP": "-%d%% 敵の魔法耐性",
+    "koKR": "-적 마법 저항력 %d%%",
+    "plPL": "-%d%% do odporności na magię wroga",
+    "ptBR": "-%d%% à Resistência Mágica do Inimigo",
+    "ruRU": "-%d%% к сопротивлению магии противника",
+    "zhCN": "-%d%% 敌人魔法抗性",
+    "zhTW": "-%d%% 敵人魔法抗性"
+  },
+  {
+    "id": 65020,
     "Key": "Moditemstrpercent",
     "deDE": "% d%% Stärke",
     "enUS": "%+d%% Strength",
@@ -5984,7 +6035,7 @@
     "zhTW": "%d%% 強度"
   },
   {
-    "id": 65001,
+    "id": 65021,
     "Key": "Moditemdexpercent",
     "deDE": "% d%% Geschicklichkeit",
     "enUS": "%+d%% Dexterity",
@@ -6001,7 +6052,7 @@
     "zhTW": "%d%% 敏捷"
   },
   {
-    "id": 65002,
+    "id": 65022,
     "Key": "Moditemvitpercent",
     "deDE": "% d%% Vitalität",
     "enUS": "%+d%% Vitality",
@@ -6018,7 +6069,7 @@
     "zhTW": "%d%%活力"
   },
   {
-    "id": 65003,
+    "id": 65023,
     "Key": "Moditemenrpercent",
     "deDE": "% d%% Energie",
     "enUS": "%+d%% Energy",
