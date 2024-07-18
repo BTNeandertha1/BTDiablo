@@ -236,6 +236,7 @@ pierce-fire	1	1	passive_fire_pierce																											-#% to Enemy Fire 
 pierce-ltng	1	1	passive_ltng_pierce																											-#% to Enemy Lightning Resistance		Min %	Max %		0
 pierce-cold	1	1	passive_cold_pierce																											-#% to Enemy Cold Resistance		Min %	Max %		0
 pierce-pois	1	1	passive_pois_pierce																											-#% to Enemy Poison Resistance		Min %	Max %		0
+pierce-mag	1	1	passive_mag_pierce																											-#% to Enemy Magic  Resistance		Min %	Max %		0
 dmg-mon																																			0
 dmg%-mon																																			0
 att-mon																																			0
@@ -248,6 +249,7 @@ extra-fire	1	1	passive_fire_mastery																											+#% to Fire Skill 
 extra-ltng	1	1	passive_ltng_mastery																											+#% to Lightning Skill Damage		Min %	Max %		0
 extra-cold	1	1	passive_cold_mastery																											+#% to Cold Skill Damage		Min %	Max %		0
 extra-pois	1	1	passive_pois_mastery																											+#% to Poison Skill Damage		Min %	Max %		0
+extra-mag	1	1	passive_mag_mastery																											+#% to Magic Skill Damage		Min %	Max %		0
 dmg-elem	1	15	firemindam			16	firemaxdam			15	lightmindam			16	lightmaxdam			15	coldmindam			16	coldmaxdam			17	coldlength			Adds #-# Fire/Lightning/Cold Damage		Min #	Max #		0
 dmg-elem-min	1	1	firemindam			3	lightmindam			3	coldmindam																			+# to Minimum Fire/Lightning/Cold Damage		Min #	Max #	Currently Not Used	0
 dmg-elem-max	1	1	firemaxdam			3	lightmaxdam			3	coldmaxdam			17	coldlength															+# to Maximum Fire/Lightning/Cold Damage		Min #	Max #	Currently Not Used	0
@@ -297,3 +299,7 @@ ltngskill	1	21	item_elemskill		2	3	item_elemskill_lightning																					
 poisskill	1	21	item_elemskill		5	3	item_elemskill_poison																							+# to Poison Skills		Min #	Max #		0
 magskill	1	21	item_elemskill		3	3	item_elemskill_magic																							+# to Magic Skills		Min #	Max #		0
 hit-skill-splash	1	11	hit_skill_splash																											#% Chance to cast level # [Skill] on striking	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+str%	1	1	item_str_percent																											+#% Strength		Min %	Max %		0
+dex%	1	1	item_dex_percent																											+#% Dexterity		Min %	Max %		0
+vit%	1	1	item_vit_percent																											+#% Vitality		Min %	Max %		0
+enr%	1	1	item_enr_percent																											+#% Energy		Min %	Max %		0
