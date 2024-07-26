@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nIntroducing Balance Changes, New Upping Recipes, New Super Uniques!\nVersion 1.1.5 26th June",
+                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nHUGE NEW PATCH!!! Readjusted Uniques, New Uniques and Elite Bows can have 6 sockets and MORE! \nVersion 1.1.6 27th July",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",
