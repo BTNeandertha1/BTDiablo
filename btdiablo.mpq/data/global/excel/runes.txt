@@ -25,7 +25,7 @@ Runeword23	Desire																																																	0
 Runeword24	Despair																																																	0
 Runeword25	Destruction	1			Previously Ladder Only	pole	swor								VexLoBerJahKo	r26	r28	r30	r31	r18		dmg%		350	350	dmg-mag		100	180	hit-skill	Molten Boulder	5	23	death-skill	Meteor	100	45	att-skill	Nova	15	22	hit-skill	Volcano	23	12	noheal		1	1	0
 Runeword26	Doom	1			110	mele									HelOhmUmLoCham	r15	r27	r22	r28	r32		dmg%		280	320	aura	Holy Freeze	12	12	swing2		45	45	noheal		1	1	pierce-cold		50	75	allskills		2	2	hit-skill	Blizzard	20	40	0
-Runeword27	Dragon	1			Previously Ladder Only	tors	shld								SurLoSol	r29	r28	r12				ac		360	360	ac-miss		230	230	str/lvl	3			hit-skill	Hydra	12	15	gethit-skill	Venom	20	18	aura	Holy Fire	14	14	all-stats		5	10	0
+Runeword27	Dragon	1			Previously Ladder Only	tors	shld								SurLoSol	r29	r28	r12				ac		360	360	ac-miss		230	230	str/lvl	3			hit-skill	Hydra	12	15	gethit-skill	Venom	20	18	aura	Holy Fire	16	21	all-stats		5	10	0
 Runeword28	Dread																																																	0
 Runeword29	Dream	1			Previously Ladder Only	helm	shld								IoJahPul	r16	r31	r21				ac		150	220	gethit-skill	Confuse	10	15	mana/lvl	5			res-all		14	20	balance3		20	30	aura	Holy Shock	15	15	mag%		20	30	0
 Runeword30	Duress	1			110	tors									ShaelUmThul	r13	r22	r10				mana-kill		15	20	dmg%		80	100	ac%		150	200	balance2		20	20	openwounds		33	33	crush		15	15	heal-kill		9	15	0

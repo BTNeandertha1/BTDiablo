@@ -32,3 +32,4 @@ Bul-Kathos' Children	Bul-Kathos' Children	100																																	dm
 Cow King's Leathers	Cow King's Leathers	100	extra-ltng		50	50	ac/lvl		40	40																									res-all		45	45	gold%		100	100	mag%		125	125	addxp		5	5	swing3		30	30	hp		100	100	allskills		3	3					0
 Naj's Ancient Set	Naj's Ancient Set	100	cast1		30	30	mag%/lvl	12																											allskills		3	3	regen		20	20	dex		15	15	res-all		50	50	str		20	20	mana%		20	20	hp%		20	20	addxp		15	15	0
 McAuley's Folly	McAuley's Folly	100	mana%		5	5					res-all		15	15																					skilltab	7	2	2	mag%		125	125	mana		50	50	addxp		15	15	cast1		20	20													0
+Nadin's Winning Strategy	Nadin's Winning Strategy	100																																	addxp		10	10	cast2		10	10	move2		25	25	balance2		24	24	allskills		1	1	mag%		50	50									0

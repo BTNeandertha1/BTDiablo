@@ -127,3 +127,5 @@ McAuley's Paragon	123	McAuley's Folly	cap	Cap	3	20	24	lpur	lpur						5	5000	2	ma
 McAuley's Riprap	124	McAuley's Folly	vbt	Heavy Boots	7	20	24	lpur	lpur						5	5000	2	move3		40	40	res-fire		15	15	str		5	5	dex		10	10																																																														0
 McAuley's Taboo	125	McAuley's Folly	vgl	Heavy Gloves	7	20	24	lpur	lpur						5	5000	2	cast1		10	10	mana-kill		3	3	hp		40	40	skill	67	2	2																																																														0
 McAuley's Superstition	126	McAuley's Folly	bwn	Bone Wand	7	20	24	lpur	lpur						5	5000	2	cast1		45	45	skill	78	2	2	skill	84	2	2	skill	88	2	2	mana		50	50																													aura	Meditation	1	1																										0
+Nadin's Determination	127	Nadin's Winning Strategy	amu	amulet	1	85	90								5	5000		randclassskill3		0	6	cast2		10	10	res-all		10	10	mana-kill		3	3																																																														0
+Nadin's Passion	128	Nadin's Winning Strategy	rin	ring	1	85	90								5	5000		randclassskill3		0	6	manasteal		5	5	lifesteal		5	5	heal-kill		3	3	all-stats		5	5																																																										0
