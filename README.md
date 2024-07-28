@@ -42,27 +42,6 @@ Please follow BTN's [Install guide](https://rumble.com/v1ngrpk-how-to-install-my
 # Bug Reporting
 Please use [#btd-bug-reports](https://discord.gg/GUTuZHkzwz) channel on Discord!
 
-# Credits 
-- G1oomey Various testing, Bug Fixes and lots of help throughout the project
-- Inspiration from ALL modders and Diablo Mods over the years  
-- [HighTechLowIQ](https://www.youtube.com/c/HighTechLowIQ) on YouTube for educational Videos and some Files  
-- MRCelSynap: For Helping with Corruptions and various modding  
-- Elmegaard: Inspiration  
-- Canight: Helped with a ton of ideas
-- SenpaiSomething: Letting me look at PD2 Code
-- Warren: Helping in the very beginning with Theory Crafting  
-- Wolfieeiflow: Helping with Spreadsheets and brain power  
-- JeyP: Testing things then walking me through  
-- Kex: First Tester and first to Kill HC Hell Baal and help with Dev work
-- Stackit (https://www.nexusmods.com/diablo2resurrected/mods/80) on Nexusmods to help with functionality of stacking!
-- Stucifer "loot filter" display
-- MrBrooksGaming Added UI Controller Support
-- Bonesy for being an actual god and helping with a ton of various stuff! Check out their website (https://www.d2rmodding.com/)
-- BaronBeefStick bug fixes and Dev work
-- Precell and Wigglez for helping with Rune Drop Light Beams
-- Wigglez huge help for adding panels and QOL to the mod
-- JeyP with Map help and knowledge
-
 # Future Ideas
 Please see the [#btd-suggestions](https://discord.gg/btneandertha1) channel on Discord.  
 
@@ -87,3 +66,24 @@ Ubers
 QOL
 - Improved Item Loot Filter Visuals for other languages
 - Ral and Ort Repairing now repairs to 500 Quantity
+
+# Credits 
+- G1oomey Various testing, Bug Fixes and lots of help throughout the project
+- Inspiration from ALL modders and Diablo Mods over the years  
+- [HighTechLowIQ](https://www.youtube.com/c/HighTechLowIQ) on YouTube for educational Videos and some Files  
+- MRCelSynap: For Helping with Corruptions and various modding  
+- Elmegaard: Inspiration  
+- Canight: Helped with a ton of ideas
+- SenpaiSomething: Letting me look at PD2 Code
+- Warren: Helping in the very beginning with Theory Crafting  
+- Wolfieeiflow: Helping with Spreadsheets and brain power  
+- JeyP: Testing things then walking me through  
+- Kex: First Tester and first to Kill HC Hell Baal and help with Dev work
+- Stackit (https://www.nexusmods.com/diablo2resurrected/mods/80) on Nexusmods to help with functionality of stacking!
+- Stucifer "loot filter" display
+- MrBrooksGaming Added UI Controller Support
+- Bonesy for being an actual god and helping with a ton of various stuff! Check out their website (https://www.d2rmodding.com/)
+- BaronBeefStick bug fixes and Dev work
+- Precell and Wigglez for helping with Rune Drop Light Beams
+- Wigglez huge help for adding panels and QOL to the mod
+- JeyP with Map help and knowledge
