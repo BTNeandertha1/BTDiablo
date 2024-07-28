@@ -37,10 +37,10 @@ BTNeandertha1 Social Media Links:
 - [Patreon](https://www.patreon.com/BTNeanderthal)
 
 # How to Install
-Please follow BTN's [Install guide](https://rumble.com/v1ngrpk-how-to-install-my-new-diablo-2-resurrected-mod-btdiablo.html)
+Please follow BTN's [install guide](https://rumble.com/v1ngrpk-how-to-install-my-new-diablo-2-resurrected-mod-btdiablo.html).
 
 # Bug Reporting
-Please use [#btd-bug-reports](https://discord.gg/GUTuZHkzwz) channel on Discord!
+Please use the [#btd-bug-reports](https://discord.gg/GUTuZHkzwz) channel on Discord!
 
 # Future Ideas
 Please see the [#btd-suggestions](https://discord.gg/btneandertha1) channel on Discord.  
