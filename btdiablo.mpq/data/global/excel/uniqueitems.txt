@@ -431,3 +431,4 @@ Corrupted Arkaine's Valor	427	100	1			1	1	85	85	upl	balrog skin		5	5000	lred	lre
 Corrupted Saracen's Chance	428	100	1			2	1	55	47	amu	amulet		5	5000								hit-skill	Amplify Damage	10	5	gethit-skill	Iron Maiden	1	63	str		10	10	dex		10	10	res-all		15	15																														0
 Corrupted Bartuc's Cut-Throat	429	100	1			2	1	28	28	btl	blade talons		5	5000								skilltab	19	1	1	ass		2	2	swing2		50	50	dmg%		100	200	reduce-ac		35	35	deadly		25	25	stupidity		50	50	dex		10	10	mana		25	25														0
 Corrupted Azurewrath	430	100	1			2	1	18	13	crs	crystal sword		5	5000	lgry							deadly		50	50	mag%		25	25	dmg-cold	100	30	60	dmg%		100	200	dur		25	25	dmg-mag		50	100																										0
+Jym's Swift Journey	431	100	1			1	1	60	45	ulb	wyrmhide boots		5	5000	whit	whit						aura	Vigor	3	14	balance2		30	30	str		10	10	ease		-100	-100	gold%		80	80	hp%		5	5																										0

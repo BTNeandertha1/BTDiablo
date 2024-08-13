@@ -66,7 +66,7 @@ Runeword64	Judgment																																																	0
 Runeword65	King's Grace	1			109	weap									AmnRalThul	r11	r08	r10				dmg%		130	180	att%		150	150	dmg-demon		150	150	dmg-undead		150	150	allskills		1	1									0
 Runeword66	Kingslayer	1			110	mele									MalUmGulFal	r23	r22	r25	r19			swing2		30	30	dmg%		260	300	reduce-ac		25	25	crush		33	33	openwounds		25	25	oskill	Berserk	1	1	gold%		350	350	0
 Runeword67	Knight's Vigil	1			Previously Ladder Only	shld									SolDol	r12	r14					str		15	15	red-mag		7	7	aura	defiance	10	10	hp		50	50	res-cold-max		5	10	block		50	50	res-all		15	15	0
-Runeword68	Knowledge																																																	0
+Runeword68	Knowledge	1			Previously Ladder Only	helm									IthTir	r06	r03					enr		20	30	balance2		25	25	move2		15	25	oskill	Warmth	3	3													0
 Runeword69	Last Wish	1			Previously Ladder Only	swor	hamm	axe							JahMalJahSurJahBer	r31	r23	r31	r29	r31	r30	dmg%		330	375	rep-dur	25			hit-skill	Life Tap	10	18	gethit-skill	Fade	6	11	crush		40	50	mag%/lvl	4			aura	Might	17	17	0
 Runeword70	Law																																																	0
 Runeword71	Lawbringer	1			Previously Ladder Only	swor	hamm	scep							AmnLemKo	r11	r20	r18				dmg-cold		200	210	dmg-fire		200	210	aura	Sanctuary	30	31	hit-skill	Decrepify	25	30	ac-miss		200	250	ac-hth		200	250	reduce-ac		50	50	0
@@ -120,7 +120,7 @@ Runeword119	Red																																																	0
 Runeword120	Rhyme	1			109	shld									ShaelEth	r13	r05					block2		20	20	block		20	20	res-all		25	25	nofreeze		1	1	gold%		50	50	mag%		25	25					0
 Runeword121	Rift	1			Previously Ladder Only	pole	scep								HelKoLemGul	r15	r18	r20	r25			dmg-mag		160	250	dmg-fire		60	180	dmg-to-mana		38	38	hit-skill	Tornado	20	16	att-skill	Frozen Orb	16	21	charged	Iron Maiden	40	15	all-stats		5	10	0
 Runeword122	Sanctuary	1			110	shld									KoKoMal	r18	r18	r23				block		20	20	block2		20	20	ac%		130	160	ac-miss		250	250	res-all		50	70	balance2		20	20	charged	Slow Missiles	60	12	0
-Runeword123	Serendipity																																																	0
+Runeword123	Serenedipity																																																	0
 Runeword124	Shadow																																																	0
 Runeword125	Shadow of Doubt																																																	0
 Runeword126	Silence	1			109	weap									ShaelEldHelIstTirVex	r13	r02	r15	r24	r03	r26	manasteal		4	4	dmg%		200	200	swing2		20	20	res-all		75	75	allskills		2	3	hit-skill	Amplify Damage	22	25					0
@@ -137,7 +137,7 @@ Runeword136	Sting																																																	0
 Runeword137	Stone	1			110	tors									ShaelUmPulLum	r13	r22	r21	r17			ac%		220	260	charged	Clay Golem	16	16	ac-miss		300	300	charged	Molten Boulder	80	16	str		16	16	vit		16	16	balance2		40	40	0
 Runeword138	Storm																																																	0
 Runeword139	Strength	1			109	mele									AmnTir	r11	r03					str		20	20	dmg%		90	110	vit		10	10	crush		25	25	rep-dur	25											0
-Runeword140	Tempest																																																	0
+Runeword140	Tempest	1			Previously Ladder Only	weap									LumTir	r17	r03					kill-skill	Thunderstorm	10	40	randclassskill2		0	6	cast2		20	25	swing2		25	25	balance2		24	24	Mag%		10	20					0
 Runeword141	Temptation																																																	0
 Runeword142	Terror																																																	0
 Runeword143	Thirst																																																	0
@@ -146,7 +146,7 @@ Runeword145	Thunder																																																	0
 Runeword146	Time																																																	0
 Runeword147	Tradition																																																	0
 Runeword148	Treachery	1			111	tors									ShaelThulLem	r13	r10	r20				hit-skill	Venom	25	15	gethit-skill	Fade	50	15	ass		2	2	swing2		45	45													0
-Runeword149	Trust																																																	0
+Runeword149	Trust	1	3		D2R Ladder 3	shld									IthEld	r06	r02					regen-mana		20	20	res-fire		20	20	res-ltng		20	20	ac-miss		50	50	ac-hth		50	50	ac		20	35					0
 Runeword150	Truth																																																	0
 Runeword151	Unbending Will	1	1	2	D2R Ladder 1	swor									FalIoIthEldElHel	r19	r16	r06	r02	r01	r15	skilltab	12	3	3	hit-skill	Taunt	18	18	swing2		20	30	dmg%		300	350	red-dmg		8	8	noheal		1	1	lifesteal		8	10	0
 Runeword152	Valor																																																	0
