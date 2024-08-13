@@ -137,7 +137,7 @@ Runeword136	Sting																																																	0
 Runeword137	Stone	1			110	tors									ShaelUmPulLum	r13	r22	r21	r17			ac%		220	260	charged	Clay Golem	16	16	ac-miss		300	300	charged	Molten Boulder	80	16	str		16	16	vit		16	16	balance2		40	40	0
 Runeword138	Storm																																																	0
 Runeword139	Strength	1			109	mele									AmnTir	r11	r03					str		20	20	dmg%		90	110	vit		10	10	crush		25	25	rep-dur	25											0
-Runeword140	Tempest	1			Previously Ladder Only	weap									LumTir	r17	r03					kill-skill	Thunderstorm	10	40	randclassskill2		0	6	cast2		20	25	swing2		25	25	balance2		24	24	Mag%		10	20					0
+Runeword140	Tempest	1			Previously Ladder Only	weap									LumTir	r17	r03					kill-skill	Thunder Storm	10	40	randclassskill2		0	6	cast2		20	25	swing2		25	25	balance2		24	24	Mag%		10	20					0
 Runeword141	Temptation																																																	0
 Runeword142	Terror																																																	0
 Runeword143	Thirst																																																	0
