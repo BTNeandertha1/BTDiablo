@@ -354,7 +354,7 @@ Ravenlore	350	100	1			1	1	82	74	dre	sky spirit		3	5000	dgld	dgld						ac%		120	1
 Boneshade	351	100	1			1	1	84	79	7bw	lich wand		3	5000	dgry	dgry		invbwnu				nec		2	2	cast2		30	30	skill	Teeth	4	5	skill	Bone Armor	4	5	skill	Bone Spear	2	3	skill	Bone Spirit	1	2	skill	Bone Wall	2	3																						0
 Nethercrow	352	100				1	1						3	5000	cblu	cblu																																																							0
 Flamebellow	353	100	1			1	1	79	71	7gs	balrog blade		3	5000	cred	cred		invgisu				dmg%		170	240	kill-skill	Molten Boulder	100	60	fireskill		3	3	abs-fire%		20	30	att-skill	Firestorm	20	60	oskill	Fire Mastery	1	1	all-stats		15	20	oskill	Inferno	12	18	swing2		30	30														0
-Fathom	354	100	1			1	1	81	73	obf	dimensional shard		3	5000	lblu							sor		3	3	extra-cold		15	30	cast2		40	40	res-fire		25	40	res-ltng		25	40	pierce-cold		10	20																										0
+Fathom	354	100	1			5	1	81	73	obf	dimensional shard		3	5000	lblu							sor		3	3	extra-cold		15	30	cast2		40	40	res-fire		25	40	res-ltng		25	40	pierce-cold		10	20																										0
 Wolfhowl	355	100	1			1	1	85	79	bac	fury visor		3	5000	cred	cred						ac%		120	150	skilltab	14	2	3	str		10	15	dex		10	15	vit		10	10	oskill	Wearwolf	4	6	oskill	Summon Fenris	15	15	oskill	Shape Shifting	4	6	oskill	Feral Rage	4	6	oskill	Fury	4	6										0
 Spirit Ward	356	100	1			1	1	76	68	uts	ward		3	5000	dblu	dblu		invgtsu				ac%		130	180	abs-cold		6	11	res-all		30	40	block		20	30	block2		25	25	gethit-skill	Fade	35	8	ease		-30	-30	randclassskill2		0	6																		0
 Kira's Guardian	357	100	1			1	1	85	84	ci2	tiara		3	5000	blac	blac						ac		50	120	res-all		50	70	nofreeze		1	1	balance2		20	20	randclassskill2		0	6	pierce-fire		10	20	res-all-max		1	5																						0
@@ -432,3 +432,4 @@ Corrupted Saracen's Chance	428	100	1			2	1	55	47	amu	amulet		5	5000								hit-s
 Corrupted Bartuc's Cut-Throat	429	100	1			2	1	28	28	btl	blade talons		5	5000								skilltab	19	1	1	ass		2	2	swing2		50	50	dmg%		100	200	reduce-ac		35	35	deadly		25	25	stupidity		50	50	dex		10	10	mana		25	25														0
 Corrupted Azurewrath	430	100	1			2	1	18	13	crs	crystal sword		5	5000	lgry							deadly		50	50	mag%		25	25	dmg-cold	100	30	60	dmg%		100	200	dur		25	25	dmg-mag		50	100																										0
 Jym's Swift Journey	431	100	1			1	1	60	45	ulb	wyrmhide boots		5	5000	whit	whit						aura	Vigor	3	14	balance2		30	30	str		10	10	ease		-100	-100	gold%		80	80	hp%		5	5																										0
+Thunderlords Overcharge	432	100	1			1	1	85	85	obf	dimensional shard		3	5000	lyel	lyel						sor		3	3	skill	Thunder Storm	7	7	cast2		30	30	pierce-ltng		10	20	extra-ltng		20	20	res-pois-len		100	100																										0
