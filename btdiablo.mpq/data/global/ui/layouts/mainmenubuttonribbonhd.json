@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nNEW PATCH!!! New Runewords, buffed Eld Rune and new Unique Wyrmhide Boots \nVersion 1.1.7 13th August",
+                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nNEW PATCH!!! New Runewords, Buffed Runewords and a new TC87 Sorc Weapon! \nVersion 1.1.8 29th August"
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",
