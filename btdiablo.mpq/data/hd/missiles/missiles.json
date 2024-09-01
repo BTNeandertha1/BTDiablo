@@ -177,10 +177,10 @@
     "blizzardexplode_1": "icestormimpactvar_01",
     "blizzardexplode_2": "icestormimpactvar_02",
     "blizzardexplode_3": "icestormimpactvar_02",
-    "thunderstorm_1": "lightningbolt_big",
-    "thunderstorm_2": "lightningbolt_big",
-    "thunderstorm_3": "lightningbolt_big",
-    "thunderstorm_4": "lightningbolt_big",
+    "thunderstorm_1": "arcanelightningbolt",
+    "thunderstorm_2": "null",
+    "thunderstorm_3": "null",
+    "thunderstorm_4": "null",
     "monsterlight": "monsterlight",
     "poisonball": "poison_nova",
     "diablight": "diablo_lightning",
@@ -697,6 +697,6 @@
     "strafebolt": "x_bow_bolt",
     "recklessattacksmissile": "expansion_shockwave",
     "leapattack": "b_a_yell_shock_wave_01",
-    "thunderstormnova": "electric_nova",
+    "thunderstormnova": "expansion_shockwave",
     "frostnovamsl": "null"
 }
