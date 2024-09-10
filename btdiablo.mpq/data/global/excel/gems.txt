@@ -36,7 +36,7 @@ Flawless Skull		2	skl	manasteal	0	3	3	lifesteal	0	3	3					regen	0	4	4	regen-mana
 Perfect Skull		3	skz	manasteal	0	3	3	lifesteal	0	4	4					regen	0	5	5	regen-mana	0	19	19		0	0	0	thorns	0	20	20		0	0	0		0	0	0
 Expansion																																							
 El Rune	r01L	18	r01	light		1	1	att		50	50					light		1	1	ac		15	15					light		1	1	ac		15	15				0
-Eld Rune	r02L	18	r02	att-undead		50	50	dmg-undead		75	75					regen		5	5									block		7	7								0
+Eld Rune	r02L	18	r02	att-undead		100	100	dmg-undead		75	75					regen		5	5									block		10	10								0
 Tir Rune	r03L	18	r03	mana-kill		2	2									mana-kill		2	2									mana-kill		2	2								0
 Nef Rune	r04L	18	r04	knock		1	1									ac-miss		30	30									ac-miss		30	30								0
 Eth Rune	r05L	18	r05	reduce-ac		25	25									regen-mana		15	15									regen-mana		15	15								0
@@ -66,5 +66,5 @@ Lo Rune	r28L	18	r28	deadly		20	20	addxp		2	2					res-ltng-max		5	5	addxp		2	2			
 Sur Rune	r29L	18	r29	stupidity		1	1	addxp		2	2					mana%		5	5	addxp		2	2					mana		50	50	addxp		2	2				0
 Ber Rune	r30L	18	r30	crush		20	20	addxp		2	2					red-dmg%		8	8	addxp		2	2					red-dmg%		8	8	addxp		2	2				0
 Jah Rune	r31L	18	r31	ignore-ac		1	1	addxp		2	2					hp%		5	5	addxp		2	2					hp		50	50	addxp		2	2				0
-Cham Rune	r32L	18	r32	freeze		3	3	addxp		2	2					res-curse		34	34	addxp		2	2					res-curse		34	34	addxp		2	2				0
+Cham Rune	r32L	18	r32	slow		20	20	addxp		2	2					res-curse		34	34	addxp		2	2					res-curse		34	34	addxp		2	2				0
 Zod Rune	r33L	18	r33	indestruct		1	1	allskills		1	1	addxp		2	2	indestruct		1	1	allskills		1	1	addxp		2	2	indestruct		1	1	allskills		1	1	addxp		2	2
