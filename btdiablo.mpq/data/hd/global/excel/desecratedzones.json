@@ -53,15 +53,10 @@
             "zones": [
                 {
                     
-                    /* Abaddon, Pit of Acheron, and Infernal Pit */
-                    "id": 1,
+
                     /* You can have a MAX of 20 desecrated levels at a time */
                     "levels": [
                         {
-                            /* Abaddon */
-                            "level_id": 125,
-                            /* Frigid Highlands */
-                            "waypoint_level_id": 109
                             /*
                                 The ability to override the defaults on a per-level basis exists.
                                 You can also only include the fields you want to modify.
@@ -83,14 +78,6 @@
                                     "bound_incl_max": 95,
                                 }
                                 */
-                        },
-                        {
-                            /* Pit of Acheron */
-                            "level_id": 126
-                        },
-                        {
-                            /* Infernal Pit */
-                            "level_id": 127
                         },
                     /* Matron's Den, Forgotten Sands, Furnace of Pain */
                         {
@@ -119,7 +106,7 @@
                             "level_id": 139
                         },
                         {
-                            /* Rift Cave 1 */
+                            /* Rift Cave Level 1 */
                             "level_id": 140
                         },
                         {
@@ -135,7 +122,7 @@
                             "level_id": 143
                         },
                         {
-                            /* Rift Cave 2 */
+                            /* Rift Cave Level 2 */
                             "level_id": 144
                         },
                         {
