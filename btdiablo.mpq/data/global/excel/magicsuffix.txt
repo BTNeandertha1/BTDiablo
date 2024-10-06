@@ -12,8 +12,8 @@ of Negation	0	1	1	35		26					2	red-mag		4	4										amul												0	0
 of Piercing	0	1	1	25		18					3	ignore-ac		1	1										rod												0	0
 of Bashing	0	1	1	16		12					4	dmg-ac		-25	-40										mele							wand	staf				0	0
 of Puncturing	0	1	1	6		4					4	dmg-ac		-10	-20										mele							wand	staf				0	0
-of Thorns	0	1	1	14		10					5	thorns		1	3										tors	helm	shld	belt									0	0
-of Spikes	0	1	1	21		15					5	thorns		2	6									oran	tors	helm	shld	belt									0	0
+of Thorns	0	1	1	14		10					5	thorns		10	20										tors	helm	shld	belt									0	0
+of Spikes	0	1	1	21		15					5	thorns		21	50									oran	tors	helm	shld	belt									0	0
 of Readiness	0	1	1	1		1					6	swing1		10	10										weap	glov											0	0
 of Alacrity	0	1	1	8		6					6	swing2		20	20										weap												0	0
 of Swiftness	0	1	1	19		14					6	swing2		30	30										mele							wand	staf				0	0
@@ -417,33 +417,33 @@ of the Phoenix	100			1		1				1	43	res-fire/lvl	3											cred	shld	helm	amul		
 of the Efreeti	100			1		1				1	43	res-ltng/lvl	3											cblu	glov	boot	ring										0	0
 of the Cobra	100			1		1				1	43	res-pois/lvl	3											dyel	belt	ring	amul										0	0
 of the Elements	100			1		1				10	43	res-cold/lvl	1			res-fire/lvl	1			res-ltng/lvl	1			dgld	circ												0	0
-of Firebolts	100	1	1	16		12				1	44	hit-skill	36	10	8										weap							miss					0	0
-of Firebolts	100	1	1	6		4				1	44	att-skill	36	5	3										weap							miss					0	0
-of Firebolts	100	1	1	20		15				1	44	att-skill	36	10	4										weap							miss					0	0
-of Charged Shield	100	1	1	6		4				1	44	gethit-skill	38	10	3										armo	ring	amul										0	0
-of Charged Shield	100	1	1	16		12				1	44	gethit-skill	38	12	4										armo	ring	amul										0	0
-of Charged Shield	100	1	1	26		19				1	44	gethit-skill	38	14	5										armo	ring	amul										0	0
-of Icebolt	100	1	1	6		4				1	44	att-skill	39	5	3									lblu	weap							miss					0	0
+of Firebolts	100	1	1	25		20				1	44	hit-skill	36	20	30										weap							miss					0	0
+of Firebolts	100	1	1	35		20				1	44	att-skill	36	20	30										weap							miss					0	0
+of Firebolts	100	1	1	45		20				1	44	att-skill	36	20	30										weap							miss					0	0
+of Charged Shield	100	1	1	25		20				1	44	gethit-skill	38	20	20										armo	ring	amul										0	0
+of Charged Shield	100	1	1	35		20				1	44	gethit-skill	38	20	20										armo	ring	amul										0	0
+of Charged Shield	100	1	1	45		20				1	44	gethit-skill	38	20	20										armo	ring	amul										0	0
+of Icebolt	100	1	1	25		20				1	44	att-skill	39	20	35									lblu	weap							miss					0	0
 of Frozen Armor	100										44																										0	0
 of Static Field	100										44																										0	0
 of Telekinesis	100	1	1								44																										0	0
-of Frost Shield	100	1	1	12		9				1	44	gethit-skill	44	5	3									lblu	armo	amul											0	0
+of Frost Shield	100	1	1	25		20				1	44	gethit-skill	44	20	30									lblu	armo	amul											0	0
 of Ice Blast	100										44																										0	0
 of Blaze	100										44																										0	0
 of Fire Ball	100										44																										0	0
-of Nova	100	1	1	18		13				1	44	hit-skill	48	10	3									cblu	weap							miss					0	0
-of Nova	100	1	1	28		21				1	44	hit-skill	48	12	4									cblu	weap							miss					0	0
-of Nova Shield	100	1	1	18		13				1	44	gethit-skill	48	10	3									cblu	armo	ring 											0	0
-of Nova Shield	100	1	1	28		21				1	44	gethit-skill	48	12	4									cblu	armo	ring 											0	0
-of Nova Shield	100	1	1	38		28				1	44	gethit-skill	48	14	5									cblu	armo	ring 											0	0
-of Lightning	100	1	1	18		13				1	44	att-skill	49	5	3									cblu	weap							miss					0	0
+of Nova	100	1	1	25		40				1	44	hit-skill	48	20	35									cblu	weap							miss					0	0
+of Nova	100	1	1	40		40				1	44	hit-skill	48	20	35									cblu	weap							miss					0	0
+of Nova Shield	100	1	1	25		50				1	44	gethit-skill	48	33	40									cblu	armo	ring 											0	0
+of Nova Shield	100	1	1	40		50				1	44	gethit-skill	48	33	40									cblu	armo	ring 											0	0
+of Nova Shield	100	1	1	40		50				1	44	gethit-skill	48	33	40									cblu	armo	ring 											0	0
+of Lightning	100	1	1	18		40				1	44	att-skill	49	40	36									cblu	weap							miss					0	0
 of Lightning	100			12		18		sor	9	1	44	charged	49	50	1									cblu	weap												0	0
 of Shiver Armor	100										44																										0	0
 of Fire Wall	100										44																										0	0
 of Enchant	100										44																										0	0
-of Chain Lightning	100	1	1	25		18				1	44	att-skill	53	5	3										weap	ring	amul					miss					0	0
-of Chain Lightning	100	1	1	35		26				1	44	att-skill	53	8	3										weap	ring	amul					miss					0	0
-of Chain Lightning	100	1	1	45		33				1	44	att-skill	53	8	5										weap	ring	amul					miss					0	0
+of Chain Lightning	100	1	1	25		35				1	44	att-skill	53	25	30										weap	ring	amul					miss					0	0
+of Chain Lightning	100	1	1	35		35				1	44	att-skill	53	25	30										weap	ring	amul					miss					0	0
+of Chain Lightning	100	1	1	45		35				1	44	att-skill	53	25	30										weap	ring	amul					miss					0	0
 of Teleport Shield	100			25		18				1	44	gethit-skill	54	10	3									whit	armo	ring	amul										0	0
 of Teleport Shield	100			35		26				1	44	gethit-skill	54	14	3									whit	armo	ring	amul										0	0
 of Teleport Shield	100			45		33				1	44	gethit-skill	54	18	3									whit	armo	ring	amul										0	0
@@ -453,7 +453,7 @@ of Thunder Storm	100										44																										0	0
 of Energy Shield	100										44																										0	0
 of Blizzard	100										44																										0	0
 of Chilling Armor	100										44																										0	0
-of Hydra Shield	100	1	1	40		30				1	44	gethit-skill	62	10	3									cred	amul												0	0
+of Hydra Shield	100	1	1	40		40				1	44	gethit-skill	62	33	40									cred	amul												0	0
 of Frozen Orb	100										44																										0	0
 of Dawn	100			30		22				0	45	ac/time	3	10	40																						0	0
 of Sunlight	100			30		22				0	45	ac/time	0	-10	60																						0	0

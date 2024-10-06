@@ -6,8 +6,8 @@ Glorious	0	1	1	19		14				0	101	ac%		41	50										armo												0	0
 Blessed	0	1	1	25		18				0	101	ac%		51	65										armo												0	0
 Saintly	0	1	1	31		23				0	101	ac%		66	80									dgld	armo												0	0
 Holy	0	1	1	36		27				0	101	ac%		81	100									dgld	armo												0	0
-Devious	0	1	1	7		5				0	103	red-mag	0	1	1									dblu	shld												0	0
-Fortified	0	1	1	14		10				0	103	red-mag	0	2	2									dblu	shld												0	0
+Devious	0	1	1	7		5				0	103	red-mag	0	2	3									dblu	shld												0	0
+Fortified	0	1	1	14		10				0	103	red-mag	0	4	5									dblu	shld												0	0
 																																					0	0
 																																					0	0
 																																					0	0
@@ -64,38 +64,38 @@ Wyrm's	0	1	1	30		22				0	118	mana	0	41	60									cblu	rod	ring	amul										0	
 																																					0	0
 Prismatic	0	1	1	27		20				0	120	res-all	0	15	25									lpur	amul												0	0
 Prismatic	0	1	1	62		46				0	120	res-all	0	15	15									lpur	ring												0	0
-Azure	0	1	1	5		3				0	121	res-cold	0	5	10										armo	rod	miss	ring	amul								0	0
-Lapis	0	1	1	12		9				0	121	res-cold	0	11	20										armo	ring	amul	rod									0	0
-Lapis	0	1	1	35		26				0	121	res-cold	0	11	20										weap	glov						rod					0	0
-Cobalt	0	1	1	18		13				0	121	res-cold	0	21	30										armo	ring	amul	rod				glov					0	0
-Cobalt	0	1	1	55		41				0	121	res-cold	0	21	30										weap	glov						rod					0	0
+Azure	0	1	1	5		3				0	121	res-cold	0	9	15										armo	rod	miss	ring	amul								0	0
+Lapis	0	1	1	12		9				0	121	res-cold	0	16	22										armo	ring	amul	rod									0	0
+Lapis	0	1	1	35		26				0	121	res-cold	0	16	22										weap	glov						rod					0	0
+Cobalt	0	1	1	18		13				0	121	res-cold	0	23	35										armo	ring	amul	rod				glov					0	0
+Cobalt	0	1	1	55		41				0	121	res-cold	0	23	35										weap	glov						rod					0	0
 																																					0	0
 Sapphire	0	1	1	25		18				0	121	res-cold	0	31	50									lblu	rod	boot	ring	amul	miss			scep					0	0
 																																					0	0
 																																					0	0
-Crimson	0	1	1	5		3				0	122	res-fire	0	5	10										armo	rod	miss	ring	amul	amul							0	0
-Burgundy	0	1	1	12		9				0	122	res-fire	0	11	20										armo	rod	ring	amul	amul								0	0
-Burgundy	0	1	1	35		26				0	122	res-fire	0	11	20										weap							rod					0	0
-Garnet	0	1	1	18		13				0	122	res-fire	0	21	30										armo	rod	ring	amul				glov					0	0
-Garnet	0	1	1	55		41				0	122	res-fire	0	21	30										weap	glov						rod					0	0
+Crimson	0	1	1	5		3				0	122	res-fire	0	9	16										armo	rod	miss	ring	amul	amul							0	0
+Burgundy	0	1	1	12		9				0	122	res-fire	0	16	22										armo	rod	ring	amul	amul								0	0
+Burgundy	0	1	1	35		26				0	122	res-fire	0	16	22										weap							rod					0	0
+Garnet	0	1	1	18		13				0	122	res-fire	0	23	35										armo	rod	ring	amul				glov					0	0
+Garnet	0	1	1	55		41				0	122	res-fire	0	23	35										weap	glov						rod					0	0
 																																					0	0
 Ruby	0	1	1	25		18				0	122	res-fire	0	31	50									lred	wand	staf	boot	ring	amul								0	0
 																																					0	0
 																																					0	0
-Ocher	0	1	1	5		3				0	123	res-ltng	0	5	10										armo	rod	ring	amul	miss								0	0
-Tangerine	0	1	1	12		9				0	123	res-ltng	0	11	20										armo	ring	amul	rod									0	0
-Tangerine	0	1	1	35		26				0	123	res-ltng	0	11	20										weap							rod					0	0
-Coral	0	1	1	18		13				0	123	res-ltng	0	21	30										armo	ring	amul	rod				glov					0	0
-Coral	0	1	1	55		41				0	123	res-ltng	0	21	30										weap	glov						rod					0	0
+Ocher	0	1	1	5		3				0	123	res-ltng	0	9	15										armo	rod	ring	amul	miss								0	0
+Tangerine	0	1	1	12		9				0	123	res-ltng	0	16	22										armo	ring	amul	rod									0	0
+Tangerine	0	1	1	35		26				0	123	res-ltng	0	16	22										weap							rod					0	0
+Coral	0	1	1	18		13				0	123	res-ltng	0	23	35										armo	ring	amul	rod				glov					0	0
+Coral	0	1	1	55		41				0	123	res-ltng	0	23	35										weap	glov						rod					0	0
 																																					0	0
 Amber	0	1	1	25		18				0	123	res-ltng	0	31	50									lyel	armo	ring	amul	staf	wand			shld	glov				0	0
 																																					0	0
 																																					0	0
-Beryl	0	1	1	5		3				0	124	res-pois	0	5	10										armo	ring	amul	scep	staf	miss							0	0
-Jade	0	1	1	12		9				0	124	res-pois	0	11	20										armo	ring	amul	scep	staf								0	0
-Jade	0	1	1	35		26				0	124	res-pois	0	11	20										weap	ring						staf	scep				0	0
-Viridian	0	1	1	18		13				0	124	res-pois	0	21	30										tors	helm	shld	scep	staf	ring	amul						0	0
-Viridian	0	1	1	55		41				0	124	res-pois	0	21	30										weap	boot	glov	belt				staf	scep				0	0
+Beryl	0	1	1	5		3				0	124	res-pois	0	9	15										armo	ring	amul	scep	staf	miss							0	0
+Jade	0	1	1	12		9				0	124	res-pois	0	16	22										armo	ring	amul	scep	staf								0	0
+Jade	0	1	1	35		26				0	124	res-pois	0	16	22										weap	ring						staf	scep				0	0
+Viridian	0	1	1	18		13				0	124	res-pois	0	23	35										tors	helm	shld	scep	staf	ring	amul						0	0
+Viridian	0	1	1	55		41				0	124	res-pois	0	23	35										weap	boot	glov	belt				staf	scep				0	0
 																																					0	0
 Emerald	0	1	1	25		18				0	124	res-pois	0	31	50									lgrn	scep	ring	amul										0	0
 																																					0	0
@@ -349,10 +349,10 @@ Azure	100	1	1	1		1				2	117	res-cold		3	5										scha												0	0
 Lapis	100	1	1	14		10				2	117	res-cold		6	7										scha												0	0
 Cobalt	100	1	1	27		20				2	117	res-cold		8	9									lblu	scha												0	0
 Sapphire	100	1		40		32				2	117	res-cold		10	11									lblu	scha												0	0
-Azure	1	1	1	5		3				2	117	res-cold		5	10										armo	weap	ring	amul	orb	circ							0	0
-Lapis	1	1	1	12		9				4	117	res-cold		11	20										armo	ring	amul	orb	circ								0	0
+Azure	1	1	1	5		3				2	117	res-cold		9	15										armo	ring	amul	orb	circ								0	0
+Lapis	1	1	1	12		9				4	117	res-cold		16	22										armo	ring	amul	orb	circ								0	0
 Lapis	1	1	1	35		26				2	117	res-cold		11	20										weap							orb					0	0
-Cobalt	1	1	1	18		13				3	117	res-cold		21	30										armo	ring	amul	orb	circ								0	0
+Cobalt	1	1	1	18		13				3	117	res-cold		23	35										armo	ring	amul	orb	circ								0	0
 Cobalt	1	1	1	55		41				2	117	res-cold		21	30										weap							orb					0	0
 Sapphire	1	1	1	25		18				3	117	res-cold		31	40									lblu	rod	boot	amul	orb	circ								0	0
 Lapis Lazuli	100	1	1	2		1				4	117	res-cold		5	15									lblu	jewl												0	0
@@ -369,9 +369,9 @@ Crimson	100	1	1	1		1				2	118	res-fire		3	5										scha												0	0
 Russet	100	1	1	14		10				2	118	res-fire		6	7									lred	scha												0	0
 Garnet	100	1		27		20				2	118	res-fire		8	9									lred	scha												0	0
 Ruby	100	1	1	40		32				2	118	res-fire		10	11										scha												0	0
-Russet	1	1	1	12		9				4	118	res-fire		11	20										armo	ring	amul	orb	circ								0	0
+Russet	1	1	1	12		9				4	118	res-fire		16	22										armo	ring	amul	orb	circ								0	0
 Russet	1	1	1	35		26				1	118	res-fire		11	20										weap							orb					0	0
-Garnet	1	1	1	18		13				3	118	res-fire		21	30										armo	ring	amul	orb	circ								0	0
+Garnet	1	1	1	18		13				3	118	res-fire		23	35										armo	ring	amul	orb	circ								0	0
 Garnet	1	1	1	55		41				1	118	res-fire		21	30										weap							orb					0	0
 Ruby	1	1	1	25		18				3	118	res-fire		31	40									lred	rod	boot	amul	orb	circ								0	0
 Garnet	100	1	1	2		1				4	117	res-fire		5	15									lred	jewl												0	0
@@ -388,11 +388,11 @@ Tangerine	100	1	1	1		1				2	119	res-ltng		3	5										scha												0	0
 Ocher	100	1	1	14		10				2	119	res-ltng		6	7										scha												0	0
 Coral	100	1	1	27		20				2	119	res-ltng		8	9									lyel	scha												0	0
 Amber	100	1		40		32				2	119	res-ltng		10	11									lyel	scha												0	0
-Tangerine	1	1	1	5		3				4	119	res-ltng		5	10										armo	weap	ring	amul	orb	circ							0	0
-Ocher	1	1	1	12		9				4	119	res-ltng		11	20										armo	ring	amul	orb	circ								0	0
+Tangerine	1	1	1	5		3				4	119	res-ltng		9	15										armo	ring	amul	orb	circ								0	0
+Ocher	1	1	1	12		9				4	119	res-ltng		16	22										armo	ring	amul	orb	circ								0	0
 Ocher	1	1	1	35		26				1	119	res-ltng		11	20										weap							orb					0	0
 Coral	1	1	1	18		13				3	119	res-ltng		21	30										armo	ring	amul	orb	circ								0	0
-Coral	1	1	1	55		41				1	119	res-ltng		21	30										weap							orb					0	0
+Coral	1	1	1	55		41				1	119	res-ltng		23	35										weap							orb					0	0
 Amber	1	1	1	25		18				3	119	res-ltng		31	40									lyel	rod	boot	amul	orb	circ								0	0
 Camphor	100	1	1	2		1				4	117	res-ltng		5	15									lyel	jewl												0	0
 Ambergris	100	1	1	19		14				4	117	res-ltng		16	30									lyel	jewl												0	0
@@ -408,11 +408,11 @@ Beryl	100	1	1	1		1				2	120	res-pois		3	5										scha												0	0
 Viridian	100	1	1	14		10				2	120	res-pois		6	7										scha												0	0
 Jade	100	1	1	27		20				2	120	res-pois		8	9									cgrn	scha												0	0
 Emerald	100	1		40		32				2	120	res-pois		10	11									cgrn	scha												0	0
-Beryl	1	1	1	5		3				4	120	res-pois		5	10										armo	weap	ring	amul	orb	circ							0	0
-Viridian	1	1	1	12		9				4	120	res-pois		11	20										armo	ring	amul	orb	circ								0	0
-Viridian	1	1	1	35		26				1	120	res-pois		11	20										weap							orb					0	0
-Jade	1	1	1	18		13				3	120	res-pois		21	30										armo	ring	amul	orb	circ								0	0
-Jade	1	1	1	55		41				1	120	res-pois		21	30										weap							orb					0	0
+Beryl	1	1	1	5		3				4	120	res-pois		9	15										armo	weap	ring	amul	orb	circ							0	0
+Viridian	1	1	1	12		9				4	120	res-pois		16	22										armo	ring	amul	orb	circ								0	0
+Viridian	1	1	1	35		26				1	120	res-pois		16	22										weap							orb					0	0
+Jade	1	1	1	18		13				3	120	res-pois		23	35										armo	ring	amul	orb	circ								0	0
+Jade	1	1	1	55		41				1	120	res-pois		23	35										weap							orb					0	0
 Emerald	1	1	1	25		18				3	120	res-pois		31	40									cgrn	rod	boot	amul	orb	circ								0	0
 Beryl	100	1	1	2		1				4	117	res-pois		5	15									cgrn	jewl												0	0
 Jade	100	1	1	19		14				4	117	res-pois		16	30									cgrn	jewl												0	0
@@ -600,7 +600,7 @@ Sacred	100	1	1	25		18				2	142	att-undead		175	250	dmg-undead		126	200					lgld	
 Hallowed	100	1	1	35		27				1	142	att-undead		251	325	dmg-undead		201	275					lgld	weap							wand	orb				0	0
 Divine	100	1		45		37				1	142	att-undead		326	450	dmg-undead		276	350					lgld	weap							wand	orb				0	0
 Pearl	100	1	1	18		13				1	142	att-undead		25	50	dmg-undead		25	50						jewl												0	0
-Crimson	1	1	1	5		3				4	118	res-fire		5	10										armo	ring	amul	orb	circ	weap							0	0
+Crimson	1	1	1	5		3				4	118	res-fire		9	15										armo	ring	amul	orb	circ	weap							0	0
 Red	100	1	1	15		11				4	103	dmg-min		1	1									dred	lcha												0	0
 Sanguinary	100	1	1	45		37				4	103	dmg-min		2	2									dred	lcha												0	0
 Bloody	100	1		75		67				4	103	dmg-min		3	3									dred	lcha												0	0
