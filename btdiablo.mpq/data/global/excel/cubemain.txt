@@ -1,5 +1,5 @@
 Name	enabled	firstLadderSeason	lastLadderSeason	min diff	version	op	param	value	class	numinputs	input 1	input 2	input 3	input 4	input 5	input 6	input 7	output	lvl	plvl	ilvl	mod 1	mod 1 chance	mod 1 param	mod 1 min	mod 1 max	mod 2	mod 2 chance	mod 2 param	mod 2 min	mod 2 max	mod 3	mod 3 chance	mod 3 param	mod 3 min	mod 3 max	mod 4	mod 4 chance	mod 4 param	mod 4 min	mod 4 max	mod 5	mod 5 chance	mod 5 param	mod 5 min	mod 5 max	output b	b lvl	b plvl	b ilvl	b mod 1	b mod 1 chance	b mod 1 param	b mod 1 min	b mod 1 max	b mod 2	b mod 2 chance	b mod 2 param	b mod 2 min	b mod 2 max	b mod 3	b mod 3 chance	b mod 3 param	b mod 3 min	b mod 3 max	b mod 4	b mod 4 chance	b mod 4 param	b mod 4 min	b mod 4 max	b mod 5	b mod 5 chance	b mod 5 param	b mod 5 min	b mod 5 max	output c	c lvl	c plvl	c ilvl	c mod 1	c mod 1 chance	c mod 1 param	c mod 1 min	c mod 1 max	c mod 2	c mod 2 chance	c mod 2 param	c mod 2 min	c mod 2 max	c mod 3	c mod 3 chance	c mod 3 param	c mod 3 min	c mod 3 max	c mod 4	c mod 4 chance	c mod 4 param	c mod 4 min	c mod 4 max	c mod 5	c mod 5 chance	c mod 5 param	c mod 5 min	c mod 5 max	*eol
-1 mana potion	0				100					1	mpot							cm1,mag	99		99	extra-mag			100	100	pierce-mag			100	100																																																																										0
+1 mana potion	0				100					1	mpot								99		99																																																																																				0
 1 health potion	0				100					1	hpot								99		99																																																																																				0
 ,uni	0				100					1	apot								99		99																																																																																				0
 ,set	0				100					2	mpot,qty=2								99		99																																																																																				0
@@ -16,12 +16,9 @@ Unique Reroll	1				0					2	any,uni,noe	mfd						usetype,uni	99		99														
 Unique Reroll	1				0					3	any,sock	apot	wms					useitem,rem																													mfd																																																										0
 2 Thaw for MF Charm	1				100					2	wms,qty=2							mfc,uni	99		99																																																																																				0
 3 Thaw for MF Charm	1				100					3	wms,qty=3							mff,uni	99		99																																																																																				0
-Teleport + MF + GF	0				100					2	weap	wms						useitem				red-dmg%			-200	-200	ignore-ac			1	1														1	1																																																											0
 Staff of Kings + Amulet of the Viper -> Horadric Staff	1				0	28				2	msf	vip						hst																																																																																							0
 Khalim's Flail + Khalim's Heart + Khalim's Eye + Khalim's Brain -> Khalim's Will	1				0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
 Wirt's Legs -> Portal to The Secret Cow Level	1				0	28				1	leg							Cow Portal																													leg																																																										0
-3 Healing Potions (Any) + 3 Mana Potions (Any) + 1 Standard Gem (Any) -> Full Rejuvenation Potion	0				0					7	hpot,qty=3	mpot,qty=3	ggm2					rvl																																																																																							0
-3 Healing Potions (Any) + 3 Mana Potions (Any)  + 1 Chipped Gem (Any) -> Rejuvenation Potion	0				0					7	hpot,qty=3	mpot,qty=3	ggm2					rvs																																																																																							0
 3 Rejuvenation Potions -> Full Rejuvenation Potion	1				0					3	rvs,qty=3							rvl																																																																																							0
 6 Perfect Gems (1 of each type) + 1 Magic Amulet -> Prismatic Amulet	1				0					7	amu,mag	gg4a	gg4t	gg4s	gg4e	gg4r	gg4d	amu,mag,pre=331	50																																																																																						0
 1 Magic Ring + 1 Perfect Ruby + 1 Exploding Potion -> Garnet Ring	1				0					3	rin,mag	gg4r	opm					rin,mag,pre=372	30																																																																																						0
@@ -40,62 +37,62 @@ Wirt's Legs -> Portal to The Secret Cow Level	1				0	28				1	leg							Cow Porta
 1 Strangling Gas Potion + 1 Healing Potion (Any) -> Antidote Potion	1				0					2	gpl	hpot						yps																																																																																							0
 2 Arrows -> Bolts	1				0					2	aqv,qty=2							cqv																																																																																							0
 2 Bolts -> Arrows	1				0					2	cqv,qty=2							aqv																																																																																							0
-3 Chipped Amethysts -> Flawed Amethyst	0				0					3	gsv,qty=3							gsv																																																																																							0
-3 Chipped Amethysts -> Flawed Amethyst	0				0	18	70	1		3	1sv,qty=3							1sv																																																																																							0
-3 Flawed Amethysts -> Standard Amethyst	0				0					3	gsv,qty=3							gsv																																																																																							0
-3 Flawed Amethysts -> Standard Amethyst	0				0	18	70	1		3	1sv,qty=3							1sv																																																																																							0
+GEM CONVERSIONS																																																																																																									0
 3 Standard Amethysts -> Flawless Amethyst	1				0					3	gsv,qty=3							gzv																																																																																							0
 3 Standard Amethysts -> Flawless Amethyst	1				0	18	70	1		3	1sv,qty=3							1zv																																																																																							0
 3 Flawless Amethysts -> Perfect Amethyst	1				0					3	gzv,qty=3							gpv																																																																																							0
 3 Flawless Amethysts -> Perfect Amethyst	1				0	18	70	1		3	1zv,qty=3							1pv																																																																																							0
-3 Chipped Rubies -> Flawed Ruby	0				0					3	gsr,qty=3							gsr																																																																																							0
-3 Chipped Rubies -> Flawed Ruby	0				0	18	70	1		3	1sr,qty=3							1sr																																																																																							0
-3 Flawed Rubies -> Standard Ruby	0				0					3	gsr,qty=3							gsr																																																																																							0
-3 Flawed Rubies -> Standard Ruby	0				0	18	70	1		3	1sr,qty=3							1sr																																																																																							0
 3 Standard Rubies -> Flawless Ruby	1				0					3	gsr,qty=3							glr																																																																																							0
 3 Standard Rubies -> Flawless Ruby	1				0	18	70	1		3	1sr,qty=3							1lr																																																																																							0
 3 Flawless Rubies -> Perfect Ruby	1				0					3	glr,qty=3							gpr																																																																																							0
 3 Flawless Rubies -> Perfect Ruby	1				0	18	70	1		3	1lr,qty=3							1pr																																																																																							0
-3 Chipped Sapphires -> Flawed Sapphire	0				0					3	gsb,qty=3							gsb																																																																																							0
-3 Chipped Sapphires -> Flawed Sapphire	0				0	18	70	1		3	1sb,qty=3							1sb																																																																																							0
-3 Flawed Sapphires -> Standard Sapphire	0				0					3	gsb,qty=3							gsb																																																																																							0
-3 Flawed Sapphires -> Standard Sapphire	0				0	18	70	1		3	1sb,qty=3							1sb																																																																																							0
 3 Standard Sapphires -> Flawless Sapphire	1				0					3	gsb,qty=3							glb																																																																																							0
 3 Standard Sapphires -> Flawless Sapphire	1				0	18	70	1		3	1sb,qty=3							1lb																																																																																							0
 3 Flawless Sapphires -> Perfect Sapphire	1				0					3	glb,qty=3							gpb																																																																																							0
 3 Flawless Sapphires -> Perfect Sapphire	1				0	18	70	1		3	1lb,qty=3							1pb																																																																																							0
-3 Chipped Topazes -> Flawed Topaz	0				0					3	gsy,qty=3							gsy																																																																																							0
-3 Chipped Topazes -> Flawed Topaz	0				0	18	70	1		3	1sy,qty=3							1sy																																																																																							0
-3 Flawed Topazes -> Standard Topaz	0				0					3	gsy,qty=3							gsy																																																																																							0
-3 Flawed Topazes -> Standard Topaz	0				0	18	70	1		3	1sy,qty=3							1sy																																																																																							0
 3 Standard Topazes -> Flawless Topaz	1				0					3	gsy,qty=3							gly																																																																																							0
 3 Standard Topazes -> Flawless Topaz	1				0	18	70	1		3	1sy,qty=3							1ly																																																																																							0
 3 Flawless Topazes -> Perfect Topaz	1				0					3	gly,qty=3							gpy																																																																																							0
 3 Flawless Topazes -> Perfect Topaz	1				0	18	70	1		3	1ly,qty=3							1py																																																																																							0
-3 Chipped Emeralds -> Flawed Emerald	0				0					3	gsg,qty=3							gsg																																																																																							0
-3 Chipped Emeralds -> Flawed Emerald	0				0	18	70	1		3	1sg,qty=3							1sg																																																																																							0
-3 Flawed Emeralds -> Standard Emerald	0				0					3	gsg,qty=3							gsg																																																																																							0
-3 Flawed Emeralds -> Standard Emerald	0				0	18	70	1		3	1sg,qty=3							1sg																																																																																							0
 3 Standard Emeralds -> Flawless Emerald	1				0					3	gsg,qty=3							glg																																																																																							0
 3 Standard Emeralds -> Flawless Emerald	1				0	18	70	1		3	1sg,qty=3							1lg																																																																																							0
 3 Flawless Emeralds -> Perfect Emerald	1				0					3	glg,qty=3							gpg																																																																																							0
 3 Flawless Emeralds -> Perfect Emerald	1				0	18	70	1		3	1lg,qty=3							1pg																																																																																							0
-3 Chipped Diamonds -> Flawed Diamond	0				0					3	gsw,qty=3							gsw																																																																																							0
-3 Chipped Diamonds -> Flawed Diamond	0				0	18	70	1		3	1sw,qty=3							1sw																																																																																							0
-3 Flawed Diamonds -> Standard Diamond	0				0					3	gsw,qty=3							gsw																																																																																							0
-3 Flawed Diamonds -> Standard Diamond	0				0	18	70	1		3	1sw,qty=3							1sw																																																																																							0
 3 Standard Diamonds -> Flawless Diamond	1				0					3	gsw,qty=3							glw																																																																																							0
 3 Standard Diamonds -> Flawless Diamond	1				0	18	70	1		3	1sw,qty=3							1lw																																																																																							0
 3 Flawless Diamonds -> Perfect Diamond	1				0					3	glw,qty=3							gpw																																																																																							0
 3 Flawless Diamonds -> Perfect Diamond	1				0	18	70	1		3	1lw,qty=3							1pw																																																																																							0
-3 Chipped Skulls -> Flawed Skull	0				0					3	sku,qty=3							sku																																																																																							0
-3 Chipped Skulls -> Flawed Skull	0				0	18	70	1		3	1ku,qty=3							1ku																																																																																							0
-3 Flawed Skulls -> Standard Skull	0				0					3	sku,qty=3							sku																																																																																							0
-3 Flawed Skulls -> Standard Skull	0				0	18	70	1		3	1ku,qty=3							1ku																																																																																							0
 3 Standard Skulls -> Flawless Skull	1				0					3	sku,qty=3							skl																																																																																							0
 3 Standard Skulls -> Flawless Skull	1				0	18	70	1		3	1ku,qty=3							1kl																																																																																							0
 3 Flawless Skulls -> Perfect Skull	1				0					3	skl,qty=3							skz																																																																																							0
 3 Flawless Skulls -> Perfect Skull	1				0	18	70	1		3	1kl,qty=3							1kz																																																																																							0
+9 Perfect Gems + 1 Perfect Amethyst -> 4 Perfect Amethysts	1				0	18	70	9		2	gxm4	gpv						1pv,qty=4																																																																																							0
+9 Perfect Gems + 1 Perfect Diamond -> 4 Perfect Diamonds	1				0	18	70	9		2	gxm4	gpw						1pw,qty=4																																																																																							0
+9 Perfect Gems + 1 Perfect Emerald -> 4 Perfect Emeralds	1				0	18	70	9		2	gxm4	gpg						1pg,qty=4																																																																																							0
+9 Perfect Gems + 1 Perfect Ruby-> 4 Perfect Rubies	1				0	18	70	9		2	gxm4	gpr						1pr,qty=4																																																																																							0
+9 Perfect Gems + 1 Perfect Sapphire -> 4 Perfect Sapphires	1				0	18	70	9		2	gxm4	gpb						1pb,qty=4																																																																																							0
+9 Perfect Gems + 1 Perfect Topaz -> 4 Perfect Topazes	1				0	18	70	9		2	gxm4	gpy						1py,qty=4																																																																																							0
+100 Perfect Gems + 1 Perfect Amethyst -> 34 Perfect Amethysts	1				0	18	70	100		2	gxm4	gpv						1pv,qty=34																																																																																							0
+100 Perfect Gems + 1 Perfect Diamond -> 34 Perfect Diamonds	1				0	18	70	100		2	gxm4	gpw						1pw,qty=34																																																																																							0
+100 Perfect Gems + 1 Perfect Emerald -> 34 Perfect Emeralds	1				0	18	70	100		2	gxm4	gpg						1pg,qty=34																																																																																							0
+100 Perfect Gems + 1 Perfect Ruby-> 34 Perfect Rubies	1				0	18	70	100		2	gxm4	gpr						1pr,qty=34																																																																																							0
+100 Perfect Gems + 1 Perfect Sapphire -> 34 Perfect Sapphires	1				0	18	70	100		2	gxm4	gpb						1pb,qty=34																																																																																							0
+100 Perfect Gems + 1 Perfect Topaz -> 34 Perfect Topazes	1				0	18	70	100		2	gxm4	gpy						1py,qty=34																																																																																							0
+100 Amethysts -> 33 Flawless Amethyst	1				0	18	70	100		2	gg2a	wms						1zv,qty=33																																																																																							0
+100 Diamonds -> 33 Flawless Diamonds	1				0	18	70	100		2	gg2d	wms						1lw,qty=33																																																																																							0
+100 Emeralds -> 33 Flawless Emeralds	1				0	18	70	100		2	gg2e	wms						1lg,qty=33																																																																																							0
+100 Rubies -> 33 Flawless Rubies	1				0	18	70	100		2	gg2r	wms						1lr,qty=33																																																																																							0
+100 Sapphires -> 33 Flawless Sapphires	1				0	18	70	100		2	gg2s	wms						1lb,qty=33																																																																																							0
+100 Topazes -> 33 Flawless Topazes	1				0	18	70	100		2	gg2t	wms						1ly,qty=33																																																																																							0
+100 Skulls -> 33 Flawless Skulls	1				0	18	70	100		2	gg2z	wms						1kl,qty=33																																																																																							0
+100 Flawless Amethysts -> 33 Perfect Amethysts + Standard of Heros	1				0	18	70	100		2	gg3a	wms						1pv,qty=33																													std																																																										0
+100 Flawless Diamonds -> 33 Perfect Diamonds + Standard of Heros	1				0	18	70	100		2	gg3d	wms						1pw,qty=33																													std																																																										0
+100 Flawless Emeralds -> 33 Perfect Emeralds + Standard of Heros	1				0	18	70	100		2	gg3e	wms						1pg,qty=33																													std																																																										0
+100 Flawless Rubies -> 33 Perfect Rubies + Standard of Heros	1				0	18	70	100		2	gg3r	wms						1pr,qty=33																													std																																																										0
+100 Flawless Sapphires -> 33 Perfect Sapphires + Standard of Heros	1				0	18	70	100		2	gg3s	wms						1pb,qty=33																													std																																																										0
+100 Flawless Topazes -> 33 Perfect Topazes + Standard of Heros	1				0	18	70	100		2	gg3t	wms						1py,qty=33																													std																																																										0
+100 Flawless Skulls -> 33 Perfect Skulls + Standard of Heros	1				0	18	70	100		2	gg3z	wms						1kz,qty=33																													std																																																										0
+RUNE CONVERSIONS																																																																																																									0
 3 El Runes -> Eld Rune	1				100					3	r01,qty=3							r02																																																																																							0
 3 Eld Runes -> Tir Rune	1				100					3	r02,qty=3							r03																																																																																							0
 3 Tir Runes -> Nef Rune	1				100					3	r03,qty=3							r04																																																																																							0
@@ -105,6 +102,29 @@ Wirt's Legs -> Portal to The Secret Cow Level	1				0	28				1	leg							Cow Porta
 3 Tal Runes -> Ral Rune	1				100					3	r07,qty=3							r08																																																																																							0
 3 Ral Runes -> Ort Rune	1				100					3	r08,qty=3							r09																																																																																							0
 3 Ort Runes -> Thul Rune	1				100					3	r09,qty=3							r10																																																																																							0
+3 Thul Runes -> Amn Rune	1				100					3	r10,qty=3							r11																																																																																							0
+3 Amn Runes -> Sol Rune	1				100					3	r11,qty=3							r12																																																																																							0
+3 Sol Runes -> Shael Rune	1				100					3	r12,qty=3							r13																																																																																							0
+3 Shael Runes  -> Dol Rune	1				100					3	r13,qty=3							r14																																																																																							0
+3 Dol Runes  -> Hel Rune	1				100					3	r14,qty=3							r15																																																																																							0
+3 Hel Runes -> Io Rune	1				100					3	r15,qty=3							r16																																																																																							0
+3 Io Runes -> Lum Rune	1				100					3	r16,qty=3							r17																																																																																							0
+3 Lum Runes  -> Ko Rune	1				100					3	r17,qty=3							r18																																																																																							0
+3 Ko Runes -> Fal Rune	1				100					3	r18,qty=3							r19																																																																																							0
+3 Fal Runes -> Lem Rune	1				100					3	r19,qty=3							r20																																																																																							0
+3 Lem Runes -> Pul Rune	1				100					3	r20,qty=3							r21																																																																																							0
+2 Pul Runes -> Um Rune	1				100					3	r21,qty=2	wms						r22																																																																																							0
+2 Um Runes -> Mal Rune	1				100					3	r22,qty=2	wms						r23																																																																																							0
+2 Mal Runes -> Ist Rune	1				100					3	r23,qty=2	wms						r24																																																																																							0
+2 Ist Runes -> Gul Rune	1				100					3	r24,qty=2	wms						r25																																																																																							0
+2 Gul Runes -> Vex Rune	1				100					3	r25,qty=2	wms						r26																																																																																							0
+2 Vex Runes -> Ohm Rune	1				100					3	r26,qty=2	wms						r27																																																																																							0
+2 Ohm Runes -> Lo Rune	1				100					3	r27,qty=2	wms						r28																																																																																							0
+2 Lo Runes -> Sur Rune	1				100					3	r28,qty=2	wms						r29																																																																																							0
+2 Sur Runes -> Ber Rune	1				100					3	r29,qty=2	wms						r30																																																																																							0
+2 Ber Runes -> Jah Rune	1				100					3	r30,qty=2	wms						r31																																																																																							0
+2 Jah Runes  -> Cham Rune	1				100					3	r31,qty=2	wms						r32																																																																																							0
+2 Cham Runes -> Zod Rune	1				100					3	r32,qty=2	wms						r33																																																																																							0
 3 El Runes -> Eld Rune	1				100	18	70	1		3	101,qty=3							102																																																																																							0
 3 Eld Runes -> Tir Rune	1				100	18	70	1		3	102,qty=3							103																																																																																							0
 3 Tir Runes -> Nef Rune	1				100	18	70	1		3	103,qty=3							104																																																																																							0
@@ -114,10 +134,134 @@ Wirt's Legs -> Portal to The Secret Cow Level	1				0	28				1	leg							Cow Porta
 3 Tal Runes -> Ral Rune	1				100	18	70	1		3	107,qty=3							108																																																																																							0
 3 Ral Runes -> Ort Rune	1				100	18	70	1		3	108,qty=3							109																																																																																							0
 3 Ort Runes -> Thul Rune	1				100	18	70	1		3	109,qty=3							110																																																																																							0
+3 Thul Runes -> Amn Rune	1				100	18	70	1		3	110,qty=3							111																																																																																							0
+3 Amn Runes -> Sol Rune	1				100	18	70	1		3	111,qty=3							112																																																																																							0
+3 Sol Runes -> Shael Rune	1				100	18	70	1		3	112,qty=3							113																																																																																							0
+3 Shael Runes  -> Dol Rune	1				100	18	70	1		3	113,qty=3							114																																																																																							0
+3 Dol Runes  -> Hel Rune	1				100	18	70	1		3	114,qty=3							115																																																																																							0
+3 Hel Runes -> Io Rune	1				100	18	70	1		3	115,qty=3							116																																																																																							0
+3 Io Runes -> Lum Rune	1				100	18	70	1		3	116,qty=3							117																																																																																							0
+3 Lum Runes  -> Ko Rune	1				100	18	70	1		3	117,qty=3							118																																																																																							0
+3 Ko Runes -> Fal Rune	1				100	18	70	1		3	118,qty=3							119																																																																																							0
+3 Fal Runes -> Lem Rune	1				100	18	70	1		3	119,qty=3							120																																																																																							0
+3 Lem Runes -> Pul Rune	1				100	18	70	1		3	120,qty=3							121																																																																																							0
+2 Pul Runes -> Um Rune	1				100	18	70	1		3	121,qty=2	wms						122																																																																																							0
+2 Um Runes -> Mal Rune	1				100	18	70	1		3	122,qty=2	wms						123																																																																																							0
+2 Mal Runes -> Ist Rune	1				100	18	70	1		3	123,qty=2	wms						124																																																																																							0
+2 Ist Runes -> Gul Rune	1				100	18	70	1		3	124,qty=2	wms						125																																																																																							0
+2 Gul Runes -> Vex Rune	1				100	18	70	1		3	125,qty=2	wms						126																																																																																							0
+2 Vex Runes -> Ohm Rune	1				100	18	70	1		3	126,qty=2	wms						127																																																																																							0
+2 Ohm Runes  -> Lo Rune	1				100	18	70	1		3	127,qty=2	wms						128																																																																																							0
+2 Lo Runes -> Sur Rune	1				100	18	70	1		3	128,qty=2	wms						129																																																																																							0
+2 Sur Runes -> Ber Rune	1				100	18	70	1		3	129,qty=2	wms						130																																																																																							0
+2 Ber Runes -> Jah Rune	1				100	18	70	1		3	130,qty=2	wms						131																																																																																							0
+2 Jah Runes  -> Cham Rune	1				100	18	70	1		3	131,qty=2	wms						132																																																																																							0
+2 Cham Runes -> Zod Rune	1				100	18	70	1		3	132,qty=2	wms						133																																																																																							0
+RUNE DOWNGRADE																																																																																																									0
+1 Zod + Standard Gem -> Cham Rune	1				100					2	r33,qty=1	gem2						r32																																																																																							0
+1 Cham + Standard Gem -> Jah Rune	1				100					2	r32,qty=1	gem2						r31																																																																																							0
+1 Jah + Standard Gem -> Ber Rune	1				100					2	r31,qty=1	gem2						r30																																																																																							0
+1 Ber + Standard Gem -> Sur Rune	1				100					2	r30,qty=1	gem2						r29																																																																																							0
+1 Sur + Standard Gem -> Lo  Rune	1				100					2	r29,qty=1	gem2						r28																																																																																							0
+1 Lo + Standard Gem -> Ohm Rune	1				100					2	r28,qty=1	gem2						r27																																																																																							0
+1 Ohm + Standard Gem -> Vex Rune	1				100					2	r27,qty=1	gem2						r26																																																																																							0
+1 Vex + Standard Gem -> Gul Rune	1				100					2	r26,qty=1	gem2						r25																																																																																							0
+1 Gul + Standard Gem -> Ist Rune	1				100					2	r25,qty=1	gem2						r24																																																																																							0
+1 Ist + Standard Gem -> Mal Rune	1				100					2	r24,qty=1	gem2						r23																																																																																							0
+1 Mal + Standard Gem -> Um Rune	1				100					2	r23,qty=1	gem2						r22																																																																																							0
+1 Um + Standard Gem -> Pul Rune	1				100					2	r22,qty=1	gem2						r21																																																																																							0
+1 Pul + Standard Gem -> Lem Rune	1				100					2	r21,qty=1	gem2						r20																																																																																							0
+1 Lem + Standard Gem -> Fal Rune	1				100					2	r20,qty=1	gem2						r19																																																																																							0
+1 Fal + Standard Gem -> Ko Rune	1				100					2	r19,qty=1	gem2						r18																																																																																							0
+1 Ko + Standard Gem -> Lum Rune	1				100					2	r18,qty=1	gem2						r17																																																																																							0
+1 Lum + Standard Gem -> Io Rune	1				100					2	r17,qty=1	gem2						r16																																																																																							0
+1 Io + Standard Gem -> Hel Rune	1				100					2	r16,qty=1	gem2						r15																																																																																							0
+1 Hel + Standard Gem -> Dol  Rune	1				100					2	r15,qty=1	gem2						r14																																																																																							0
+1 Dol + Standard Gem -> Shael Rune	1				100					2	r14,qty=1	gem2						r13																																																																																							0
+1 Shael + Standard Gem -> Sol Rune	1				100					2	r13,qty=1	gem2						r12																																																																																							0
+1 Sol + Standard Gem -> Amn Rune	1				100					2	r12,qty=1	gem2						r11																																																																																							0
+1 Amn + Standard Gem -> Thul Rune	1				100					2	r11,qty=1	gem2						r10																																																																																							0
+1 Thul + Standard Gem -> Ort Rune	1				100					2	r10,qty=1	gem2						r09																																																																																							0
+1 Ort + Standard Gem -> Ral Rune	1				100					2	r09,qty=1	gem2						r08																																																																																							0
+1 Ral + Standard Gem -> Tal Rune	1				100					2	r08,qty=1	gem2						r07																																																																																							0
+1 Tal + Standard Gem -> Ith Rune	1				100					2	r07,qty=1	gem2						r06																																																																																							0
+1 Ith + Standard Gem -> Eth Rune	1				100					2	r06,qty=1	gem2						r05																																																																																							0
+1 Eth + Standard Gem -> Nef Rune	1				100					2	r05,qty=1	gem2						r04																																																																																							0
+1 Nef + Standard Gem -> Tir Rune	1				100					2	r04,qty=1	gem2						r03																																																																																							0
+1 Tir + Standard Gem -> Eld Rune	1				100					2	r03,qty=1	gem2						r02																																																																																							0
+1 Eld + Standard Gem -> El Rune	1				100					2	r02,qty=1	gem2						r01																																																																																							0
+1 El + Standard Gem -> Rejuv	1				100					2	r01,qty=1	gem2						rvl																																																																																							0
+1 Zod + Standard Gem -> Cham Rune	1				100	18	70	1		2	133,qty=1	ggm2,qty=1						132																																																																																							0
+1 Cham + Standard Gem -> Jah Rune	1				100	18	70	1		2	132,qty=1	ggm2,qty=1						131																																																																																							0
+1 Jah + Standard Gem -> Ber Rune	1				100	18	70	1		2	131,qty=1	ggm2,qty=1						130																																																																																							0
+1 Ber + Standard Gem -> Sur Rune	1				100	18	70	1		2	130,qty=1	ggm2,qty=1						129																																																																																							0
+1 Sur + Standard Gem -> Lo  Rune	1				100	18	70	1		2	129,qty=1	ggm2,qty=1						128																																																																																							0
+1 Lo + Standard Gem -> Ohm Rune	1				100	18	70	1		2	128,qty=1	ggm2,qty=1						127																																																																																							0
+1 Ohm + Standard Gem -> Vex Rune	1				100	18	70	1		2	127,qty=1	ggm2,qty=1						126																																																																																							0
+1 Vex + Standard Gem -> Gul Rune	1				100	18	70	1		2	126,qty=1	ggm2,qty=1						125																																																																																							0
+1 Gul + Standard Gem -> Ist Rune	1				100	18	70	1		2	125,qty=1	ggm2,qty=1						124																																																																																							0
+1 Ist + Standard Gem -> Mal Rune	1				100	18	70	1		2	124,qty=1	ggm2,qty=1						123																																																																																							0
+1 Mal + Standard Gem -> Um Rune	1				100	18	70	1		2	123,qty=1	ggm2,qty=1						122																																																																																							0
+1 Um + Standard Gem -> Pul Rune	1				100	18	70	1		2	122,qty=1	ggm2,qty=1						121																																																																																							0
+1 Pul + Standard Gem -> Lem Rune	1				100	18	70	1		2	121,qty=1	ggm2,qty=1						120																																																																																							0
+1 Lem + Standard Gem -> Fal Rune	1				100	18	70	1		2	120,qty=1	ggm2,qty=1						119																																																																																							0
+1 Fal + Standard Gem -> Ko Rune	1				100	18	70	1		2	119,qty=1	ggm2,qty=1						118																																																																																							0
+1 Ko + Standard Gem -> Lum Rune	1				100	18	70	1		2	118,qty=1	ggm2,qty=1						117																																																																																							0
+1 Lum + Standard Gem -> Io Rune	1				100	18	70	1		2	117,qty=1	ggm2,qty=1						116																																																																																							0
+1 Io + Standard Gem -> Hel Rune	1				100	18	70	1		2	116,qty=1	ggm2,qty=1						115																																																																																							0
+1 Hel + Standard Gem -> Dol  Rune	1				100	18	70	1		2	115,qty=1	ggm2,qty=1						114																																																																																							0
+1 Dol + Standard Gem -> Shael Rune	1				100	18	70	1		2	114,qty=1	ggm2,qty=1						113																																																																																							0
+1 Shael + Standard Gem -> Sol Rune	1				100	18	70	1		2	113,qty=1	ggm2,qty=1						112																																																																																							0
+1 Sol + Standard Gem -> Amn Rune	1				100	18	70	1		2	112,qty=1	ggm2,qty=1						111																																																																																							0
+1 Amn + Standard Gem -> Thul Rune	1				100	18	70	1		2	111,qty=1	ggm2,qty=1						110																																																																																							0
+1 Thul + Standard Gem -> Ort Rune	1				100	18	70	1		2	110,qty=1	ggm2,qty=1						109																																																																																							0
+1 Ort + Standard Gem -> Ral Rune	1				100	18	70	1		2	109,qty=1	ggm2,qty=1						108																																																																																							0
+1 Ral + Standard Gem -> Tal Rune	1				100	18	70	1		2	108,qty=1	ggm2,qty=1						107																																																																																							0
+1 Tal + Standard Gem -> Ith Rune	1				100	18	70	1		2	107,qty=1	ggm2,qty=1						106																																																																																							0
+1 Ith + Standard Gem -> Eth Rune	1				100	18	70	1		2	106,qty=1	ggm2,qty=1						105																																																																																							0
+1 Eth + Standard Gem -> Nef Rune	1				100	18	70	1		2	105,qty=1	ggm2,qty=1						104																																																																																							0
+1 Nef + Standard Gem -> Tir Rune	1				100	18	70	1		2	104,qty=1	ggm2,qty=1						103																																																																																							0
+1 Tir + Standard Gem -> Eld Rune	1				100	18	70	1		2	103,qty=1	ggm2,qty=1						102																																																																																							0
+1 Eld + Standard Gem -> El Rune	1				100	18	70	1		2	102,qty=1	ggm2,qty=1						101																																																																																							0
+1 El + Standard Gem -> Rejuv	1				100	18	70	1		2	101,qty=1	ggm2,qty=1						rvl																																																																																							0
+RUNE MASS UPPING																																																																																																									0
+100 r1 -> 33 r2 + Standard of Heros	1				0	18	70	100		2	101	wms						102,qty=33																													std																																																										0
+100 r2 -> 33 r3 + Standard of Heros	1				0	18	70	100		2	102	wms						103,qty=33																													std																																																										0
+100 r3 -> 33 r4 + Standard of Heros	1				0	18	70	100		2	103	wms						104,qty=33																													std																																																										0
+100 r4 -> 33 r5 + Standard of Heros	1				0	18	70	100		2	104	wms						105,qty=33																													std																																																										0
+100 r5 -> 33 r6 + Standard of Heros	1				0	18	70	100		2	105	wms						106,qty=33																													std																																																										0
+100 r6 -> 33 r7 + Standard of Heros	1				0	18	70	100		2	106	wms						107,qty=33																													std																																																										0
+100 r7 -> 33 r8 + Standard of Heros	1				0	18	70	100		2	107	wms						108,qty=33																													std																																																										0
+100 r8 -> 33 r9 + Standard of Heros	1				0	18	70	100		2	108	wms						109,qty=33																													std																																																										0
+100 r9 -> 33 r10 + Standard of Heros	1				0	18	70	100		2	109	wms						110,qty=33																													std																																																										0
+100 r10 -> 33 r11 + Standard of Heros	1				0	18	70	100		2	110	wms						111,qty=33																													std																																																										0
+100 r11 -> 33 r12 + Standard of Heros	1				0	18	70	100		2	111	wms						112,qty=33																													std																																																										0
+100 r12 -> 33 r13 + Standard of Heros	1				0	18	70	100		2	112	wms						113,qty=33																													std																																																										0
+100 r13 -> 33 r14 + Standard of Heros	1				0	18	70	100		2	113	wms						114,qty=33																													std																																																										0
+100 r14 -> 33 r15 + Standard of Heros	1				0	18	70	100		2	114	wms						115,qty=33																													std																																																										0
+100 r15 -> 33 r16 + Standard of Heros	1				0	18	70	100		2	115	wms						116,qty=33																													std																																																										0
+100 r16 -> 33 r17 + Standard of Heros	1				0	18	70	100		2	116	wms						117,qty=33																													std																																																										0
+100 r17 -> 33 r18 + Standard of Heros	1				0	18	70	100		2	117	wms						118,qty=33																													std																																																										0
+100 r18 -> 33 r19 + Standard of Heros	1				0	18	70	100		2	118	wms						119,qty=33																													std																																																										0
+100 r19 -> 33 r20 + Standard of Heros	1				0	18	70	100		2	119	wms						120,qty=33																													std																																																										0
+100 r20 -> 33 r21 + Standard of Heros	1				0	18	70	100		2	120	wms						121,qty=33																													std																																																										0
+100 r21 -> 50 r22 + Standard of Heros	1				0	18	70	100		2	121	wms						122,qty=50																													std																																																										0
+100 r22 -> 50 r23 + Standard of Heros	1				0	18	70	100		2	122	wms						123,qty=50																													std																																																										0
+100 r23 -> 50 r24 + Standard of Heros	1				0	18	70	100		2	123	wms						124,qty=50																													std																																																										0
+100 r24 -> 50 r25 + Standard of Heros	1				0	18	70	100		2	124	wms						125,qty=50																													std																																																										0
+100 r25 -> 50 r26 + Standard of Heros	1				0	18	70	100		2	125	wms						126,qty=50																													std																																																										0
+100 r26 -> 50 r27 + Standard of Heros	1				0	18	70	100		2	126	wms						127,qty=50																													std																																																										0
+100 r27 -> 50 r28 + Standard of Heros	1				0	18	70	100		2	127	wms						128,qty=50																													std																																																										0
+100 r28 -> 50 r29 + Standard of Heros	1				0	18	70	100		2	128	wms						129,qty=50																													std																																																										0
+100 r29 -> 50 r30 + Standard of Heros	1				0	18	70	100		2	129	wms						130,qty=50																													std																																																										0
+100 r30 -> 50 r31 + Standard of Heros	1				0	18	70	100		2	130	wms						131,qty=50																													std																																																										0
+100 r31 -> 50 r32 + Standard of Heros	1				0	18	70	100		2	131	wms						132,qty=50																													std																																																										0
+100 r32 -> 50 r33 + Standard of Heros	1				0	18	70	100		2	132	wms						133,qty=50																													std																																																										0
+																																																																																																									0
 3 Perfect Gems (Any) + 1 Magic Item -> Re-rolled Magic Item	1				100					4	any,mag	ggm4,qty=3						usetype,mag			100																																																																																				0
 3 Perfect Skulls + 1 Rare Item -> 1 Low Quality Rare Item	1				0					4	any,rar	gg4z,qty=3						usetype,rar		40	40																																																																																				0
 1 Rare Item + 1 Unique Ring -> 1 High Quality Rare Item	1				0					2	any,rar	ring,uni						usetype,rar		66	66																																																																																				0
-3 Perfect Skull + 1 Rare Item + 1 Stone of Jordan -> Add 1 Socket to Rare Item	1				0					5	any,rar,nos	gg4z,qty=3	The Stone of Jordan					useitem,sock=1																																																																																							0
+3 Perfect Skull + 1 Rare Item + 1 Stone of Jordan -> Add 1 Socket to Rare Item	0				0					5	any,rar,nos	gg4z,qty=3	The Stone of Jordan					useitem,sock=1																																																																																							0
 CIRCLET BLOCKING	0																																																																																																								0
 1 Magic Crown + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1				100					4	circ,mag,noe	jew	106	gg4e																																																																																											0
 1 Magic Crown + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1				100					6	circ,mag,noe	jew	106	gg4e	105	mls																																																																																									0
@@ -224,52 +368,7 @@ CRAFTING	0																																																																						
 1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1				100					4	weap,mag,noe	jew	112	gg4e				usetype,crf		50	50	red-dmg			3	5	red-mag			3	5	swing3			10	20	dmg%			30	50																																																																0
 1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1				100					6	weap,mag,noe	jew	112	gg4e	105	mls		usetype,crf		50	50	red-dmg			3	5	red-mag			3	5	swing3			10	20	dmg%			30	50	ethereal	100		1	1																																																											0
 1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1				100					4	weap,mag,eth	jew	112	gg4e				usetype,crf		50	50	red-dmg			3	5	red-mag			3	5	swing3			10	20	dmg%			30	50	ethereal	100		1	1																																																											0
-3 Thul Runes + 1 Chipped Topaz -> Amn Rune	1				100					3	r10,qty=3							r11																																																																																							0
-3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1				100					3	r11,qty=3							r12																																																																																							0
-3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1				100					3	r12,qty=3							r13																																																																																							0
-3 Shael Runes + 1 Chipped Ruby -> Dol Rune	1				100					3	r13,qty=3							r14																																																																																							0
-3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1				100					3	r14,qty=3							r15																																																																																							0
-3 Hel Runes + 1 Chipped Diamond -> Io Rune	1				100					3	r15,qty=3							r16																																																																																							0
-3 Io Runes + 1 Flawed Topaz -> Lum Rune	1				100					3	r16,qty=3							r17																																																																																							0
-3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1				100					3	r17,qty=3							r18																																																																																							0
-3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1				100					3	r18,qty=3							r19																																																																																							0
-3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1				100					3	r19,qty=3							r20																																																																																							0
-3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1				100					3	r20,qty=3							r21																																																																																							0
-2 Pul Runes + 1 Flawed Diamond -> Um Rune	1				100					3	r21,qty=2	wms						r22																																																																																							0
-2 Um Runes + 1 Standard Topaz -> Mal Rune	1				100					3	r22,qty=2	wms						r23																																																																																							0
-2 Mal Runes + 1 Standard Amethyst -> Ist Rune	1				100					3	r23,qty=2	wms						r24																																																																																							0
-2 Ist Runes + 1 Standard Sapphire -> Gul Rune	1				100					3	r24,qty=2	wms						r25																																																																																							0
-2 Gul Runes + 1 Standard Ruby -> Vex Rune	1				100					3	r25,qty=2	wms						r26																																																																																							0
-2 Vex Runes + 1 Standard Emerald -> Ohm Rune	1				100					3	r26,qty=2	wms						r27																																																																																							0
-2 Ohm Runes + 1 Standard Diamond -> Lo Rune	1				100					3	r27,qty=2	wms						r28																																																																																							0
-2 Lo Runes + 1 Flawless Topaz -> Sur Rune	1				100					3	r28,qty=2	wms						r29																																																																																							0
-2 Sur Runes + 1 Flawless Amethyst -> Ber Rune	1				100					3	r29,qty=2	wms						r30																																																																																							0
-2 Ber Runes + 1 Flawless Sapphire -> Jah Rune	1				100					3	r30,qty=2	wms						r31																																																																																							0
-2 Jah Runes + 1 Flawless Ruby -> Cham Rune	1				100					3	r31,qty=2	wms						r32																																																																																							0
-2 Cham Runes + 1 Flawless Emerald -> Zod Rune	1				100					3	r32,qty=2	wms						r33																																																																																							0
-3 Thul Runes + 1 Chipped Topaz -> Amn Rune	1				100	18	70	1		3	110,qty=3							111																																																																																							0
-3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1				100	18	70	1		3	111,qty=3							112																																																																																							0
-3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1				100	18	70	1		3	112,qty=3							113																																																																																							0
-3 Shael Runes + 1 Chipped Ruby -> Dol Rune	1				100	18	70	1		3	113,qty=3							114																																																																																							0
-3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1				100	18	70	1		3	114,qty=3							115																																																																																							0
-3 Hel Runes + 1 Chipped Diamond -> Io Rune	1				100	18	70	1		3	115,qty=3							116																																																																																							0
-3 Io Runes + 1 Flawed Topaz -> Lum Rune	1				100	18	70	1		3	116,qty=3							117																																																																																							0
-3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1				100	18	70	1		3	117,qty=3							118																																																																																							0
-3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1				100	18	70	1		3	118,qty=3							119																																																																																							0
-3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1				100	18	70	1		3	119,qty=3							120																																																																																							0
-3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1				100	18	70	1		3	120,qty=3							121																																																																																							0
-2 Pul Runes + 1 Flawed Diamond -> Um Rune	1				100	18	70	1		3	121,qty=2	wms						122																																																																																							0
-2 Um Runes + 1 Standard Topaz -> Mal Rune	1				100	18	70	1		3	122,qty=2	wms						123																																																																																							0
-2 Mal Runes + 1 Standard Amethyst -> Ist Rune	1				100	18	70	1		3	123,qty=2	wms						124																																																																																							0
-2 Ist Runes + 1 Standard Sapphire -> Gul Rune	1				100	18	70	1		3	124,qty=2	wms						125																																																																																							0
-2 Gul Runes + 1 Standard Ruby -> Vex Rune	1				100	18	70	1		3	125,qty=2	wms						126																																																																																							0
-2 Vex Runes + 1 Standard Emerald -> Ohm Rune	1				100	18	70	1		3	126,qty=2	wms						127																																																																																							0
-2 Ohm Runes + 1 Standard Diamond -> Lo Rune	1				100	18	70	1		3	127,qty=2	wms						128																																																																																							0
-2 Lo Runes + 1 Flawless Topaz -> Sur Rune	1				100	18	70	1		3	128,qty=2	wms						129																																																																																							0
-2 Sur Runes + 1 Flawless Amethyst -> Ber Rune	1				100	18	70	1		3	129,qty=2	wms						130																																																																																							0
-2 Ber Runes + 1 Flawless Sapphire -> Jah Rune	1				100	18	70	1		3	130,qty=2	wms						131																																																																																							0
-2 Jah Runes + 1 Flawless Ruby -> Cham Rune	1				100	18	70	1		3	131,qty=2	wms						132																																																																																							0
-2 Cham Runes + 1 Flawless Emerald -> Zod Rune	1				100	18	70	1		3	132,qty=2	wms						133																																																																																							0
+																																																																																																									0
 SUP 1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor	1				100					4	tors,hiq,nos	107	110	gg4t				useitem				sock			1	6																																																																															0
 1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor	1				100					4	tors,nor,nos	107	110	gg4t				useitem				sock			1	6																																																																															0
 SUP 1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon	1				100					4	weap,hiq,nos	108	111	gg4a				useitem				sock			1	6																																																																															0
@@ -299,84 +398,11 @@ Charsi Hammer + Larzuk Hammer  +  Standard of Heros + 1 Exceptional Set Weapon -
 Charsi Hammer + Larzuk Hammer  +  Standard of Heros + 1 Exceptional Set Armor -> Elite Set Armor	1				100					4	armo,exc,set	mls	lmr	std				useitem,mod,eli																																																																																							0
 1 Ort Rune + 1 Weapon -> Fully Repaired Weapon	1				100					2	"weap,noe"	109						"useitem,rep,rch,qty=500"																																																																																							0
 1 Ral Rune + 1 Armor -> Fully Repaired Armor	1				100					2	"armo,noe"	108						"useitem,rep,rch,qty=500"																																																																																							0
-not used	0				100					3	amu,mag	jew	108					usetype,tmp				levelreq			5	5																																																																															0
-not used	0				100					3	weap,tmp	101	gsv					useitem				levelreq			2	2	att			30	50																																																																										0
-not used	0				0					4	weap,mag	ggm2,qty=3						usetype,mag	25		50	sock			1	2																																																																															0
 Matrons Den	0				100	28				4	tsc	pk1,qty=3						Red Portal,qty=133																																																																																							0
 Forgotten Sands	0				100	28				4	tsc	pk2,qty=3						Red Portal,qty=134																																																																																							0
 Furnace of pain	0				100	28				4	tsc	pk3,qty=3						Red Portal,qty=135																																																																																							0
-1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)	1				100	28				3	ukey,qty=3							Pandemonium Portal																																																																																							0
+3 Pandemonium Keys -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)	1				100	28				3	ukey,qty=3							Pandemonium Portal																																																																																							0
 1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)	1				100	28				3	orgn,qty=3							Pandemonium Finale Portal																																																																																							0
-not used	0																																																																																																								0
-not used	0																																																																																																								0
-not used	0																																																																																																								0
-not used	0																																																																																																								0
-1 Zod + 1 Key -> Cham Rune	1				100					2	r33,qty=1	gem2						r32																																																																																							0
-1 Cham + 1 Key -> Jah Rune	1				100					2	r32,qty=1	gem2						r31																																																																																							0
-1 Jah + 1 Key -> Ber Rune	1				100					2	r31,qty=1	gem2						r30																																																																																							0
-1 Ber + 1 Key -> Sur Rune	1				100					2	r30,qty=1	gem2						r29																																																																																							0
-1 Sur + 1 Key -> Lo  Rune	1				100					2	r29,qty=1	gem2						r28																																																																																							0
-1 Lo + 1 Key -> Ohm Rune	1				100					2	r28,qty=1	gem2						r27																																																																																							0
-1 Ohm + 1 Key -> Vex Rune	1				100					2	r27,qty=1	gem2						r26																																																																																							0
-1 Vex + 1 Key -> Gul Rune	1				100					2	r26,qty=1	gem2						r25																																																																																							0
-1 Gul + 1 Key -> Ist Rune	1				100					2	r25,qty=1	gem2						r24																																																																																							0
-1 Ist + 1 Key -> Mal Rune	1				100					2	r24,qty=1	gem2						r23																																																																																							0
-1 Mal + 1 Key -> Um Rune	1				100					2	r23,qty=1	gem2						r22																																																																																							0
-1 Um + 1 Key -> Pul Rune	1				100					2	r22,qty=1	gem2						r21																																																																																							0
-1 Pul + 1 Key -> Lem Rune	1				100					2	r21,qty=1	gem2						r20																																																																																							0
-1 Lem + 1 Key -> Fal Rune	1				100					2	r20,qty=1	gem2						r19																																																																																							0
-1 Fal + 1 Key -> Ko Rune	1				100					2	r19,qty=1	gem2						r18																																																																																							0
-1 Ko + 1 Key -> Lum Rune	1				100					2	r18,qty=1	gem2						r17																																																																																							0
-1 Lum + 1 Key -> Io Rune	1				100					2	r17,qty=1	gem2						r16																																																																																							0
-1 Io + 1 Key -> Hel Rune	1				100					2	r16,qty=1	gem2						r15																																																																																							0
-1 Hel + 1 Key -> Dol  Rune	1				100					2	r15,qty=1	gem2						r14																																																																																							0
-1 Dol + 1 Key -> Shael Rune	1				100					2	r14,qty=1	gem2						r13																																																																																							0
-1 Shael + 1 Key -> Sol Rune	1				100					2	r13,qty=1	gem2						r12																																																																																							0
-1 Sol + 1 Key -> Amn Rune	1				100					2	r12,qty=1	gem2						r11																																																																																							0
-1 Amn + 1 Key -> Thul Rune	1				100					2	r11,qty=1	gem2						r10																																																																																							0
-1 Thul + 1 Key -> Ort Rune	1				100					2	r10,qty=1	gem2						r09																																																																																							0
-1 Ort + 1 Key -> Ral Rune	1				100					2	r09,qty=1	gem2						r08																																																																																							0
-1 Ral + 1 Key -> Tal Rune	1				100					2	r08,qty=1	gem2						r07																																																																																							0
-1 Tal + 1 Key -> Ith Rune	1				100					2	r07,qty=1	gem2						r06																																																																																							0
-1 Ith + 1 Key -> Eth Rune	1				100					2	r06,qty=1	gem2						r05																																																																																							0
-1 Eth + 1 Key -> Nef Rune	1				100					2	r05,qty=1	gem2						r04																																																																																							0
-1 Nef + 1 Key -> Tir Rune	1				100					2	r04,qty=1	gem2						r03																																																																																							0
-1 Tir + 1 Key -> Eld Rune	1				100					2	r03,qty=1	gem2						r02																																																																																							0
-1 Eld + 1 Key -> El Rune	1				100					2	r02,qty=1	gem2						r01																																																																																							0
-1 El + 1 Key -> Rejuv	1				100					2	r01,qty=1	gem2						rvl																																																																																							0
-1 Zod + 1 Key -> Cham Rune	1				100	18	70	1		2	133,qty=1	ggm2,qty=1						132																																																																																							0
-1 Cham + 1 Key -> Jah Rune	1				100	18	70	1		2	132,qty=1	ggm2,qty=1						131																																																																																							0
-1 Jah + 1 Key -> Ber Rune	1				100	18	70	1		2	131,qty=1	ggm2,qty=1						130																																																																																							0
-1 Ber + 1 Key -> Sur Rune	1				100	18	70	1		2	130,qty=1	ggm2,qty=1						129																																																																																							0
-1 Sur + 1 Key -> Lo  Rune	1				100	18	70	1		2	129,qty=1	ggm2,qty=1						128																																																																																							0
-1 Lo + 1 Key -> Ohm Rune	1				100	18	70	1		2	128,qty=1	ggm2,qty=1						127																																																																																							0
-1 Ohm + 1 Key -> Vex Rune	1				100	18	70	1		2	127,qty=1	ggm2,qty=1						126																																																																																							0
-1 Vex + 1 Key -> Gul Rune	1				100	18	70	1		2	126,qty=1	ggm2,qty=1						125																																																																																							0
-1 Gul + 1 Key -> Ist Rune	1				100	18	70	1		2	125,qty=1	ggm2,qty=1						124																																																																																							0
-1 Ist + 1 Key -> Mal Rune	1				100	18	70	1		2	124,qty=1	ggm2,qty=1						123																																																																																							0
-1 Mal + 1 Key -> Um Rune	1				100	18	70	1		2	123,qty=1	ggm2,qty=1						122																																																																																							0
-1 Um + 1 Key -> Pul Rune	1				100	18	70	1		2	122,qty=1	ggm2,qty=1						121																																																																																							0
-1 Pul + 1 Key -> Lem Rune	1				100	18	70	1		2	121,qty=1	ggm2,qty=1						120																																																																																							0
-1 Lem + 1 Key -> Fal Rune	1				100	18	70	1		2	120,qty=1	ggm2,qty=1						119																																																																																							0
-1 Fal + 1 Key -> Ko Rune	1				100	18	70	1		2	119,qty=1	ggm2,qty=1						118																																																																																							0
-1 Ko + 1 Key -> Lum Rune	1				100	18	70	1		2	118,qty=1	ggm2,qty=1						117																																																																																							0
-1 Lum + 1 Key -> Io Rune	1				100	18	70	1		2	117,qty=1	ggm2,qty=1						116																																																																																							0
-1 Io + 1 Key -> Hel Rune	1				100	18	70	1		2	116,qty=1	ggm2,qty=1						115																																																																																							0
-1 Hel + 1 Key -> Dol  Rune	1				100	18	70	1		2	115,qty=1	ggm2,qty=1						114																																																																																							0
-1 Dol + 1 Key -> Shael Rune	1				100	18	70	1		2	114,qty=1	ggm2,qty=1						113																																																																																							0
-1 Shael + 1 Key -> Sol Rune	1				100	18	70	1		2	113,qty=1	ggm2,qty=1						112																																																																																							0
-1 Sol + 1 Key -> Amn Rune	1				100	18	70	1		2	112,qty=1	ggm2,qty=1						111																																																																																							0
-1 Amn + 1 Key -> Thul Rune	1				100	18	70	1		2	111,qty=1	ggm2,qty=1						110																																																																																							0
-1 Thul + 1 Key -> Ort Rune	1				100	18	70	1		2	110,qty=1	ggm2,qty=1						109																																																																																							0
-1 Ort + 1 Key -> Ral Rune	1				100	18	70	1		2	109,qty=1	ggm2,qty=1						108																																																																																							0
-1 Ral + 1 Key -> Tal Rune	1				100	18	70	1		2	108,qty=1	ggm2,qty=1						107																																																																																							0
-1 Tal + 1 Key -> Ith Rune	1				100	18	70	1		2	107,qty=1	ggm2,qty=1						106																																																																																							0
-1 Ith + 1 Key -> Eth Rune	1				100	18	70	1		2	106,qty=1	ggm2,qty=1						105																																																																																							0
-1 Eth + 1 Key -> Nef Rune	1				100	18	70	1		2	105,qty=1	ggm2,qty=1						104																																																																																							0
-1 Nef + 1 Key -> Tir Rune	1				100	18	70	1		2	104,qty=1	ggm2,qty=1						103																																																																																							0
-1 Tir + 1 Key -> Eld Rune	1				100	18	70	1		2	103,qty=1	ggm2,qty=1						102																																																																																							0
-1 Eld + 1 Key -> El Rune	1				100	18	70	1		2	102,qty=1	ggm2,qty=1						101																																																																																							0
-1 El + 1 Key -> Rejuv	1				100	18	70	1		2	101,qty=1	ggm2,qty=1						rvl																																																																																							0
 1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Uber Keys	1				100					4	tes	ceh	bet	fed				pk1,qty=2																																																																																							0
 3 Twisted Essence of Suffering -> 1 Charged Essence of Hatred	1				100					3	tes,qty=3							ceh																																																																																							0
 3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1				100					3	ceh,qty=3							bet																																																																																							0
@@ -385,12 +411,7 @@ not used	0																																																																						
 3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1				100	18	70	100		2	tes	wms						ceh,qty=33																													std																																																										0
 3 Charged Essence of Hatred -> 1 Burning Essence of Terror	1				100	18	70	100		2	ceh	wms						bet,qty=33																													std																																																										0
 3 Burning Essence of Terror -> 1 Festering Essence of Destruction	1				100	18	70	100		2	bet	wms						fed,qty=33																													std																																																										0
-3 Key of Terror -> Key of Hate	0				100					3	pk1,qty=2	tsc						pk2																																																																																							0
-3 Key of Terror -> Key of Hate	0				100					3	pk1,qty=2	isc						pk3																																																																																							0
-3 Key of Hate -> Key of Destruction	0				100					3	pk2,qty=2	tsc						pk3																																																																																							0
-3 Key of Hate -> Key of Destruction	0				100					3	pk2,qty=2	isc						pk1																																																																																							0
-3 Key of Destruction -> Key of Terror	0				100					3	pk3,qty=2	tsc						pk1																																																																																							0
-3 Key of Destruction -> Key of Terror	0				100					3	pk3,qty=2	isc						pk2																																																																																							0
+																																																																																																									0
 1sv -> gsv	1				0	18	70	1		1	1sv							gsv																																																																																							0
 gsv -> 1sv	1				0					1	gsv							1sv																																																																																							0
 1sb -> gsb	1				0	18	70	1		1	1sb							gsb																																																																																							0
@@ -748,7 +769,6 @@ Block Bows	1				100					2	bow	fel						useitem																													fel		
 Weapon + Flask = Ethereal Weapon	1				100					2	weap,noe	fel						useitem	99		99	ethereal	100		1	1																																																																															0
 Armor + Flask = Ethereal Armor	1				100					2	armo,noe	fel						useitem	99		99	ethereal	100		1	1																																																																															0
 100 Standard of Heros + Thawing Potion = Flask of Etheric Light	1				100	18	70	100		2	std	wms						fel																																																																																							0
-																																																																																																									0
 100 Bricks = The Divine Standard	1				0	18	70	100		2	brk	wms						dsd																																																																																							0
 100 P Diamonds -> Diablo's Soulstone	1				0	18	70	100		2	gg4d	wms						dss																																																																																							0
 Reroll Charms	0				0					3	cm1,mag,qty=3							cm1,mag		95																																																																																					0
@@ -763,72 +783,21 @@ Break down Gheeds to MF potion	1				0					2	Gheed's Fortune	mls						mfp								
 100 P Sapphire to Jewel	1				0	18	70	100		2	gg4s	wms						jew,uni	99		99																																																																																				0
 100 P Emerald to Gheed	1				0	18	70	100		2	gg4e	wms						Gheed's Fortune	99		99																																																																																				0
 100 P Topaz to Vex	1				0	18	70	100		2	gg4t	wms						126																																																																																							0
-Generic F Amethyst	1				0	18	70	9		2	gxm4	gpv						1pv,qty=4																																																																																							0
-Generic F Diamond	1				0	18	70	9		2	gxm4	gpw						1pw,qty=4																																																																																							0
-Generic F Emerald	1				0	18	70	9		2	gxm4	gpg						1pg,qty=4																																																																																							0
-Generic F Ruby	1				0	18	70	9		2	gxm4	gpr						1pr,qty=4																																																																																							0
-Generic F Sapphire	1				0	18	70	9		2	gxm4	gpb						1pb,qty=4																																																																																							0
-Generic F Topaz	1				0	18	70	9		2	gxm4	gpy						1py,qty=4																																																																																							0
-Generic F Amethyst	1				0	18	70	100		2	gxm4	gpv						1pv,qty=34																																																																																							0
-Generic F Diamond	1				0	18	70	100		2	gxm4	gpw						1pw,qty=34																																																																																							0
-Generic F Emerald	1				0	18	70	100		2	gxm4	gpg						1pg,qty=34																																																																																							0
-Generic F Ruby	1				0	18	70	100		2	gxm4	gpr						1pr,qty=34																																																																																							0
-Generic F Sapphire	1				0	18	70	100		2	gxm4	gpb						1pb,qty=34																																																																																							0
-Generic F Topaz	1				0	18	70	100		2	gxm4	gpy						1py,qty=34																																																																																							0
-Generic F Amethyst	1				0	18	70	100		2	gg3a	wms						1pv,qty=33																													std																																																										0
-Generic F Diamond	1				0	18	70	100		2	gg3d	wms						1pw,qty=33																													std																																																										0
-Generic F Emerald	1				0	18	70	100		2	gg3e	wms						1pg,qty=33																													std																																																										0
-Generic F Ruby	1				0	18	70	100		2	gg3r	wms						1pr,qty=33																													std																																																										0
-Generic F Sapphire	1				0	18	70	100		2	gg3s	wms						1pb,qty=33																													std																																																										0
-Generic F Topaz	1				0	18	70	100		2	gg3t	wms						1py,qty=33																													std																																																										0
-Generic F Skull	1				0	18	70	100		2	gg3z	wms						1kz,qty=33																													std																																																										0
 9 Pskulls + 3 Hellfire Ash + Larzuk's Forging Hammer + Unique Jewel = Random Unique Jewel	1				100					14	1kz,qty=9	lmr	jew,uni	tds,qty=3				jew,uni	99		99																																																																																				0
-r1	1				0	18	70	100		2	101	wms						102,qty=33																													std																																																										0
-r2	1				0	18	70	100		2	102	wms						103,qty=33																													std																																																										0
-r3	1				0	18	70	100		2	103	wms						104,qty=33																													std																																																										0
-r4	1				0	18	70	100		2	104	wms						105,qty=33																													std																																																										0
-r5	1				0	18	70	100		2	105	wms						106,qty=33																													std																																																										0
-r6	1				0	18	70	100		2	106	wms						107,qty=33																													std																																																										0
-r7	1				0	18	70	100		2	107	wms						108,qty=33																													std																																																										0
-r8	1				0	18	70	100		2	108	wms						109,qty=33																													std																																																										0
-r9	1				0	18	70	100		2	109	wms						110,qty=33																													std																																																										0
-r10	1				0	18	70	100		2	110	wms						111,qty=33																													std																																																										0
-r11	1				0	18	70	100		2	111	wms						112,qty=33																													std																																																										0
-r12	1				0	18	70	100		2	112	wms						113,qty=33																													std																																																										0
-r13	1				0	18	70	100		2	113	wms						114,qty=33																													std																																																										0
-r14	1				0	18	70	100		2	114	wms						115,qty=33																													std																																																										0
-r15	1				0	18	70	100		2	115	wms						116,qty=33																													std																																																										0
-r16	1				0	18	70	100		2	116	wms						117,qty=33																													std																																																										0
-r17	1				0	18	70	100		2	117	wms						118,qty=33																													std																																																										0
-r18	1				0	18	70	100		2	118	wms						119,qty=33																													std																																																										0
-r19	1				0	18	70	100		2	119	wms						120,qty=33																													std																																																										0
-r20	1				0	18	70	100		2	120	wms						121,qty=33																													std																																																										0
-r21	1				0	18	70	100		2	121	wms						122,qty=50																													std																																																										0
-r22	1				0	18	70	100		2	122	wms						123,qty=50																													std																																																										0
-r23	1				0	18	70	100		2	123	wms						124,qty=50																													std																																																										0
-r24	1				0	18	70	100		2	124	wms						125,qty=50																													std																																																										0
-r25	1				0	18	70	100		2	125	wms						126,qty=50																													std																																																										0
-r26	1				0	18	70	100		2	126	wms						127,qty=50																													std																																																										0
-r27	1				0	18	70	100		2	127	wms						128,qty=50																													std																																																										0
-r28	1				0	18	70	100		2	128	wms						129,qty=50																													std																																																										0
-r29	1				0	18	70	100		2	129	wms						130,qty=50																													std																																																										0
-r30	1				0	18	70	100		2	130	wms						131,qty=50																													std																																																										0
-r31	1				0	18	70	100		2	131	wms						132,qty=50																													std																																																										0
-r32	1				0	18	70	100		2	132	wms						133,qty=50																													std																																																										0
 Spleen + Jawbone + Quill + Elixir = Magic Find Potion	0				0					4	spe	jaw	qll	elx				mfp																																																																																							0
 Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod TEST	0				0					2	key	hsm						useitem				rep-quant		40																																																																																	0
 TP Book + Spiritual Herb = TP Book that Replenishes	1				0					2	tbk	hsm						useitem				rep-quant		40																																																																																	0
 ID Book + Spiritual Herb = ID Book that Replenishes	1				0					2	ibk	hsm						useitem				rep-quant		40																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	tkni	std	hsm					useitem				rep-quant		40																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	taxe	std	hsm					useitem				rep-quant		40																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	jave	std	hsm					useitem				rep-quant		40																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	any,mag	std	hsm					useitem				rep-dur		25																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	any,rar	std	hsm					useitem				rep-dur		25																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	armo,set	std	hsm					useitem				rep-dur		25																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	weap,set	std	hsm					useitem				rep-dur		25																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	armo,uni	std	hsm					useitem				rep-dur		25																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	weap,uni	std	hsm					useitem				rep-dur		25																																																																																	0
-Magic Find Potion + Hellfire Ashes + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	any,crf	std	hsm					useitem				rep-dur		25																																																																																	0
+x + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	tkni	std	hsm					useitem				rep-quant		40																																																																																	0
+x + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	taxe	std	hsm					useitem				rep-quant		40																																																																																	0
+x + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	jave	std	hsm					useitem				rep-quant		40																																																																																	0
+x + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	any,mag	std	hsm					useitem				rep-dur		25																																																																																	0
+x + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	any,rar	std	hsm					useitem				rep-dur		25																																																																																	0
+x + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	armo,set	std	hsm					useitem				rep-dur		25																																																																																	0
+x + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	weap,set	std	hsm					useitem				rep-dur		25																																																																																	0
+x + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	armo,uni	std	hsm					useitem				rep-dur		25																																																																																	0
+x + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	weap,uni	std	hsm					useitem				rep-dur		25																																																																																	0
+x + SOH + Hratli's Herb = Transmute with Repair Mod	1				0					3	any,crf	std	hsm					useitem				rep-dur		25																																																																																	0
 2 Unique Jewerly = SOH	1				0					3	jwly,uni,qty=2	wms						std																																																																																							0
 CHAM AUGMENT																																																																																																									0
 MF + GF	1				0					6	helm	132	124	120	std	mls		useitem				augmented1			1	1	mag%			50	50	gold%			100	100	addxp			2	2																																																																0
@@ -851,7 +820,6 @@ Melee Aug	1				0					5	boot	125	119	std	mls			useitem				augmented1			1	1	att			
 Melee Aug	1				0					5	tors	125	119	std	mls			useitem				augmented1			1	1	att			200	200	att%			10	10																																																																					0
 Melee Aug	1				0					5	belt	125	119	std	mls			useitem				augmented1			1	1	att			200	200	att%			10	10																																																																					0
 ZOD RECIPE																																																																																																									0
-																																																																																																									0
 Teleport + MF + GF	1				0					6	tors	133	129	The Stone of Jordan	std	mls		useitem				oskill		54	1	1	augmented1			1	1	mag%/lvl		3			gold%/lvl		6			addxp			2	2																																																											0
 	0																																																																																																								0
 MAGIC CORRUPTIONS	0																																																																																																								0
