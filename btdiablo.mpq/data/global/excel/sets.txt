@@ -26,7 +26,7 @@ M'avina's Battle Hymn	M'avina's Battle Hymn	100	str		20	20					dex		30	30					ma
 The Disciple	The Disciple	100	mana		150	150					extra-pois		30	30					str/lvl		8	8	dex/lvl		8	8									res-all		50	50	allskills		2	2	hp		100	100	addxp		15	15	mag%	0	125	125													0
 Heaven's Brethren	Heaven's Brethren	100	lifesteal		10	10					regen		30	30	dmg-fire/lvl	24																			res-all		50	50	allskills		2	2	nofreeze		1	1	light		5	5	red-dmg%		24	24	att%		10	10	addxp		15	15	mag%	0	125	125	0
 Orphan's Call	Orphan's Call	100	hp		100	100					hp%		5	5					ac		100	100													addxp		15	15	dex		10	10	str		20	20	ac		100	100	res-all		20	20	mag%	0	125	125									0
-Hwanin's Majesty	Hwanin's Majesty	100	lifesteal		10	10					lifesteal		10	10	red-dmg%		5	5																	allskills		2	2	hp		100	100	move3		30	30	res-all		30	30	addxp		15	15	aura	Holy Shock	10	10									0
+Hwanin's Majesty	Hwanin's Majesty	100	lifesteal		10	10					lifesteal		10	10	red-dmg%		5	5																	allskills		2	2	hp		100	100	move3		30	30	res-all		30	30	addxp		15	15	aura												0
 Sazabi's Grand Tribute	Sazabi's Grand Tribute	100	move3		40	40	res-pois-len		200	200																									res-all		30	30	lifesteal		15	15	hp%		27	27	allskills		2	2	red-dmg%		20	20	addxp		15	15	mag%		125	125					0
 Bul-Kathos' Children	Bul-Kathos' Children	100																																	dmg		100	100	allskills		4	4	red-dmg%		20	20	dmg%		300	300	mag%		100	100	state	fullsetgeneric	1	1									0
 Cow King's Leathers	Cow King's Leathers	100	extra-ltng		50	50	ac/lvl		40	40																									res-all		45	45	gold%		100	100	mag%		125	125	addxp		5	5	swing3		30	30	hp		100	100	allskills		3	3					0
