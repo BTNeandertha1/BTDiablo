@@ -1198,3 +1198,4 @@ Rift Drops BaseHG			-2						Rift Drops Monsters	1	Rift Drops RunesHG	1										
 Rift Drops Base			-2						Rift Drops Monsters	1	Rift Drops Runes	1																							0
 Rift Uniques Desecrated			-5					0	rvl	2	Rift Des Unique	1	Rift Drops Special	1																					0
 Rift Champs Desecrated			-6					0	gld,mul=1024	4	Rift Des Champion	1	Rift Drops Special	1																					0
+Barons			-1	1000				0	Static Accumulator	1																									0

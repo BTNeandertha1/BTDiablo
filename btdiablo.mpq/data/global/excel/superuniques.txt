@@ -66,6 +66,6 @@ Baal Subject 2	Baal Subject 2	bonefetish5	62		6	30	0	5	5	0	1		21	21	21	Act 5 Cha
 Baal Subject 3	Baal Subject 3	venomlord	63		6	30	0	6	6	0	1		36	36	36	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Super Cx	Act 5 (H) Champ C Desecrated	0
 Baal Subject 4	Baal Subject 4	bloodlord5	64		6	30	0	7	7	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Super Cx	Act 5 (H) Champ C Desecrated	0
 Baal Subject 5	Baal Subject 5	baalminion1	65		6	30	0	7	7	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Super Cx	Act 5 (H) Champ C Desecrated	0
-Baron	Baron	baron	66		17	6	18	0	0	0	1		11	11	11	Act 2 Super A		Act 2 (N) Super A		Act 5 (H) Super Cx		0
+Baron	Baron	baron	66		17	6	18	0	0	0	1		11	11	11	Barons		Act 5 (N) Champ C		Act 5 (H) Super Cx		0
 BTDiablo	BTDiablo	btdiablo	67		29	5	17	0	0	0	1		0	0	0	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super Cx		0
 Kexicon	Kexicon	kexicon	68		26	27	29	2	2	0	1		29	29	29	Act 3 Super B		Act 3 (N) Super B		Act 5 (H) Super Cx		0
