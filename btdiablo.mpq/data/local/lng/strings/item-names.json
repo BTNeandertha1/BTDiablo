@@ -16881,7 +16881,7 @@
     "zhCN": "灵魂"
   },
   {
-        "id": 20679,
+    "id": 20679,
     "Key": "qll",
     "enUS": "Quill",
     "zhTW": "Quill",
@@ -26569,40 +26569,40 @@
     "ptBR": "Cubo sozinho para itens especiais",
     "ruRU": "Куб один для специальной добычи",
     "zhCN": "单独用于特殊战利品的立方体"
-    },
-    {
-      "id": 61028,
-      "Key": "DiabloDesc",
-      "enUS": "Sell to a vendor to anger the ÿc1Lord of Terror",
-      "zhTW": "出售给供应商，以激怒恐怖的恐怖",
-      "deDE": "Verkaufen an einen Anbieter, um den Ÿc1lord des Terrors zu verärgern",
-      "esES": "Vender a un vendedor para enojar al ÿc1lord de terror",
-      "frFR": "Vendre à un vendeur pour colère le ÿc1lord de la terreur",
-      "itIT": "Vendi a un venditore per far arrabbiare il ÿc1lord of terror",
-      "koKR": "vendor에게 판매하여 테러의 ÿc1lord를 화나게합니다.",
-      "plPL": "Sprzedać dostawcy, aby gniewić ÿc1 -lord terroru",
-      "esMX": "Vender a un vendedor para enojar al ÿc1lord de terror",
-      "jaJP": "ベンダーに販売して、恐怖のc1lordを怒らせる",
-      "ptBR": "Vender para um fornecedor para raiva do ÿc1lord de terror",
-      "ruRU": "Продать продавцу, чтобы разозлить ÿc1lord террора",
-      "zhCN": "出售给供应商，以激怒恐怖的恐怖"
-    },
-    {
-      "id": 61029,
-      "Key": "dss",
-      "enUS": "ÿc7Diablo's Soulstone",
-      "zhTW": "ÿc7暗黑破坏神的灵魂石",
-      "deDE": "ÿc7Diablos Soulstone",
-      "esES": "ÿc7Soulstone de Diablo",
-      "frFR": "ÿc7Diablo's Soulstone",
-      "itIT": "ÿc7Soulstone di Diablo",
-      "koKR": "ÿc7디아블로의 소울 스톤",
-      "plPL": "ÿc7Soulstone Diablo",
-      "esMX": "ÿc7Soulstone de Diablo",
-      "jaJP": "ÿc7ディアブロのソウルストーン",
-      "ptBR": "ÿc7Peda de alma de Diablo",
-      "ruRU": "ÿc7Diablo's Soulstone",
-      "zhCN": "ÿc7暗黑破坏神的灵魂石"
+  },
+  {
+    "id": 61028,
+    "Key": "DiabloDesc",
+    "enUS": "Sell to a vendor to anger the ÿc1Lord of Terror",
+    "zhTW": "出售给供应商，以激怒恐怖的恐怖",
+    "deDE": "Verkaufen an einen Anbieter, um den Ÿc1lord des Terrors zu verärgern",
+    "esES": "Vender a un vendedor para enojar al ÿc1lord de terror",
+    "frFR": "Vendre à un vendeur pour colère le ÿc1lord de la terreur",
+    "itIT": "Vendi a un venditore per far arrabbiare il ÿc1lord of terror",
+    "koKR": "vendor에게 판매하여 테러의 ÿc1lord를 화나게합니다.",
+    "plPL": "Sprzedać dostawcy, aby gniewić ÿc1 -lord terroru",
+    "esMX": "Vender a un vendedor para enojar al ÿc1lord de terror",
+    "jaJP": "ベンダーに販売して、恐怖のc1lordを怒らせる",
+    "ptBR": "Vender para um fornecedor para raiva do ÿc1lord de terror",
+    "ruRU": "Продать продавцу, чтобы разозлить ÿc1lord террора",
+    "zhCN": "出售给供应商，以激怒恐怖的恐怖"
+  },
+  {
+    "id": 61029,
+    "Key": "dss",
+    "enUS": "ÿc7Diablo's Soulstone",
+    "zhTW": "ÿc7暗黑破坏神的灵魂石",
+    "deDE": "ÿc7Diablos Soulstone",
+    "esES": "ÿc7Soulstone de Diablo",
+    "frFR": "ÿc7Diablo's Soulstone",
+    "itIT": "ÿc7Soulstone di Diablo",
+    "koKR": "ÿc7디아블로의 소울 스톤",
+    "plPL": "ÿc7Soulstone Diablo",
+    "esMX": "ÿc7Soulstone de Diablo",
+    "jaJP": "ÿc7ディアブロのソウルストーン",
+    "ptBR": "ÿc7Peda de alma de Diablo",
+    "ruRU": "ÿc7Diablo's Soulstone",
+    "zhCN": "ÿc7暗黑破坏神的灵魂石"
   },
   {
     "id": 61030,
@@ -27146,7 +27146,7 @@
     "jaJP": "Unsullied's Glory",
     "ptBR": "Unsullied's Glory",
     "ruRU": "Unsullied's Glory",
-    "zhCN": "Unsullied's Glory"	
+    "zhCN": "Unsullied's Glory"
   },
   {
     "id": 72001,
@@ -27163,7 +27163,7 @@
     "jaJP": "Unsullied's Legacy",
     "ptBR": "Unsullied's Legacy",
     "ruRU": "Unsullied's Legacy",
-    "zhCN": "Unsullied's Legacy"	
+    "zhCN": "Unsullied's Legacy"
   },
   {
     "id": 72002,
@@ -27541,7 +27541,7 @@
   },
   {
     "id": 72024,
-   "Key": "Corrupted Azurewrath",
+    "Key": "Corrupted Azurewrath",
     "enUS": "Corrupted Azurewrath",
     "zhTW": "Corrupted Azurewrath",
     "deDE": "Corrupted Azurewrath",
@@ -27623,7 +27623,7 @@
     "ptBR": "Jym's Swift Journey",
     "ruRU": "Jym's Swift Journey",
     "zhCN": "Jym's Swift Journey"
- },
+  },
   {
     "id": 72029,
     "Key": "Thunderlords Overcharge",
@@ -27640,5 +27640,22 @@
     "ptBR": "Thunderlords Overcharge",
     "ruRU": "Thunderlords Overcharge",
     "zhCN": "Thunderlords Overcharge"
+  },
+  {
+    "id": 72030,
+    "Key": "Static Accumulator",
+    "enUS": "Static Accumulator",
+    "zhTW": "Static Accumulator",
+    "deDE": "Static Accumulator",
+    "esES": "Static Accumulator",
+    "frFR": "Static Accumulator",
+    "itIT": "Static Accumulator",
+    "koKR": "Static Accumulator",
+    "plPL": "Static Accumulator",
+    "esMX": "Static Accumulator",
+    "jaJP": "Static Accumulator",
+    "ptBR": "Static Accumulator",
+    "ruRU": "Static Accumulator",
+    "zhCN": "Static Accumulator"
   }
 ]
