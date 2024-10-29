@@ -429,96 +429,96 @@ Astral	100	1	1	35		26				1	123	att-demon		151	200	dmg-demon		101	150						weap		
 Elysian	100	1	1	45		33				1	123	att-demon		201	300	dmg-demon		151	200					dgld	weap							wand	orb				0	0
 Celestial	100	1		55		41				1	123	att-demon		301	400	dmg-demon		201	300					dgld	weap							wand	orb				0	0
 Diamond	100	1	1	26		19				1	123	att-demon		25	50	dmg-demon		25	40						jewl												0	0
-Fletcher's	100			50		42	ama			1	125	skilltab	0	1	1										lcha												0	0
-Acrobat's	100			50		42	ama			1	125	skilltab	1	1	1										lcha												0	0
-Harpoonist's	100			50		42	ama			1	125	skilltab	2	1	1										lcha												0	0
-Fletcher's	100		1	20		15	ama			1	125	skilltab	0	1	1										miss	glov	amul	circ									0	0
-Bowyer's	100		1	40		30	ama			1	125	skilltab	0	2	2									lgld	miss	glov	amul	circ									0	0
-Archer's	100			60		45	ama			1	125	skilltab	0	3	3									lgld	miss	glov	amul	circ									0	0
-Acrobat's	100		1	20		15	ama			1	125	skilltab	1	1	1										glov	amul	circ										0	0
-Gymnast's	100		1	40		30	ama			1	125	skilltab	1	2	2									lgld	glov	amul	circ										0	0
-Athlete's	100			60		45	ama			1	125	skilltab	1	3	3									lgld	glov	amul	circ										0	0
-Harpoonist's	100		1	20		15	ama			1	125	skilltab	2	1	1										spea	glov	amul	circ									0	0
-Spearmaiden's	100		1	40		30	ama			1	125	skilltab	2	2	2									lgld	spea	glov	amul	circ									0	0
-Lancer's	100			60		45	ama			1	125	skilltab	2	3	3									lgld	spea	glov	amul	circ									0	0
-Burning	100		1	50		42	sor			1	125	skilltab	3	1	1										lcha												0	0
-Sparking	100		1	50		42	sor			1	125	skilltab	4	1	1										lcha												0	0
-Chilling	100		1	50		42	sor			1	125	skilltab	5	1	1										lcha												0	0
-Burning	100		1	20		15	sor			1	125	skilltab	3	1	1										staff	orb	amul	circ	glov								0	0
-Blazing	100		1	40		30	sor			1	125	skilltab	3	2	2									lgld	staff	orb	amul	circ	glov								0	0
-Volcanic	100			60		45	sor			1	125	skilltab	3	3	3									lgld	staff	orb	amul	circ	glov								0	0
-Sparking	100		1	20		15	sor			1	125	skilltab	4	1	1										staff	orb	amul	circ	glov								0	0
-Charged	100		1	40		30	sor			1	125	skilltab	4	2	2									lgld	staff	orb	amul	circ	glov								0	0
-Powered	100			60		45	sor			1	125	skilltab	4	3	3									lgld	staff	orb	amul	circ	glov								0	0
-Chilling	100		1	20		15	sor			1	125	skilltab	5	1	1										staff	orb	amul	circ	glov								0	0
-Freezing	100		1	40		30	sor			1	125	skilltab	5	2	2									lgld	staff	orb	amul	circ	glov								0	0
-Glacial	100			60		45	sor			1	125	skilltab	5	3	3									lgld	staff	orb	amul	circ	glov								0	0
-Hexing	100		1	50		42	nec			1	125	skilltab	6	1	1										lcha												0	0
-Fungal	100		1	50		42	nec			1	125	skilltab	7	1	1										lcha												0	0
-Graverobber's	100		1	50		42	nec			1	125	skilltab	8	1	1										lcha												0	0
-Hexing	100		1	20		15	nec			1	125	skilltab	6	1	1										wand	head	amul	circ	glov								0	0
-Blighting	100		1	40		30	nec			1	125	skilltab	6	2	2									lgld	wand	head	amul	circ	glov								0	0
-Accursed	100			60		45	nec			1	125	skilltab	6	3	3									lgld	wand	head	amul	circ	glov								0	0
-Fungal	100		1	20		15	nec			1	125	skilltab	7	1	1										wand	head	amul	knif	circ	glov		tkni					0	0
-Noxious	100		1	40		30	nec			1	125	skilltab	7	2	2									lgld	wand	head	amul	knif	circ	glov		tkni					0	0
-Venomous	100			60		45	nec			1	125	skilltab	7	3	3									lgld	wand	head	amul	knif	circ	glov		tkni					0	0
-Graverobber's	100		1	20		15	nec			1	125	skilltab	8	1	1										wand	head	amul	circ	glov								0	0
-Vodoun	100		1	40		30	nec			1	125	skilltab	8	2	2									lgld	wand	head	amul	circ	glov								0	0
-Golemlord's	100			60		45	nec			1	125	skilltab	8	3	3									lgld	wand	head	amul	circ	glov								0	0
-Lion Branded	100		1	50		42	pal			1	125	skilltab	9	1	1										lcha												0	0
-Captain's	100		1	50		42	pal			1	125	skilltab	10	1	1										lcha												0	0
-Preserver's	100		1	50		42	pal			1	125	skilltab	11	1	1										lcha												0	0
-Lion Branded	100		1	20		15	pal			1	125	skilltab	9	1	1										scep	swor	mace	shld	ashd	amul	circ	glov					0	0
-Hawk Branded	100		1	40		30	pal			1	125	skilltab	9	2	2									lgld	scep	swor	mace	shld	ashd	amul	circ	glov					0	0
-Rose Branded	100			60		45	pal			1	125	skilltab	9	3	3									lgld	scep	swor	mace	shld	ashd	amul	circ	glov					0	0
-Captain's	100		1	20		15	pal			1	125	skilltab	10	1	1										scep	swor	mace	shld	ashd	amul	circ	glov					0	0
-Commander's	100		1	40		30	pal			1	125	skilltab	10	2	2									lgld	scep	swor	mace	shld	ashd	amul	circ	glov					0	0
-Marshal's	100			60		45	pal			1	125	skilltab	10	3	3									lgld	scep	swor	mace	shld	ashd	amul	circ	glov					0	0
-Preserver's	100		1	20		15	pal			1	125	skilltab	11	1	1										shld	ashd	amul	circ	glov								0	0
-Warder's	100		1	40		30	pal			1	125	skilltab	11	2	2									lgld	shld	ashd	amul	circ	glov								0	0
-Guardian's	100			60		45	pal			1	125	skilltab	11	3	3									lgld	shld	ashd	amul	circ	glov								0	0
-Expert's	100		1	50		42	bar			1	125	skilltab	12	1	1										lcha												0	0
-Fanatic	100		1	50		42	bar			1	125	skilltab	13	1	1										lcha												0	0
-Sounding	100		1	50		42	bar			1	125	skilltab	14	1	1										lcha												0	0
-Expert's	100		1	20		15	bar			1	125	skilltab	12	1	1										phlm	weap	helm	glov				miss	rod				0	0
-Veteran's	100		1	40		30	bar			1	125	skilltab	12	2	2									lgld	phlm	weap	helm	glov				miss	rod				0	0
-Master's	100			60		45	bar			1	125	skilltab	12	3	3									lgld	phlm	weap	helm	glov				miss	rod				0	0
-Fanatic	100		1	20		15	bar			1	125	skilltab	13	1	1										phlm	weap	amul	glov				miss	rod				0	0
-Raging	100		1	40		30	bar			1	125	skilltab	13	2	2									lgld	phlm	weap	amul	glov				miss	rod				0	0
-Furious	100			60		45	bar			1	125	skilltab	13	3	3									lgld	phlm	weap	amul	glov				miss	rod				0	0
-Sounding	100		1	20		15	bar			1	125	skilltab	14	1	1										phlm	weap	amul	glov				miss	rod				0	0
-Resonant	100		1	40		30	bar			1	125	skilltab	14	2	2									lgld	phlm	weap	amul	glov				miss	rod				0	0
-Echoing	100			60		45	bar			1	125	skilltab	14	3	3									lgld	phlm	weap	amul	glov				miss	rod				0	0
-Trainer's	100		1	50		42	dru			1	125	skilltab	15	1	1										lcha												0	0
-Spiritual	100		1	50		42	dru			1	125	skilltab	16	1	1										lcha												0	0
-Nature's	100		1	50		42	dru			1	125	skilltab	17	1	1										lcha												0	0
-Trainer's	100		1	20		15	dru			1	125	skilltab	15	1	1										club	pelt	amul	circ	glov								0	0
-Caretaker's	100		1	40		30	dru			1	125	skilltab	15	2	2									lgld	club	pelt	amul	circ	glov								0	0
-Keeper's	100			60		45	dru			1	125	skilltab	15	3	3									lgld	club	pelt	amul	circ	glov								0	0
-Spiritual	100		1	20		15	dru			1	125	skilltab	16	1	1										club	pelt	amul	circ	glov								0	0
-Feral	100		1	40		30	dru			1	125	skilltab	16	2	2									lgld	club	pelt	amul	circ	glov								0	0
-Communal	100			60		45	dru			1	125	skilltab	16	3	3									lgld	club	pelt	amul	circ	glov								0	0
-Nature's	100		1	20		15	dru			1	125	skilltab	17	1	1										club	pelt	amul	circ	glov								0	0
-Terra's	100		1	40		30	dru			1	125	skilltab	17	2	2									lgld	club	pelt	amul	circ	glov								0	0
-Gaea's	100			60		45	dru			1	125	skilltab	17	3	3									lgld	club	pelt	amul	circ	glov								0	0
-Entrapping	100		1	50		42	ass			1	125	skilltab	18	1	1										lcha												0	0
-Mentalist's	100		1	50		42	ass			1	125	skilltab	19	1	1										lcha												0	0
-Shogukusha's	100		1	50		42	ass			1	125	skilltab	20	1	1										lcha												0	0
-Entrapping	100		1	20		15	ass			1	125	skilltab	18	1	1										h2h	amul	circ	glov									0	0
-Trickster's	100		1	40		30	ass			1	125	skilltab	18	2	2									lgld	h2h	amul	circ	glov									0	0
-Cunning	100			60		45	ass			1	125	skilltab	18	3	3									lgld	h2h	amul	circ	glov									0	0
-Mentalist's	100		1	20		15	ass			1	125	skilltab	19	1	1										h2h	amul	helm	circ	glov								0	0
-Psychic	100		1	40		30	ass			1	125	skilltab	19	2	2									lgld	h2h	amul	helm	circ	glov								0	0
-Shadow	100			60		45	ass			1	125	skilltab	19	3	3									lgld	h2h	amul	helm	circ	glov								0	0
-Shogukusha's	100		1	20		15	ass			1	125	skilltab	20	1	1										h2h	amul	glov	circ									0	0
-Sensei's	100		1	40		30	ass			1	125	skilltab	20	2	2									lgld	h2h	amul	glov	circ									0	0
-Kenshi's	100			60		45	ass			1	125	skilltab	20	3	3									lgld	h2h	amul	glov	circ									0	0
+Fletcher's	100	1		50		42	ama			1	125	skilltab	0	1	1										lcha												0	0
+Acrobat's	100	1		50		42	ama			1	125	skilltab	1	1	1										lcha												0	0
+Harpoonist's	100	1		50		42	ama			1	125	skilltab	2	1	1										lcha												0	0
+Fletcher's	100	1	1	20		15	ama			1	125	skilltab	0	1	1										miss	glov	amul	circ									0	0
+Bowyer's	100	1	1	40		30	ama			1	125	skilltab	0	2	2									lgld	miss	glov	amul	circ									0	0
+Archer's	100	1		60		45	ama			1	125	skilltab	0	3	3									lgld	miss	glov	amul	circ									0	0
+Acrobat's	100	1	1	20		15	ama			1	125	skilltab	1	1	1										glov	amul	circ										0	0
+Gymnast's	100	1	1	40		30	ama			1	125	skilltab	1	2	2									lgld	glov	amul	circ										0	0
+Athlete's	100	1		60		45	ama			1	125	skilltab	1	3	3									lgld	glov	amul	circ										0	0
+Harpoonist's	100	1	1	20		15	ama			1	125	skilltab	2	1	1										spea	glov	amul	circ									0	0
+Spearmaiden's	100	1	1	40		30	ama			1	125	skilltab	2	2	2									lgld	spea	glov	amul	circ									0	0
+Lancer's	100	1		60		45	ama			1	125	skilltab	2	3	3									lgld	spea	glov	amul	circ									0	0
+Burning	100	1	1	50		42	sor			1	125	skilltab	3	1	1										lcha												0	0
+Sparking	100	1	1	50		42	sor			1	125	skilltab	4	1	1										lcha												0	0
+Chilling	100	1	1	50		42	sor			1	125	skilltab	5	1	1										lcha												0	0
+Burning	100	1	1	20		15	sor			1	125	skilltab	3	1	1										staff	orb	amul	circ	glov								0	0
+Blazing	100	1	1	40		30	sor			1	125	skilltab	3	2	2									lgld	staff	orb	amul	circ	glov								0	0
+Volcanic	100	1		60		45	sor			1	125	skilltab	3	3	3									lgld	staff	orb	amul	circ	glov								0	0
+Sparking	100	1	1	20		15	sor			1	125	skilltab	4	1	1										staff	orb	amul	circ	glov								0	0
+Charged	100	1	1	40		30	sor			1	125	skilltab	4	2	2									lgld	staff	orb	amul	circ	glov								0	0
+Powered	100	1		60		45	sor			1	125	skilltab	4	3	3									lgld	staff	orb	amul	circ	glov								0	0
+Chilling	100	1	1	20		15	sor			1	125	skilltab	5	1	1										staff	orb	amul	circ	glov								0	0
+Freezing	100	1	1	40		30	sor			1	125	skilltab	5	2	2									lgld	staff	orb	amul	circ	glov								0	0
+Glacial	100	1		60		45	sor			1	125	skilltab	5	3	3									lgld	staff	orb	amul	circ	glov								0	0
+Hexing	100	1	1	50		42	nec			1	125	skilltab	6	1	1										lcha												0	0
+Fungal	100	1	1	50		42	nec			1	125	skilltab	7	1	1										lcha												0	0
+Graverobber's	100	1	1	50		42	nec			1	125	skilltab	8	1	1										lcha												0	0
+Hexing	100	1	1	20		15	nec			1	125	skilltab	6	1	1										wand	head	amul	circ	glov								0	0
+Blighting	100	1	1	40		30	nec			1	125	skilltab	6	2	2									lgld	wand	head	amul	circ	glov								0	0
+Accursed	100	1		60		45	nec			1	125	skilltab	6	3	3									lgld	wand	head	amul	circ	glov								0	0
+Fungal	100	1	1	20		15	nec			1	125	skilltab	7	1	1										wand	head	amul	knif	circ	glov		tkni					0	0
+Noxious	100	1	1	40		30	nec			1	125	skilltab	7	2	2									lgld	wand	head	amul	knif	circ	glov		tkni					0	0
+Venomous	100	1		60		45	nec			1	125	skilltab	7	3	3									lgld	wand	head	amul	knif	circ	glov		tkni					0	0
+Graverobber's	100	1	1	20		15	nec			1	125	skilltab	8	1	1										wand	head	amul	circ	glov								0	0
+Vodoun	100	1	1	40		30	nec			1	125	skilltab	8	2	2									lgld	wand	head	amul	circ	glov								0	0
+Golemlord's	100	1		60		45	nec			1	125	skilltab	8	3	3									lgld	wand	head	amul	circ	glov								0	0
+Lion Branded	100	1	1	50		42	pal			1	125	skilltab	9	1	1										lcha												0	0
+Captain's	100	1	1	50		42	pal			1	125	skilltab	10	1	1										lcha												0	0
+Preserver's	100	1	1	50		42	pal			1	125	skilltab	11	1	1										lcha												0	0
+Lion Branded	100	1	1	20		15	pal			1	125	skilltab	9	1	1										scep	swor	mace	shld	ashd	amul	circ	glov					0	0
+Hawk Branded	100	1	1	40		30	pal			1	125	skilltab	9	2	2									lgld	scep	swor	mace	shld	ashd	amul	circ	glov					0	0
+Rose Branded	100	1		60		45	pal			1	125	skilltab	9	3	3									lgld	scep	swor	mace	shld	ashd	amul	circ	glov					0	0
+Captain's	100	1	1	20		15	pal			1	125	skilltab	10	1	1										scep	swor	mace	shld	ashd	amul	circ	glov					0	0
+Commander's	100	1	1	40		30	pal			1	125	skilltab	10	2	2									lgld	scep	swor	mace	shld	ashd	amul	circ	glov					0	0
+Marshal's	100	1		60		45	pal			1	125	skilltab	10	3	3									lgld	scep	swor	mace	shld	ashd	amul	circ	glov					0	0
+Preserver's	100	1	1	20		15	pal			1	125	skilltab	11	1	1										shld	ashd	amul	circ	glov								0	0
+Warder's	100	1	1	40		30	pal			1	125	skilltab	11	2	2									lgld	shld	ashd	amul	circ	glov								0	0
+Guardian's	100	1		60		45	pal			1	125	skilltab	11	3	3									lgld	shld	ashd	amul	circ	glov								0	0
+Expert's	100	1	1	50		42	bar			1	125	skilltab	12	1	1										lcha												0	0
+Fanatic	100	1	1	50		42	bar			1	125	skilltab	13	1	1										lcha												0	0
+Sounding	100	1	1	50		42	bar			1	125	skilltab	14	1	1										lcha												0	0
+Expert's	100	1	1	20		15	bar			1	125	skilltab	12	1	1										phlm	weap	helm	glov				miss	rod				0	0
+Veteran's	100	1	1	40		30	bar			1	125	skilltab	12	2	2									lgld	phlm	weap	helm	glov				miss	rod				0	0
+Master's	100	1		60		45	bar			1	125	skilltab	12	3	3									lgld	phlm	weap	helm	glov				miss	rod				0	0
+Fanatic	100	1	1	20		15	bar			1	125	skilltab	13	1	1										phlm	weap	amul	glov				miss	rod				0	0
+Raging	100	1	1	40		30	bar			1	125	skilltab	13	2	2									lgld	phlm	weap	amul	glov				miss	rod				0	0
+Furious	100	1		60		45	bar			1	125	skilltab	13	3	3									lgld	phlm	weap	amul	glov				miss	rod				0	0
+Sounding	100	1	1	20		15	bar			1	125	skilltab	14	1	1										phlm	weap	amul	glov				miss	rod				0	0
+Resonant	100	1	1	40		30	bar			1	125	skilltab	14	2	2									lgld	phlm	weap	amul	glov				miss	rod				0	0
+Echoing	100	1		60		45	bar			1	125	skilltab	14	3	3									lgld	phlm	weap	amul	glov				miss	rod				0	0
+Trainer's	100	1	1	50		42	dru			1	125	skilltab	15	1	1										lcha												0	0
+Spiritual	100	1	1	50		42	dru			1	125	skilltab	16	1	1										lcha												0	0
+Nature's	100	1	1	50		42	dru			1	125	skilltab	17	1	1										lcha												0	0
+Trainer's	100	1	1	20		15	dru			1	125	skilltab	15	1	1										club	pelt	amul	circ	glov								0	0
+Caretaker's	100	1	1	40		30	dru			1	125	skilltab	15	2	2									lgld	club	pelt	amul	circ	glov								0	0
+Keeper's	100	1		60		45	dru			1	125	skilltab	15	3	3									lgld	club	pelt	amul	circ	glov								0	0
+Spiritual	100	1	1	20		15	dru			1	125	skilltab	16	1	1										club	pelt	amul	circ	glov								0	0
+Feral	100	1	1	40		30	dru			1	125	skilltab	16	2	2									lgld	club	pelt	amul	circ	glov								0	0
+Communal	100	1		60		45	dru			1	125	skilltab	16	3	3									lgld	club	pelt	amul	circ	glov								0	0
+Nature's	100	1	1	20		15	dru			1	125	skilltab	17	1	1										club	pelt	amul	circ	glov								0	0
+Terra's	100	1	1	40		30	dru			1	125	skilltab	17	2	2									lgld	club	pelt	amul	circ	glov								0	0
+Gaea's	100	1		60		45	dru			1	125	skilltab	17	3	3									lgld	club	pelt	amul	circ	glov								0	0
+Entrapping	100	1	1	50		42	ass			1	125	skilltab	18	1	1										lcha												0	0
+Mentalist's	100	1	1	50		42	ass			1	125	skilltab	19	1	1										lcha												0	0
+Shogukusha's	100	1	1	50		42	ass			1	125	skilltab	20	1	1										lcha												0	0
+Entrapping	100	1	1	20		15	ass			1	125	skilltab	18	1	1										h2h	amul	circ	glov									0	0
+Trickster's	100	1	1	40		30	ass			1	125	skilltab	18	2	2									lgld	h2h	amul	circ	glov									0	0
+Cunning	100	1		60		45	ass			1	125	skilltab	18	3	3									lgld	h2h	amul	circ	glov									0	0
+Mentalist's	100	1	1	20		15	ass			1	125	skilltab	19	1	1										h2h	amul	helm	circ	glov								0	0
+Psychic	100	1	1	40		30	ass			1	125	skilltab	19	2	2									lgld	h2h	amul	helm	circ	glov								0	0
+Shadow	100	1		60		45	ass			1	125	skilltab	19	3	3									lgld	h2h	amul	helm	circ	glov								0	0
+Shogukusha's	100	1	1	20		15	ass			1	125	skilltab	20	1	1										h2h	amul	glov	circ									0	0
+Sensei's	100	1	1	40		30	ass			1	125	skilltab	20	2	2									lgld	h2h	amul	glov	circ									0	0
+Kenshi's	100	1		60		45	ass			1	125	skilltab	20	3	3									lgld	h2h	amul	glov	circ									0	0
 Miocene	100			1		1				1	101	ac/lvl	6											whit	tors												0	0
 Miocene	100		1	1		1				1	101	ac/lvl	1											whit	glov	boot	belt	shld									0	0
 Oligocene	100		1	10		7				1	101	ac/lvl	9											whit	tors												0	0
 Oligocene	100		1	10		7				1	101	ac/lvl	2											whit	glov	boot	belt	shld									0	0
 Eocene	100		1	20		15				1	101	ac/lvl	18											whit	tors												0	0
-Eocene	100		1	20		15				1	101	ac/lvl	3											whit	glov	boot	belt	shld									0	0
+Eocene	100	1	1	20		15				1	101	ac/lvl	3											whit	glov	boot	belt	shld									0	0
 Paleocene	100	1	1	30		22				4	101	ac/lvl	24											whit	tors												0	0
 Paleocene	100	1	1	30		22				3	101	ac/lvl	4											whit	glov	boot	belt	shld									0	0
 Knave's	100			1		1				1	111	dmg/lvl	1			att/lvl	10							whit	weap							staf	wand	orb			0	0
@@ -689,7 +689,7 @@ Sparking	100	1	1	75		75				1	125	ltngskill		1	1										lcha												0	0
 Chilling	100	1	1	75		75				1	125	coldskill		1	1										lcha												0	0
 Burning	100	1	1	75		75				1	125	fireskill		1	1										lcha												0	0
 Envenomed	100	1	1	75		75				1	125	poisskill		1	1										lcha												0	0
-White	100	0	1	75		75				1	125	magskill		1	1										lcha												0	0
+White	100	1	1	75		75				1	125	magskill		1	1										lcha												0	0
 																																						
 																																						
 																																						
