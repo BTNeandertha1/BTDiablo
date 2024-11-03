@@ -33,3 +33,5 @@ Cow King's Leathers	Cow King's Leathers	100	extra-ltng		50	50	ac/lvl		40	40					
 Naj's Ancient Set	Naj's Ancient Set	100	cast1		30	30	mag%/lvl	12																											allskills		3	3	regen		20	20	dex		15	15	res-all		50	50	str		20	20	mana%		20	20	hp%		20	20	addxp		15	15	0
 McAuley's Folly	McAuley's Folly	100	mana%		5	5					res-all		15	15																					skilltab	7	2	2	mag%		125	125	mana		50	50	addxp		15	15	cast1		20	20													0
 Nadin's Winning Strategy	Nadin's Winning Strategy	100																																	addxp		10	10	cast2		10	10	move2		25	25	balance2		24	24	allskills		1	1	mag%		50	50									0
+Sanctuary's Blessing Caster	Sanctuary's Blessing Caster	100																																	addxp		15	15	gold%		200	200	nofreeze		1	1	res-curse		20	20	mag%		150	150	oskill	Lower Resist	20	20	state	frenzy	1	1					0
+Sanctuary's Blessing Melee	Sanctuary's Blessing Melee	100																																	addxp		15	15	gold%		200	200	nofreeze		1	1	res-curse		20	20	dmg		300	300	state	frenzy	1	1	mag%		150	150	oskill	Blade Shield	20	20	0
