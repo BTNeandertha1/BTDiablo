@@ -35,3 +35,4 @@ McAuley's Folly	McAuley's Folly	100	mana%		5	5					res-all		15	15															
 Nadin's Winning Strategy	Nadin's Winning Strategy	100																																	addxp		10	10	cast2		10	10	move2		25	25	balance2		24	24	allskills		1	1	mag%		50	50									0
 Sanctuary's Blessing Caster	Sanctuary's Blessing Caster	100																																	addxp		15	15	gold%		200	200	nofreeze		1	1	res-curse		20	20	mag%		150	150	oskill	Lower Resist	20	20	state	frenzy	1	1					0
 Sanctuary's Blessing Melee	Sanctuary's Blessing Melee	100																																	addxp		15	15	gold%		200	200	nofreeze		1	1	res-curse		20	20	dmg		300	300	state	frenzy	1	1	mag%		150	150	oskill	Blade Shield	20	20	0
+The Ascension	The Ascension	100																																	addxp		15	15	state	fullsetgeneric	1	1	res-curse		50	50	mag%		150	150	allskills		2	2	oskill	Teleport	1	1	red-dmg		20	20	red-mag		20	20	0
