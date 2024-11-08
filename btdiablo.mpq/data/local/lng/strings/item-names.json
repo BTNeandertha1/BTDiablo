@@ -27911,22 +27911,23 @@
     "jaJP": "Demigod",
     "ptBR": "Demigod",
     "ruRU": "Demigod",
-    "zhCN": "Demigod",
-    {
-      "id": 72046,
-      "Key": "Wind God Fist",
-      "enUS": "Wind God Fist",
-      "zhTW": "Wind God Fist",
-      "deDE": "Wind God Fist",
-      "esES": "Wind God Fist",
-      "frFR": "Wind God Fist",
-      "itIT": "Wind God Fist",
-      "koKR": "Wind God Fist",
-      "plPL": "Wind God Fist",
-      "esMX": "Wind God Fist",
-      "jaJP": "Wind God Fist",
-      "ptBR": "Wind God Fist",
-      "ruRU": "Wind God Fist",
-      "zhCN": "Wind God Fist",
-    }
+    "zhCN": "Demigod"
+  },
+  {
+    "id": 72046,
+    "Key": "Wind God Fist",
+    "enUS": "Wind God Fist",
+    "zhTW": "Wind God Fist",
+    "deDE": "Wind God Fist",
+    "esES": "Wind God Fist",
+    "frFR": "Wind God Fist",
+    "itIT": "Wind God Fist",
+    "koKR": "Wind God Fist",
+    "plPL": "Wind God Fist",
+    "esMX": "Wind God Fist",
+    "jaJP": "Wind God Fist",
+    "ptBR": "Wind God Fist",
+    "ruRU": "Wind God Fist",
+    "zhCN": "Wind God Fist"
+  }
 ]
