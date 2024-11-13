@@ -391,7 +391,7 @@ Bonehew	387	100	1			1	1	72	64	7o7	ogre axe		3	5000	bwht	bwht						dmg%		270	320	
 Ondal's Wisdom	388	100	1			1	1	74	66	6cs	elder staff		3	5000				invcstu				cast2		85	85	enr		40	50	allskills		2	4	ac		450	550	addxp		5	15	red-mag		5	8																										0
 The Reedeemer	389	100	1			1	1	80	72	7sc	mighty scepter		3	5000								dmg%		250	300	dmg-demon		200	250	pal		2	2	ease		-60	-60	skill	Redemption	2	4	skill	Holy Bolt	2	4	reduce-ac		33	33	dmg		60	120																		0
 Headhunter's Glory	390	100	1			1	1	83	75	ush	troll nest		3	5000				invbshu				ac		320	420	ac-miss		300	350	res-all		15	25	swing2		40	40	heal-kill		10	15	nofreeze		1	1	stupidity		1	1	move2		50	50																		0
-Steelrend	391	100	1			1	1	78	70	uhg	ogre gauntlets		3	5000								ac%		100	150	str		20	25	dmg%		70	100	crush		15	15	deadly		15	20	ease		-40	-30																										0
+Steelrend	391	100	1			1	1	78	70	uhg	ogre gauntlets		3	5000								ac%		100	150	str		25	50	dmg%		80	100	crush		15	15	deadly		15	25	ease		-40	-30	str%		40	50																						0
 Rainbow Facet	392	100	1			1	1	85	49	jew	jewel		3	5000								dmg-ltng		1	74	pierce-ltng		4	5	extra-ltng		4	5	death-skill	Chain Lightning	100	47	addxp		2	2																														0
 Rainbow Facet	393	100	1			1	1	85	49	jew	jewel		3	5000								dmg-cold	3	24	38	pierce-cold		4	5	extra-cold		4	5	death-skill	Blizzard	100	37	addxp		2	2																														0
 Rainbow Facet	394	100	1			1	1	85	49	jew	jewel		3	5000								dmg-fire		17	45	pierce-fire		4	5	extra-fire		4	5	death-skill	Meteor	100	31	addxp		2	2																														0
