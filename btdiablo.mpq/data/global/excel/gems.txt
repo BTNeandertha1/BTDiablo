@@ -19,8 +19,8 @@ Flawed Ruby		8	gfr	fire-min	0	5	5	fire-max	0	8	8		0	0	0	hp	0	17	17		0	0	0		0	0	0
 Ruby		8	gsr	fire-min	0	16	16	fire-max	0	16	16		0	0	0	hp	0	48	48		0	0	0		0	0	0	res-fire	0	22	22		0	0	0		0	0	0
 Flawless Ruby		8	glr	fire-min	0	20	20	fire-max	0	20	20		0	0	0	hp	0	62	62		0	0	0		0	0	0	res-fire	0	28	28		0	0	0		0	0	0
 Perfect Ruby		9	gpr	fire-min	0	30	30	fire-max	0	30	30		0	0	0	hp	0	76	76		0	0	0		0	0	0	res-fire	0	40	40		0	0	0		0	0	0
-Chipped Diamond		1	gcw	dmg-norm	0	28	28						0	0	0	all-stats	0	1	1		0	0	0		0	0	0	res-all	0	6	6		0	0	0		0	0	0
-Flawed Diamond		1	gfw	dmg-norm	0	34	34						0	0	0	all-stats	0	1	1		0	0	0		0	0	0	res-all	0	8	8		0	0	0		0	0	0
+Chipped Diamond		1	gcw	dmg-norm	0	999	999	move2		-99	-99	regen	0	-999	0	all-stats	0	1	1		0	0	0		0	0	0	res-all	0	6	6		0	0	0		0	0	0
+Flawed Diamond		1	gfw	dmg-norm	0	999	999	move2		-99	-99	regen	0	-999	0	all-stats	0	1	1		0	0	0		0	0	0	res-all	0	8	8		0	0	0		0	0	0
 Diamond		1	gsw	dmg-norm	0	3	5						0	0	0	all-stats	0	1	1		0	0	0		0	0	0	res-all	0	11	11		0	0	0		0	0	0
 Flawless Diamond		1	glw	dmg-norm	0	6	9						0	0	0	all-stats	0	2	2		0	0	0		0	0	0	res-all	0	14	14		0	0	0		0	0	0
 Perfect Diamond		0	gpw	dmg-norm	0	10	15						0	0	0	all-stats	0	3	3		0	0	0		0	0	0	res-all	0	19	19		0	0	0		0	0	0

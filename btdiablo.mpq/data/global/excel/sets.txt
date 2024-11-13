@@ -36,3 +36,14 @@ Nadin's Winning Strategy	Nadin's Winning Strategy	100																											
 Sanctuary's Blessing Caster	Sanctuary's Blessing Caster	100																																	addxp		15	15	gold%		200	200	nofreeze		1	1	res-curse		20	20	mag%		150	150	oskill	Lower Resist	20	20	state	frenzy	1	1					0
 Sanctuary's Blessing Melee	Sanctuary's Blessing Melee	100																																	addxp		15	15	gold%		200	200	nofreeze		1	1	res-curse		20	20	dmg		300	300	state	frenzy	1	1	mag%		150	150	oskill	Blade Shield	20	20	0
 The Ascension	The Ascension	100																																	addxp		15	15	state	fullsetgeneric	1	1	res-curse		50	50	mag%		150	150	allskills		2	2	oskill	Teleport	1	1	red-dmg		20	20	red-mag		20	20	0
+Fake Ascension	Fake Ascension	100																																																																	0
+Sigurds Nobility	Sigurds Nobility	100																																	addxp		15	15	res-curse		100	100	mag%		100	100	move2		50	50	cast2		30	30	red-dmg%		20	20	hp%		50	50					0
+Humanity's End	Humanity's End	100																																	addxp		15	15	allskills		3	3	mag%		200	200	gold%		200	200	oskill	summon resist	20	20	oskill	raise skeleton	35	35	oskill	skeleton mastery	35	35	oskill	corpse explosion	10	10	0
+Royal Guard	Royal Guard	100																																	addxp		15	15	res-curse		66	66	allskills		3	3	cheap		20	20	cast2		80	80	swing2		80	80	mag%		100	100	res-all-max		15	15	0
+																																																																			0
+																																																																			0
+																																																																			0
+																																																																			0
+																																																																			0
+																																																																			0
+																																																																			0

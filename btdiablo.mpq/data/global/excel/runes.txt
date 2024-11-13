@@ -99,7 +99,7 @@ Runeword98	Peace	1			111	tors									ShaelThulAmn	r13	r10	r11				hit-skill	Valk
 Runeword99	Voice of Reason	1			Previously Ladder Only	weap									LemKoElEld	r20	r18	r01	r02			dmg-demon		250	350	dmg-undead		280	300	coldskill		1	2	pierce-cold		24	36	hit-skill	Ice Blast	20	50	att-skill	Frozen Orb	15	36	nofreeze		1	1	0
 Runeword100	Penitence																																																	0
 Runeword101	Peril																																																	0
-Runeword102	Pestilence	1			Previously Ladder Only	tors									TalChamIst	r07	r32	r24				poisskill		3	3	pierce-pois		30	30	noheal		1	1	slow		50	50	gethit-skill	Lower Resist	50	50	aura	cleansing	15	15	res-mag		50	50	0
+Runeword102	Pestilence	1			Previously Ladder Only	tors									TalChamIst	r07	r32	r24				poisskill		3	3	pierce-pois		40	50	noheal		1	1	ac		400	500	gethit-skill	Lower Resist	50	50	aura	cleansing	15	15	res-mag		50	50	0
 Runeword103	Phoenix	1			Previously Ladder Only	weap	shld								VexVexLoJah	r26	r26	r28	r31			dmg%		350	400	ac-miss		350	400	hit-skill	Firestorm	40	22	levelup-skill	Blaze	100	40	pierce-fire		28	28	aura	Redemption	10	15	abs-fire		15	21	0
 Runeword104	Piety																																																	0
 Runeword105	Pillar of Faith																																																	0
