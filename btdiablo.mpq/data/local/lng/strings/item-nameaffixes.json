@@ -17202,5 +17202,22 @@
     "ptBR": "Infeccioso",
     "ruRU": "Заразительный",
     "zhCN": "传染性"
+  },
+  {
+    "id": 61489,
+    "Key": "White",
+    "enUS": "White",
+    "zhTW": "White",
+    "deDE": "White",
+    "esES": "White",
+    "frFR": "White",
+    "itIT": "White",
+    "koKR": "White",
+    "plPL": "White",
+    "esMX": "White",
+    "jaJP": "White",
+    "ptBR": "White",
+    "ruRU": "White",
+    "zhCN": "White"
   }
 ]
