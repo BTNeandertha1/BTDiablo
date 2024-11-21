@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nDensity, Skills, Stats, Items and Runeword Adjustment! NEW UBER CLASS SETS ARE NOW LIVE! \nVersion 1.1.9b 21th November",
+                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nDensity, Skills, Stats, Items and Runeword Adjustment! NEW UBER CLASS SETS ARE NOW LIVE! 1:50 Drop Chance! \nVersion 1.1.9b 21th November",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",
