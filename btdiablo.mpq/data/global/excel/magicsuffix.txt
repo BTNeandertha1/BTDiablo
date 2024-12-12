@@ -21,7 +21,7 @@ of Quickness	0	1	1	25		18					6	swing3		40	40									dyel	mele							wand	staf	
 of Blocking	0	1	1	1		1					7	block		10	10										shld												0	0
 of Deflecting	0	1	1	11		8					7	block		20	20										shld												0	0
 of the Apprentice	0	1	1	5		3					8	cast1		10	10										rod	ring	amul										0	0
-of the Magus	0	1	1	17		12					8	cast3		20	20										rod												0	0
+of the Magus	0	1	1	17		12					8	cast3		20	20										rod	tors	shld										0	0
 of Frost	0	1	1	4		3					9	cold-min		1	1	cold-max		1	4	cold-len		125	125		weap												0	0
 of the Glacier	0	1	1	18		13					9	cold-min		4	4	cold-max		4	12	cold-len		150	150		mele												0	0
 of Frost	0	1	1	55		41					9	cold-min		1	1	cold-max		1	4	cold-len		125	125		belt	amul											0	0
@@ -122,7 +122,7 @@ of Life Everlasting	100	1		45		37				4	1	red-dmg		10	25										amul	circ						
 of Protection	1	1	1	24		18				4	1	red-dmg		2	2										tors	shld	circ										0	0
 of Absorption	1	1	1	32		24				4	1	red-dmg		3	3										tors	shld	circ										0	0
 of Life	1	1	1	41		33				4	1	red-dmg		4	7										tors	shld	circ										0	0
-of Anima	100	1		51		43				4	1	red-dmg		8	15										tors	shld	circ										0	0
+of Anima	100	1		51		43				4	1	red-dmg%		5	15										tors	shld											0	0
 of Warding	1	1	1	7		5				4	2	red-mag		1	1										tors	shld	ring	amul	orb	circ							0	0
 of the Sentinel	1	1	1	18		12				4	2	red-mag		2	2										ring	amul	orb	circ									0	0
 of Guarding	1	1	1	26		19				4	2	red-mag		3	3										amul	orb	circ										0	0

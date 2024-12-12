@@ -99,21 +99,21 @@ Viridian	0	1	1	55		41				0	124	res-pois	0	23	35										weap	boot	glov	belt				
 																																					0	0
 Emerald	0	1	1	25		18				0	124	res-pois	0	31	50									lgrn	scep	ring	amul										0	0
 																																					0	0
-Fletcher's	0	1	1	30		22				0	125	ama	0	1	1										miss	amul											0	0
-Archer's	0	1	1	40		30				0	125	ama	0	2	2									cgrn	miss												0	0
-Archer's	0	1	1	90		67				0	125	ama	0	2	2									cgrn	amul												0	0
-Monk's	0	1	1	30		22				0	126	pal	0	1	1										scep	amul											0	0
-Priest's	0	1	1	40		30				0	126	pal	0	2	2									cgrn	scep												0	0
-Priest's	0	1	1	90		67				0	126	pal	0	2	2									cgrn	amul												0	0
-Summoner's	0	1	1	30		22				0	127	nec	0	1	1										wand	amul											0	0
-Necromancer's	0	1	1	40		30				0	127	nec	0	2	2									cgrn	wand												0	0
-Necromancer's	0	1	1	90		67				0	127	nec	0	2	2									cgrn	amul												0	0
-Angel's	0	1	1	30		22				0	128	sor	0	1	1										staf	amul											0	0
-Arch-Angel's	0	1	1	40		30				0	128	sor	0	2	2									cgrn	staf												0	0
-Arch-Angel's	0	1	1	90		67				0	128	sor	0	2	2									cgrn	amul												0	0
-Slayer's	0	1	1	30		22				0	129	bar	0	1	1										mele	amul						rod	h2h				0	0
-Berserker's	0	1	1	40		30				0	129	bar	0	2	2									cgrn	mele							rod	h2h				0	0
-Berserker's	0	1	1	90		67				0	129	bar	0	2	2									cgrn	amul												0	0
+Fletcher's	0	1	1	30		22				0	125	ama	0	1	1										miss	amul	tors	shld									0	0
+Archer's	0	1	1	40		30				0	125	ama	0	2	2									cgrn	miss	tors	shld										0	0
+Archer's	0	1	1	90		67				0	125	ama	0	2	2									cgrn	amul	tors	shld										0	0
+Monk's	0	1	1	30		22				0	126	pal	0	1	1										scep	amul	tors	shld									0	0
+Priest's	0	1	1	40		30				0	126	pal	0	2	2									cgrn	scep	tors	shld										0	0
+Priest's	0	1	1	90		67				0	126	pal	0	2	2									cgrn	amul	tors	shld										0	0
+Summoner's	0	1	1	30		22				0	127	nec	0	1	1										wand	amul	tors	shld									0	0
+Necromancer's	0	1	1	40		30				0	127	nec	0	2	2									cgrn	wand	tors	shld										0	0
+Necromancer's	0	1	1	90		67				0	127	nec	0	2	2									cgrn	amul	tors	shld										0	0
+Angel's	0	1	1	30		22				0	128	sor	0	1	1										staf	amul	tors	shld									0	0
+Arch-Angel's	0	1	1	40		30				0	128	sor	0	2	2									cgrn	staf	tors	shld										0	0
+Arch-Angel's	0	1	1	90		67				0	128	sor	0	2	2									cgrn	amul	tors	shld										0	0
+Slayer's	0	1	1	30		22				0	129	bar	0	1	1										mele	amul	tors	shld				rod	h2h				0	0
+Berserker's	0	1	1	40		30				0	129	bar	0	2	2									cgrn	mele	tors	shld					rod	h2h				0	0
+Berserker's	0	1	1	90		67				0	129	bar	0	2	2									cgrn	amul	tors	shld										0	0
 																																					0	0
 																																					0	0
 Triumphant	0	1	1	3		2				0	132	mana-kill	0	1	2										mele	ring											0	0
@@ -191,8 +191,8 @@ Vicious	1	1	1	8		6				8	105	dmg%		31	40										weap							staf	wand	orb			0	0
 Brutal	1	1	1	14		10				8	105	dmg%		41	50										weap							staf	wand	orb			0	0
 Massive	1	1	1	20		15				7	105	dmg%		51	65									dgld	weap							staf	wand	orb			0	0
 Savage	1	1	1	26		19				7	105	dmg%		66	80									dgld	weap							staf	wand	orb			0	0
-Merciless	1	1	1	32		24				6	105	dmg%		81	100									dgld	weap							staf	wand	orb			0	0
-Ferocious	100	1	1	41		33				6	105	dmg%		101	200									blac	weap							staf	wand	orb			0	0
+Merciless	1	1	1	32		24				6	105	dmg%		81	100									dgld	weap	tors						staf	wand	orb			0	0
+Ferocious	100	1	1	41		33				6	105	dmg%		101	200									blac	weap	tors						staf	wand	orb			0	0
 Cruel	100	1	1	51		43				5	105	dmg%		201	300									blac	weap							staf	wand	orb			0	0
 Cinnabar	100	1	1	1		1				4	105	dmg%		5	10									dred	jewl												0	0
 Rusty	100	1	1	13		9				4	105	dmg%		11	20									dred	jewl												0	0
@@ -559,38 +559,38 @@ Envenomed	100	1	1	10		7				2	140	dmg-pois	75	41	41									dgrn	weap												
 Corosive	100	1	1	20		15				1	140	dmg-pois	100	205	205									dgrn	weap												0	0
 Toxic	100	1	1	35		26				1	140	dmg-pois	125	308	308									dgrn	weap												0	0
 Pestilent	100	1		50		37				1	140	dmg-pois	150	470	470									dgrn	weap												0	0
-Maiden's	1	1	1	36		27	ama			4	125	ama		1	1										amul	circ											0	0
-Valkyrie's	1	1	1	90		67	ama			2	125	ama		2	2									cgrn	amul	circ											0	0
-Maiden's	1	1	1	30		22	ama			4	125	ama		1	1										miss	spea											0	0
-Valkyrie's	1	1	1	50		42	ama			2	125	ama		2	2									cgrn	miss	spea											0	0
-Monk's	1	1	1	36		27	pal			4	125	pal		1	1										amul	circ											0	0
-Priest's	1	1	1	90		67	pal			2	125	pal		2	2									cgrn	amul	circ											0	0
-Monk's	1	1	1	30		22	pal			4	125	pal		1	1										scep	ashd											0	0
-Priest's	1	1	1	50		42	pal			2	125	pal		2	2									cgrn	scep	ashd											0	0
+Maiden's	1	1	1	36		27	ama			4	125	ama		1	1										amul	circ	tors	shld									0	0
+Valkyrie's	1	1	1	90		67	ama			2	125	ama		2	2									cgrn	amul	circ	tors	shld									0	0
+Maiden's	1	1	1	30		22	ama			4	125	ama		1	1										miss	spea	tors	shld									0	0
+Valkyrie's	1	1	1	50		42	ama			2	125	ama		2	2									cgrn	miss	spea	tors	shld									0	0
+Monk's	1	1	1	36		27	pal			4	125	pal		1	1										amul	circ	tors	shld									0	0
+Priest's	1	1	1	90		67	pal			2	125	pal		2	2									cgrn	amul	circ	tors	shld									0	0
+Monk's	1	1	1	30		22	pal			4	125	pal		1	1										scep	ashd	tors	shld									0	0
+Priest's	1	1	1	50		42	pal			2	125	pal		2	2									cgrn	scep	ashd	tors	shld									0	0
 Monk's	1	1	1	35		27	pal			4	125	pal		1	1										swor	mace	hamm	shld									0	0
 Priest's	1	1	1	65		58	pal			2	125	pal		2	2									cgrn	swor	mace	hamm	shld									0	0
-Summoner's	1	1	1	36		27	nec			4	125	nec		1	1										amul	circ											0	0
-Necromancer's	1	1	1	90		67	nec			2	125	nec		2	2									cgrn	amul	circ											0	0
+Summoner's	1	1	1	36		27	nec			4	125	nec		1	1										amul	circ	tors	shld									0	0
+Necromancer's	1	1	1	90		67	nec			2	125	nec		2	2									cgrn	amul	circ	tors	shld									0	0
 Summoner's	1	1	1	30		22	nec			4	125	nec		1	1										wand	knif	head										0	0
 Necromancer's	1	1	1	50		42	nec			2	125	nec		2	2									cgrn	wand	knif	head										0	0
-Angel's	1	1	1	36		27	sor			4	125	sor		1	1										amul	circ											0	0
-Arch-Angel's	1	1	1	90		67	sor			2	125	sor		2	2									cgrn	amul	circ											0	0
-Angel's	1	1	1	30		22	sor			4	125	sor		1	1										staf	orb											0	0
-Arch-Angel's	1	1	1	50		42	sor			2	125	sor		2	2									cgrn	staf	orb											0	0
-Slayer's	1	1	1	36		27	bar			4	125	bar		1	1										amul	circ											0	0
-Berserker's	1	1	1	90		67	bar			2	125	bar		2	2									cgrn	amul	circ											0	0
-Slayer's	1	1	1	30		22	bar			4	125	bar		1	1										tkni	axe	spea	club	swor	hamm	mace	jave					0	0
-Berserker's	1	1	1	50		42	bar			1	125	bar		2	2									cgrn	tkni	axe	spea	club	swor	hamm	mace	jave					0	0
-Slayer's	100	1	1	30		22	bar			4	125	bar		1	1										phlm												0	0
-Berserker's	100	1	1	50		42	bar			2	125	bar		2	2									cgrn	phlm												0	0
-Shaman's	100	1	1	36		27	dru			4	125	dru		1	1										amul	circ											0	0
-Hierophant's	100	1	1	90		67	dru			2	125	dru		2	2									cgrn	amul	circ											0	0
-Shaman's	100	1	1	30		22	dru			4	125	dru		1	1										club	pelt											0	0
-Hierophant's	100	1	1	50		42	dru			2	125	dru		2	2									cgrn	club	pelt											0	0
-Magekiller's	100	1	1	36		27	ass			4	125	ass		1	1										amul	circ											0	0
-Witch-hunter's	100	1	1	90		67	ass			2	125	ass		2	2									cgrn	amul	circ											0	0
-Magekiller's	100	1	1	30		22	ass			4	125	ass		1	1										h2h												0	0
-Witch-hunter's	100	1	1	50		42	ass			2	125	ass		2	2									cgrn	h2h												0	0
+Angel's	1	1	1	36		27	sor			4	125	sor		1	1										amul	circ	tors	shld									0	0
+Arch-Angel's	1	1	1	90		67	sor			2	125	sor		2	2									cgrn	amul	circ	tors	shld									0	0
+Angel's	1	1	1	30		22	sor			4	125	sor		1	1										staf	orb	tors	shld									0	0
+Arch-Angel's	1	1	1	50		42	sor			2	125	sor		2	2									cgrn	staf	orb	tors	shld									0	0
+Slayer's	1	1	1	36		27	bar			4	125	bar		1	1										amul	circ	tors	shld									0	0
+Berserker's	1	1	1	90		67	bar			2	125	bar		2	2									cgrn	amul	circ	tors	shld									0	0
+Slayer's	1	1	1	30		22	bar			4	125	bar		1	1										tkni	axe	spea	club	swor	hamm	mace	jave	tors	shld			0	0
+Berserker's	1	1	1	50		42	bar			1	125	bar		2	2									cgrn	tkni	axe	spea	club	swor	hamm	mace	jave	tors	shld			0	0
+Slayer's	100	1	1	30		22	bar			4	125	bar		1	1										phlm		tors	shld									0	0
+Berserker's	100	1	1	50		42	bar			2	125	bar		2	2									cgrn	phlm		tors	shld									0	0
+Shaman's	100	1	1	36		27	dru			4	125	dru		1	1										amul	circ	tors	shld									0	0
+Hierophant's	100	1	1	90		67	dru			2	125	dru		2	2									cgrn	amul	circ	tors	shld									0	0
+Shaman's	100	1	1	30		22	dru			4	125	dru		1	1										club	pelt	tors	shld									0	0
+Hierophant's	100	1	1	50		42	dru			2	125	dru		2	2									cgrn	club	pelt	tors	shld									0	0
+Magekiller's	100	1	1	36		27	ass			4	125	ass		1	1										amul	circ	tors	shld									0	0
+Witch-hunter's	100	1	1	90		67	ass			2	125	ass		2	2									cgrn	amul	circ	tors	shld									0	0
+Magekiller's	100	1	1	30		22	ass			4	125	ass		1	1										h2h		tors	shld									0	0
+Witch-hunter's	100	1	1	50		42	ass			2	125	ass		2	2									cgrn	h2h		tors	shld									0	0
 Compact	100	0		1		1				6	141	stack		20	40										thro												0	0
 Thin	100	0		17		12				5	141	stack		41	80										thro												0	0
 Dense	100	0		38		30				4	141	stack		81	120										thro												0	0
