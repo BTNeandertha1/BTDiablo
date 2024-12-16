@@ -119,10 +119,10 @@ of Protection	1	1	1	18		13				4	1	red-dmg		2	2										ring	amul	circ										
 of Absorption	1	1	1	26		19				4	1	red-dmg		3	3										amul	circ											0	0
 of Life	1	1	1	35		26				4	1	red-dmg		4	4									dblu	amul	circ											0	0
 of Life Everlasting	100	1		45		37				4	1	red-dmg		10	25										amul	circ											0	0
-of Protection	1	1	1	24		18				4	1	red-dmg		2	2										tors	shld	circ										0	0
-of Absorption	1	1	1	32		24				4	1	red-dmg		3	3										tors	shld	circ										0	0
-of Life	1	1	1	41		33				4	1	red-dmg		4	7										tors	shld	circ										0	0
-of Anima	100	1		51		43				4	1	red-dmg%		5	15										tors	shld											0	0
+of Protection	1	1	1	24		18				4	1	red-dmg%		3	5										tors	shld											0	0
+of Absorption	1	1	1	32		24				4	1	red-dmg		3	6										tors	shld	circ										0	0
+of Life	1	1	1	41		33				4	1	red-dmg		7	10										tors	shld	circ										0	0
+of Anima	100	1		51		43				4	1	red-dmg%		6	15										tors	shld											0	0
 of Warding	1	1	1	7		5				4	2	red-mag		1	1										tors	shld	ring	amul	orb	circ							0	0
 of the Sentinel	1	1	1	18		12				4	2	red-mag		2	2										ring	amul	orb	circ									0	0
 of Guarding	1	1	1	26		19				4	2	red-mag		3	3										amul	orb	circ										0	0
@@ -662,6 +662,7 @@ of Armageddon	100			72		72		dru	30	1	44	oskill	249	1	1										staf												
 of Hurricane	100			36		36		dru	30	1	44	oskill	250	1	1										club												0	0
 of Hurricane	100			72		72		dru	30	1	44	oskill	250	1	1										amul	circ											0	0
 of Damage Amplification	100	1	1	3						1	44	hit-skill	66	20	22										weap							orb					0	0
+of Damage Amplification	100	1	1	90						1	44	hit-skill	66	20	22										weap	miss	mele										0	0
 of the Icicle	100	1	1	37		29				2	10	cold-min		2	3	cold-max		6	10	cold-len		50	50	dblu	jewl												0	0
 of the Glacier	100	1	1	58		50				2	10	cold-min		4	5	cold-max		11	15	cold-len		50	50	dblu	jewl												0	0
 of Fire	100	1	1	36		28				2	12	fire-min		4	10	fire-max		11	30					dred	jewl												0	0
