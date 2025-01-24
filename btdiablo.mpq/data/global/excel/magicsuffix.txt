@@ -1,19 +1,19 @@
 Name	version	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	multiply	add
-of Health	0	1	1	7		5					1	red-dmg		1	1										tors	helm	shld	ring	amul								0	0
-of Protection	0	1	1	18		13					1	red-dmg		2	2										ring	amul											0	0
+of Health	0	0	1	7		5					1	red-dmg		1	1										tors	helm	shld	ring	amul								0	0
+of Protection	0	0	1	18		13					1	red-dmg		2	2										ring	amul											0	0
 of Absorption	0	1	1	26		19					1	red-dmg		3	3										amul												0	0
 of Life	0	1	1	35		26					1	red-dmg		4	4									dblu	amul												0	0
 		1																																			0	0
-of Warding	0	1	1	7		5					2	red-mag		1	1										tors	helm	shld	ring	amul								0	0
-of the Sentinel	0	1	1	18		13					2	red-mag		2	2										ring	amul											0	0
+of Warding	0	0	1	7		5					2	red-mag		1	1										tors	helm	shld	ring	amul								0	0
+of the Sentinel	0	0	1	18		13					2	red-mag		2	2										ring	amul											0	0
 of Guarding	0	1	1	26		19					2	red-mag		3	3										amul												0	0
 of Negation	0	1	1	35		26					2	red-mag		4	4										amul												0	0
 																																					0	0
 of Piercing	0	1	1	25		18					3	ignore-ac		1	1										rod												0	0
 of Bashing	0	1	1	16		12					4	dmg-ac		-25	-40										mele							wand	staf				0	0
 of Puncturing	0	1	1	6		4					4	dmg-ac		-10	-20										mele							wand	staf				0	0
-of Thorns	0	1	1	14		10					5	thorns		10	20										tors	helm	shld	belt									0	0
-of Spikes	0	1	1	21		15					5	thorns		21	50									oran	tors	helm	shld	belt									0	0
+of Thorns	0	0	1	14		10					5	thorns		10	20										tors	helm	shld	belt									0	0
+of Spikes	0	0	1	21		15					5	thorns		21	50									oran	tors	helm	shld	belt									0	0
 of Readiness	0	1	1	1		1					6	swing1		10	10										weap	glov											0	0
 of Alacrity	0	1	1	8		6					6	swing2		20	20										weap												0	0
 of Swiftness	0	1	1	19		14					6	swing2		30	30										mele							wand	staf				0	0
@@ -21,7 +21,7 @@ of Quickness	0	1	1	25		18					6	swing3		40	40									dyel	mele							wand	staf	
 of Blocking	0	1	1	1		1					7	block		10	10										shld												0	0
 of Deflecting	0	1	1	11		8					7	block		20	20										shld												0	0
 of the Apprentice	0	1	1	5		3					8	cast1		10	10										rod	ring	amul										0	0
-of the Magus	0	1	1	17		12					8	cast3		20	20										rod	tors	shld										0	0
+of the Magus	0	1	1	17		12					8	cast3		20	20										rod												0	0
 of Frost	0	1	1	4		3					9	cold-min		1	1	cold-max		1	4	cold-len		125	125		weap												0	0
 of the Glacier	0	1	1	18		13					9	cold-min		4	4	cold-max		4	12	cold-len		150	150		mele												0	0
 of Frost	0	1	1	55		41					9	cold-min		1	1	cold-max		1	4	cold-len		125	125		belt	amul											0	0
@@ -39,8 +39,8 @@ of Quality	0	1	1	4		3					13	dmg-max		2	2										weap												0	0
 of Maiming	0	1	1	7		5					13	dmg-max		3	4										weap												0	0
 of Slaying	0	1	1	11		8					13	dmg-max		5	7										weap												0	0
 of Gore	0	1	1	14		10					13	dmg-max		8	10										weap												0	0
-of Carnage	0	1	1	19		14					13	dmg-max		11	14									blac	weap							wand	staf				0	0
-of Slaughter	0	1	1	25		18					13	dmg-max		15	20									blac	weap							wand	staf				0	0
+of Carnage	0	1	1	19		14					13	dmg-max		11	14									blac	weap								staf				0	0
+of Slaughter	0	1	1	25		18					13	dmg-max		15	20									blac	weap								staf				0	0
 of Maiming	0	1	1	42		31					13	dmg-max		3	4										shld	ring	amul										0	0
 of Worth	0	1	1	2		1					14	dmg-min		1	1										weap							rod					0	0
 of Measure	0	1	1	6		4					14	dmg-min		2	2										weap												0	0
@@ -114,44 +114,44 @@ of Pacing	0	1	1	2		1					35	move1		10	10										boot												0	0
 of Haste	0	1	1	12		9					35	move2		20	20										boot												0	0
 of Speed	0	1	1	22		16					35	move3		30	30										boot												0	0
 Expansion																																						
-of Health	1	1	1	7		5				4	1	red-dmg		1	1										tors	shld	ring	amul	circ								0	0
-of Protection	1	1	1	18		13				4	1	red-dmg		2	2										ring	amul	circ										0	0
-of Absorption	1	1	1	26		19				4	1	red-dmg		3	3										amul	circ											0	0
-of Life	1	1	1	35		26				4	1	red-dmg		4	4									dblu	amul	circ											0	0
-of Life Everlasting	100	1		45		37				4	1	red-dmg		10	25										amul	circ											0	0
-of Protection	1	1	1	24		18				4	1	red-dmg%		3	5										tors	shld											0	0
-of Absorption	1	1	1	32		24				4	1	red-dmg		3	6										tors	shld	circ										0	0
-of Life	1	1	1	41		33				4	1	red-dmg		7	10										tors	shld	circ										0	0
-of Anima	100	1		51		43				4	1	red-dmg%		6	15										tors	shld											0	0
-of Warding	1	1	1	7		5				4	2	red-mag		1	1										tors	shld	ring	amul	orb	circ							0	0
-of the Sentinel	1	1	1	18		12				4	2	red-mag		2	2										ring	amul	orb	circ									0	0
-of Guarding	1	1	1	26		19				4	2	red-mag		3	3										amul	orb	circ										0	0
-of Negation	100	1		42		35				4	2	red-mag		4	6										amul	orb	circ										0	0
-of the Sentinel	1	1	1	24		18				4	2	red-mag		2	2										tors	shld	circ										0	0
-of Guarding	1	1	1	32		24				4	2	red-mag		3	3										tors	shld	circ										0	0
+of Health	1	1	1	7		5				4	1	red-dmg		1	5										tors	shld	ring	amul	circ								0	0
+of Protection	1	1	1	18		13				4	1	red-dmg		6	7										ring	amul	circ										0	0
+of Absorption	1	1	1	26		19				4	1	red-dmg		8	9										amul	circ											0	0
+of Life	1	1	1	35		26				4	1	red-dmg		10	12									dblu	amul	circ											0	0
+of Life Everlasting	100	1		45		37				4	1	red-dmg		13	25										amul	circ											0	0
+of Protection	1	1	1	24		18				4	1	red-dmg		2	2										tors	shld	circ										0	0
+of Absorption	1	1	1	32		24				4	1	red-dmg		3	3										tors	shld	circ										0	0
+of Life	1	1	1	41		33				4	1	red-dmg		4	7										tors	shld	circ										0	0
+of Anima	100	1		51		43				4	1	red-dmg		8	15										tors	shld	circ										0	0
+of Warding	1	0	1	7		5				4	2	red-mag		1	1										tors	shld	ring	amul	orb	circ							0	0
+of the Sentinel	1	0	1	18		12				4	2	red-mag		2	2										ring	amul	orb	circ									0	0
+of Guarding	1	0	1	26		19				4	2	red-mag		3	3										amul	orb	circ										0	0
+of Negation	100	0		42		35				4	2	red-mag		4	6										amul	orb	circ										0	0
+of the Sentinel	1	0	1	24		18				4	2	red-mag		2	2										tors	shld	circ										0	0
+of Guarding	1	0	1	32		24				4	2	red-mag		3	3										tors	shld	circ										0	0
 of Negation	100	1		41		33				4	2	red-mag		4	6										tors	shld	circ										0	0
 of Coolness	100		1	11		8				1	3	abs-fire		2	2										tors	shld	boot	circ									0	0
-of Incombustibility	100		1	19		14				1	3	abs-fire		3	3										tors	shld	boot	circ									0	0
-of Amianthus	100		1	28		21				1	3	abs-fire		4	5										tors	shld	boot	circ									0	0
-of Fire Quenching	100			38		30				1	3	abs-fire		6	8										tors	shld	boot	circ									0	0
-of Coolness	100		1	13		9				1	3	abs-fire		2	2										ring	amul	orb	circ									0	0
+of Incombustibility	100	1	1	19		14				1	3	abs-fire		3	3										tors	shld	boot	circ									0	0
+of Amianthus	100	1	1	28		21				1	3	abs-fire		4	5										tors	shld	boot	circ									0	0
+of Fire Quenching	100	1		38		30				1	3	abs-fire		6	8										tors	shld	boot	circ									0	0
+of Coolness	100	1	1	13		9				1	3	abs-fire		2	2										ring	amul	orb	circ									0	0
 of Incombustibility	100		1	22		16				1	3	abs-fire		3	3										amul	orb	circ										0	0
 of Amianthus	100		1	33		25				1	3	abs-fire		4	5										amul	orb	circ										0	0
 of Fire Quenching	100			46		38				1	3	abs-fire		6	8										amul	orb	circ										0	0
 of Faith	100		1	23		17				1	3	abs-fire		1	2										jewl												0	0
 of Resistance	100		1	11		8				1	3	abs-ltng		2	2										tors	shld	boot	circ									0	0
-of Insulation	100		1	19		14				1	3	abs-ltng		3	3										tors	shld	boot	circ									0	0
-of Grounding	100		1	28		21				1	3	abs-ltng		4	5										tors	shld	boot	circ									0	0
-of the Dynamo	100			38		30				1	3	abs-ltng		6	8										tors	shld	boot	circ									0	0
-of Resistance	100		1	13		9				1	3	abs-ltng		2	2										ring	amul	orb	circ									0	0
+of Insulation	100	1	1	19		14				1	3	abs-ltng		3	3										tors	shld	boot	circ									0	0
+of Grounding	100	1	1	28		21				1	3	abs-ltng		4	5										tors	shld	boot	circ									0	0
+of the Dynamo	100	1		38		30				1	3	abs-ltng		6	8										tors	shld	boot	circ									0	0
+of Resistance	100	1	1	13		9				1	3	abs-ltng		2	2										ring	amul	orb	circ									0	0
 of Insulation	100		1	22		16				1	3	abs-ltng		3	3										amul	orb	circ										0	0
 of Grounding	100		1	33		25				1	3	abs-ltng		4	5										amul	orb	circ										0	0
 of the Dynamo	100			46		38				1	3	abs-ltng		6	8										amul	orb	circ										0	0
 of Stoicism	100		1	22		16				1	3	abs-ltng		1	2										jewl												0	0
-of Warming	100		1	11		8				1	3	abs-cold		2	2										tors	shld	boot	circ									0	0
-of Thawing	100		1	19		14				1	3	abs-cold		3	3										tors	shld	boot	circ									0	0
-of the Dunes	100		1	28		21				1	3	abs-cold		4	5										tors	shld	boot	circ									0	0
-of the Sirocco	100			38		30				1	3	abs-cold		6	8										tors	shld	boot	circ									0	0
+of Warming	100	1	1	11		8				1	3	abs-cold		2	2										tors	shld	boot	circ									0	0
+of Thawing	100	1	1	19		14				1	3	abs-cold		3	3										tors	shld	boot	circ									0	0
+of the Dunes	100	1	1	28		21				1	3	abs-cold		4	5										tors	shld	boot	circ									0	0
+of the Sirocco	100	1		38		30				1	3	abs-cold		6	8										tors	shld	boot	circ									0	0
 of Warming	100		1	13		9				1	3	abs-cold		2	2										ring	amul	orb	circ									0	0
 of Thawing	100		1	22		16				1	3	abs-cold		3	3										amul	orb	circ										0	0
 of the Dunes	100		1	33		25				1	3	abs-cold		4	5										amul	orb	circ										0	0
@@ -160,11 +160,11 @@ of Desire	100		1	23		17				1	3	abs-cold		1	2										jewl												0	0
 of Piercing	1	1	1	25		18				2	4	ignore-ac		1	1										rod	knif	h2h										0	0
 of Bashing	100		1	16		12				4	5	dmg-ac		-25	-40										blun							wand	staf	orb			0	0
 of Puncturing	100		1	6		4				4	5	dmg-ac		-10	-20										spea	knif	h2h										0	0
-of Thorns	1	1	1	14		10				4	6	thorns		1	3										tors	shld	belt	circ									0	0
-of Spikes	1	1	1	21		15				4	6	thorns		4	6									oran	tors	shld	belt	circ									0	0
-of Razors	100	1	1	34		26				4	6	thorns		7	9									oran	tors	shld	circ										0	0
-of Swords	100	1		47		39				4	6	thorns		10	20									oran	tors	shld	circ										0	0
-of Malice	100	1	1	37		29				4	6	thorns		1	5										jewl												0	0
+of Thorns	1	0	1	14		10				4	6	thorns		1	3										tors	shld	belt	circ									0	0
+of Spikes	1	0	1	21		15				4	6	thorns		4	6									oran	tors	shld	belt	circ									0	0
+of Razors	100	0	1	34		26				4	6	thorns		7	9									oran	tors	shld	circ										0	0
+of Swords	100	0		47		39				4	6	thorns		10	20									oran	tors	shld	circ										0	0
+of Malice	100	0	1	37		29				4	6	thorns		1	5										jewl												0	0
 of Readiness	1	1	1	5		3				6	7	swing1		10	10										weap							wand	orb				0	0
 of Alacrity	1	1	1	25		17				6	7	swing2		20	20										weap							wand	orb				0	0
 of Swiftness	1	1	1	34		26				6	7	swing2		30	30										mele							wand	staf	orb			0	0
@@ -309,9 +309,9 @@ of Brilliance	1	1	1	16		12				3	23	enr		7	10										helm	scep											0	0
 of Sorcery	100	1		26		21				3	23	enr		11	15									dgld	helm	scep											0	0
 of Knowledge	100	1	1	9		6				3	23	enr		1	5										jewl												0	0
 of the Bear	1	0		8		6				3	24	knock		1	1										mele												0	0
-of Light	1	1	1	6		4				1	25	att		15	15										armo	rod	ring	amul									0	0
-of Radiance	1	1	1	15		11				1	25	att		30	30										rod	miss	ring	amul	helm								0	0
-of the Sun	1	1	1	17		12				1	25	att%		5	5										rod	miss	glov	ring	amul	helm							0	0
+of Light	1	0	1	6		4				1	25	att		15	15										armo	rod	ring	amul									0	0
+of Radiance	1	0	1	15		11				1	25	att		30	30										rod	miss	ring	amul	helm								0	0
+of the Sun	1	1	1	17		12				1	25	att%		10	10										rod	miss	glov	ring	amul	helm							0	0
 of the Jackal	1	1	1	1		1				3	26	hp		1	5										tors	belt	amul	phlm	circ								0	0
 of the Fox	1	1	1	7		5				3	26	hp		6	10										tors	belt	amul	phlm	circ								0	0
 of the Wolf	1	1	1	15		11				3	26	hp		11	20										tors	belt	amul	phlm	circ								0	0
@@ -537,24 +537,24 @@ of Glacial Spikes	100	1	1	24		24		sor	18	1	44	oskill	55	1	1										staf	orb			
 of Glacial Spikes	100	1	1	48		48		sor	18	1	44	oskill	55	1	1										knif												0	0
 of Meteors	100	1	1	30		30		sor	24	1	44	oskill	56	1	1										staf	orb											0	0
 of Meteors	100	1	1	60		60		sor	24	1	44	oskill	56	1	1										knif	club											0	0
-of Thunder Storm	100			30		30		sor	24	1	44	oskill	57	1	1										staf	orb											0	0
-of Thunder Storm	100			60		60		sor	24	1	44	oskill	57	1	1										hamm	club											0	0
+of Thunder Storm	100	1	1	30		30		sor	24	1	44	oskill	57	1	1										staf	orb											0	0
+of Thunder Storm	100	1	1	60		60		sor	24	1	44	oskill	57	1	1										hamm	club											0	0
 of Energy Shield	100			30		30		sor	24	1	44	oskill	58	1	1										staf	orb											0	0
 of Energy Shield	100			60		60		sor	24	1	44	oskill	58	1	1										helm												0	0
 of Blizzards	100	1	1	30		30		sor	24	1	44	oskill	59	1	1										staf	orb											0	0
 of Blizzards	100	1	1	60		60		sor	24	1	44	oskill	59	1	1										knif												0	0
 of Chilling Armor	100			30		30		sor	24	1	44	oskill	60	1	1										staf	orb											0	0
 of Chilling Armor	100			60		60		sor	24	1	44	oskill	60	1	1										tors												0	0
-of Hydras	100			36		36		sor	30	1	44	oskill	62	1	1										staf	orb											0	0
-of Hydras	100			72		72		sor	30	1	44	oskill	62	1	1										club												0	0
+of Hydras	100	1	1	36		36		sor	30	1	44	oskill	62	1	1										staf	orb											0	0
+of Hydras	100	1	1	72		72		sor	30	1	44	oskill	62	1	1										club												0	0
 of Frozen Orbs	100	1	1	36		36		sor	30	1	44	oskill	64	1	1										staf	orb											0	0
 of Frozen Orbs	100	1	1	72		72		sor	30	1	44	oskill	64	1	1										knif												0	0
-of Amplify Damage	100			7		7		nec	1	1	44	oskill	66	20	22										wand	knif	head										0	0
-of Amplify Damage	100			14		14		nec	1	1	44	oskill	66	20	22										blun												0	0
+of Amplify Damage	100	1	1	7		7		nec	1	1	44	oskill	66	20	22										wand	knif	head										0	0
+of Amplify Damage	100	1	1	14		14		nec	1	1	44	oskill	66	20	22										blun												0	0
 of Teeth	100	1	1	7		7		nec	1	1	44	oskill	67	1	1										wand	knif	head										0	0
 of Teeth	100	1	1	14		14		nec	1	1	44	oskill	67	1	1										swor												0	0
-of Bone Armor	100			7		7		nec	1	1	44	oskill	68	1	1										wand	knif	head										0	0
-of Bone Armor	100			14		14		nec	1	1	44	oskill	68	1	1										tors												0	0
+of Bone Armor	100	1	1	7		7		nec	1	1	44	oskill	68	1	1										wand	knif	head										0	0
+of Bone Armor	100	1	1	14		14		nec	1	1	44	oskill	68	1	1										tors												0	0
 of Raise Skeletons	100			7		7		nec	1	1	44	oskill	70	1	1										wand	knif	head										0	0
 of Raise Skeletons	100			14		14		nec	1	1	44	oskill	70	1	1										amul	circ											0	0
 of Dim Vision	100	1	1	12		12		nec	6	1	44	oskill	71	1	1										wand	knif	head										0	0
@@ -563,16 +563,16 @@ of Weaken	100	1	1	12		12		nec	6	1	44	oskill	72	1	1										wand	knif	head						
 of Weaken	100	1	1	24		24		nec	6	1	44	oskill	72	1	1										glov												0	0
 of Poison Dagger	100	1	1	12		12		nec	6	1	44	oskill	73	1	1										knif	head											0	0
 of Poison Dagger	100	1	1	24		24		nec	6	1	44	oskill	73	1	1										glov	ring	circ										0	0
-of Corpse Explosions	100			12		12		nec	6	1	44	oskill	74	1	1										wand	knif	head										0	0
-of Corpse Explosions	100			24		24		nec	6	1	44	oskill	74	1	1										club												0	0
+of Corpse Explosions	100	1	1	12		12		nec	6	1	44	oskill	74	1	1										wand	knif	head										0	0
+of Corpse Explosions	100	1	1	24		24		nec	6	1	44	oskill	74	1	1										club												0	0
 of Clay Golem Summoning	100			12		12		nec	6	1	44	oskill	75	1	1										wand	knif	head										0	0
 of Clay Golem Summoning	100			24		24		nec	6	1	44	oskill	75	1	1										amul	circ											0	0
 of Iron Maiden	100			18		18		nec	12	1	44	oskill	76	1	1										wand	knif	head										0	0
 of Iron Maiden	100			36		36		nec	12	1	44	oskill	76	1	1										shld												0	0
 of Terror	100	1	1	18		18		nec	12	1	44	oskill	77	1	1										wand	knif	head										0	0
 of Terror	100	1	1	36		36		nec	12	1	44	oskill	77	1	1										shld												0	0
-of Bone Walls	100			18		18		nec	12	1	44	oskill	78	1	1										wand	knif	head										0	0
-of Bone Walls	100			36		36		nec	12	1	44	oskill	78	1	1										club	mace	scep										0	0
+of Bone Walls	100	1	1	18		18		nec	12	1	44	oskill	78	1	1										wand	knif	head										0	0
+of Bone Walls	100	1	1	36		36		nec	12	1	44	oskill	78	1	1										club	mace	scep										0	0
 of Raise Skeletal Mages	100			18		18		nec	12	1	44	oskill	80	1	1										wand	knif	head										0	0
 of Raise Skeletal Mages	100			36		36		nec	12	1	44	oskill	80	1	1										amul	circ											0	0
 of Confusion	100	1	1	24		24		nec	18	1	44	oskill	81	1	1										wand	knif	head										0	0
@@ -587,8 +587,8 @@ of Blood Golem Summoning	100			24		24		nec	18	1	44	oskill	85	1	1										wand	k
 of Blood Golem Summoning	100			48		48		nec	18	1	44	oskill	85	1	1										axe												0	0
 of Attraction	100	1	1	30		30		nec	24	1	44	oskill	86	1	1										wand	knif	head										0	0
 of Attraction	100	1	1	60		60		nec	24	1	44	oskill	86	1	1										ring	amul	circ										0	0
-of Decrepification	100			30		30		nec	24	1	44	oskill	87	1	1										wand	knif	head										0	0
-of Decrepification	100			60		60		nec	24	1	44	oskill	87	1	1										shld												0	0
+of Decrepification	100	1	1	30		30		nec	24	1	44	oskill	87	1	1										wand	knif	head										0	0
+of Decrepification	100	1	1	60		60		nec	24	1	44	oskill	87	1	1										shld												0	0
 of Bone Imprisonment	100			30		30		nec	24	1	44	oskill	88	1	1										wand	knif	head										0	0
 of Bone Imprisonment	100			60		60		nec	24	1	44	oskill	88	1	1										mace	scep											0	0
 of Iron Golem Creation	100			30		30		nec	24	1	44	oskill	90	1	1										wand	knif	head										0	0
@@ -661,8 +661,8 @@ of Armageddon	100			36		36		dru	30	1	44	oskill	249	1	1										club												
 of Armageddon	100			72		72		dru	30	1	44	oskill	249	1	1										staf												0	0
 of Hurricane	100			36		36		dru	30	1	44	oskill	250	1	1										club												0	0
 of Hurricane	100			72		72		dru	30	1	44	oskill	250	1	1										amul	circ											0	0
-of Damage Amplification	100	1	1	3						1	44	hit-skill	66	20	22										weap							orb					0	0
-of Damage Amplification	100	1	1	90						1	44	hit-skill	66	20	22										weap	miss	mele										0	0
+of Damage Amplification	100	1	1	3						1	44	hit-skill	66	20	22										weap	miss	melee										0	0
+of Damage Amplification	100	1	1	90						1	44	hit-skill	66	20	22										weap	miss	melee	swor	axe	hamm	mace	club	pole	spea	rod	scep	0	0
 of the Icicle	100	1	1	37		29				2	10	cold-min		2	3	cold-max		6	10	cold-len		50	50	dblu	jewl												0	0
 of the Glacier	100	1	1	58		50				2	10	cold-min		4	5	cold-max		11	15	cold-len		50	50	dblu	jewl												0	0
 of Fire	100	1	1	36		28				2	12	fire-min		4	10	fire-max		11	30					dred	jewl												0	0
