@@ -6,9 +6,9 @@ Name	enabled	firstLadderSeason	lastLadderSeason	min diff	version	op	param	value	
 ,mag	0				100					2	hpot,qty=2								99		99																																																																																				0
 ,rar	0				100					2	apot,qty=2								99		99																																																																																				0
 ,qty=	0				100																																																																																																				0
-																																																																																																									0
-																																																																																																									0
-Seasonal Gift	1				100					1	gft							r15g	51																												"r01g,qty=5"	35																												"gxm4,qty=5"																													0
+1 Thaw for Splash Charm	1				100					1	wms							Ravaging T1	99		99	splash		375	100	1																						99		99																											99		99																										0
+test	0				100					1	tsc							Corrupted Azurewrath	100			splash		375	100	1																																																																															0
+Seasonal Gift	0				100					1	gft							r15g	51																												"r01g,qty=5"	35																												"gxm4,qty=5"																													0
 Set Reroll	1				0					2	any,set,eth	mfd						usetype,set	99		99	ethereal	100		1	1																					mfd																																																										0
 Set Reroll	1				0					2	any,set,noe	mfd						usetype,set	99		99																										mfd																																																										0
 Unique Reroll	1				0					2	any,uni,eth	mfd						usetype,uni	99		99	ethereal	100		1	1																					mfd																																																										0
@@ -1585,3 +1585,12 @@ Remove DY	1				100	18	369	1		2	weap	1dr						useitem	99		99	state		224	-1	-1	dye
 Remove LP	1				100	18	370	1		2	weap	1dr						useitem	99		99	state		225	-1	-1	dyelightpurple1			-1	-1	dyed1			-1	-1																																																																					0
 Remove DP	1				100	18	371	1		2	weap	1dr						useitem	99		99	state		226	-1	-1	dyedarkpurple1			-1	-1	dyed1			-1	-1																																																																					0
 Remove Orange	1				100	18	372	1		2	weap	1dr						useitem	99		99	state		227	-1	-1	dyeorange1			-1	-1	dyed1			-1	-1																																																																					0
+SPLASH CHARM UPGRADES WIP																																																																																																									0
+UPGRADE SPLASH CHARM TIER - T1 Splash Charm & El-Rune = T2 Splash Charm	1				100	15	386	1		2	Ravaging T1	r01						Ravaging T2	3		99																										Ravaging T2	3																																																									0
+UPGRADE SPLASH CHARM TIER - T2 Splash Charm & Nef-Rune  = T3 Splash Charm	1				100	15	386	1		2	Ravaging T2	r04						Ravaging T3	11		99																										Ravaging T3	11																																																									0
+UPGRADE SPLASH CHARM TIER - T3 Splash Charm & Sol-Rune & Flawless Skull = T4 Splash Charm	1				100	15	386	1		3	Ravaging T3	r12	1kl					Ravaging T4	21		99																										Ravaging T4	21																																																									0
+UPGRADE SPLASH CHARM TIER - T4 Splash Charm & Hel-Rune & Flawless Skull = T5 Splash Charm	1				100	15	386	1		3	Ravaging T4	r15	1kl					Ravaging T5	29		99																										Ravaging T5	29																																																									0
+UPGRADE SPLASH CHARM TIER - T5 Splash Charm & Fal-Rune & Perfect Skull = T6 Splash Charm	1				100	15	386	1		3	Ravaging T5	r19	1kz					Ravaging T6	35		99																										Ravaging T6	35																																																									0
+UPGRADE SPLASH CHARM TIER - T6 Splash Charm & Pul-Rune & Eth-Rune & Perfect Skull = T7 Splash Charm	1				100	15	386	1		3	Ravaging T6	r21	r05					Ravaging T7	41		99																										Ravaging T7	41																																																									0
+UPGRADE SPLASH CHARM TIER - T7 Splash Charm & Mal-Rune & Tal-Rune & Perfect Skull = T8 Splash Charm	1				100	15	386	1		3	Ravaging T7	r23	r07					Ravaging T8	45		99																										Ravaging T8	45																																																									0
+UPGRADE SPLASH CHARM TIER - T8 Splash Charm & Ohm-Rune & Ral-Rune & Charsi Malus & Larzuk Malus = T9 Splash Charm	1				100	15	386	1		5	Ravaging T8	r27	r08	mls	lmr			Ravaging T9	49		99																										Ravaging T9	49																																																									0
