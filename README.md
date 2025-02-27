@@ -28,6 +28,7 @@ BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Di
 - Removed Act Cinematics
 - Can now hold Multiple Unique Charms (Strictly for QOL not balance)
 - Doubled Inventory! Only Top or Bottom Half Allowed (Strictly for QOL not balance)
+- Splash Damage Charm
 
 BTNeandertha1 Social Media Links:  
 - [Twitch](https://www.twitch.tv/btneandertha1)
