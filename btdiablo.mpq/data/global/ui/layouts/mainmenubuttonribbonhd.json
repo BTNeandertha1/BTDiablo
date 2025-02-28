@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nDensity, Skills, Stats, Items and Runeword Adjustment! NEW UBER CLASS SETS ARE NOW LIVE! 1:99 Drop Chance! \nVersion 1.0 20th January",
+                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nSPLASH DAMAGE IS HERE! Cube 1 Thawing Potion alone in the Cube for the Splash Damage Charm! Class Uber sets 1:99 Drop Chance! \nVersion 1.2 27th February",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",
