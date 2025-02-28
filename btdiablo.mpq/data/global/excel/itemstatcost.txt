@@ -383,3 +383,4 @@ item_str_percent	380		1	16											32093	204		8	10	8	10			11			strength							
 item_dex_percent	381		1	16											32093	204		8	10	8	10			11			dexterity										66	19		Moditemdexpercent	Moditemdexpercent									2	0
 item_vit_percent	382		1	16											32093	204		8	10	8	10			11			vitality										66	19		Moditemvitpercent	Moditemvitpercent									2	0
 item_enr_percent	383		1	16											32093	204		8	10	8	10			11			energy										66	19		Moditemenrpercent	Moditemenrpercent									2	0
+item_splashonhit	384		1	7	16						1				-400	0		21	0	7	0	16										1	domeleedamage	20			160	15	0	splash3	splash3										0
