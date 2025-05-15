@@ -4758,5 +4758,22 @@
     "ptBR": "Bastião",
     "ruRU": "Оплот",
     "zhCN": "壁垒"
+  },
+  {
+    "id": 50044,
+    "Key": "Runeword181",
+    "enUS": "Revenge",
+    "zhTW": "復仇",
+    "deDE": "Rache",
+    "esES": "Venganza",
+    "frFR": "Vengeance",
+    "itIT": "Vendetta",
+    "koKR": "복수심",
+    "plPL": "Zemsta",
+    "esMX": "Venganza",
+    "jaJP": "復讐",
+    "ptBR": "Vingança",
+    "ruRU": "Месть",
+    "zhCN": "复仇"
   }
 ]
