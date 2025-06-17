@@ -1,13 +1,13 @@
 Name	version	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	multiply	add
-of Health	0	0	1	7		5					1	red-dmg		1	1										tors	helm	shld	ring	amul								0	0
-of Protection	0	0	1	18		13					1	red-dmg		2	2										ring	amul											0	0
-of Absorption	0	1	1	26		19					1	red-dmg		3	3										amul												0	0
-of Life	0	1	1	35		26					1	red-dmg		4	4									dblu	amul												0	0
+of Health	0	0	1	7		5					1	red-dmg		1	4										tors	helm	shld	ring	amul								0	0
+of Protection	0	0	1	18		13					1	red-dmg		5	8										ring	amul											0	0
+of Absorption	0	1	1	26		19					1	red-dmg		9	12										amul												0	0
+of Life	0	1	1	35		26					1	red-dmg		13	20									dblu	amul												0	0
 		1																																			0	0
-of Warding	0	0	1	7		5					2	red-mag		1	1										tors	helm	shld	ring	amul								0	0
-of the Sentinel	0	0	1	18		13					2	red-mag		2	2										ring	amul											0	0
-of Guarding	0	1	1	26		19					2	red-mag		3	3										amul												0	0
-of Negation	0	1	1	35		26					2	red-mag		4	4										amul												0	0
+of Warding	0	0	1	7		5					2	red-mag		1	4										tors	helm	shld	ring	amul								0	0
+of the Sentinel	0	0	1	18		13					2	red-mag		5	8										ring	amul											0	0
+of Guarding	0	1	1	26		19					2	red-mag		9	12										amul												0	0
+of Negation	0	1	1	35		26					2	red-mag		13	20										amul												0	0
 																																					0	0
 of Piercing	0	1	1	25		18					3	ignore-ac		1	1										rod												0	0
 of Bashing	0	1	1	16		12					4	dmg-ac		-25	-40										mele							wand	staf				0	0
@@ -22,33 +22,33 @@ of Blocking	0	1	1	1		1					7	block		10	10										shld												0	0
 of Deflecting	0	1	1	11		8					7	block		20	20										shld												0	0
 of the Apprentice	0	1	1	5		3					8	cast1		10	10										rod	ring	amul										0	0
 of the Magus	0	1	1	17		12					8	cast3		20	20										rod												0	0
-of Frost	0	1	1	4		3					9	cold-min		1	1	cold-max		1	4	cold-len		125	125		weap												0	0
-of the Glacier	0	1	1	18		13					9	cold-min		4	4	cold-max		4	12	cold-len		150	150		mele												0	0
-of Frost	0	1	1	55		41					9	cold-min		1	1	cold-max		1	4	cold-len		125	125		belt	amul											0	0
+of Frost	0	0	1	4		3					9	cold-min		1	1	cold-max		1	4	cold-len		125	125		weap												0	0
+of the Glacier	0	0	1	18		13					9	cold-min		4	4	cold-max		4	12	cold-len		150	150		mele												0	0
+of Frost	0	0	1	55		41					9	cold-min		1	1	cold-max		1	4	cold-len		125	125		belt	amul											0	0
 of Warmth	0	1	1	10		7					10	half-freeze		1	1										shld	boot	glov	ring	amul								0	0
-of Flame	0	1	1	4		3					11	fire-min		1	1	fire-max		2	6						weap												0	0
-of Fire	0	1	1	15		11					11	fire-min		2	2	fire-max		6	11						weap												0	0
+of Flame	0	0	1	4		3					11	fire-min		1	1	fire-max		2	6						weap												0	0
+of Fire	0	0	1	15		11					11	fire-min		2	2	fire-max		6	11						weap												0	0
 of Burning	0	1	1	25		18					11	fire-min		10	10	fire-max		10	20					dred	weap												0	0
-of Flame	0	1	1	40		30					11	fire-min		1	1	fire-max		2	6						glov	ring	amul										0	0
-of Shock	0	1	1	4		3					12	ltng-min		1	1	ltng-max		8	8						weap												0	0
-of Lightning	0	1	1	15		11					12	ltng-min		1	1	ltng-max		16	16						weap												0	0
+of Flame	0	0	1	40		30					11	fire-min		1	1	fire-max		2	6						glov	ring	amul										0	0
+of Shock	0	0	1	4		3					12	ltng-min		1	1	ltng-max		8	8						weap												0	0
+of Lightning	0	0	1	15		11					12	ltng-min		1	1	ltng-max		16	16						weap												0	0
 of Thunder	0	1	1	25		18					12	ltng-min		1	1	ltng-max		32	32					dyel	weap												0	0
-of Shock	0	1	1	50		37					12	ltng-min		1	1	ltng-max		8	8						boot	ring	amul	weap				miss	rod				0	0
-of Craftsmanship	0	1	1	1		1					13	dmg-max		1	2										weap	ring	amul										0	0
-of Quality	0	1	1	4		3					13	dmg-max		2	2										weap												0	0
-of Maiming	0	1	1	7		5					13	dmg-max		3	4										weap												0	0
-of Slaying	0	1	1	11		8					13	dmg-max		5	7										weap												0	0
-of Gore	0	1	1	14		10					13	dmg-max		8	10										weap												0	0
-of Carnage	0	1	1	19		14					13	dmg-max		11	14									blac	weap								staf				0	0
+of Shock	0	0	1	50		37					12	ltng-min		1	1	ltng-max		8	8						boot	ring	amul	weap				miss	rod				0	0
+of Craftsmanship	0	1	1	1		1					13	dmg-max		1	3										weap	ring	amul										0	0
+of Quality	0	1	1	4		3					13	dmg-max		4	5										weap												0	0
+of Maiming	0	1	1	7		5					13	dmg-max		6	7										weap												0	0
+of Slaying	0	1	1	11		8					13	dmg-max		7	8										weap												0	0
+of Gore	0	1	1	14		10					13	dmg-max		9	11										weap												0	0
+of Carnage	0	1	1	19		14					13	dmg-max		12	14									blac	weap								staf				0	0
 of Slaughter	0	1	1	25		18					13	dmg-max		15	20									blac	weap								staf				0	0
 of Maiming	0	1	1	42		31					13	dmg-max		3	4										shld	ring	amul										0	0
-of Worth	0	1	1	2		1					14	dmg-min		1	1										weap							rod					0	0
-of Measure	0	1	1	6		4					14	dmg-min		2	2										weap												0	0
-of Excellence	0	1	1	12		9					14	dmg-min		3	3										weap	ring	amul										0	0
-of Performance	0	1	1	18		13					14	dmg-min		4	5									blac	weap												0	0
-of Measure	0	1	1	37		27					14	dmg-min		2	2										tors	helm	ring	amul									0	0
-of Blight	0	1	1	5		3					15	pois-min		8	8	pois-max		24	24	pois-len		75	75		weap							scep					0	0
-of Venom	0	1	1	15		11					15	pois-min		16	16	pois-max		48	48	pois-len		75	75		weap							scep					0	0
+of Worth	0	0	1	2		1					14	dmg-min		1	1										weap							rod					0	0
+of Measure	0	0	1	6		4					14	dmg-min		2	2										weap												0	0
+of Excellence	0	0	1	12		9					14	dmg-min		3	3										weap	ring	amul										0	0
+of Performance	0	0	1	18		13					14	dmg-min		4	5									blac	weap												0	0
+of Measure	0	0	1	37		27					14	dmg-min		2	2										tors	helm	ring	amul									0	0
+of Blight	0	0	1	5		3					15	pois-min		8	8	pois-max		24	24	pois-len		75	75		weap							scep					0	0
+of Venom	0	0	1	15		11					15	pois-min		16	16	pois-max		48	48	pois-len		75	75		weap							scep					0	0
 of Pestilence	0	1	1	25		18					15	pois-min		32	32	pois-max		72	72	pois-len		100	100	dgrn	weap							scep					0	0
 of Blight	0	1	1	45		33					15	pois-min		8	8	pois-max		24	24	pois-len		75	75		ring	amul											0	0
 of Dexterity	0	1	1	4		3					16	dex		1	1										ring	amul											0	0
@@ -662,7 +662,7 @@ of Armageddon	100			72		72		dru	30	1	44	oskill	249	1	1										staf												
 of Hurricane	100			36		36		dru	30	1	44	oskill	250	1	1										club												0	0
 of Hurricane	100			72		72		dru	30	1	44	oskill	250	1	1										amul	circ											0	0
 of Damage Amplification	100	1	1	3						1	44	hit-skill	66	20	22										weap	miss	melee										0	0
-of Damage Amplification	100	1	1	90						1	44	hit-skill	66	20	22										weap	miss	melee	club	rod	scep	swor	axe	hamm	mace	spea	pole	0	0
+of Damage Amplification	100	1	1	90						1	44	hit-skill	66	20	22										weap	miss	melee	swor	axe	hamm	mace	club	pole	spea	rod	scep	0	0
 of the Icicle	100	1	1	37		29				2	10	cold-min		2	3	cold-max		6	10	cold-len		50	50	dblu	jewl												0	0
 of the Glacier	100	1	1	58		50				2	10	cold-min		4	5	cold-max		11	15	cold-len		50	50	dblu	jewl												0	0
 of Fire	100	1	1	36		28				2	12	fire-min		4	10	fire-max		11	30					dred	jewl												0	0
