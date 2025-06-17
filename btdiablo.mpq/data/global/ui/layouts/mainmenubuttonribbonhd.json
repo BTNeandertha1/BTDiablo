@@ -108,7 +108,7 @@
                         {
                             "type": "TextBoxWidget", "name": "MotDHeaderText",
                             "fields": {
-                                "text": "BTDiablo",
+                                "text": "KEXDiablo",
                                 "fitToParent": true,
                                 "style": {
                                     "pointSize": "$MediumLargeFontSize",
