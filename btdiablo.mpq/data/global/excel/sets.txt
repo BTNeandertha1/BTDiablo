@@ -8,7 +8,7 @@ Vidala's Rig	Vidala's Rig	0	att		75	75	manasteal		7	7	dex		15	15																
 Milabrega's Regalia	Milabrega's Regalia	0	att		125	125	dmg-cold/lvl	16			att		125	125	nofreeze		1	1																	lifesteal	0	8	8	allskills	0	2	2	manasteal	0	10	10	res-pois	0	40	40	addxp		15	15	mag%		100	100									0
 Cathan's Traps	Cathan's Traps	0	dmg-fire		15	20	regen-mana		20	20	res-ltng		30	30																					fireskill		2	2	red-mag	0	5	5	res-all	0	20	20	swing1	0	25	25	mana-kill	0	2	2	cast1		10	10	addxp		15	15	mag%		60	60	0
 Tancred's Battlegear	Tancred's Battlegear	0	dmg-ltng		15	15					lifesteal		5	5																					gold%	0	125	125	res-all	0	35	35	slow	0	35	35	manasteal	0	5	5	allskills		1	1	addxp		15	15	mag%		50	50	red-dmg%		10	10	0
-Sigon's Complete Steel	Sigon's Complete Steel	0	lifesteal		10	10					ac		100	100																					res-all	0	35	35	red-dmg%	0	12	12	red-dmg	0	10	10	fire-max	0	43	43	mana		35	35	addxp		15	15	mag%		50	50	allskills		2	2	0
+Sigon's Complete Steel	Sigon's Complete Steel	0	lifesteal		15	15	manasteal		15	15	ac		777	777	nofreeze		1	1																	red-mag	0	50	50	red-dmg%	0	50	50	red-dmg	0	50	50	hp%	0	25	25	mana%		25	25	addxp		15	15	mag%		150	150	allskills		5	5	0
 Infernal Tools	Infernal Tools	0	res-fire		25	25					mana		40	40																					res-pois-len	0	75	75	allskills	0	1	1	ac-miss	0	100	100	mana-kill		3	3	mana%		20	20	nofreeze		1	1	addxp		15	15	mag%		100	100	0
 Berserker's Garb	Berserker's Garb	0	hp		50	50																													res-pois-len	0	75	75	addxp		15	15	res-all		20	20	gold%		75	75	ac		75	75	fade		0	0	state	fullsetgeneric	0	0	mag%		100	100	0
 Death's Disguise	Death's Disguise	0	lifesteal		8	8																													att%	0	40	40	dmg-min	0	10	10	res-all	0	25	25	addxp		15	15	allskills		1	1	mag%		100	100									0
@@ -29,7 +29,7 @@ Orphan's Call	Orphan's Call	100	hp		100	100					hp%		5	5					ac		100	100								
 Hwanin's Majesty	Hwanin's Majesty	100	lifesteal		10	10					lifesteal		10	10	red-dmg%		5	5																	allskills		2	2	hp		100	100	move3		30	30	res-all		30	30	addxp		15	15													0
 Sazabi's Grand Tribute	Sazabi's Grand Tribute	100	move3		40	40	res-pois-len		200	200																									res-all		30	30	lifesteal		15	15	hp%		27	27	allskills		2	2	red-dmg%		20	20	addxp		15	15	mag%		125	125					0
 Bul-Kathos' Children	Bul-Kathos' Children	100																																	dmg		100	100	allskills		4	4	red-dmg%		20	20	dmg%		300	300	mag%		100	100	state	fullsetgeneric	1	1									0
-Cow King's Leathers	Cow King's Leathers	100	extra-ltng		50	50	ac/lvl		40	40																									res-all		45	45	gold%		100	100	mag%		125	125	addxp		5	5	swing3		30	30	hp		100	100	allskills		3	3					0
+Cow King's Leathers	Cow King's Leathers	100	extra-ltng		75	75	ac/lvl		100	100																									res-all		50	50	gold%		200	200	mag%		150	150	addxp		5	5	swing3		30	30	hp%		100	100	allskills		5	5					0
 Naj's Ancient Set	Naj's Ancient Set	100	cast1		30	30	mag%/lvl	12																											allskills		3	3	regen		20	20	dex		15	15	res-all		50	50	str		20	20	mana%		20	20	hp%		20	20	addxp		15	15	0
 McAuley's Folly	McAuley's Folly	100	mana%		5	5					res-all		15	15																					skilltab	7	2	2	mag%		125	125	mana		50	50	addxp		15	15	cast1		20	20													0
 Nadin's Winning Strategy	Nadin's Winning Strategy	100																																	addxp		10	10	cast2		10	10	move2		25	25	balance2		24	24	allskills		1	1	mag%		50	50									0
