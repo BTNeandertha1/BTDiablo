@@ -435,7 +435,7 @@ Jym's Swift Journey	431	100	1			1	1	60	45	ulb	wyrmhide boots		5	5000	whit	whit		
 Thunderlords Overcharge	432	100	1			1	1	85	85	obf	dimensional shard		3	5000	lyel	lyel						sor		3	3	skill	Thunder Storm	7	7	cast2		30	30	pierce-ltng		10	20	extra-ltng		20	20	res-pois-len		100	100	res-ltng		75	75	enr		30	50																		0
 Static Accumulator	433	100	1			1	1	12	10	lbt	Leather Boots		1	150	dgld	dgld						sock		1	1	enr%		1	10	gethit-skill	Static Field	5	20	move1		10	10																																		0
 Wind God Fist	434	100	1			1	1	85	90	7xf	War Fist		5	5000	cblu	cblu						deadly/lvl		5	5	oskill	Hurricane	40	50	dmg%		290	355	indestruct		1	1	dex%		20	20	str%		20	20	balance1		35	50	dmg		66	99	aura	Holy Freeze	12	12	manasteal		7	7	lifesteal		7	7	rip		1	1		0
-Ravaging T1	435	100	1			1	1	1	1	mfg	charm	1	1	5000			flptrch	invmss	item_gem	12	item_gem	Splash	proc_SplashDamage	100	1																																														0
+Ravaging T1	435	100	1			1	1	1	1	jew	jewel		1	5000			flptrch	invmss	item_gem	12	item_gem	Splash	375	100	1																																														0
 Killing Intent	436	100	1			1	1	30	29	jew	jewel		3	5000								att-skill	Amplify Damage	10	10	oskill	Amplify Damage	1	1	swing2		5	10																																						0
 Elemental Exposure	437	100	1			1	1	30	29	jew	jewel		3	5000								kill-skill	Lower Resist	10	10	oskill	Lower Resist	1	1	cast2		3	5																																						0
 Robe of the Horadrim	438	100	1			1	1	83	80	uui	dusk shroud		3	5000	blac	blac						ac		500	666	cast2		30	30	allskills		1	1	mana		100	100	hp		100	100	oskill	Teleport	1	1																										0
