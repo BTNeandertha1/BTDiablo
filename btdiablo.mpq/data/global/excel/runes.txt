@@ -12,23 +12,23 @@ Runeword10	Brand	1			Previously Ladder Only	miss									JahLoMalGul	r31	r28	r23
 Runeword11	Breath of the Dying	1			110	weap									VexHelElEldZodEth	r26	r15	r01	r02	r33	r05	swing2		100	100	dmg-undead		300	300	lifesteal		15	15	dmg-demon		300	300	kill-skill	Poison Nova	100	60	dmg%		400	500	all-stats		30	50	0
 Runeword12	Broken Promise	1			Previously Ladder Only	tors									IoLumFalKo	r16	r17	r19	r18			balance2		20	20	move2		20	20	all-stats		10	10	cast2		20	20	nofreeze		1	1	swing2		20	20	mag%		20	20	0
 Runeword13	Call to Arms	1			110	weap									AmnRalMalIstOhm	r11	r08	r23	r24	r27		swing2		40	40	dmg%		200	600	allskills		1	3	oskill	Battle Command	3	6	oskill	Battle Orders	3	6	oskill	Battle Cry	3	3	regen		12	12	0
-Runeword14	Chains of Honor	1			110	tors									DolUmBerIst	r14	r22	r30	r24			res-all		50	50	ac%		70	70	dmg-demon		200	200	dmg-undead		100	100	lifesteal		8	8	allskills		2	2	str		20	20	0
+Runeword14	Chains of Honor	1			110	tors									DolUmBerIst	r14	r22	r30	r24			res-all		75	75	ac%		300	300	dmg-demon		300	300	dmg-undead		300	300	lifesteal		15	15	allskills		3	3	str		33	33	0
 Runeword15	Chance																																																	0
 Runeword16	Chaos	1			110	h2h									FalOhmUm	r19	r27	r22				heal-kill		50	50	dmg%		300	400	dmg-mag		500	500	oskill	Whirlwind	20	20	swing2		40	40	gethit-skill	Frozen Orb	100	60	rep-dur	100			0
 Runeword17	Crescent Moon	1			110	weap									ShaelUmTir	r13	r22	r03				pierce-ltng		15	15	ignore-ac		1	1	dmg%		180	220	abs-mag		12	18	aura	Holy Shock	14	16	hit-skill	Static Field	25	25	hit-skill	Chain Lightning	34	34	0
 Runeword18	Darkness																																																	0
 Runeword19	Daylight																																																	0
-Runeword20	Death	1			Previously Ladder Only	mele									HelElVexOrtGul	r15	r01	r26	r09	r25		dmg%		300	385	deadly/lvl	4			swing2		25	25	att-skill	Glacial Spike	25	18	death-skill	Chain Lightning	100	44	crush		50	50	indestruct		1	1	0
+Runeword20	Death	1			Previously Ladder Only	mele									HelElVexOrtGul	r15	r01	r26	r09	r25		dmg%		300	500	deadly/lvl	16			swing2		25	25	att-skill	Glacial Spike	50	60	death-skill	Chain Lightning	100	60	crush		100	100	indestruct		1	1	0
 Runeword21	Deception																																																	0
 Runeword22	Delirium	1			110	helm									LemIstIo	r20	r24	r16				hit-skill	Confuse	11	18	charged	Attract	60	17	gethit-skill	Terror	14	13	ac		261	261	gethit-skill	Mind Blast	6	14	allskills		2	2					0
 Runeword23	Desire																																																	0
 Runeword24	Despair																																																	0
-Runeword25	Destruction	1			Previously Ladder Only	weap									VexLoBerJahKo	r26	r28	r30	r31	r18		dmg%		350	350	dmg-mag		500	500	str/lvl	4			death-skill	Meteor	100	45	att-skill	Nova	15	35	hit-skill	Volcano	23	35	noheal		1	1	0
+Runeword25	Destruction	1			Previously Ladder Only	weap									VexLoBerJahKo	r26	r28	r30	r31	r18		dmg%		500	600	dmg-mag		500	500	str%		100	100	death-skill	Meteor	100	60	att-skill	Eruption	35	60	hit-skill	frozen orb	35	60	noheal		1	1	0
 Runeword26	Doom	1			110	mele									HelOhmUmLoCham	r15	r27	r22	r28	r32		dmg%		280	320	aura	Holy Freeze	12	12	swing2		45	45	noheal		1	1	pierce-cold		50	75	allskills		2	2	hit-skill	Blizzard	20	40	0
 Runeword27	Dragon	1			Previously Ladder Only	tors	shld								SurLoSol	r29	r28	r12				ac		360	360	ac-miss		230	230	str/lvl	3			hit-skill	Hydra	12	15	gethit-skill	Venom	20	18	aura	Holy Fire	16	21	all-stats		5	10	0
 Runeword28	Dread																																																	0
 Runeword29	Dream	1			Previously Ladder Only	helm	shld								IoJahPul	r16	r31	r21				ac		150	220	gethit-skill	Confuse	10	15	mana/lvl	5			res-all		14	20	balance3		20	30	aura	Holy Shock	15	15	mag%		20	30	0
-Runeword30	Duress	1			110	tors									ShaelUmThul	r13	r22	r10				mana-kill		15	20	dmg%		80	100	ac%		150	200	balance2		20	20	openwounds		33	33	crush		15	15	heal-kill		9	15	0
+Runeword30	Duress	1			110	tors									ShaelUmThul	r13	r22	r10				mana-kill		15	20	dmg%		150	150	ac%		200	200	balance2		20	20	openwounds		33	33	crush		30	30	heal-kill		15	15	0
 Runeword31	Edge	1			Previously Ladder Only	miss									TirTalAmn	r03	r07	r11				dmg%		280	320	pierce		33	33	swing2		35	35	noheal		1	1	aura	Thorns	15	15	all-stats		5	10	cheap		15	15	0
 Runeword32	Elation																																																	0
 Runeword33	Enigma	1			110	tors									JahIthSol	r31	r06	r12				ac		800	999	heal-kill		20	20	move2		45	45	allskills		2	3	oskill	Teleport	20	20	mag%/lvl	4			red-dmg%		15	15	0
@@ -123,7 +123,7 @@ Runeword122	Sanctuary	1			110	shld									KoKoMal	r18	r18	r23				block		20	20	b
 Runeword123	Serenedipity																																																	0
 Runeword124	Shadow																																																	0
 Runeword125	Shadow of Doubt																																																	0
-Runeword126	Silence	1			109	weap									ShaelEldHelIstTirVex	r13	r02	r15	r24	r03	r26	manasteal		4	4	dmg%		200	200	swing2		20	20	res-all		75	75	allskills		2	3	hit-skill	Amplify Damage	22	25					0
+Runeword126	Silence	1			109	weap									ShaelEldHelIstTirVex	r13	r02	r15	r24	r03	r26	manasteal		15	15	dmg%		300	450	swing2		50	50	res-all		75	75	allskills		3	3	hit-skill	Amplify Damage	22	25	aura	Fanaticism	20	20	0
 Runeword127	Siren's Song																																																	0
 Runeword128	Smoke	1			109	tors									NefLum	r04	r17					ac-miss		250	250	ac%		75	75	res-all		50	75	balance2		33	33	str/lvl		5	5	kill-skill	264	50	20					0
 Runeword129	Sorrow																																																	0
