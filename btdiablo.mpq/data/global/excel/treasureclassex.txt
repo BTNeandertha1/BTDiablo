@@ -951,6 +951,7 @@ Izual (H) Desecrated A	32	86	1					0	Izual Item (H) Desecrated A	1														
 Izual (H) Desecrated B	32	90	1					0	Izual Item (H) Desecrated B	1																									0
 Izual (H) Desecrated C	32	93	1					0	Izual Item (H) Desecrated C	1																									0
 Izual (H) Desecrated D	32	96	1					0	Izual Item (H) Desecrated D	1																									0
+Act 1 Super A Corpse	18	0	-5	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	1	Ravaging T1	1																					0
 Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																							0
 Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																							0
 Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																							0

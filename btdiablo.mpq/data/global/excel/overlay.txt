@@ -293,3 +293,4 @@ tigerstrike3	290	expansion\tiger_Strike_C	100	32	common	0	1	0	0	0	0	0	0	8	0	3	0	
 cobrastrike1	291	expansion\Cobra_Strike_A	100	16	assassin	0	1	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
 cobrastrike2	292	expansion\Cobra_Strike_B	100	16	assassin	0	1	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
 cobrastrike3	293	expansion\Cobra_Strike_C	100	16	assassin	0	1	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
+mconvictionfront	294	mconvictionfront	0	12	paladin	0	1	0	0	0	0	0	0	16	0	3	0	0	255	255	255	1	0

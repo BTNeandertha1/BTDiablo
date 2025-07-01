@@ -5,9 +5,9 @@ Name	enabled	firstLadderSeason	lastLadderSeason	min diff	version	op	param	value	
 ,set	0				100					2	mpot,qty=2								99		99																																																																																				0
 ,mag	0				100					2	hpot,qty=2								99		99																																																																																				0
 ,rar	0				100					2	apot,qty=2								99		99																																																																																				0
-,qty=	0				100																																																																																																				0
-1 Thaw for Splash Charm	1				100					1	wms							mfg,uni	99		99	splash		375	100	1																						99		99																											99		99																										0
-test	0				100					1	tsc							Whichwild String	99		99																										Mad Dog	99		99																										Shadowdancer	99		99																										0
+,qty=	1				100					2	wms,qty=2							cm1,mag	99		99	aura		377	1	1																																																																															0
+1 Thaw for Starting Charm	1				100					1	wms							Starting Charm	99		99																																																																																				0
+test	0				100					1	tsc								99		99																																																																																				0
 Seasonal Gift	0				100					1	gft							r15g	51																												"r01g,qty=5"	35																												"gxm4,qty=5"																													0
 Set Reroll	1				0					2	any,set,eth	mfd						usetype,set	99		99	ethereal	100		1	1																					mfd																																																										0
 Set Reroll	1				0					2	any,set,noe	mfd						usetype,set	99		99																										mfd																																																										0
