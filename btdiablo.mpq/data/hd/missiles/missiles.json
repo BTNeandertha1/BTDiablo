@@ -698,5 +698,8 @@
     "recklessattacksmissile": "expansion_shockwave",
     "leapattack": "b_a_yell_shock_wave_01",
     "thunderstormnova": "expansion_shockwave",
-    "frostnovamsl": "null"
+    "frostnovamsl": "null",
+    "frostnovaarrow": "frost_nova",
+    "firenovaarrow": "ground_fire_big",
+    "powerstrikenova": "electric_nova"
 }
