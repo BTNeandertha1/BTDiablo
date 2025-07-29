@@ -127,9 +127,9 @@ of Warding	1	0	1	7		5				4	2	red-mag		1	1										tors	shld	ring	amul	orb	circ	
 of the Sentinel	1	0	1	18		12				4	2	red-mag		2	2										ring	amul	orb	circ									0	0
 of Guarding	1	0	1	26		19				4	2	red-mag		3	3										amul	orb	circ										0	0
 of Negation	100	0		42		35				4	2	red-mag		4	6										amul	orb	circ										0	0
-of the Sentinel	1	1	1	24		18				4	2	red-mag%		1	5										tors	shld	circ										0	0
-of Guarding	1	1	1	32		24				4	2	red-mag%		6	10										tors	shld	circ										0	0
-of Negation	100	1	1	41		33				4	2	red-mag%		11	15										tors	shld	circ										0	0
+of the Sentinel	1	1	1	24		18				4	2	red-dmg%		1	5										tors	shld	circ										0	0
+of Guarding	1	1	1	32		24				4	2	red-dmg%		6	10										tors	shld	circ										0	0
+of Negation	100	1	1	41		33				4	2	red-dmg%		11	15										tors	shld	circ										0	0
 of Coolness	100		1	11		8				1	3	abs-fire		2	2										tors	shld	boot	circ									0	0
 of Incombustibility	100	1	1	19		14				1	3	abs-fire		3	3										tors	shld	boot	circ									0	0
 of Amianthus	100	1	1	28		21				1	3	abs-fire		4	5										tors	shld	boot	circ									0	0
