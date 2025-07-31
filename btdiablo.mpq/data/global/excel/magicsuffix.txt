@@ -173,8 +173,8 @@ of Alacrity	100	1	1	43		35				4	7	swing2		20	20									dyel	glov												0	0
 of Fervor	100	1	1	39		31				4	7	swing1		15	15										jewl												0	0
 of Blocking	1	1	1	1		1				7	8	block		10	10	block2		15	15						shld												0	0
 of Deflecting	1	1	1	11		8				6	8	block		20	20	block2		30	30						shld												0	0
-of the Apprentice	1	1	1	5		3				6	9	cast1		10	10										rod	ring	amul	orb	circ								0	0
-of the Magus	1	1	1	29		21				5	9	cast3		20	20										rod	orb	circ					scep					0	0
+of the Apprentice	1	1	1	5		3				6	9	cast1		10	10										shld	ring	amul	orb	circ	glov	tors	rod					0	0
+of the Magus	1	1	1	29		21				5	9	cast3		20	20										staf	orb	circ	glov	shld	tors		scep	rod				0	0
 of Frost	1	1	1	4		3				5	10	cold-min		1	1	cold-max		1	2	cold-len		50	50		weap							wand	orb				0	0
 of the Icicle	100	1	1	13		9				4	10	cold-min		1	1	cold-max		3	4	cold-len		75	75		weap							wand	orb				0	0
 of the Glacier	1	1	1	27		20				3	10	cold-min		2	4	cold-max		4	15	cold-len		100	100	dblu	weap							wand	orb				0	0
