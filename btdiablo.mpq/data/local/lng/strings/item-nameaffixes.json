@@ -17219,5 +17219,39 @@
     "ptBR": "White",
     "ruRU": "White",
     "zhCN": "White"
+  },
+  { 
+    "id": 61490,
+    "Key": "of Lower Resistance",
+    "enUS": "of Lower Resistance",
+    "zhTW": "of Lower Resistance",
+    "deDE": "of Lower Resistance",
+    "esES": "of Lower Resistance",
+    "frFR": "of Lower Resistance",
+    "itIT": "of Lower Resistance",
+    "koKR": "of Lower Resistance",
+    "plPL": "of Lower Resistance",
+    "esMX": "of Lower Resistance",
+    "jaJP": "of Lower Resistance",
+    "ptBR": "of Lower Resistance",
+    "ruRU": "of Lower Resistance",
+    "zhCN": "of Lower Resistance"
+  },
+  { 
+    "id": 61491,
+    "Key": "of Lower Resist",
+    "enUS": "of Lower Resist",
+    "zhTW": "of Lower Resist",
+    "deDE": "of Lower Resist",
+    "esES": "of Lower Resist",
+    "frFR": "of Lower Resist",
+    "itIT": "of Lower Resist",
+    "koKR": "of Lower Resist",
+    "plPL": "of Lower Resist",
+    "esMX": "of Lower Resist",
+    "jaJP": "of Lower Resist",
+    "ptBR": "of Lower Resist",
+    "ruRU": "of Lower Resist",
+    "zhCN": "of Lower Resist"
   }
 ]
