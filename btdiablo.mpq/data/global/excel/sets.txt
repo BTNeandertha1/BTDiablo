@@ -48,3 +48,4 @@ Griswold's Masterwork	Griswold's Masterwork	100																																	
 Trang-Oul's Incarnation	Trang-Oul's Incarnation	100																																	allskills		5	5	oskill	teleport	20	20	res-all		100	100	red-dmg%		20	20	mag%		150	150	oskill	enchant	20	20	oskill	warmth	20	20	oskill	fire mastery	7	7	0
 God of War M'avina	God of War M'avina	100																																	allskills		5	5	oskill	teleport	20	20	skill	lightning fury	7	7	skill	lightning strike	7	7	res-all		75	75	res-all-max		10	10	oskill	lightning mastery	7	7	mag%		150	150	0
 M'avina's Disappointment	M'avina's Disappointment	100																																																																	0
+The Nephalem	The Nephalem	100																																	red-dmg%		25	25	red-dmg		25	25	red-mag		25	25	res-all		50	50	nofreeze		1	1	res-curse		50	50	all-stats		100	100	mag%		150	150	0
