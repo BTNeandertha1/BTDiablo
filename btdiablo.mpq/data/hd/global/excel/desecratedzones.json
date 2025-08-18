@@ -78,7 +78,68 @@
                                     "bound_incl_max": 95,
                                 }
                                 */
+                        
                         },
+                        /* Pit Level 1 */
+                        {
+                            /* Pit Level 1 */
+                             "level_id":12,
+                        },
+                        /* Pit Level 2 */
+                        {
+                            /* Pit Level 2 */
+                             "level_id":16,
+                        },
+                        /* The Secret Cow Level */
+                        {
+                            /* Moo Moo Farm */
+                             "level_id":39,
+                        },
+                        /* Arcane Sanctuary */
+                        {
+                            /* Arcane Sanctuary */
+                             "level_id":74,
+                        },
+                        /* Travincal */
+                        {
+                            /* Travincal */
+                             "level_id":83,
+                        },
+                        /* The Chaos Sanctuary */
+                        {
+                            /* The Chaos Sanctuary */
+                             "level_id":108,
+                        },
+                        /* Nihlathak's Temple */
+                        {
+                            /* Nihlathak's Temple */
+                             "level_id":121,
+                        },
+                        /* Halls of Vaught */
+                        {
+                            /* Halls of Vaught */
+                             "level_id":124,
+                        },
+                        /* Abaddon */
+                        {
+                            /* Abaddon */
+                             "level_id":125,
+                        },
+                        /* Pit of Acheron */
+                        {
+                            /* Pit of Acheron */
+                             "level_id":126,
+                        },
+                        /* Infernal Pit */
+                        {
+                            /* Infernal Pit */
+                             "level_id":127,
+                        },
+                         /* Throne of Destruction */
+                        {
+                            /* Throne of Destruction */
+                             "level_id":131,
+                        },    
                     /* Matron's Den, Forgotten Sands, Furnace of Pain */
                         {
                             /* Matron's Den */
