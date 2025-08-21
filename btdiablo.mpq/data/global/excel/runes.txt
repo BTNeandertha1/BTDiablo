@@ -158,7 +158,7 @@ Runeword157	Void																																																	0
 Runeword158	War																																																	0
 Runeword159	Water																																																	0
 Runeword160	Wealth	1			109	tors									LemKoTir	r20	r18	r03				gold%		250	250	mag%/lvl	8			move2		20	20	swing2		10	10													0
-Runeword161	Whisper																																																	0
+Runeword161	Whisper	1	Magic Conviction			pole	spea								BerBerIstMal	r30	r30	r24	r23			dmg%		255	325	move3		35	35	vit/lvl	4			aura	376	12	12	kill-skill	84	50	20	pierce-mag		45	55	charged	Cyclone Armor	30	21	0
 Runeword162	White	1			109	wand									DolIo	r14	r16					skilltab	7	3	3	red-mag		4	4	cast2		20	20	mana		13	13	skill	68	3	3	skill	84	2	2	skill	69	4	4	0
 Runeword163	Wind	1			110	weap									SurMal	r29	r23					dmg%		260	280	swing2		40	40	move2		40	40	reduce-ac		50	50	hit-skill	Tornado	33	30	hit-skill	Twister	25	35	balance2		30	30	0
 Runeword164	Wings of Hope																																																	0
@@ -179,5 +179,5 @@ Runeword178	Hearth	1	3		D2R Ladder 3	helm									ShaelIoThul	r13	r16	r10				hp%
 Runeword179	Cure	1	3		D2R Ladder 3	helm									ShaelIoTal	r13	r16	r07				hp%		5	5	ac%		75	100	res-pois		10	30	res-pois-len		50	50	aura	Cleansing	1	1									0
 Runeword180	Bulwark	1	3		D2R Ladder 3	helm									ShaelIoSol	r13	r16	r12				hp%		5	5	ac%		75	100	red-dmg%		10	10	regen		30	30	lifesteal		4	6									0
 Runeword181	Dilemma	1	3			tors									DolLemMal	r14	r20	r23				oskill	Teleport	1	1	regen		-40	-20	heal-kill		-35	-25	mag%		35	50													0
-Runeword182	Shadows				2.7										ShealSolKo	r13	r12	r18				swing1		45	45	kick		100	150	mana		100	150	ass		2	2	deadly		5	5	res-cold		30	30					0
+Runeword182	Shadows	1			2.7	tors									ShealSolKo	r13	r12	r18				swing1		45	45	kick		100	150	mana		100	150	ass		2	2	deadly		5	5	res-cold		30	30					0
 Runeword183	Revenge	1	3			mace	club	hamm							ThulOrtRal	r10	r09	r08				swing2		20	20	hit-skill	Nova	33	8	hit-skill	Fireball	33	8	hit-skill	Frost Nova	33	8													0

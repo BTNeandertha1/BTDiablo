@@ -401,11 +401,11 @@ Rainbow Facet	397	100	1			1	1	85	49	jew	jewel		3	5000								dmg-cold	3	24	38	pi
 Rainbow Facet	398	100	1			1	1	85	49	jew	jewel		3	5000								dmg-fire		17	45	pierce-fire		4	5	extra-fire		4	5	levelup-skill	Blaze	100	29	addxp		2	2																														0
 Rainbow Facet	399	100	1			1	1	85	49	jew	jewel		3	5000								dmg-pois	50	187	187	pierce-pois		4	5	extra-pois		4	5	levelup-skill	Venom	100	23	addxp		2	2																														0
 Hellfire Torch	400	100	1			1	1	110	75	cm2	charm		3	5000			flptrch	invtrch	item_gem	12	item_gem	randclassskill1		0	6	all-stats		10	20	res-all		10	20	light		8	8	charged	Hydra	10	30																														0
-Starting Charm	401	100	1			1	1	1	1	mfc	charm	1	3	5000			flptrch		item_gem	12	item_gem	res-all		-30	-30	mag%		-199	-199	mag%/lvl	4			aura	377	1	1																																		0
+Charm Modifiers	401	100	1			1	1	1	1	mfc	charm	1	3	5000			flptrch	invchm	item_gem	12	item_gem	res-all		-30	-30	mag%		-199	-199	mag%/lvl	4			aura	377	1	1																																		0
 Neverfrost	402	100	1			1	1	78	29	jew	jewel		3	5000								cast2		1	3	swing2		5	10	nofreeze		1	1	addxp		2	2																																		0
 Rainbow Facet	403	100	1			1	1	85	49	jew	jewel		3	5000								dmg-mag		30	43	pierce-mag		4	5	extra-mag		4	5	levelup-skill	Bone Armor	100	51	addxp		2	2																														0
 Rainbow Facet	404	100	1			1	1	85	49	jew	jewel		3	5000								dmg-mag		30	43	pierce-mag		4	5	extra-mag		4	5	death-skill	Blessed Hammer	100	60	addxp		2	2																														0
-Charm Level	405	100	1			1	1	1	90	mff	charm	1	3	5000			flptrch		item_gem	12	item_gem	mag%		35	35																																														0
+Charm Level Reward	405	100	1			1	1	1	90	mff	charm	1	3	5000			flptrch	invchm	item_gem	12	item_gem	mag%		35	35																																														0
 Unsullied's Glory	406	100	1			1	1	85	95	utp	archon plate		5	5000	blac	blac						allskills		2	2	dmg%		200	200	res-all-max		10	10	balance3		40	40	move3		25	25	swing3		30	30	hit-skill	Amplify Damage	15	25	ac		300	400																		0
 Unsullied's Legacy	407	100	1			1	1	85	95	utp	archon plate		5	5000	whit	whit						allskills		2	2	cast3		35	35	res-all-max		10	10	balance3		40	40	move3		25	25	all-stats		20	30	ac		300	400																						0
 Meshif's Travellers	408	100	1			1	1	85	92	utb	mirrored boots		5	5000	blac	blac						move3		50	50	deadly		10	10	ac		100	150	hp		75	100	Aura	Resist Cold	3	3	balance2		10	10	ac%		80	100	randclassskill3		0	6																		0
@@ -447,8 +447,8 @@ Pride	443	100	1			1	1	27	27	ba1	jawbone cap		3	5000	lyel	lyel						allskills		1	
 Honor	444	100	1			1	1	27	27	pa2	rondache		3	5000	dgld	dgld						allskills		1	1	block2		20	20	vit		10	10	cast2		30	30	ac%		50	50	red-dmg		3	5																										0
 Destiny	445	100	1			1	1	27	27	ob1	eagle orb		3	5000	lpur	lpur						allskills		1	1	mana-kill		3	3	cast2		30	30	mana		40	40	hp		40	40	pierce-ltng		4	4																										0
 Mad Dog	446	100	1			1	1	27	27	dr1	wolf head		3	5000	whit	whit						allskills		1	1	dmg%		30	30	swing2		20	20	move2		20	20	ac%		50	50	lifesteal		10	10																										0
-Resistbreaker	447	100	0			1	1	85	79	7wn	polished wand		5	5000	whit	whit						aura	376	6	9	magskill		2	4	cast1		20	35	extra-mag		20	30	enr%		10	20	abs-mag%		25	25																										0
-Arcbane	448	100	0			1	1	85	81	7yw	ghost wand		5	5000	blac	blac						aura	376	3	12	allskills		1	2	cast1		10	55	res-curse		50	50	pierce		33	33	mana%		10	20																										0
-Manawyrm	449	100	0			1	1	85	77	uea	wyrmhide		5	5000	whit	whit						aura	376	3	5	oskill	58	3	7	cast1		15	25	mana%		5	8	enr%		20	55	randclassskill2	2	0	6	red-mag		10	10	mana/lvl		4	4	extra-mag		5	15														0
-	450	100	1			1	1																																																																0
-	451	100	1			1	1																																																																0
+Resistbreaker	447	100	1	Magic Conviction		1	1	75	79	7wn	polished wand		5	5000	whit	whit						aura	376	6	9	magskill		2	4	cast1		20	35	extra-mag		20	30	enr%		10	20	abs-mag%		25	25																										0
+Arcbane	448	100	1	Magic Conviction		1	1	75	81	7yw	ghost wand		5	5000	blac	blac						aura	376	3	12	allskills		1	2	cast1		10	55	res-curse		50	50	pierce		33	33	mana%		10	20																										0
+Manawyrm	449	100	1	Magic Conviction		1	1	85	77	uea	wyrmhide		5	5000	whit	whit						aura	376	3	5	oskill	131	3	7	cast1		15	25	mana%		5	8	enr%		20	55	randclassskill2	2	0	6	red-mag		10	10	mana/lvl		4	4	extra-mag		5	15														0
+Undeniable	450	100	1	Magic Conviction		1	1	75	60	7qs	seraph rod		5	5000	whit	whit						aura	376	3	5	cast1		30	30	allskills		1	1	extra-mag		5	10	swing2		40	40	kill-skill	112	100	20	res-ltng		20	25																						0
+Mindnumb	451	100	1	Magic Conviction		1	1	75	85	uap	Shako		5	5000	blac	blac						aura	376	1	5	allskills		2	2	hp%		-5	-10	mana		75	125	cold-res		10	10	swing2		15	15	dmg%		40	40	res-mag		-25	-25	pierce-mag		10	15														0
