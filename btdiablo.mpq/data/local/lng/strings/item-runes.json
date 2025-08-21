@@ -4775,5 +4775,39 @@
     "ptBR": "Vingança",
     "ruRU": "Месть",
     "zhCN": "复仇"
+  },
+  {
+    "id": 50045,
+    "Key": "Runeword161",
+    "enUS": "Whisper",
+    "zhTW": "Whisper",
+    "deDE": "Whisper",
+    "esES": "Whisper",
+    "frFR": "Whisper",
+    "itIT": "Whisper",
+    "koKR": "Whisper",
+    "plPL": "Whisper",
+    "esMX": "Whisper",
+    "jaJP": "Whisper",
+    "ptBR": "Whisper",
+    "ruRU": "Whisper",
+    "zhCN": "Whisper"
+  },
+  {
+    "id": 50046,
+    "Key": "Runeword182",
+    "enUS": "Shadows",
+    "zhTW": "Shadows",
+    "deDE": "Shadows",
+    "esES": "Shadows",
+    "frFR": "Shadows",
+    "itIT": "Shadows",
+    "koKR": "Shadows",
+    "plPL": "Shadows",
+    "esMX": "Shadows",
+    "jaJP": "Shadows",
+    "ptBR": "Shadows",
+    "ruRU": "Shadows",
+    "zhCN": "Shadows"
   }
 ]
