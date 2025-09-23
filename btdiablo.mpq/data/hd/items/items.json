@@ -763,5 +763,15 @@
   { "gwh": { "asset": "quest/griswolds_heirloom" } },
   { "dsd": { "asset": "body_part/divine" } },
   { "fel": { "asset": "quest/flask" } },
-  { "brk": { "asset": "quest/brick" } }
+  { "brk": { "asset": "quest/brick" } },
+  { "rrr": { "asset": "body_part/infernalmawstone" } },
+  { "rtr": { "asset": "body_part/fracturehalo" } },
+  { "bct": { "asset": "gem/blood_crafting_tablet" } },
+  { "cct": { "asset": "gem/caster_crafting_tablet" } },
+  { "pct": { "asset": "gem/power_crafting_tablet" } },
+  { "sct": { "asset": "gem/saftey_crafting_tablet" } },
+  { "bcs": { "asset": "gem/blood_crafting_tablet_stack" } },
+  { "ccs": { "asset": "gem/caster_crafting_tablet_stack" } },
+  { "pcs": { "asset": "gem/power_crafting_tablet_stack" } },
+  { "scs": { "asset": "gem/saftey_crafting_tablet_stack" } }
 ]

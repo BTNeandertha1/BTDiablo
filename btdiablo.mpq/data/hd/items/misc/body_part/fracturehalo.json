@@ -3,30 +3,30 @@
         "particles": [],
         "models": [
             {
-                "path": "data/hd/items/misc/body_part/flag/flag.model"
+                "path": "data/hd/items/misc/gem/chipped_saphire/chipped_saphire.model"
             }
         ],
         "skeletons": [
             {
-                "path": "data/hd/items/misc/body_part/flag/skeleton/flag.skeleton"
+                "path": "data/hd/items/dropped_items/skeleton/dropped_items.skeleton"
             }
         ],
         "animations": [],
         "textures": [
             {
-                "path": "data/hd/character/enemy/fallenshaman1/textures/fallenshaman_weapon_NRM.texture"
+                "path": "data/hd/items/misc/gem/chipped_saphire/misc_chipped_saphire_ALB.texture"
             },
             {
-                "path": "data/hd/character/enemy/fallenshaman1/textures/fallenshaman_weapon_ORM.texture"
+                "path": "data/hd/items/misc/gem/chipped_saphire/misc_chipped_saphire_NRM.texture"
             },
             {
-                "path": "data/hd/items/misc/body_part/flag/misc_flag_icon_ALB.texture"
+                "path": "data/hd/items/misc/gem/chipped_saphire/misc_chipped_saphire_ORM.texture"
             }
         ],
         "physics": [],
         "json": [
             {
-                "path": "data/hd/items/dropped_items/dropped_items_flag_flip.json"
+                "path": "data/hd/items/dropped_items/dropped_items_helms_flip_sw.json"
             }
         ],
         "variantdata": [],
@@ -34,17 +34,17 @@
         "other": []
     },
     "type": "UnitDefinition",
-    "name": "flag",
+    "name": "chipped_saphire",
     "entities": [
         {
             "type": "Entity",
             "name": "entity_root",
-            "id": 2588476013,
+            "id": 3746858939,
             "components": [
                 {
                     "type": "UnitRootComponent",
                     "name": "component_root",
-                    "state_machine_filename": "data/hd/items/dropped_items/dropped_items_flag_flip.json",
+                    "state_machine_filename": "data/hd/items/dropped_items/dropped_items_helms_flip_sw.json",
                     "doNotInheritRotation": false,
                     "rotationOverride": {
                         "x": 0.0,
@@ -60,40 +60,19 @@
                 {
                     "type": "SkeletonDefinitionComponent",
                     "name": "component_skeleton",
-                    "filename": "data/hd/items/misc/body_part/flag/skeleton/flag.skeleton"
-                },
-                {
-                    "type": "TransformDefinitionComponent",
-                    "name": "entity_root_TransformDefinition",
-                    "position": {
-                        "x": 0.3,
-                        "y": 0.0,
-                        "z": 0.2
-                    },
-                    "orientation": {
-                        "x": 0.0,
-                        "y": -0.0871557444,
-                        "z": 0.0,
-                        "w": 0.9961947
-                    },
-                    "scale": {
-                        "x": 1.0,
-                        "y": 1.0,
-                        "z": 1.0
-                    },
-                    "inheritOnlyPosition": false
+                    "filename": "data/hd/items/dropped_items/skeleton/dropped_items.skeleton"
                 }
             ]
         },
         {
             "type": "Entity",
             "name": "entity_model",
-            "id": 1806247012,
+            "id": 3256494312,
             "components": [
                 {
                     "type": "ModelDefinitionComponent",
-                    "name": "component_model_flag",
-                    "filename": "data/hd/items/misc/body_part/flag/flag.model",
+                    "name": "component_model_chipped_saphire",
+                    "filename": "data/hd/items/misc/gem/chipped_saphire/chipped_saphire.model",
                     "visibleLayers": 1,
                     "lightMask": 19,
                     "shadowMask": 3,
