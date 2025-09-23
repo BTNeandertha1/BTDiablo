@@ -39,12 +39,12 @@ The Ascension	The Ascension	100																																	addxp		15	15	sta
 Fake Ascension	Fake Ascension	100																																																																	0
 Sigurds Nobility	Sigurds Nobility	100																																	addxp		15	15	res-curse		100	100	mag%		100	100	move2		50	50	cast2		30	30	red-dmg%		20	20	hp%		50	50					0
 Humanity's End	Humanity's End	100																																	addxp		15	15	allskills		3	3	mag%		200	200	gold%		200	200	oskill	summon resist	20	20	oskill	raise skeleton	35	35	oskill	skeleton mastery	35	35	oskill	corpse explosion	10	10	0
-Royal Guard	Royal Guard	100																																	addxp		15	15	res-curse		66	66	allskills		3	3	cheap		20	20	cast2		80	80	swing2		80	80	mag%		100	100	res-all-max		15	15	0
+Royal Guard	Royal Guard	100																																	addxp		15	15	res-curse		66	66	allskills		3	3	cheap		30	30	cast2		80	80	swing2		80	80	mag%		100	100	res-all-max		15	15	0
 Natalya's Vengeance	Natalya's Vengeance	100																																	allskills		5	5	oskill	whirlwind	20	20	cast2		50	50	red-dmg%		20	20	oskill	teleport	20	20	res-all		75	75	mag%		150	150	fade		1	1	0
 Aldur's Beacon	Aldur's Beacon	100																																	allskills		5	5	swing2		50	50	cast2		50	50	dmg		300	300	res-all		75	75	red-dmg%		20	20	oskill	teleport	20	20	mag%		150	150	0
 Bul Katho's Embodiment	Bul Katho's Embodiment	100																																	allskills		5	5	hp%		50	50	res-all		75	75	dmg		300	300	res-curse		33	33	move2		50	50	oskill	telekinesis	20	20					0
-Tal Rasha's Elements	Tal Rasha's Elements	100																																	sor		5	5	mana%		50	50	res-all		75	75	oskill	evade	5	5	red-dmg		30	30	red-mag		30	30	skill	energy shield	7	7	hp%		50	50	0
-Griswold's Masterwork	Griswold's Masterwork	100																																	pal		5	5	oskill	cold mastery	7	7	oskill	fire mastery	7	7	oskill	lightning mastery	7	7	res-all		75	75	mag%		150	150	move2		50	50	cast2		50	50	0
+Tal Rasha's Elements	Tal Rasha's Elements	100																																	allskills		5	5	mana%		50	50	res-all		75	75	oskill	evade	5	5	red-dmg		30	30	red-mag		30	30	skill	energy shield	7	7	hp%		50	50	0
+Griswold's Masterwork	Griswold's Masterwork	100																																	allskills		5	5	oskill	cold mastery	7	7	oskill	fire mastery	7	7	oskill	lightning mastery	7	7	res-all		75	75	mag%		150	150	move2		50	50	cast2		50	50	0
 Trang-Oul's Incarnation	Trang-Oul's Incarnation	100																																	allskills		5	5	oskill	teleport	20	20	res-all		100	100	red-dmg%		20	20	mag%		150	150	oskill	enchant	20	20	oskill	warmth	20	20	oskill	fire mastery	7	7	0
 God of War M'avina	God of War M'avina	100																																	allskills		5	5	oskill	teleport	20	20	skill	lightning fury	7	7	skill	lightning strike	7	7	res-all		75	75	res-all-max		10	10	oskill	lightning mastery	7	7	mag%		150	150	0
 M'avina's Disappointment	M'avina's Disappointment	100																																																																	0
