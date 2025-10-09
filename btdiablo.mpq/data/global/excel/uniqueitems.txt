@@ -38,7 +38,7 @@ Kinemils Awl	35	0	1			1	1	31	23	gis	Giant Sword		5	5000	dblu			invgisu								ma
 Blacktongue	36	0	1			1	1	35	26	bsw	Bastard Sword		5	5000	lgrn			invbswu				dmg-pois	150	192	192	noheal		1	1	swing3		30	30	res-pois		50	50	dmg%		180	180	*hp		-10	-10	str		20	20																						0
 Ripsaw	37	0	1			1	1	35	26	flb	Flamberge		5	5000	cblu	cblu						openwounds		80	80	dmg-max		15	15	manasteal		6	6	dmg%		150	180	swing3		60	60	move2		20	20	ease		-50	-50																						0
 The Patriarch	38	0	1			1	1	39	29	gsd	Great Sword		5	5000	cred			invgsdu				red-dmg		10	10	red-mag		10	10	stupidity		1	1	gold%		250	250	dmg%		100	120	str		10	10	cast3		50	50																						0
-Gull	39	0	1			1	1	6	4	dgr	Dagger		5	5000	lgry	lgry						dmg-min		10	10	dmg-max		15	15	mag%		100	100	mana		25	25							0	0																										0
+Gull	39	0	1			1	1	6	12	dgr	Dagger		5	5000	cgrn	cgrn						dmg-min		10	10	dmg-max		15	15	mag%		100	100	mana		25	25							0	0																										0
 The Diggler	40	0	1			1	1	15	11	dir	Dirk		5	5000	dgry	dgry						dex		10	10	dmg%		200	200	swing3		30	30	res-cold		25	25	res-fire		25	25	ignore-ac		1	1	dmg-min		20	20	str		10	10																		0
 The Jade Tan Do	41	0	1			1	1	26	19	kri	Kris		5	5000	oran			invkrsu				swing3		50	50	nofreeze		1	1	dmg-pois	100	460	460	res-pois		95	95	res-pois-max		20	20	dex		15	15	str		15	15																						0
 Irices Shard	42	0	1			1	1	34	25	bld	Blade		5	5000	dblu	dblu						cast3		50	50	mana		50	50	hp		50	50	oskill	Fade	1	1																																		0

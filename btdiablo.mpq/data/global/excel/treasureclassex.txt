@@ -1,6 +1,6 @@
 Treasure Class	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	*ItemProbSum	*ItemProbTotal	*TreasureClassDropChance	firstLadderSeason	lastLadderSeason	noAlwaysSpawn	*eol
 Craft		1	1					0	pcs	1	bcs	1	ccs	1	scs	1																			0
-Ultrarare consumable			1					6000	rrr	1	rtr	1																							0
+Ultrarare consumable			1					5170	rrr	1	AND	5170	rtr	1																					0
 AND			1					1																										1	0
 Gold			1						gld	1																									0
 Jewelry A			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2															0
@@ -48,26 +48,26 @@ Runes 14			1						127	3	128	2	Runes 13	2170																					0
 Runes 15			1						129	3	130	2	Runes 14	2941																					0
 Runes 16			1						131	3	132	2	Runes 15	3957																					0
 Runes 17			1						133	1	Runes 16	5170																							0
-Act 1 Junk			1						Potion 1	10	Misc 0	4	Ammo	4	Ultrarare consumable	1																			0
-Act 2 Junk			1						Act 1 Junk	4	Potion 2	10	Misc 0	4	Ultrarare consumable	1																			0
-Act 3 Junk			1						Act 2 Junk	4	Potion 3	10	Misc 1	4	Ultrarare consumable	1																			0
-Act 4 Junk			1						Act 3 Junk	4	Potion 4	10	Misc 1	4	Ultrarare consumable	1																			0
-Act 5 Junk			1						Act 4 Junk	4	Potion 5	10	Misc 2	4	Ultrarare consumable	1																			0
-Act 1 (N) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4	Ultrarare consumable	1																			0
-Act 2 (N) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4	Ultrarare consumable	1																			0
-Act 3 (N) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4	Ultrarare consumable	1																			0
-Act 4 (N) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4	Ultrarare consumable	1																			0
-Act 5 (N) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4	Ultrarare consumable	1																			0
-Act 1 (H) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4	Ultrarare consumable	1																			0
-Act 1 (H) JunkLF			1						Potion 6ND	8	AND	10	Ultrarare consumable	1																					0
+Act 1 Junk			1						Potion 1	10	Misc 0	4	Ammo	4																					0
+Act 2 Junk			1						Act 1 Junk	4	Potion 2	10	Misc 0	4																					0
+Act 3 Junk			1						Act 2 Junk	4	Potion 3	10	Misc 1	4																					0
+Act 4 Junk			1						Act 3 Junk	4	Potion 4	10	Misc 1	4																					0
+Act 5 Junk			1						Act 4 Junk	4	Potion 5	10	Misc 2	4																					0
+Act 1 (N) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4																					0
+Act 2 (N) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4																					0
+Act 3 (N) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4																					0
+Act 4 (N) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4																					0
+Act 5 (N) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4																					0
+Act 1 (H) Junk			1						Act 5 Junk	4	Potion 6	10	Misc 2	4																					0
+Act 1 (H) JunkLF			1						Potion 6ND	100	AND	125	Ultrarare consumable	1																					0
 Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
-Act 2 (H) JunkLF			1						Potion 6ND	8	AND	10	Ultrarare consumable	1																					0
+Act 2 (H) JunkLF			1						Potion 6ND	100	AND	125	Ultrarare consumable	1																					0
 Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
-Act 3 (H) JunkLF			1						Potion 6ND	8	AND	10	Ultrarare consumable	1																					0
+Act 3 (H) JunkLF			1						Potion 6ND	100	AND	125	Ultrarare consumable	1																					0
 Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
-Act 4 (H) JunkLF			1						Potion 6ND	8	AND	10	Ultrarare consumable	1																					0
+Act 4 (H) JunkLF			1						Potion 6ND	100	AND	125	Ultrarare consumable	1																					0
 Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4																					0
-Act 5 (H) JunkLF			1						Potion 6ND	8	AND	10	Ultrarare consumable	1																					0
+Act 5 (H) JunkLF			1						Potion 6ND	100	AND	125	Ultrarare consumable	1																					0
 Act 1 Equip A	1	0	1						weap3	7	armo3	7																							0
 Act 1 Equip B	1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																			0
 Act 1 Equip C	1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1											0
