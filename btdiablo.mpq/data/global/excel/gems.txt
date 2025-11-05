@@ -19,8 +19,8 @@ Flawed Ruby		8	gfr	fire-min	0	5	5	fire-max	0	8	8		0	0	0	vit	0	17	17		0	0	0		0	0	
 Ruby		8	gsr	fire-min	0	6	6	fire-max	0	16	16		0	0	0	vit	0	12	12		0	0	0		0	0	0	res-fire	0	25	25		0	0	0		0	0	0
 Flawless Ruby		8	glr	fire-min	0	12	12	fire-max	0	28	28		0	0	0	vit	0	16	16		0	0	0		0	0	0	res-fire	0	30	30		0	0	0		0	0	0
 Perfect Ruby		9	gpr	fire-min	0	14	14	fire-max	0	46	46		0	0	0	vit	0	20	20		0	0	0		0	0	0	res-fire	0	40	40		0	0	0		0	0	0
-Chipped Diamond		1	gcw	dmg-norm	0	999	999	move2		-99	-99	regen	0	-999	0	all-stats	0	1	1		0	0	0		0	0	0	res-all	0	6	6		0	0	0		0	0	0
-Flawed Diamond		1	gfw	dmg-norm	0	999	999	move2		-99	-99	regen	0	-999	0	all-stats	0	2	2		0	0	0		0	0	0	res-all	0	8	8		0	0	0		0	0	0
+Chipped Diamond		1	gcw	dmg-norm	0	1	1	move2		1	1	regen	0	0	0	all-stats	0	1	1		0	0	0		0	0	0	res-all	0	6	6		0	0	0		0	0	0
+Flawed Diamond		1	gfw	dmg-norm	0	1	1	move2		1	1	regen	0	0	0	all-stats	0	2	2		0	0	0		0	0	0	res-all	0	8	8		0	0	0		0	0	0
 Diamond		1	gsw	dmg-norm	0	3	7						0	0	0	all-stats	0	3	3		0	0	0		0	0	0	res-all	0	9	9		0	0	0		0	0	0
 Flawless Diamond		1	glw	dmg-norm	0	6	14						0	0	0	all-stats	0	4	4		0	0	0		0	0	0	res-all	0	12	12		0	0	0		0	0	0
 Perfect Diamond		0	gpw	dmg-norm	0	10	20						0	0	0	all-stats	0	5	5		0	0	0		0	0	0	res-all	0	17	17		0	0	0		0	0	0
@@ -35,9 +35,9 @@ Skull		2	sku	manasteal	0	2	2	lifesteal	0	3	3					regen	0	3	3	regen-mana	0	12	12	
 Flawless Skull		2	skl	manasteal	0	3	3	lifesteal	0	3	3					regen	0	4	4	regen-mana	0	12	12		0	0	0	thorns	0	16	16		0	0	0		0	0	0
 Perfect Skull		3	skz	manasteal	0	3	3	lifesteal	0	4	4					regen	0	5	5	regen-mana	0	19	19		0	0	0	thorns	0	20	20		0	0	0		0	0	0
 Expansion																																							
-El Rune	r01L	18	r01	light		1	1	att		50	50					light		1	1	ac		15	15					light		1	1	ac		15	15				0
+El Rune	r01L	18	r01	light		1	1	att		50	50					light		1	1	ac		30	30					light		1	1	ac		30	30				0
 Eld Rune	r02L	18	r02	att-undead		100	100	dmg-undead		75	75					regen		5	5									block		10	10								0
-Tir Rune	r03L	18	r03	mana-kill		2	2									mana-kill		2	2									mana-kill		2	2								0
+Tir Rune	r03L	18	r03	mana-kill		3	3									mana-kill		2	2									mana-kill		2	2								0
 Nef Rune	r04L	18	r04	knock		1	1									ac-miss		30	30									ac-miss		30	30								0
 Eth Rune	r05L	18	r05	reduce-ac		25	25									regen-mana		15	15									regen-mana		15	15								0
 Ith Rune	r06L	18	r06	dmg-max		9	9									dmg-to-mana		15	15									dmg-to-mana		15	15								0
@@ -48,14 +48,14 @@ Thul Rune	r10L	18	r10	dmg-cold	75	3	14									res-cold		30	30									res-cold	
 Amn Rune	r11L	18	r11	lifesteal		7	7									thorns		14	14									thorns		14	14								0
 Sol Rune	r12L	18	r12	dmg-min		9	9									red-dmg		7	7									red-dmg		7	7								0
 Shael Rune	r13L	18	r13	swing2		20	20									balance2		20	20									block2		20	20								0
-Dol Rune	r14L	18	r14	heal-kill		2	2									heal-kill		2	2									heal-kill		2	2								0
+Dol Rune	r14L	18	r14	heal-kill		3	3									heal-kill		2	2									heal-kill		2	2								0
 Hel Rune	r15L	18	r15	ease		-20	-20									ease		-15	-15									ease		-15	-15								0
 Io Rune	r16L	18	r16	vit		10	10									vit		10	10									vit		10	10								0
 Lum Rune	r17L	18	r17	enr		10	10									enr		10	10									enr		10	10								0
 Ko Rune	r18L	18	r18	dex		10	10									dex		10	10									dex		10	10								0
 Fal Rune	r19L	18	r19	str		10	10									str		10	10									str		10	10								0
 Lem Rune	r20L	18	r20	gold%		75	75									gold%		50	50									gold%		50	50								0
-Pul Rune	r21L	18	r21	att-demon		100	100	dmg-demon		75	75					ac%		30	30									ac%		30	30								0
+Pul Rune	r21L	18	r21	att-demon		100	100	dmg-demon		75	75					ac%		50	50									ac%		50	50								0
 Um Rune	r22L	18	r22	openwounds		25	25									res-all		15	15									res-all		22	22								0
 Mal Rune	r23L	18	r23	noheal		1	1									red-mag		7	7									red-mag		7	7								0
 Ist Rune	r24L	18	r24	mag%		30	30	addxp		2	2					mag%		25	25	addxp		2	2					mag%		25	25	addxp		2	2				0
@@ -63,8 +63,8 @@ Gul Rune	r25L	18	r25	att%		20	20	addxp		2	2					res-pois-max		5	5	addxp		2	2				
 Vex Rune	r26L	18	r26	manasteal		7	7	addxp		2	2					res-fire-max		5	5	addxp		2	2					res-fire-max		5	5	addxp		2	2				0
 Ohm Rune	r27L	18	r27	dmg%		50	50	addxp		2	2					res-cold-max		5	5	addxp		2	2					res-cold-max		5	5	addxp		2	2				0
 Lo Rune	r28L	18	r28	deadly		20	20	addxp		2	2					res-ltng-max		5	5	addxp		2	2					res-ltng-max		5	5	addxp		2	2				0
-Sur Rune	r29L	18	r29	stupidity		1	1	addxp		2	2					mana%		5	5	addxp		2	2					mana		50	50	addxp		2	2				0
-Ber Rune	r30L	18	r30	crush		20	20	addxp		2	2					red-dmg%		8	8	addxp		2	2					red-dmg%		8	8	addxp		2	2				0
-Jah Rune	r31L	18	r31	ignore-ac		1	1	addxp		2	2					hp%		5	5	addxp		2	2					hp		50	50	addxp		2	2				0
-Cham Rune	r32L	18	r32	slow		20	20	addxp		2	2					res-curse		34	34	addxp		2	2					res-curse		34	34	addxp		2	2				0
+Sur Rune	r29L	18	r29	stupidity		1	1	addxp		2	2					mana%		5	5	addxp		2	2					mana%		5	5	addxp		2	2				0
+Ber Rune	r30L	18	r30	crush		20	20	addxp		2	2					red-dmg%		10	10	addxp		2	2					red-dmg%		10	10	addxp		2	2				0
+Jah Rune	r31L	18	r31	slow		20	20	addxp		2	2					hp%		5	5	addxp		2	2					hp%		5	5	addxp		2	2				0
+Cham Rune	r32L	18	r32	cast		10	10	addxp		2	2					res-curse		34	34	addxp		2	2					res-curse		34	34	addxp		2	2				0
 Zod Rune	r33L	18	r33	indestruct		1	1	allskills		1	1	addxp		2	2	indestruct		1	1	allskills		1	1	addxp		2	2	indestruct		1	1	allskills		1	1	addxp		2	2
