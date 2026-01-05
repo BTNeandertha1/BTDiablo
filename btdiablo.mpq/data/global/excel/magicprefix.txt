@@ -322,9 +322,9 @@ Shimmering	100	1		35		27				1	116	res-all		13	15									lpur	lcha												12
 Shimmering	100	1		17	33	12				1	116	res-all		6	7									lpur	mcha												1280	1500
 Shimmering	100	1		34		26				1	116	res-all		8	10									lpur	mcha												1280	5000
 Shimmering	100	1		33		25				1	116	res-all		3	5									lpur	scha												1280	10000
-Shimmering	100	1	1	6		4				5	116	res-all		3	7									lpur	shld												1280	500
-Rainbow	100	1	1	18		13				5	116	res-all		8	11									lpur	shld												1280	2000
-Scintillating	100	1	1	28		21				5	116	res-all		12	15									lpur	shld												1280	4000
+Shimmering	100	1	1	6		4				5	116	res-all		3	7									lpur	shld	glov	boot	helm	tors								1280	500
+Rainbow	100	1	1	18		13				5	116	res-all		8	11									lpur	shld	glov	boot	helm	tors								1280	2000
+Scintillating	100	1	1	28		21				5	116	res-all		12	15									lpur	shld	tors											1280	4000
 Prismatic	1	1	1	39		31				4	116	res-all		16	20									lpur	shld												1280	8000
 Chromatic	100	1		50		42				4	116	res-all		21	30									lpur	shld												1280	16000
 Shimmering	100	1	1	8		6				5	116	res-all		3	7									lpur	amul	circ											1280	3000

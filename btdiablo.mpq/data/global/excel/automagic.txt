@@ -58,6 +58,6 @@ Armor_flat_mdr	100	1	0	1		1	0			1	220	red-mag		3	8										armo												0	1
 Armor_flat_life	100	1	0	1		1	0			1	221	hp		25	100										armo												0	1
 Armor_flat_mana	100	1	0	1		1	0			1	222	mana		25	100										armo												0	1
 Armor_max_res	100	1	0	1		1	0			1	223	res-all-max		1	5										armo												0	1
-Armor_mf	100	1	0	1		1	0			1	224	mag%		10	70										armo												0	1
+Armor_mf	100	1	0	1		1	0			1	224	mag%		10	50										armo												0	1
 Armor_res_mag	100	1	0	1		1	0			1	225	res-mag		5	15										armo												0	1
 Armor_dr	100	1	0	1		1	0			1	226	red-dmg%		1	5										armo												0	1
