@@ -8,7 +8,7 @@ BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Di
 - More Challenging
 - Built in Loot Filter
 - Item Stacking!
-- 3 Additional Shared Stash Tabs
+- Bigger Shared Stash Tabs
 - Negative 30 all resist (Only effects the Player)
 - Negative 199 Magic Find (Level 90 Characters Start to Counter this effect)
 - Start with nothing except Horadric Cube
