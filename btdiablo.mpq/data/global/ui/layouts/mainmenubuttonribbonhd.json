@@ -108,7 +108,7 @@
                         {
                             "type": "TextBoxWidget", "name": "MotDHeaderText",
                             "fields": {
-                                "text": "BTDiablo",
+                                "text": "BTDiablo Ladder Brutality",
                                 "fitToParent": true,
                                 "style": {
                                     "pointSize": "$MediumLargeFontSize",
@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nWELCOME TO THE HC LADDER RACE BRUTALITY \nVersion 1.3.1 LADDER FOR JANUARY",
+                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #btd-event-season-4 for more Details!\nPREPARE FOR HELL!\nWELCOME TO THE HC FOCUSSED LADDER RACE BRUTALITY! \nVersion 1.3.1 LADDER FOR 16th-25th JANUARY",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",
