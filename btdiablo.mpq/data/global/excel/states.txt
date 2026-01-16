@@ -231,3 +231,4 @@ markbear	228	4																																					1				bloodlust_state									
 markwolf	229	5										1																											1				impregnated																														0
 magicconviction	230					1																																					mconvictionfront	mconvictionfront																		paladin_aura_sanctuary											0
 magicpierce	231					1																																																																			0
+splashdamage	232																																																																								0

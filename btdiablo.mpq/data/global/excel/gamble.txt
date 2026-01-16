@@ -164,3 +164,10 @@ Rondache	pa2
 Heraldic Shield	pa3
 Aerin Shield	pa4
 Crown Shield	pa5
+Wand	wnd
+Yew Wand	ywn
+Bone Wand	bwn
+Grim Wand	gwn
+Scepter	scp
+Grand Scepter	gsc
+War Scepter	wsp
