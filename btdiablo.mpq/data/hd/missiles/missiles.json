@@ -701,5 +701,6 @@
     "frostnovamsl": "null",
     "frostnovaarrow": "frost_nova",
     "firenovaarrow": "ground_fire_big",
-    "powerstrikenova": "electric_nova"
+    "powerstrikenova": "electric_nova",
+    "poisondaggernova": "poison_nova"
 }
