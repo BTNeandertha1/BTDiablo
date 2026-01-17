@@ -14,7 +14,7 @@ Infernal Mawstone + Item --> Rerolls Ethereal Unique ; Potential Upgrade or Down
 Infernal Mawstone + Item --> Rerolls Unique ; Potential Upgrade or Downgrade	1				100					2	any,uni,noe	rrr						usetype,uni	99		99																																																																																				0
 Fracture Halo --> Return Base + Socketed Items	1				100					2	any,sock	rtr						useitem,rem																																																																																							0
 100 Perfect Skulls ---> Infernal Maw + Fracture Halo	1				100	18	70	100		2	1kz	wms						rrr	99		99																										rtr																																																										0
-1 Thaw for Blank Charm	1				100					1	wms							mfd	99		99																										mfd																													mfd																													0
+1 Thaw for Blank Charm	0				100					1	wms							mfd	99		99																										mfd																													mfd																													0
 2 Thaw for Modifiers Charm	1				100					2	wms,qty=2							Charm Modifiers	99		99																																																																																				0
 3 Thaw for Level Reward Charm	1				100					3	wms,qty=3							Charm Level Reward	99		99																																																																																				0
 Staff of Kings + Amulet of the Viper -> Horadric Staff	1				0	28				2	msf	vip						hst																																																																																							0
