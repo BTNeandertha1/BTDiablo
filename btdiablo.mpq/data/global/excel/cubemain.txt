@@ -14,7 +14,7 @@ Infernal Mawstone + Item --> Rerolls Ethereal Unique ; Potential Upgrade or Down
 Infernal Mawstone + Item --> Rerolls Unique ; Potential Upgrade or Downgrade	1				100					2	any,uni,noe	rrr						usetype,uni	99		99																																																																																				0
 Fracture Halo --> Return Base + Socketed Items	1				100					2	any,sock	rtr						useitem,rem																																																																																							0
 100 Perfect Skulls ---> Infernal Maw + Fracture Halo	1				100	18	70	100		2	1kz	wms						rrr	99		99																										rtr																																																										0
-1 Thaw for Blank Charm	1				100					1	wms							mfd	99		99																										mfd																													mfd																													0
+1 Thaw for Blank Charm	1				100					1	wms							Charm Blank	99		99																										Charm Blank																													Charm Blank																													0
 2 Thaw for Modifiers Charm	1				100					2	wms,qty=2							Charm Modifiers	99		99																																																																																				0
 3 Thaw for Level Reward Charm	1				100					3	wms,qty=3							Charm Level Reward	99		99																																																																																				0
 Staff of Kings + Amulet of the Viper -> Horadric Staff	1				0	28				2	msf	vip						hst																																																																																							0
@@ -263,19 +263,31 @@ RUNE MASS UPPING																																																																
 3 Perfect Skulls + 1 Rare Item -> 1 Low Quality Rare Item	1				0					4	any,rar	gg4z,qty=3						usetype,rar		40	40																																																																																				0
 1 Rare Item + 1 Unique Ring -> 1 High Quality Rare Item	1				0					2	any,rar	ring,uni						usetype,rar		66	66																																																																																				0
 3 Perfect Skull + 1 Rare Item + 1 Stone of Jordan -> Add 1 Socket to Rare Item	0				0					5	any,rar,nos	gg4z,qty=3	The Stone of Jordan					useitem,sock=1																																																																																							0
-CIRCLET BLOCKING	0																																																																																																								0
-1 Magic Crown + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1				100					4	circ,mag,noe	jew	106	gg4e																																																																																											0
-1 Magic Crown + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1				100					6	circ,mag,noe	jew	106	gg4e	105	mls																																																																																									0
-1 Magic Crown + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1				100					4	circ,mag,eth	jew	106	gg4e																																																																																											0
-1 Magic Mask + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm	1				100					4	circ,mag,noe	jew	104	gg4a																																																																																											0
-1 Magic Mask + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm	1				100					6	circ,mag,noe	jew	104	gg4a	105	mls																																																																																									0
-1 Magic Mask + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm	1				100					4	circ,mag,eth	jew	104	gg4a																																																																																											0
-1 Magic Helm + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm	1				100					4	circ,mag,noe	jew	108	gg4r																																																																																											0
-1 Magic Helm + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm	1				100					6	circ,mag,noe	jew	108	gg4r	105	mls																																																																																									0
-1 Magic Helm + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm	1				100					4	circ,mag,eth	jew	108	gg4r																																																																																											0
-1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1				100					4	circ,mag,noe	jew	106	gg4s																																																																																											0
-1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1				100					6	circ,mag,noe	jew	106	gg4s	105	mls																																																																																									0
-1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1				100					4	circ,mag,eth	jew	106	gg4s																																																																																											0
+---------------------------------------------------------------CIRCLET BLOCKING----------------------------------------------------------------------------------------------------	0																																																																																																								0
+1 Magic Circlet + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1				100					4	circ,mag,noe	jew	106	gg4e																																																																																											0
+1 Magic Circlet + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1				100					6	circ,mag,noe	jew	106	gg4e	105	mls																																																																																									0
+1 Magic Circlet + 1 Jewel + 1 Ith Rune + 1 Perfect Emerald -> Safety Helm	1				100					4	circ,mag,eth	jew	106	gg4e																																																																																											0
+1 Magic Circlet + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm	1				100					4	circ,mag,noe	jew	104	gg4a																																																																																											0
+1 Magic Circlet + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm	1				100					6	circ,mag,noe	jew	104	gg4a	105	mls																																																																																									0
+1 Magic Circlet + 1 Jewel + Nef Rune + 1 Perfect Amethyst -> Caster Helm	1				100					4	circ,mag,eth	jew	104	gg4a																																																																																											0
+1 Magic Circlet + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm	1				100					4	circ,mag,noe	jew	108	gg4r																																																																																											0
+1 Magic Circlet + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm	1				100					6	circ,mag,noe	jew	108	gg4r	105	mls																																																																																									0
+1 Magic Circlet + 1 Jewel + 1 Ral Rune + 1 Perfect Ruby -> Blood Helm	1				100					4	circ,mag,eth	jew	108	gg4r																																																																																											0
+1 Magic Circlet + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1				100					4	circ,mag,noe	jew	106	gg4s																																																																																											0
+1 Magic Circlet+ 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1				100					6	circ,mag,noe	jew	106	gg4s	105	mls																																																																																									0
+1 Magic Circlet + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1				100					4	circ,mag,eth	jew	106	gg4s																																																																																											0
+1 Magic Circlet + Saftey Crafting Tablet  ->  Safety Helm	1				100					2	circ,mag,noe	sct																																																																																													0
+1 Magic Circlet + Saftey Crafting Tablet  -> Safety Helm	1				100					4	circ,mag,noe	sct	105	mls																																																																																											0
+1 Magic Circlet + Saftey Crafting Tablet  -> Safety Helm	1				100					2	circ,mag,eth	sct																																																																																													0
+1 Magic Circlet + Caster Crafting Tablet  -> Caster Helm	1				100					2	circ,mag,noe	cct																																																																																													0
+1 Magic Circlet + Caster  Crafting Tablet  -> Caster Helm	1				100					4	circ,mag,noe	cct	105	mls																																																																																											0
+1 Magic Circlet + Caster Crafting Tablet  -> Caster Helm	1				100					2	circ,mag,eth	cct																																																																																													0
+1 Magic Circlet + Blood Crafting Tablet  -> Blood Helm	1				100					2	circ,mag,noe	bct																																																																																													0
+1 Magic Circlet + Blood  Crafting Tablet  ->  Blood Helm	1				100					4	circ,mag,noe	bct	105	mls																																																																																											0
+1 Magic Circlet + Blood  Crafting Tablet  -> Blood Helm	1				100					2	circ,mag,eth	bct																																																																																													0
+1 Magic Circlet + Hit Power Crafting Tablet  -> Hit Power Helm	1				100					2	circ,mag,noe	pct																																																																																													0
+1 Magic Circlet + Hit Power Crafting Tablet  -> Hit Power Helm	1				100					4	circ,mag,noe	pct	105	mls																																																																																											0
+1 Magic Circlet + Hit Power Crafting Tablet  -> Hit Power Helm	1				100					2	circ,mag,eth	pct																																																																																													0
 --------------------------------CRAFTING-----------------------------------------------------------------------------------------------------------------------	0																																																																																																								0
 1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire -> Hit Power Helm	1				100					4	helm,mag,noe	jew	106	gg4s				usetype,crf		50	50	gethit-skill		44	5	4	balance1			20	20	att			150	200																																																																					0
 1 Magic Full Helm + 1 Jewel + 1 Ith Rune + 1 Perfect Sapphire + 1 Eth Rune + 1 Chasi's Malus -> Hit Power Helm	1				100					6	helm,mag,noe	jew	106	gg4s	105	mls		usetype,crf		50	50	gethit-skill		44	5	4	balance1			20	20	att			150	200	ethereal	100		1	1																																																																0
