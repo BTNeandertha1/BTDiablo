@@ -280,7 +280,7 @@ Highlord's Wrath	276	100	1			5	1	73	65	amu	Amulet		5	5000	bwht	bwht						res-ltn
 Saracen's Chance	277	100	1			5	1	55	47	amu	Amulet		5	5000	dpur	dpur						res-all		35	40	gethit-skill	Lower Resist	24	20	all-stats		20	30	randclassskill3		0	6																																		0
 Class Specific																																																																							0
 Arreat's Face	279	100	1			1	1	50	42	baa	Slayer Guard		5	5000								bar		2	2	skilltab	12	2	2	ac%		150	200	balance2		30	30	att%		20	20	str		20	20	dex		20	20	lifesteal		3	6	res-all		30	30														0
-Homunculus	280	100	1			1	1	50	42	nea	Heirophant Trophy		5	5000								nec		2	2	skilltab	6	2	2	ac%		150	200	block2		30	30	block		40	40	enr		20	20	regen-mana		33	33	mana-kill		5	5	res-all		40	40	pierce		50	50										0
+Homunculus	280	100	1			50	1	50	42	nea	Heirophant Trophy		5	5000								nec		2	2	skilltab	6	2	2	ac%		150	200	block2		30	30	block		40	40	enr		20	20	regen-mana		33	33	mana-kill		5	5	res-all		40	40	pierce		50	50										0
 Titan's Revenge	281	100	1			1	1	50	42	ama	Ceremonial Javelin		5	5000								ama		2	2	skilltab	2	2	2	dmg%		150	200	move2		30	30	rep-quant	30			str		20	20	dex		20	20	lifesteal		5	9	dmg-norm		25	50	stack		60	60										0
 Lycander's Aim	282	100	1			1	1	50	42	am7	Ceremonial Bow		5	5000								ama		2	3	skilltab	0	3	2	dmg%		200	250	swing2		35	35	noheal		1	1	dex		20	20	enr		20	20	manasteal		5	8	dmg-norm		25	50	pierce		30	30										0
 Lycander's Flank	283	100	1			1	1	50	42	am9	Ceremonial Pike		5	5000								ama		3	4	skilltab	2	3	4	dmg%		200	200	swing2		60	60	move3		30	30	str		20	20	vit		20	20	lifesteal		5	9	dmg-norm		25	50	mag%/lvl	8												0
@@ -357,7 +357,7 @@ Flamebellow	353	100	1			1	1	79	71	7gs	balrog blade		3	5000	cred	cred		invgisu			
 Fathom	354	100	1			5	1	81	73	obf	dimensional shard		3	5000	lblu							sor		3	3	extra-cold		15	30	cast2		40	40	res-fire		25	40	res-ltng		25	40	pierce-cold		10	20																										0
 Wolfhowl	355	100	1			1	1	85	79	bac	fury visor		3	5000	cred	cred						ac%		120	150	skilltab	14	2	3	str		10	15	dex		10	15	vit		10	10	oskill	Wearwolf	4	6	oskill	Summon Fenris	15	15	oskill	Shape Shifting	4	6	oskill	Feral Rage	4	6	oskill	Fury	4	6										0
 Spirit Ward	356	100	1			1	1	76	68	uts	ward		3	5000	dblu	dblu		invgtsu				ac%		130	180	abs-cold		6	11	res-all		30	40	block		20	30	block2		25	25	gethit-skill	Fade	35	8	ease		-30	-30	randclassskill2		0	6	cast2		25	25														0
-Kira's Guardian	357	100	1			1	1	85	84	ci2	tiara		3	5000	blac	blac						ac		50	120	res-all		50	70	nofreeze		1	1	balance2		20	20	randclassskill2		0	6	pierce-fire		8	15	res-all-max		1	5																						0
+Kira's Guardian	357	100	1			50	1	85	84	ci2	tiara		3	5000	blac	blac						ac		50	120	res-all		50	70	nofreeze		1	1	balance2		20	20	randclassskill2		0	6	pierce-fire		8	15	res-all-max		1	5																						0
 Ormus' Robes	358	100	1			10	1	83	75	uui	dusk shroud		3	5000	blac	blac						ac%		100	120	cast2		30	30	pierce-fire		10	15	pierce-cold		10	15	pierce-ltng		10	15	mana-kill		5	8	skill-rand	3	36	60	mana%		5	8	hp		40	69														0
 Gheed's Fortune	359	100	1			1	1	70	62	cm3	charm		3	5000	lgld							mag%		20	50	gold%		80	160	cheap		10	15																																						0
 Stormlash	360	100	1			1	1	86	82	7fl	scourge		3	5000	dgry	dgry						dmg%		269	300	swing2		30	30	hit-skill	Static Field	20	20	hit-skill	Lightning	20	44	dmg-ltng		1	473	light-thorns		30	30	crush		33	33	abs-ltng		3	9																		0
@@ -452,3 +452,5 @@ Arcbane	448	100	1	Magic Conviction		1	1	75	81	7yw	ghost wand		5	5000	blac	blac		
 Manawyrm	449	100	1	Magic Conviction		1	1	85	77	uea	wyrmhide		5	5000	whit	whit						aura	376	3	5	oskill	131	3	7	cast1		15	25	mana%		5	8	enr%		20	55	randclassskill2	2	0	6	red-mag		10	10	mana/lvl		4	4	extra-mag		5	15														0
 Undeniable	450	100	1	Magic Conviction		1	1	75	60	7qs	seraph rod		5	5000	whit	whit						aura	376	3	5	cast1		30	30	allskills		1	1	extra-mag		5	10	swing2		40	40	kill-skill	112	100	20	res-ltng		20	25																						0
 Mindnumb	451	100	1	Magic Conviction		1	1	75	85	uap	Shako		5	5000	blac	blac						aura	376	1	5	allskills		2	2	hp%		-5	-10	mana		75	125	cold-res		10	10	swing2		15	15	dmg%		40	40	res-mag		-25	-25	pierce-mag		10	15														0
+Ellie's Guidance	452	100	1			1	1	85	80	ci2	tiara		5	5000	whit	whit						oskill	Teleport	1	1	allskills		1	2	hp%		10	10	mana%		10	10	randclassskill3		0	6	charge-noconsume		98	98	cheap		15	15	cast1		10	25	swing2		10	25	ac%		200	300										0
+Trophy of the Lichking Toudi	453	100	1			1	1	85	80	nea	Heirophant Trophy		5	5000	blac	blac						nec		3	3	cast1		30	30	red-dmg%		10	20	aura	vigor	5	10	hp%		10	15	mana%		10	15	res-all		10	25	block		50	50	block1		50	50	ac%		200	300										0
