@@ -266,7 +266,7 @@ Wizardspike	262	100	1			1	1	69	61	7dg	Bone Knife		5	5000	lgry	lgry						mana/lvl
 Constricting Ring	263	100	1			1	1	86	95	rin	Ring		5	5000	cblu	cblu						res-all		20	20	regen		-10	-10	mag%		20	20	res-all-max		1	3										0																								0
 Stormspire	264	100	1			1	1	78	70	7wc	Giant Thresher		5	5000	dblu	dblu						res-ltng		50	50	gethit-skill	Static Field	30	20	dmg%		200	300	str		20	20	hit-skill	Lower Resist	30	10	swing2		30	30	rep-dur	5			dmg-ltng		1	237	91	91	30	10	lifesteal		8	10	att%		150	150						0
 Eaglehorn	265	100	1			1	1	77	69	6l7	Crusader Bow		5	5000	dgld	dgld						ignore-ac		1	1	lifesteal		6	8	dmg%/lvl	20			dmg%		250	250	ama		2	2	dex		25	25	skill	32	7	7	swing2		30	30	aura	Blessed Aim	6	6														0
-Windforce	266	100	1			8	1	80	73	6lw	Hydra Bow		5	5000	dyel	dyel						dex		20	20	dmg/lvl	25			manasteal		6	8	knock		1	1	dmg%		250	300	swing2		20	20	str		20	20	hit-skill	Twister	15	40																		0
+Windforce	266	100	1			8	1	80	73	6lw	Hydra Bow		5	5000	dyel	dyel						dex		20	20	dmg/lvl	25			manasteal		6	8	knock		1	1	dmg%		250	300	swing2		20	20	str		20	20	hit-skill	Twister	50	40																		0
 Rings																																																																							0
 Bul Katho's Wedding Band	268	100	1			1	1	66	58	rin	Ring		5	5000	dpur	dpur						hp/lvl	4			allskills		1	1	lifesteal		3	5	hp%		1	5																																		0
 The Cat's Eye	269	100	1			5	1	58	50	amu	Amulet		5	5000	oran	oran						move2		30	30	swing2		20	20	ac		100	100	ac-miss		100	100	dex		25	25	ac-hth		100	100																										0
@@ -453,3 +453,4 @@ Manawyrm	449	100	1	Magic Conviction		1	1	85	77	uea	wyrmhide		5	5000	whit	whit			
 Undeniable	450	100	1	Magic Conviction		1	1	75	60	7qs	seraph rod		5	5000	whit	whit						aura	376	3	5	cast1		30	30	allskills		1	1	extra-mag		5	10	swing2		40	40	kill-skill	112	100	20	res-ltng		20	25																						0
 Mindnumb	451	100	1	Magic Conviction		1	1	75	85	uap	Shako		5	5000	blac	blac						aura	376	1	5	allskills		2	2	hp%		-5	-10	mana		75	125	cold-res		10	10	swing2		15	15	dmg%		40	40	res-mag		-25	-25	pierce-mag		10	15														0
 Charm Blank	452	100	1			1	1	1	1	mfd	charm		1	1			flptrch	invchm	item_gem	12	item_gem																																																		0
+
