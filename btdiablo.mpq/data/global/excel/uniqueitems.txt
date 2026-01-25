@@ -453,4 +453,3 @@ Manawyrm	449	100	1	Magic Conviction		1	1	85	77	uea	wyrmhide		5	5000	whit	whit			
 Undeniable	450	100	1	Magic Conviction		1	1	75	60	7qs	seraph rod		5	5000	whit	whit						aura	376	3	5	cast1		30	30	allskills		1	1	extra-mag		5	10	swing2		40	40	kill-skill	112	100	20	res-ltng		20	25																						0
 Mindnumb	451	100	1	Magic Conviction		1	1	75	85	uap	Shako		5	5000	blac	blac						aura	376	1	5	allskills		2	2	hp%		-5	-10	mana		75	125	cold-res		10	10	swing2		15	15	dmg%		40	40	res-mag		-25	-25	pierce-mag		10	15														0
 Charm Blank	452	100	1			1	1	1	1	mfd	charm		1	1			flptrch	invchm	item_gem	12	item_gem																																																		0
-
