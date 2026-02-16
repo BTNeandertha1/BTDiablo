@@ -94,7 +94,7 @@
             ]
         },
         {
-            "type": "Widget", "name": "ModSection",
+            "type": "Widget", "name": "MotDSection",
             "children": [
                 {
                     "type": "NineTileImageWidget", "name": "MotDHeaderTile",
@@ -160,7 +160,7 @@
                                     "type": "TextBoxWidget", "name": "MotDBodyText",
                                     "fields": {
                                         "rect": { "x": 4, "y": 4, "width": 594, "height": 500 },
-                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nGreat new update! Skill changes!!! MULTIPLE SKILLS!!! \nVersion 1.2.2 1st July",
+                                        "text": "Corruption Brick Chance is 30%\nCheck the Discord #BTD-Announcements for more Details!\nCheck #BTD-Rules for clarification on what is intended in the mod.\nUpdating For Warlock \nV1.0 ",
                                         "fitToText": true,
                                         "style": {
                                             "fontFace": "BlizzardGlobal",

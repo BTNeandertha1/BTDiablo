@@ -580,9 +580,9 @@
   "ultra": "sword/the_patriarch"
 } },
   { "bul_kathos_tribal_guardian": {
-  "normal": "sword/todesfaelle_flamme",
-  "uber": "sword/todesfaelle_flamme",
-  "ultra": "sword/todesfaelle_flamme"
+  "normal": "sword/war_sword",
+  "uber": "sword/war_sword",
+  "ultra": "sword/war_sword"
 } },
   { "cow_kings_horns": {
   "normal": "helmet/cap_hat",
@@ -633,5 +633,71 @@
   "normal": "wand/gravenspine",
   "uber": "wand/gravenspine",
   "ultra": "wand/gravenspine"
+} },
+{ "horazons_secrets": {
+  "normal": "grimoires/ars_torbaalos",
+  "uber": "grimoires/ars_torbaalos",
+  "ultra": "grimoires/ars_torbaalos"
+} },
+{ "horazons_legacy": {
+  "normal": "boot/light_plate_boots",
+  "uber": "boot/light_plate_boots",
+  "ultra": "boot/light_plate_boots"
+} },
+{ "horazons_hold": {
+  "normal": "glove/gloves_l",
+  "uber": "glove/gloves_l",
+  "ultra": "glove/gloves_l"
+} },
+{ "horazons_dominion": {
+  "normal": "armor/splint_mail",
+  "uber": "armor/splint_mail",
+  "ultra": "armor/splint_mail"
+} },
+{ "horazons_countenance": {
+  "normal": "helmet/horazons_countenance",
+  "uber": "helmet/horazons_countenance",
+  "ultra": "helmet/horazons_countenance"
+} },
+{ "banes_oathmaker": {
+  "normal": "knife/banes_spire",
+  "uber": "knife/banes_spire",
+  "ultra": "knife/banes_spire"
+} },
+{ "banes_wraithskin": {
+  "normal": "armor/hard_leather_armor",
+  "uber": "armor/hard_leather_armor",
+  "ultra": "armor/hard_leather_armor"
+} },
+{ "banes_authority": {
+  "normal": "belt/light_belt",
+  "uber": "belt/light_belt",
+  "ultra": "belt/light_belt"
+} },
+  { "warlords_conquest": {
+  "normal": "glove/gaunlets_h",
+  "uber": "glove/gaunlets_h",
+  "ultra": "glove/gaunlets_h"
+} },
+  { "warlords_lust": {
+  "normal": "helmet/great_helm",
+  "uber": "helmet/great_helm",
+  "ultra": "helmet/great_helm"
+} },
+  { "warlords_mantle": {
+  "normal": "armor/full_plate_mail",
+  "uber": "armor/full_plate_mail",
+  "ultra": "armor/full_plate_mail"
+} },
+  { "warlords_crushers": {
+  "normal": "boot/plate_boots",
+  "uber": "boot/plate_boots",
+  "ultra": "boot/plate_boots"
+} },
+  { "warlords_authority": {
+  "normal": "belt/girdle_h",
+  "uber": "belt/girdle_h",
+  "ultra": "belt/girdle_h"
 } }
+
 ]

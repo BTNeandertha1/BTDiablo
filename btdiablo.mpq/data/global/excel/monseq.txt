@@ -1009,3 +1009,23 @@ seq_crlancerjab	A1	14			0
 seq_crlancerjab	A1	15			0
 seq_crlancerjab	A1	16			0
 seq_crlancerjab	A1	17			0
+seq_wargoatmancleave	A1	0			0
+seq_wargoatmancleave	A1	1			0
+seq_wargoatmancleave	A1	2			0
+seq_wargoatmancleave	A1	3			0
+seq_wargoatmancleave	A1	4			0
+seq_wargoatmancleave	A1	5			0
+seq_wargoatmancleave	A1	6			0
+seq_wargoatmancleave	A1	7			0
+seq_wargoatmancleave	A1	8			0
+seq_wargoatmancleave	A1	9			0
+seq_wargoatmancleave	A1	10			0
+seq_wargoatmancleave	A1	11		1	0
+seq_wargoatmancleave	A1	12			0
+seq_wargoatmancleave	A1	13			0
+seq_wargoatmancleave	A1	14			0
+seq_wargoatmancleave	A1	15			0
+seq_wargoatmancleave	A1	16			0
+seq_wargoatmancleave	A1	17			0
+seq_wargoatmancleave	A1	18			0
+seq_wargoatmancleave	A1	19			0

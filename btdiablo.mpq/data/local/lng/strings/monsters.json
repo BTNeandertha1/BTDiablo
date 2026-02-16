@@ -184,7 +184,7 @@
     "jaJP": "グールの",
     "ptBR": "[fs]Carniçal[ms]Carniçal[fp]Carniçais[mp]Carniçais",
     "ruRU": "[ms]вурдалачий[fs]вурдалачья[ns]вурдалачье[pl]вурдалачьи",
-    "zhCN": "食尸鬼"
+    "zhCN": "食腐鬼"
   },
   {
     "id": 2349,
@@ -303,7 +303,7 @@
     "jaJP": "人食いのリフトレイス",
     "ptBR": "Espectral, o Canibal",
     "ruRU": "Безднород Каннибал",
-    "zhCN": "裂隙怨魂·食人者"
+    "zhCN": "裂隙怨魂·食肉者"
   },
   {
     "id": 2855,
@@ -745,7 +745,7 @@
     "jaJP": "荒々しきブラッド・ウィッチ",
     "ptBR": "Bruxassangue, a Selvagem",
     "ruRU": "Кровожадка Хищница",
-    "zhCN": "狂野的血腥女巫"
+    "zhCN": "狂野的嗜战女巫"
   },
   {
     "id": 2881,
@@ -966,7 +966,7 @@
     "jaJP": "フレイヤー",
     "ptBR": "[ms]Esfolador",
     "ruRU": "Свежеватель",
-    "zhCN": "剥皮魔"
+    "zhCN": "剥离者"
   },
   {
     "id": 2901,
@@ -1051,7 +1051,7 @@
     "jaJP": "蘇りしフレイヤー",
     "ptBR": "[ms]Esfolador Morto-vivo",
     "ruRU": "Оживленный свежеватель",
-    "zhCN": "亡灵剥皮魔"
+    "zhCN": "亡灵剥离者"
   },
   {
     "id": 2906,
@@ -1119,7 +1119,7 @@
     "jaJP": "血濡れたコウモリ",
     "ptBR": "[ms]Mergulhador Sangrento",
     "ruRU": "Кровавый пикировщик",
-    "zhCN": "俯冲血蝠"
+    "zhCN": "俯冲赤蝠"
   },
   {
     "id": 2910,
@@ -1187,7 +1187,7 @@
     "jaJP": "血の支配者",
     "ptBR": "[ms]Lorde Sangrento",
     "ruRU": "Владыка крови",
-    "zhCN": "血王"
+    "zhCN": "精华领主"
   },
   {
     "id": 2914,
@@ -1238,7 +1238,7 @@
     "jaJP": "死肉の支配者",
     "ptBR": "[ms]Lorde Carniçal",
     "ruRU": "Владыка вурдалаков",
-    "zhCN": "食尸鬼王"
+    "zhCN": "食腐鬼王"
   },
   {
     "id": 2917,
@@ -1408,7 +1408,7 @@
     "jaJP": "ブラッド・ウィング",
     "ptBR": "[fs]Asa Sangrenta",
     "ruRU": "Кровокрыл",
-    "zhCN": "血翼蚊"
+    "zhCN": "赤翼蚊"
   },
   {
     "id": 2927,
@@ -1425,7 +1425,7 @@
     "jaJP": "ブラッド・フック",
     "ptBR": "[ms]Gancho Sangrento",
     "ruRU": "Кровавый коготь",
-    "zhCN": "血钩蚊"
+    "zhCN": "赤钩蚊"
   },
   {
     "id": 2928,
@@ -1510,7 +1510,7 @@
     "jaJP": "アンデッド・スカヴェンジャー",
     "ptBR": "[ms]Vorazgo Morto-vivo",
     "ruRU": "Оживленный падальщик",
-    "zhCN": "食尸鸟"
+    "zhCN": "食腐鸟"
   },
   {
     "id": 2933,
@@ -1544,7 +1544,7 @@
     "jaJP": "綻びし者",
     "ptBR": "[ms]Desfiador",
     "ruRU": "Разматыватель",
-    "zhCN": "剖尸者"
+    "zhCN": "剖壳者"
   },
   {
     "id": 2935,
@@ -1578,7 +1578,7 @@
     "jaJP": "虚ろなる者",
     "ptBR": "[ms]Desolado",
     "ruRU": "Опустошенный",
-    "zhCN": "空壳尸魔"
+    "zhCN": "空壳残骸魔"
   },
   {
     "id": 2937,
@@ -2003,7 +2003,7 @@
     "jaJP": "血濡れた地虫",
     "ptBR": "[ms]Verme Sangrento",
     "ruRU": "Кровавая мокрица",
-    "zhCN": "血虫"
+    "zhCN": "赤虫"
   },
   {
     "id": 2962,
@@ -2241,7 +2241,7 @@
     "jaJP": "血の一族",
     "ptBR": "[ms]Clã do Sangue",
     "ruRU": "Прислужник крови",
-    "zhCN": "鲜血氏族"
+    "zhCN": "精华氏族"
   },
   {
     "id": 2976,
@@ -2343,7 +2343,7 @@
     "jaJP": "血肉の狩人",
     "ptBR": "Caçadora Cárnea",
     "ruRU": "Охотница за плотью",
-    "zhCN": "血肉猎手"
+    "zhCN": "外壳猎手"
   },
   {
     "id": 2982,
@@ -2700,7 +2700,7 @@
     "jaJP": "ブラッド・ホーク",
     "ptBR": "[ms]Falcão Sangrento",
     "ruRU": "Кровавый ястреб",
-    "zhCN": "血鹰"
+    "zhCN": "赤鹰"
   },
   {
     "id": 3005,
@@ -2734,7 +2734,7 @@
     "jaJP": "プレイグ・ベアラー",
     "ptBR": "[ms]Empesteador",
     "ruRU": "Разносчик чумы",
-    "zhCN": "疫尸"
+    "zhCN": "疫物"
   },
   {
     "id": 3007,
@@ -2751,7 +2751,7 @@
     "jaJP": "グール",
     "ptBR": "[ms]Carniçal",
     "ruRU": "Вурдалак",
-    "zhCN": "食尸鬼"
+    "zhCN": "食腐鬼"
   },
   {
     "id": 3008,
@@ -2768,7 +2768,7 @@
     "jaJP": "ドラウンド・カーカス",
     "ptBR": "[fs]Carcaça Encharcada",
     "ruRU": "Утопленный труп",
-    "zhCN": "溺尸"
+    "zhCN": "溺物"
   },
   {
     "id": 3009,
@@ -2785,7 +2785,7 @@
     "jaJP": "ハングリー・デッド",
     "ptBR": "[ms]Morto Faminto",
     "ruRU": "Голодный мертвец",
-    "zhCN": "饥饿行尸"
+    "zhCN": "饥饿邪身"
   },
   {
     "id": 3010,
@@ -2802,7 +2802,7 @@
     "jaJP": "ゾンビ",
     "ptBR": "[ms]Zumbi",
     "ruRU": "Зомби",
-    "zhCN": "僵尸"
+    "zhCN": "邪身"
   },
   {
     "id": 3011,
@@ -3023,7 +3023,7 @@
     "jaJP": "腑分けされしミイラ",
     "ptBR": "[ms]Cadáver",
     "ruRU": "Кадавр",
-    "zhCN": "解剖尸"
+    "zhCN": "解剖残骸"
   },
   {
     "id": 3035,
@@ -3040,7 +3040,7 @@
     "jaJP": "保存されしミイラ",
     "ptBR": "[ms]Morto Preservado",
     "ruRU": "Сохранившийся мертвец",
-    "zhCN": "蜡化尸"
+    "zhCN": "蜡化残骸"
   },
   {
     "id": 3036,
@@ -3057,7 +3057,7 @@
     "jaJP": "埋葬されしミイラ",
     "ptBR": "[ms]Embalsamado",
     "ruRU": "Нетленный",
-    "zhCN": "防腐尸"
+    "zhCN": "防腐残骸"
   },
   {
     "id": 3037,
@@ -3074,7 +3074,7 @@
     "jaJP": "乾いたミイラ",
     "ptBR": "[ms]Cadáver Ressequido",
     "ruRU": "Иссушенный труп",
-    "zhCN": "干尸"
+    "zhCN": "干瘪残骸"
   },
   {
     "id": 3038,
@@ -3091,7 +3091,7 @@
     "jaJP": "腐りしミイラ",
     "ptBR": "[ms]Decomposto",
     "ruRU": "Гниющий",
-    "zhCN": "腐尸"
+    "zhCN": "腐化残骸"
   },
   {
     "id": 3039,
@@ -3125,7 +3125,7 @@
     "jaJP": "ゴアベリー",
     "ptBR": "[ms]Sanguepança",
     "ruRU": "Кровобрюх",
-    "zhCN": "血腹魔"
+    "zhCN": "赤腹魔"
   },
   {
     "id": 3042,
@@ -3159,7 +3159,7 @@
     "jaJP": "血濡れた地虫の幼生",
     "ptBR": "[ms]Filhote de Verme Sangrento",
     "ruRU": "Личинка кровавой мокрицы",
-    "zhCN": "幼年血虫"
+    "zhCN": "幼年赤虫"
   },
   {
     "id": 3044,
@@ -3244,7 +3244,7 @@
     "jaJP": "血濡れた地虫の卵",
     "ptBR": "[ms]Ovo de Verme Sangrento",
     "ruRU": "Яйцо кровавой мокрицы",
-    "zhCN": "血虫蛋"
+    "zhCN": "赤虫蛋"
   },
   {
     "id": 3049,
@@ -3363,7 +3363,7 @@
     "jaJP": "ブラッド・ホークの巣",
     "ptBR": "[ms]Ninho de Falcão Sangrento",
     "ruRU": "Гнездо кровавых ястребов",
-    "zhCN": "血鹰巢"
+    "zhCN": "赤鹰巢"
   },
   {
     "id": 3056,
@@ -3907,7 +3907,7 @@
     "jaJP": "コープス・アーチャー",
     "ptBR": "[ms]Arqueiro Cadáver",
     "ruRU": "Труп-лучник",
-    "zhCN": "尸魔弓手"
+    "zhCN": "残骸魔弓手"
   },
   {
     "id": 3088,
@@ -3941,7 +3941,7 @@
     "jaJP": "血肉の槍兵",
     "ptBR": "Lanceira Cárnea",
     "ruRU": "Кровавая копейщица",
-    "zhCN": "血肉长枪手"
+    "zhCN": "外壳长枪手"
   },
   {
     "id": 3090,
@@ -4026,7 +4026,7 @@
     "jaJP": "血肉の弓使い",
     "ptBR": "Arqueira Cárnea",
     "ruRU": "Кровавая лучница",
-    "zhCN": "血肉弓手"
+    "zhCN": "外壳弓手"
   },
   {
     "id": 3095,
@@ -4145,7 +4145,7 @@
     "jaJP": "フレイヤーの呪術師",
     "ptBR": "[ms]Xamã Esfolador",
     "ruRU": "Свежеватель-шаман",
-    "zhCN": "剥皮魔萨满"
+    "zhCN": "剥离者萨满"
   },
   {
     "id": 3103,
@@ -4247,7 +4247,7 @@
     "jaJP": "コープス・メイジ",
     "ptBR": "[ms]Mago Cadáver",
     "ruRU": "Труп-маг",
-    "zhCN": "尸魔法师"
+    "zhCN": "残骸魔法师"
   },
   {
     "id": 3109,
@@ -4434,7 +4434,7 @@
     "jaJP": "血濡れた地虫の女王",
     "ptBR": "[fs]Rainha Verme Sangrenta",
     "ruRU": "Королева кровавых мокриц",
-    "zhCN": "血虫后"
+    "zhCN": "赤虫后"
   },
   {
     "id": 3127,
@@ -5012,7 +5012,7 @@
     "jaJP": "コープス・スピッター",
     "ptBR": "[ms]Cospe-cadáver",
     "ruRU": "Исторгатель трупов",
-    "zhCN": "吐尸魔"
+    "zhCN": "残骸喷吐魔"
   },
   {
     "id": 3161,
@@ -5029,7 +5029,7 @@
     "jaJP": "コルピュラント",
     "ptBR": "[ms]Corpulento",
     "ruRU": "Брюхач",
-    "zhCN": "化尸魔"
+    "zhCN": "残骸化生魔"
   },
   {
     "id": 3162,
@@ -5131,7 +5131,7 @@
     "jaJP": "フレッシュ・ビースト",
     "ptBR": "Fera Cárnea",
     "ruRU": "Кровавый зверь",
-    "zhCN": "血肉兽"
+    "zhCN": "外壳兽"
   },
   {
     "id": 3168,
@@ -5182,7 +5182,7 @@
     "jaJP": "フレッシュ・スポーナー",
     "ptBR": "Parideira Cárnea",
     "ruRU": "Породительница плоти",
-    "zhCN": "血肉孵化者"
+    "zhCN": "外壳孵化者"
   },
   {
     "id": 3171,
@@ -5216,7 +5216,7 @@
     "jaJP": "ブラッド・ウィングの巣",
     "ptBR": "[ms]Ninho de Asa Sangrenta",
     "ruRU": "Гнездо кровокрылов",
-    "zhCN": "血翼蚊之巢"
+    "zhCN": "赤翼蚊之巢"
   },
   {
     "id": 3173,
@@ -5233,7 +5233,7 @@
     "jaJP": "ブラッド・フックの巣",
     "ptBR": "[ms]Ninho de Gancho Sangrento",
     "ruRU": "Гнездо кровавых когтей",
-    "zhCN": "血钩蚊之巢"
+    "zhCN": "赤钩蚊之巢"
   },
   {
     "id": 3174,
@@ -5488,7 +5488,7 @@
     "jaJP": "死体を食べて吐き出す",
     "ptBR": "Come e cospe cadáveres",
     "ruRU": "Пожирает и извергает трупы",
-    "zhCN": "吃吐尸体"
+    "zhCN": "吃吐残骸"
   },
   {
     "id": 3191,
@@ -5556,7 +5556,7 @@
     "jaJP": "フレイヤーを復活させる",
     "ptBR": "Revive esfoladores",
     "ruRU": "Оживляет свежевателей",
-    "zhCN": "复活剥皮魔"
+    "zhCN": "复活剥离者"
   },
   {
     "id": 3195,
@@ -5879,7 +5879,7 @@
     "jaJP": "スペクトラルヒット",
     "ptBR": "Golpe Espectral",
     "ruRU": "Призрачный удар",
-    "zhCN": "鬼魂打击"
+    "zhCN": "魔法打击"
   },
   {
     "id": 3215,
@@ -6032,7 +6032,7 @@
     "jaJP": "コープス・ファイア",
     "ptBR": "Flamorto",
     "ruRU": "Пылающий труп",
-    "zhCN": "尸体发火"
+    "zhCN": "残骸发火"
   },
   {
     "id": 10002,
@@ -6219,7 +6219,7 @@
     "jaJP": "死体を食べて吐き出す",
     "ptBR": "Come e cospe cadáveres",
     "ruRU": "Пожирает и извергает трупы",
-    "zhCN": "吃吐尸体"
+    "zhCN": "吃吐残骸"
   },
   {
     "id": 11031,
@@ -6338,7 +6338,7 @@
     "jaJP": "血まみれバルトゥク",
     "ptBR": "Bartuc, o Sangrento",
     "ruRU": "Бартук Кровавый",
-    "zhCN": "嗜血的巴图克"
+    "zhCN": "嗜战的巴图克"
   },
   {
     "id": 21854,
@@ -6355,7 +6355,7 @@
     "jaJP": "不浄なるヴェンター",
     "ptBR": "Ventar, o Profano",
     "ruRU": "Вентар Нечестивый",
-    "zhCN": "温塔尔·不洁者"
+    "zhCN": "温塔尔·不义者"
   },
   {
     "id": 21855,
@@ -6423,7 +6423,7 @@
     "jaJP": "綻びし者",
     "ptBR": "[ms]Desfiador",
     "ruRU": "Разматыватель",
-    "zhCN": "剖尸者"
+    "zhCN": "剖壳者"
   },
   {
     "id": 21864,
@@ -6763,7 +6763,7 @@
     "jaJP": "リアニメイテッド・ホード",
     "ptBR": "Horda Reanimada",
     "ruRU": "Оживленный солдат",
-    "zhCN": "复活行尸"
+    "zhCN": "复活邪身"
   },
   {
     "id": 22355,
@@ -6797,7 +6797,7 @@
     "jaJP": "アンホーリー・コープス",
     "ptBR": "[ms]Cadáver Profano",
     "ruRU": "Оскверненный труп",
-    "zhCN": "不洁尸骸"
+    "zhCN": "不义者残骸"
   },
   {
     "id": 22357,
@@ -6865,7 +6865,7 @@
     "jaJP": "ブラッド・ブリンガー",
     "ptBR": "[ms]Arauto Sangrento",
     "ruRU": "Кровавый разносчик",
-    "zhCN": "溅血兽"
+    "zhCN": "溅腐兽"
   },
   {
     "id": 22361,
@@ -6882,7 +6882,7 @@
     "jaJP": "ゴア・ベアラー",
     "ptBR": "[ms]Sanguinolento",
     "ruRU": "Гигант плоти",
-    "zhCN": "血污魔"
+    "zhCN": "赤污魔"
   },
   {
     "id": 22362,
@@ -7052,7 +7052,7 @@
     "jaJP": "スレイヤー",
     "ptBR": "Homicida",
     "ruRU": "Истребитель",
-    "zhCN": "屠杀者"
+    "zhCN": "重煞者"
   },
   {
     "id": 22372,
@@ -7188,7 +7188,7 @@
     "jaJP": "狂いしスレイヤー",
     "ptBR": "Homicida Berserker",
     "ruRU": "Берсерк-палач",
-    "zhCN": "狂暴屠杀者"
+    "zhCN": "狂暴重煞者"
   },
   {
     "id": 22380,
@@ -7375,7 +7375,7 @@
     "jaJP": "ブラッド・テンプトレス",
     "ptBR": "Sedutora Sangrenta",
     "ruRU": "Кровавая искусительница",
-    "zhCN": "血腥妖妇"
+    "zhCN": "嗜战妖妇"
   },
   {
     "id": 22391,
@@ -7443,7 +7443,7 @@
     "jaJP": "ブラッド・ウィッチ",
     "ptBR": "Bruxa Sangrenta",
     "ruRU": "Ведьма крови",
-    "zhCN": "血腥女巫"
+    "zhCN": "嗜战女巫"
   },
   {
     "id": 22395,
@@ -7528,7 +7528,7 @@
     "jaJP": "ブラッド・ボス",
     "ptBR": "[ms]Chefe Sangrento",
     "ruRU": "Кровавый повелитель",
-    "zhCN": "鲜血统领"
+    "zhCN": "精华统领"
   },
   {
     "id": 22400,
@@ -7919,7 +7919,7 @@
     "jaJP": "血の闘将",
     "ptBR": "[ms]Senhor Sangrento",
     "ruRU": "Владыка крови",
-    "zhCN": "血王"
+    "zhCN": "精华领主"
   },
   {
     "id": 22423,
@@ -8769,7 +8769,7 @@
     "jaJP": "鋭牙のスレイヤー",
     "ptBR": "Homicida Navalhodonte",
     "ruRU": "Острозуб Истребитель",
-    "zhCN": "尖牙杀戮者"
+    "zhCN": "尖牙重煞者"
   },
   {
     "id": 22494,
@@ -8993,24 +8993,92 @@
     "zhCN": "%s残骸"
   },
   {
-    "id": 26802,
-    "Key": "MonsterCorpseNameFormat",
-    "enUS": "%s Corpse",
-    "zhTW": "%s的屍體",
-    "deDE": "Leiche (%s)",
-    "esES": "Cadáver de %s",
-    "frFR": "Cadavre (%s)",
-    "itIT": "Cadavere di %s",
-    "koKR": "%s 시체",
-    "plPL": "%s (Zwłoki)",
-    "esMX": "Cadáver %s",
-    "jaJP": "%sの屍",
-    "ptBR": "Cadáver de %s",
-    "ruRU": "%s – труп",
-    "zhCN": "%s残骸"
+    "id": 27980,
+    "Key": "DefenderSpirit",
+    "enUS": "Defender Spirit",
+    "zhTW": "防禦者之靈",
+    "deDE": "Verteidigergeist",
+    "esES": "Espíritu defensor",
+    "frFR": "Esprit défenseur",
+    "itIT": "Spirito Difensore",
+    "koKR": "수호자 영혼",
+    "plPL": "Duchowy obrońca",
+    "esMX": "Espíritu defensor",
+    "jaJP": "防衛の精霊",
+    "ptBR": "Espírito Defensor",
+    "ruRU": "Дух-защитник",
+    "zhCN": "防御者之魂"
   },
   {
-    "id": 27000,
+    "id": 27981,
+    "Key": "GuardianSpirit",
+    "enUS": "Guardian Spirit",
+    "zhTW": "守護者之靈",
+    "deDE": "Wächtergeist",
+    "esES": "Espíritu guardián",
+    "frFR": "Esprit gardien",
+    "itIT": "Spirito Guardiano",
+    "koKR": "감시자 영혼",
+    "plPL": "Duchowy strażnik",
+    "esMX": "Espíritu guardián",
+    "jaJP": "守護の精霊",
+    "ptBR": "Espírito Guardião",
+    "ruRU": "Дух-хранитель",
+    "zhCN": "守护者之魂"
+  },
+  {
+    "id": 27982,
+    "Key": "ProtectorSpirit",
+    "enUS": "Protector Spirit",
+    "zhTW": "保衛者之靈",
+    "deDE": "Beschützergeist",
+    "esES": "Espíritu protector",
+    "frFR": "Esprit protecteur",
+    "itIT": "Spirito Protettore",
+    "koKR": "보호자 영혼",
+    "plPL": "Duchowy opiekun",
+    "esMX": "Espíritu protector",
+    "jaJP": "擁護の精霊",
+    "ptBR": "Espírito Protetor",
+    "ruRU": "Дух-покровитель",
+    "zhCN": "保卫者之魂"
+  },
+  {
+    "id": 28006,
+    "Key": "WarGoatman",
+    "enUS": "Goatman",
+    "zhTW": "羊頭人",
+    "deDE": "Ziegenmensch",
+    "esES": "Hombre cabra",
+    "frFR": "Homme-bouc",
+    "itIT": "Uomo Capra",
+    "koKR": "염소인간",
+    "plPL": "Kozłolud",
+    "esMX": "Caprino",
+    "jaJP": "ゴートマン",
+    "ptBR": "Caprino",
+    "ruRU": "Козлоногий",
+    "zhCN": "羊头人"
+  },
+  {
+    "id": 28007,
+    "Key": "WarDefiler",
+    "enUS": "Defiler",
+    "zhTW": "褻瀆者",
+    "deDE": "Entweiher",
+    "esES": "Profanador",
+    "frFR": "Saccageur",
+    "itIT": "Profanatore",
+    "koKR": "파멸자",
+    "plPL": "Plugawiciel",
+    "esMX": "Profanador",
+    "jaJP": "ディファイラー",
+    "ptBR": "Profanador",
+    "ruRU": "Осквернитель",
+    "zhCN": "污秽者"
+  },
+  {
+    "id": 29000,
     "Key": "Baron",
     "enUS": "Baron",
     "zhTW": "Baron",
@@ -9027,7 +9095,7 @@
     "zhCN": "Baron"
   },
   {
-    "id": 27001,
+    "id": 29001,
     "Key": "BTDiablo",
     "enUS": "BTDiablo",
     "zhTW": "BTDiablo",
@@ -9044,7 +9112,7 @@
     "zhCN": "BTDiablo"
   },
   {
-    "id": 27002,
+    "id": 29002,
     "Key": "Kexicon",
     "enUS": "Kexicon",
     "zhTW": "Kexicon",

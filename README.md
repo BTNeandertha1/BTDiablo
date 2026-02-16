@@ -8,13 +8,14 @@ BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Di
 - More Challenging
 - Built in Loot Filter
 - Item Stacking!
+- 3 Additional Shared Stash Tabs
 - Negative 30 all resist (Only effects the Player)
 - Negative 199 Magic Find (Level 90 Characters Start to Counter this effect)
 - Start with nothing except Horadric Cube
 - Horadric Cube is now 6x6
 - Charm Inventory
 - More Uber Key Bosses
-- Insanity (was Hell) Difficulty is All Area Level 85 with 25% increased density except Blood Moor.
+- Insanity (was Hell) Difficulty is All Area Level 85 with 25% increased density!
 - Additional Merc Gear
 - Gold has a huge demand
 - Crafting is very good
@@ -27,7 +28,7 @@ BTDiablo is a mod by [BTNeandertha1](https://www.twitch.tv/btneandertha1) for Di
 - Removed Act Cinematics
 - Can now hold Multiple Unique Charms (Strictly for QOL not balance)
 - Doubled Inventory! Only Top or Bottom Half Allowed (Strictly for QOL not balance)
-- Splash Damage Jewel. Iterating upon.
+- Splash Damage Charm
 
 BTNeandertha1 Social Media Links:  
 - [Twitch](https://www.twitch.tv/btneandertha1)
@@ -54,7 +55,6 @@ Items
 - All Amp Procs Items spawn with at least level 22 now
 
 Rifts
-- No Item Drops.
 - Reduced Rune Drop Rates still better than Cows
 
 Terror Zones

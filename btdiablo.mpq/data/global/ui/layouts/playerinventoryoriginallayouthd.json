@@ -14,7 +14,7 @@
         {
             "type": "ImageWidget", "name": "background",
             "fields": {
-                "filename": "PANEL\\Inventory\\Background_Expanded2"
+                "filename": "PANEL\\Inventory\\Classic_Background"
             },
         },
         {
@@ -24,18 +24,18 @@
                 "filename": "$RightHingeSprite"
             },
         },
-      //  {
-        //    "type": "TextBoxWidget", "name": "title",
-        //    "fields": {
-        //        "rect": "$InGamePanelTitleRect",
-        //        "style": "$StyleTitleBlock",
-         //       "text": "@strpanel4",
-         //   },
-      //  },
+        {
+            "type": "TextBoxWidget", "name": "title",
+            "fields": {
+                "rect": { "x": 500, "y": 3, "width": 249, "height": 48 },
+                "style": "$StyleTitleBlock",
+                "text": "@strpanel4",
+            },
+        },
         {
             "type": "TextBoxWidget", "name": "gold_amount",
             "fields": {
-                "rect": "$PlayerInventoryPanelGoldAmountRect",
+                "rect": { "x": 500, "y": 1346, "width": 249, "height": 48 },
                 "style": "$StyleGoldAmount",
             },
             "children": [
@@ -51,7 +51,7 @@
         {
             "type": "ButtonWidget", "name": "gold_button",
             "fields": {
-                "rect": "$PlayerInventoryPanelGoldButtonRect",
+                "rect": { "x": 450, "y": 1347 },
                 "filename": "PANEL\\GoldButton",
                 "hoveredFrame": 0,
                 "tooltipString": "@strGoldDrop",
@@ -65,6 +65,7 @@
                 "filename": "PANEL\\closebtn_4x",
                 "hoveredFrame": 3,
                 "tooltipString": "@strClose",
+                "sound": "cursor_close_window_hd",
                 "onClickMessage": "PlayerInventoryPanelMessage:Close",
             },
         },
@@ -75,12 +76,27 @@
                 "cellCount": { "x": 10, "y": 8 },
                 "cellSize": "$ItemCellSize",
                 "gemSocketFilename": "PANEL\\gemsocket",
+				"chronicleFlourishOffset" : { "x": -1, "y": 0},
             },
+			"children": [
+				{
+					"type": "AnimatedImageWidget", "name": "chronicleFlourish",
+					"fields": {
+						"rect": { "x": 0, "y": 0, "width": 370, "height": 540, "scale": 2 },
+						"filename": "PANEL\\Chronicle\\RewardAnims\\PANEL_ChronicleReward_1x1",
+						"blendMode": "black",
+						"fps": 30,
+						"playing": false,
+						"loop": false,
+						"frame": 30,
+					},
+				},
+			],
         },
         {
             "type": "InventorySlotWidget", "name": "slot_head",
             "fields": {
-                "rect": { "x": 292, "y": 72, "width": 195, "height": 196 },
+                "rect": { "x": 292, "y": 72, "width": 196, "height": 196 },
                 "cellSize": "$ItemCellSize",
                 "location": "head",
                 "gemSocketFilename": "PANEL\\gemsocket",

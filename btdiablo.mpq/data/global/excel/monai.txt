@@ -147,3 +147,10 @@ UberIzual	Attack1 (% Chance)	Approach Enemy (% Chance)	Ranged Skill1 (Frost Nova
 UberBaal									0
 UberMephisto									0
 UberDiablo									0
+GenericPet	Leash Distance / Warp Distance / Close Distance	Ambient Wander Chance / Swarm Cutoff / Flags	Skill Gather Type / Allow Skill Bonuses / Skill Choose Type	Mode Attack Mode / Mode Attack AI Type / Mode Attack Bonus Rating	Melee Sweet Spot Min / Melee Sweet Spot Max / Melee Bonus Rating	Ranged Sweet Spot Min / Ranged Sweet Spot Max / Ranged Bonus Rating	Random Bonus Rating / Progressive Bonus Rating		0
+ColossalWhirlwind	Attack/Skill1 Range	Attack/Skill1 (% Chance)	Attack1/Attack2/Skill1 (% Chance)	Target Range	Run Away From Target (Frames)				0
+ColossalThrow	Attack/Skill1 Range	Attack/Skill1 (% Chance)	Attack1/Attack2/Skill1 (% Chance)	Target Range	Run Away From Target (Frames)				0
+ColossalLeap	Attack/Skill1 Range	Attack/Skill1 (% Chance)	Attack1/Attack2/Skill1 (% Chance)	Lower bound frame	Upper bound frame	Max summons in lifetime			0
+ColBarbWhirl	Attack/Skill1 Range	Attack/Skill1 (% Chance)	Attack1/Attack2/Skill1 (% Chance)	Target Range	Run Away From Target (Frames)				0
+ColBarbThrow	Attack/Skill1 Range	Attack/Skill1 (% Chance)	Attack1/Attack2/Skill1 (% Chance)	Target Range	Run Away From Target (Frames)				0
+ColBarbFrenzy	Attack/Skill1 Range	Attack/Skill1 (% Chance)	Attack1/Attack2/Skill1 (% Chance)	Target Range	Run Away From Target (Frames)				0

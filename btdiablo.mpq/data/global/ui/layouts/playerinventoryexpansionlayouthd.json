@@ -12,7 +12,7 @@
         {
             "type": "ImageWidget", "name": "background",
             "fields": {
-                "filename": "PANEL\\Inventory\\Background_Expanded2"
+                "filename": "PANEL\\Inventory\\Classic_Background"
             },
         },
         {

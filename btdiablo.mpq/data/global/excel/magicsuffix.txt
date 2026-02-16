@@ -3,7 +3,7 @@ of Health	0	0	1	7		5					1	red-dmg		1	1										tors	helm	shld	ring	amul							
 of Protection	0	0	1	18		13					1	red-dmg		2	2										ring	amul											0	0
 of Absorption	0	1	1	26		19					1	red-dmg		3	3										amul												0	0
 of Life	0	1	1	35		26					1	red-dmg		4	4									dblu	amul												0	0
-		1																																			0	0
+of Life	0	1		1		1					1	red-dmg		1	1										cm1	cm2	cm3	scha	mcha	lcha							0	0
 of Warding	0	0	1	7		5					2	red-mag		1	1										tors	helm	shld	ring	amul								0	0
 of the Sentinel	0	0	1	18		13					2	red-mag		2	2										ring	amul											0	0
 of Guarding	0	1	1	26		19					2	red-mag		3	3										amul												0	0
@@ -79,7 +79,7 @@ of the Mind	0	1	1	10		7					24	mana		6	10										rod	ring	amul										0	0
 of Brilliance	0	1	1	18		13					24	mana		11	15										rod	ring	amul										0	0
 of Sorcery	0	1	1	22		16					24	mana		16	20									dgld	rod	amul											0	0
 of Wizardry	0	1	1	30		22					24	mana		21	30									dgld	rod	ring	amul										0	0
-of the Bear	0	0		8		6					25	knock		1	1										mele												0	0
+of the Bear	0			8		6					25	knock		1	1										mele												0	0
 of Light	0			6		4					26	light		1	1										armo	rod	miss	ring	amul								0	0
 of Radiance	0			15		11					26	light		3	3										rod	miss	ring	amul									0	0
 of the Sun	0			17		12					26	light		5	5										rod	miss	glov	ring	amul								0	0
@@ -433,9 +433,9 @@ of Blaze	100										44																										0	0
 of Fire Ball	100										44																										0	0
 of Nova	100	1	1	25		40				1	44	hit-skill	48	20	35									cblu	weap							miss					0	0
 of Nova	100	1	1	40		40				1	44	hit-skill	48	20	35									cblu	weap							miss					0	0
-of Nova Shield	100	1	1	25		20				1	44	gethit-skill	48	33	15									cblu	armo	ring 											0	0
-of Nova Shield	100	1	1	35		20				1	44	gethit-skill	48	33	25									cblu	armo	ring 											0	0
-of Nova Shield	100	1	1	45		20				1	44	gethit-skill	48	33	40									cblu	armo	ring 											0	0
+of Nova Shield	100	1	1	25		20				1	44	gethit-skill	48	33	15									cblu	armo	ring											0	0
+of Nova Shield	100	1	1	35		20				1	44	gethit-skill	48	33	25									cblu	armo	ring											0	0
+of Nova Shield	100	1	1	45		20				1	44	gethit-skill	48	33	40									cblu	armo	ring											0	0
 of Lightning	100	1	1	18		40				1	44	att-skill	49	40	36									cblu	weap							miss					0	0
 of Lightning	100			12		18		sor	9	1	44	charged	49	50	1									cblu	weap												0	0
 of Shiver Armor	100										44																										0	0
@@ -750,3 +750,41 @@ of the Lamprey	100	1	1	85		73				2	27	lifesteal		6	6									cred	amul										
 of the Bat	1	1	1	25		21				2	28	manasteal		2	3										ring												0	0
 of the Wraith	1	1	1	58		46				2	28	manasteal		4	5										ring												0	0
 of the Vampire	100	1	1	86		74				2	28	manasteal		6	6									cred	ring												0	0
+of Acidity	100	0	1	70		75				1	307	pierce-pois	1	1	1										scha												0	0
+of Acidity	100	0	1	83		75				1	307	pierce-pois	1	1	2										ring	mcha											0	0
+of Acidity	100	0	1	87		75				1	307	pierce-pois	1	1	3										amul	glov	boot	belt	helm	mcha							0	0
+of Acidity	100	0	1	92		75				1	307	pierce-pois	1	1	4										shld	weap											0	0
+of Acidity	100	0	1	92		75				1	307	pierce-pois	1	2	8										tors												0	0
+of Kindling	100	0	1	70		75				1	307	pierce-fire	1	1	1										scha												0	0
+of Kindling	100	0	1	83		75				1	307	pierce-fire	1	1	2										ring	mcha											0	0
+of Kindling	100	0	1	87		75				1	307	pierce-fire	1	1	3										amul	glov	boot	belt	helm	mcha							0	0
+of Kindling	100	0	1	92		75				1	307	pierce-fire	1	1	4										shld	weap											0	0
+of Kindling	100	0	1	92		75				1	307	pierce-fire	1	2	8										tors												0	0
+of Numbing	100	0	1	70		75				1	307	pierce-cold	1	1	1										scha												0	0
+of Numbing	100	0	1	92		75				1	307	pierce-cold	1	1	2										ring	mcha											0	0
+of Numbing	100	0	1	83		75				1	307	pierce-cold	1	1	3										amul	glov	boot	belt	helm	mcha							0	0
+of Numbing	100	0	1	87		75				1	307	pierce-cold	1	1	4										shld	weap											0	0
+of Numbing	100	0	1	92		75				1	307	pierce-cold	1	2	8										tors												0	0
+of Conductivity	100	0	1	70		75				1	307	pierce-ltng	1	1	1										scha												0	0
+of Conductivity	100	0	1	83		75				1	307	pierce-ltng	1	1	2										ring	mcha											0	0
+of Conductivity	100	0	1	87		75				1	307	pierce-ltng	1	1	3										amul	glov	boot	belt	helm	mcha							0	0
+of Conductivity	100	0	1	92		75				1	307	pierce-ltng	1	1	4										shld	weap											0	0
+of Conductivity	100	0	1	92		75				1	307	pierce-ltng	1	2	8										tors												0	0
+of Thaumaturgy	100	0	1	70		75				1	307	pierce-mag	1	1	1										scha												0	0
+of Thaumaturgy	100	0	1	83		75				1	307	pierce-mag	1	1	2										ring	mcha											0	0
+of Thaumaturgy	100	0	1	87		75				1	307	pierce-mag	1	1	3										amul	glov	boot	belt	helm	mcha							0	0
+of Thaumaturgy	100	0	1	92		75				1	307	pierce-mag	1	1	4										shld	weap											0	0
+of Thaumaturgy	100	0	1	92		75				1	307	pierce-mag	1	2	8										tors												0	0
+of Force	100	0	1	70		75				1	307	pierce-dmg	1	1	1										scha												0	0
+of Force	100	0	1	83		75				1	307	pierce-dmg	1	1	2										ring	mcha											0	0
+of Force	100	0	1	87		75				1	307	pierce-dmg	1	1	3										amul	glov	boot	belt	helm	mcha							0	0
+of Force	100	0	1	92		75				1	307	pierce-dmg	1	1	4										shld	weap											0	0
+of Force	100	0	1	92		75				1	307	pierce-dmg	1	2	8										tors												0	0
+of Miasma Bolt	100	1	1	7		7		war	1	1	44	charged	395	-60	-10										pole	knif	head										0	0
+of Miasma Bolt	100	1	1	14		14		war	1	1	44	charged	395	-20	-6										swor												0	0
+of Lethargy	100	1	1	12		12		war	6	1	44	charged	393	-60	-8										pole	knif	head										0	0
+of Lethargy	100	1	1	24		24		war	6	1	44	charged	393	-20	-5										ring	circ											0	0
+of Rancor	100	1	1	18		18		war	12	1	44	charged	396	-60	-7										pole	knif	head										0	0
+of Rancor	100	1	1	36		36		war	12	1	44	charged	396	-20	-4										shld												0	0
+of Apocalypse	100	1	1	36		36		war	30	1	44	charged	401	-60	-3										staf	knif	head										0	0
+of Apocalypse	100	1	1	72		72		war	30	1	44	charged	401	-20	-1										glov												0	0

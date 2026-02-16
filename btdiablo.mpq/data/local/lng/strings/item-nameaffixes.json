@@ -1,8 +1,8 @@
-[
+﻿[
   {
     "id": 1723,
     "Key": "Low Quality",
-    "enUS": "Ø",
+    "enUS": "Low Quality",
     "zhTW": "劣等的",
     "deDE": "[ms]schlechter[fs]schlechte[ns]schlechtes[pl]schlechte",
     "esES": "de baja calidad",
@@ -19,7 +19,7 @@
   {
     "id": 1724,
     "Key": "Damaged",
-    "enUS": "Ø",
+    "enUS": "Damaged",
     "zhTW": "損壞的",
     "deDE": "[ms]beschädigter[fs]beschädigte[ns]beschädigtes[pl]beschädigte",
     "esES": "[fs]dañada[ms]dañado[fp]dañadas[mp]dañados",
@@ -36,7 +36,7 @@
   {
     "id": 1725,
     "Key": "Cracked",
-    "enUS": "Ø",
+    "enUS": "Cracked",
     "zhTW": "破舊的",
     "deDE": "[ms]rissiger[fs]rissige[ns]rissiges[pl]rissige",
     "esES": "[fs]agrietada[ms]agrietado[fp]agrietadas[mp]agrietados",
@@ -53,7 +53,7 @@
   {
     "id": 1727,
     "Key": "Hiquality",
-    "enUS": "§",
+    "enUS": "Superior",
     "zhTW": "特等的",
     "deDE": "[fs]gute[ms]guter[ns]gutes[pl]gute",
     "esES": "[fs]superior[ms]superior[fp]superiores[mp]superiores",
@@ -320,7 +320,7 @@
     "jaJP": "禍々しい",
     "ptBR": "[ms]Letal[mp]Letais[fs]Letal[fp]Letais",
     "ruRU": "[ms]смертоносносный[fs]смертоносносная[ns]смертоносносное[pl]смертоносносные",
-    "zhCN": "致命"
+    "zhCN": "破格"
   },
   {
     "id": 1743,
@@ -1697,7 +1697,7 @@
     "jaJP": "殺戮者が携えし",
     "ptBR": "[fs]Homicidária[ms]Homicidário[fp]Homicidárias[mp]Homicidários",
     "ruRU": "[ms]убийственный[fs]убийственная[ns]убийственное[pl]убийственные",
-    "zhCN": "屠杀者的"
+    "zhCN": "重煞者的"
   },
   {
     "id": 1826,
@@ -2002,7 +2002,7 @@
     "esMX": "de penetración",
     "jaJP": "貫通の",
     "ptBR": "da Furação",
-    "ruRU": "пронзания",
+    "ruRU": "пробивания",
     "zhCN": "刺穿之"
   },
   {
@@ -2037,7 +2037,7 @@
     "jaJP": "刺突の",
     "ptBR": "da Perfuração",
     "ruRU": "протыкания",
-    "zhCN": "穿刺之"
+    "zhCN": "洞穿之"
   },
   {
     "id": 1847,
@@ -2428,7 +2428,7 @@
     "jaJP": "殺害の",
     "ptBR": "do Homicídio",
     "ruRU": "лишения жизни",
-    "zhCN": "杀戮之"
+    "zhCN": "犯煞之"
   },
   {
     "id": 1870,
@@ -2462,7 +2462,7 @@
     "jaJP": "殺戮の",
     "ptBR": "da Carnificina",
     "ruRU": "кровавой бойни",
-    "zhCN": "残杀之"
+    "zhCN": "克害之"
   },
   {
     "id": 1872,
@@ -2479,7 +2479,7 @@
     "jaJP": "暴虐の",
     "ptBR": "do Massacre",
     "ruRU": "жестокого убийства",
-    "zhCN": "屠戮之"
+    "zhCN": "灭生之"
   },
   {
     "id": 1873,
@@ -3159,7 +3159,7 @@
     "jaJP": "蝗の",
     "ptBR": "do Gafanhoto",
     "ruRU": "саранчи",
-    "zhCN": "血蝗之"
+    "zhCN": "蝗虫之"
   },
   {
     "id": 1913,
@@ -3451,6 +3451,91 @@
     "zhCN": "疾行之"
   },
   {
+    "id": 2215,
+    "Key": "gld",
+    "enUS": "Gold",
+    "zhTW": "金幣",
+    "deDE": "Gold",
+    "esES": "de oro",
+    "frFR": "or",
+    "itIT": "oro",
+    "koKR": "금화",
+    "plPL": "szt. złota",
+    "esMX": "Oro",
+    "jaJP": "ゴールド",
+    "ptBR": "Ouro",
+    "ruRU": "золотых",
+    "zhCN": "金币"
+  },
+  {
+    "id": 2248,
+    "Key": "gsb",
+    "enUS": "Sapphire",
+    "zhTW": "藍寶石",
+    "deDE": "Saphir",
+    "esES": "Zafiro",
+    "frFR": "Saphir",
+    "itIT": "Zaffiro",
+    "koKR": "사파이어",
+    "plPL": "Szafir",
+    "esMX": "[ms]Zafiro",
+    "jaJP": "サファイア",
+    "ptBR": "Safira",
+    "ruRU": "[ms]Сапфир",
+    "zhCN": "蓝宝石"
+  },
+  {
+    "id": 2254,
+    "Key": "gsg",
+    "enUS": "Emerald",
+    "zhTW": "綠寶石",
+    "deDE": "Smaragd",
+    "esES": "Esmeralda",
+    "frFR": "Émeraude",
+    "itIT": "Smeraldo",
+    "koKR": "에메랄드",
+    "plPL": "Szmaragd",
+    "esMX": "[fs]Esmeralda",
+    "jaJP": "エメラルド",
+    "ptBR": "Esmeralda",
+    "ruRU": "[ms]Изумруд",
+    "zhCN": "绿宝石"
+  },
+  {
+    "id": 2258,
+    "Key": "gsr",
+    "enUS": "Ruby",
+    "zhTW": "紅寶石",
+    "deDE": "Rubin",
+    "esES": "Rubí",
+    "frFR": "Rubis",
+    "itIT": "Rubino",
+    "koKR": "루비",
+    "plPL": "Rubin",
+    "esMX": "[ms]Rubí",
+    "jaJP": "ルビー",
+    "ptBR": "Rubi",
+    "ruRU": "[ms]Рубин",
+    "zhCN": "红宝石"
+  },
+  {
+    "id": 2263,
+    "Key": "gsw",
+    "enUS": "Diamond",
+    "zhTW": "鑽石",
+    "deDE": "Diamant",
+    "esES": "Diamante",
+    "frFR": "Diamant",
+    "itIT": "Diamante",
+    "koKR": "다이아몬드",
+    "plPL": "Diament",
+    "esMX": "[ms]Diamante",
+    "jaJP": "ダイヤモンド",
+    "ptBR": "Diamante",
+    "ruRU": "[ms]Алмаз",
+    "zhCN": "钻石"
+  },
+  {
     "id": 2282,
     "Key": "Beast",
     "enUS": "Beast",
@@ -3533,7 +3618,7 @@
     "jaJP": "血濡れた",
     "ptBR": "[ms]Sanguíneo[mp]Sanguíneos[fs]Sanguínea[fp]Sanguíneas",
     "ruRU": "[ms]кровавый[fs]кровавая[ns]кровавое[pl]кровавые",
-    "zhCN": "鲜血"
+    "zhCN": "精华"
   },
   {
     "id": 2289,
@@ -3618,7 +3703,7 @@
     "jaJP": "死の",
     "ptBR": "[ms]Mortal[mp]Mortais[fs]Mortal[fp]Mortais",
     "ruRU": "[ms]смертельный[fs]смертельная[ns]смертельное[pl]смертельные",
-    "zhCN": "死亡"
+    "zhCN": "枯瘪"
   },
   {
     "id": 2294,
@@ -3634,7 +3719,7 @@
     "esMX": "[ms]sombrío[fs]sombría[mp]sombríos[fp]sombrías",
     "jaJP": "闇の",
     "ptBR": "[ms]Sombrio[mp]Sombrios[fs]Sombria[fp]Sombrias",
-    "ruRU": "[ms]тенистый[fs]тенистая[ns]тенистое[pl]тенистые",
+    "ruRU": "[ms]теневой[fs]теневая[ns]теневое[pl]теневые",
     "zhCN": "暗影"
   },
   {
@@ -3815,7 +3900,7 @@
     "deDE": "Abscheu -",
     "esES": "[fs]de reticencia[ms]de reticencia[fp]de reticencia[mp]de reticencia",
     "frFR": "de répugnance",
-    "itIT": "Abominevole",
+    "itIT": "dell'Avversione",
     "koKR": "지긋지긋한",
     "plPL": "[fs]Niechętna[ms]Niechętny[nl]Niechętne",
     "esMX": "[ms]despreciado[fs]despreciada[mp]despreciados[fp]despreciadas",
@@ -3941,7 +4026,7 @@
     "jaJP": "屍の",
     "ptBR": "Cadáver",
     "ruRU": "[ms]трупный[fs]трупная[ns]трупное[pl]трупные",
-    "zhCN": "尸骸"
+    "zhCN": "残骸"
   },
   {
     "id": 2316,
@@ -4162,7 +4247,7 @@
     "jaJP": "血溝",
     "ptBR": "[fs]Eviscerante",
     "ruRU": "[ms]желоб",
-    "zhCN": "开膛刀"
+    "zhCN": "拆解刀"
   },
   {
     "id": 2330,
@@ -4247,7 +4332,7 @@
     "jaJP": "両断者",
     "ptBR": "[fs]Dilacerante",
     "ruRU": "[ms]расщепитель",
-    "zhCN": "劈裂者"
+    "zhCN": "分肉刀"
   },
   {
     "id": 2336,
@@ -4264,7 +4349,7 @@
     "jaJP": "肉切り",
     "ptBR": "[ms]Cutelo",
     "ruRU": "[ms]колун",
-    "zhCN": "切肉者"
+    "zhCN": "切肉刀"
   },
   {
     "id": 2337,
@@ -4281,7 +4366,7 @@
     "jaJP": "切断者",
     "ptBR": "[fs]Decepadora",
     "ruRU": "[ms]отсекатель",
-    "zhCN": "切割者"
+    "zhCN": "切割刀"
   },
   {
     "id": 2338,
@@ -4298,7 +4383,7 @@
     "jaJP": "切断",
     "ptBR": "[fs]Fraturadora",
     "ruRU": "[ms]раскалыватель",
-    "zhCN": "破碎者"
+    "zhCN": "碎击"
   },
   {
     "id": 2339,
@@ -4349,7 +4434,7 @@
     "jaJP": "殺し",
     "ptBR": "[ms]Homicida",
     "ruRU": "[ms]истребитель",
-    "zhCN": "屠杀者"
+    "zhCN": "重煞者"
   },
   {
     "id": 2342,
@@ -4604,7 +4689,7 @@
     "jaJP": "刺突者",
     "ptBR": "[fs]Empaladora",
     "ruRU": "[ms]пронзатель",
-    "zhCN": "穿刺者"
+    "zhCN": "洞穿者"
   },
   {
     "id": 2358,
@@ -4739,7 +4824,7 @@
     "esMX": "[ms]Dardo",
     "jaJP": "滑翔",
     "ptBR": "[ms]Dardo",
-    "ruRU": "[ms]дротик",
+    "ruRU": "[ms]кинжал",
     "zhCN": "飞镖"
   },
   {
@@ -4807,7 +4892,7 @@
     "esMX": "[ms]Vuelo",
     "jaJP": "飛翔",
     "ptBR": "[ms]Voo",
-    "ruRU": "[ms]лёт",
+    "ruRU": "[ms]полет",
     "zhCN": "飞箭"
   },
   {
@@ -5300,7 +5385,7 @@
     "esMX": "[ms]insólito[fs]insólita[mp]insólitos[fp]insólitas",
     "jaJP": "不可思議な",
     "ptBR": "[ms]Bizarro[mp]Bizarros[fs]Bizarra[fp]Bizarras",
-    "ruRU": "[ms]непонятный[fs]непонятная[ns]непонятное[pl]непонятные",
+    "ruRU": "[ms]потусторонний[fs]потусторонняя[ns]потустороннее[pl]потусторонние",
     "zhCN": "诡异"
   },
   {
@@ -5323,7 +5408,7 @@
   {
     "id": 2703,
     "Key": "Gray",
-    "enUS": "Kex",
+    "enUS": "Gray",
     "zhTW": "灰暗",
     "deDE": "Grau -",
     "esES": "de la grisura",
@@ -5385,7 +5470,7 @@
     "esMX": "[ms]sombrío[fs]sombría[mp]sombríos[fp]sombrías",
     "jaJP": "シャドウ",
     "ptBR": "[ms]Sombrio[mp]Sombrios[fs]Sombria[fp]Sombrias",
-    "ruRU": "[ms]тенистый[fs]тенистая[ns]тенистое[pl]тенистые",
+    "ruRU": "[ms]теневой[fs]теневая[ns]теневое[pl]теневые",
     "zhCN": "暗影"
   },
   {
@@ -5736,7 +5821,7 @@
     "deDE": "Stink -",
     "esES": "de la putrefacción",
     "frFR": "[ms]faisandé[fs]faisandée[mp]faisandés[fp]faisandées",
-    "itIT": "della Putrefazione",
+    "itIT": "del Marciume",
     "koKR": "부패의",
     "plPL": "[fs]Zgniła[ms]Zgniły[nl]Zgniłe",
     "esMX": "[ms]podrido[fs]podrida[mp]podridos[fp]podridas",
@@ -5828,7 +5913,7 @@
     "jaJP": "ブラッド",
     "ptBR": "[ms]Sanguíneo[mp]Sanguíneos[fs]Sanguínea[fp]Sanguíneas",
     "ruRU": "[ms]кровавый[fs]кровавая[ns]кровавое[pl]кровавые",
-    "zhCN": "鲜血"
+    "zhCN": "精华"
   },
   {
     "id": 2733,
@@ -5862,7 +5947,7 @@
     "jaJP": "ガット",
     "ptBR": "[ms]Visceral[mp]Viscerais[fs]Visceral[fp]Viscerais",
     "ruRU": "[ms]нутряной[fs]нутряная[ns]нутряное[pl]нутряные",
-    "zhCN": "剖脏"
+    "zhCN": "内查"
   },
   {
     "id": 2735,
@@ -5896,7 +5981,7 @@
     "jaJP": "フレッシュ",
     "ptBR": "[ms]Cárneo[mp]Cárneos[fs]Cárnea[fp]Cárneas",
     "ruRU": "[ms]мясной[fs]мясная[ns]мясное[pl]мясные",
-    "zhCN": "血肉"
+    "zhCN": "皮脂"
   },
   {
     "id": 2737,
@@ -5930,7 +6015,7 @@
     "jaJP": "スパイン",
     "ptBR": "[ms]Espinhal[mp]Espinhais[fs]Espinhal[fp]Espinhais",
     "ruRU": "[ms]шипастый[fs]шипастая[ns]шипастое[pl]шипастые",
-    "zhCN": "脊骨"
+    "zhCN": "支柱"
   },
   {
     "id": 2739,
@@ -6276,7 +6361,7 @@
     "id": 2759,
     "Key": "grin",
     "enUS": "Grin",
-    "zhTW": "獰笑",
+    "zhTW": "獰笑者",
     "deDE": "[ms]Grinser",
     "esES": "[fs]Mueca",
     "frFR": "[ms]Rictus",
@@ -6321,7 +6406,7 @@
     "jaJP": "ハック",
     "ptBR": "[ms]Cortador",
     "ruRU": "[ms]разруб",
-    "zhCN": "劈杀"
+    "zhCN": "挥劈"
   },
   {
     "id": 2762,
@@ -6406,7 +6491,7 @@
     "jaJP": "キル",
     "ptBR": "[fs]Matança",
     "ruRU": "[ns]убиение",
-    "zhCN": "杀戮"
+    "zhCN": "侵害"
   },
   {
     "id": 2767,
@@ -6508,7 +6593,7 @@
     "jaJP": "キラー",
     "ptBR": "[ms]Matador",
     "ruRU": "[ms]душегуб",
-    "zhCN": "杀戮者"
+    "zhCN": "侵害者"
   },
   {
     "id": 2773,
@@ -6542,7 +6627,7 @@
     "jaJP": "ドリンカー",
     "ptBR": "[ms]Bebedor",
     "ruRU": "[ms]бражник",
-    "zhCN": "饮血者"
+    "zhCN": "饮者"
   },
   {
     "id": 2775,
@@ -6610,7 +6695,7 @@
     "jaJP": "ベンダー",
     "ptBR": "[ms]Vergador",
     "ruRU": "[ms]исказитель",
-    "zhCN": "酗酒者"
+    "zhCN": "甜饮者"
   },
   {
     "id": 2779,
@@ -6644,7 +6729,7 @@
     "jaJP": "イーター",
     "ptBR": "[ms]Devorador",
     "ruRU": "[ms]едок",
-    "zhCN": "食人者"
+    "zhCN": "食肉者"
   },
   {
     "id": 2781,
@@ -7130,7 +7215,7 @@
     "deDE": "[fs]Pustel",
     "esES": "[fs]Epidemia",
     "frFR": "[fs]La vérole",
-    "itIT": "Morbo",
+    "itIT": "Peste",
     "koKR": "천연두",
     "plPL": "[fs]Ospa",
     "esMX": "[fs]Viruela",
@@ -7194,7 +7279,7 @@
     "id": 2813,
     "Key": "SlimeUM",
     "enUS": "Slime",
-    "zhTW": "黏液",
+    "zhTW": "黏毒",
     "deDE": "[ms]Schleim",
     "esES": "[fs]Babosa",
     "frFR": "[fs]Gelée",
@@ -7392,7 +7477,7 @@
     "jaJP": "ラスト",
     "ptBR": "[fs]Luxúria",
     "ruRU": "[fs]похоть",
-    "zhCN": "邪淫者"
+    "zhCN": "强欲"
   },
   {
     "id": 2825,
@@ -7415,7 +7500,7 @@
     "id": 2826,
     "Key": "the Axe",
     "enUS": "the Axe",
-    "zhTW": "「銳斧」",
+    "zhTW": "「銳斧使徒」",
     "deDE": "die Axt",
     "esES": "\"el Hacha\"",
     "frFR": "La Hache",
@@ -7426,7 +7511,7 @@
     "jaJP": "斧の",
     "ptBR": ", o Machado",
     "ruRU": "Топор",
-    "zhCN": "巨斧手·"
+    "zhCN": "巨斧·"
   },
   {
     "id": 2827,
@@ -7443,7 +7528,7 @@
     "jaJP": "鋭き",
     "ptBR": ", o Afiado",
     "ruRU": "Порез",
-    "zhCN": "尖锋者·"
+    "zhCN": "尖锋·"
   },
   {
     "id": 2828,
@@ -7460,7 +7545,7 @@
     "jaJP": "鋸歯の",
     "ptBR": ", o Serrilhado",
     "ruRU": "Зубец",
-    "zhCN": "尖刺者·"
+    "zhCN": "尖刺·"
   },
   {
     "id": 2829,
@@ -7477,7 +7562,7 @@
     "jaJP": "皮剥ぐ",
     "ptBR": ", o Esfolador",
     "ruRU": "Свежеватель",
-    "zhCN": "剥皮者·"
+    "zhCN": "剥离者·"
   },
   {
     "id": 2830,
@@ -7494,7 +7579,7 @@
     "jaJP": "切り裂く",
     "ptBR": ", o Retalhador",
     "ruRU": "Кромсатель",
-    "zhCN": "斩击者·"
+    "zhCN": "斩击·"
   },
   {
     "id": 2831,
@@ -7511,7 +7596,7 @@
     "jaJP": "貫く者",
     "ptBR": ", o Empalador",
     "ruRU": "Пронзатель",
-    "zhCN": "穿刺者·"
+    "zhCN": "洞穿·"
   },
   {
     "id": 2832,
@@ -7521,20 +7606,20 @@
     "deDE": "der Jäger",
     "esES": "\"el Cazador\"",
     "frFR": "Le Chasseur",
-    "itIT": "il Segugio",
+    "itIT": "l'Instancabile",
     "koKR": "사냥꾼",
     "plPL": "Łowca",
     "esMX": "el Cazador",
     "jaJP": "狩る者",
     "ptBR": ", o Caçador",
     "ruRU": "Охотник",
-    "zhCN": "猎杀者·"
+    "zhCN": "猎手·"
   },
   {
     "id": 2833,
     "Key": "the Slayer",
     "enUS": "the Slayer",
-    "zhTW": "「屠殺者」",
+    "zhTW": "「屠殺使徒」",
     "deDE": "der Schlitzer",
     "esES": "\"el Exterminador\"",
     "frFR": "Le Boucher",
@@ -7545,7 +7630,7 @@
     "jaJP": "殺戮者",
     "ptBR": ", o Homicida",
     "ruRU": "Убийца",
-    "zhCN": "屠戮者·"
+    "zhCN": "灭生者·"
   },
   {
     "id": 2834,
@@ -7681,7 +7766,7 @@
     "jaJP": "死せる",
     "ptBR": ", o Morto",
     "ruRU": "Мертвец",
-    "zhCN": "亡尸·"
+    "zhCN": "残骸·"
   },
   {
     "id": 2842,
@@ -7698,7 +7783,7 @@
     "jaJP": "忌まわしき",
     "ptBR": ", o Profano",
     "ruRU": "Нечисть",
-    "zhCN": "邪秽者·"
+    "zhCN": "不义者·"
   },
   {
     "id": 2843,
@@ -7759,7 +7844,7 @@
     "deDE": "der Besudelte",
     "esES": "\"el Mancillado\"",
     "frFR": "Le Corrompu",
-    "itIT": "l'Ammorbante",
+    "itIT": "l'Infettante",
     "koKR": "오염된 자",
     "plPL": "Pomiot",
     "esMX": "el Corrompido",
@@ -7793,7 +7878,7 @@
     "deDE": "der Hungrige",
     "esES": "\"el Hambriento\"",
     "frFR": "L’Affamé",
-    "itIT": "l'Ingurgitante",
+    "itIT": "l'Insaziabile",
     "koKR": "굶주린 자",
     "plPL": "Żarłok",
     "esMX": "el Hambriento",
@@ -7831,7 +7916,7 @@
     "koKR": "용사",
     "plPL": "Czempion –",
     "esMX": "[ms]campeador[fs]campeadora[mp]campeadores[fp]campeadoras",
-    "jaJP": "キング",
+    "jaJP": "凶悪なる",
     "ptBR": "[ms]Campeão[mp]Campeões[fs]Campeã[fp]Campeãs",
     "ruRU": "элита",
     "zhCN": "[勇士]"
@@ -7933,7 +8018,7 @@
     "koKR": "광신자",
     "plPL": "Fanatyk –",
     "esMX": "[ms]fanático[fs]fanática[mp]fanáticos[fp]fanáticas",
-    "jaJP": "マッド",
+    "jaJP": "狂乱の",
     "ptBR": "[ms]Fanático[mp]Fanáticos[fs]Fanática[fp]Fanáticas",
     "ruRU": "фанатик",
     "zhCN": "[癫狂者]"
@@ -7944,13 +8029,13 @@
     "enUS": "Berserker",
     "zhTW": "狂暴",
     "deDE": "[ms]tobsüchtiger[fs]tobsüchtige[ns]tobsüchtiges[pl]tobsüchtige",
-    "esES": "[fs]de berserker[ms]de berserker[fp]de berserker[mp]de berserker",
+    "esES": "[fs]berserker[ms]berserker[fp]berserker[mp]berserker",
     "frFR": "[ms]berserker[fs]berserker[mp]berserkers[fp]berserkers",
     "itIT": "Berserker",
     "koKR": "광전사",
     "plPL": "Berserker –",
     "esMX": "[ms]vesánico[fs]vesánica[mp]vesánicos[fp]vesánicas",
-    "jaJP": "バーサーク",
+    "jaJP": "荒れ狂う",
     "ptBR": "[fs]Berserker[ms]Berserker[fp]Berserker[mp]Berserker",
     "ruRU": "берсерк",
     "zhCN": "[狂战士]"
@@ -8191,7 +8276,7 @@
     "jaJP": "魔術師殺しが携えし",
     "ptBR": "[fs]Antimagos[ms]Antimagos[fp]Antimagos[mp]Antimagos",
     "ruRU": "[ms]магоубийственный[fs]магоубийственная[ns]магоубийственное[pl]магоубийственные",
-    "zhCN": "法师杀手的"
+    "zhCN": "法师克星的"
   },
   {
     "id": 20702,
@@ -8581,7 +8666,7 @@
     "esMX": "ojo de águila",
     "jaJP": "鷲の目もつ",
     "ptBR": "[fs]Olho Aquilino[ms]Olho Aquilino[fp]Olho Aquilino[mp]Olho Aquilino",
-    "ruRU": "[ms]снайперский[fs]снайперская[ns]снайперское[pl]снайперские",
+    "ruRU": "[ms]зоркий[fs]зоркая[ns]зоркое[pl]зоркие",
     "zhCN": "鹰目"
   },
   {
@@ -8973,7 +9058,7 @@
     "jaJP": "心力を宿す",
     "ptBR": "[fs]Mentalista[ms]Mentalista[fp]Mentalistas[mp]Mentalistas",
     "ruRU": "[ms]телепатический[fs]телепатическая[ns]телепатическое[pl]телепатические",
-    "zhCN": "会意者的"
+    "zhCN": "心灵师的"
   },
   {
     "id": 20748,
@@ -9466,7 +9551,7 @@
     "jaJP": "ゴーレム王が携えし",
     "ptBR": "[fs]Golêmica[ms]Golêmico[fp]Golêmicas[mp]Golêmicos",
     "ruRU": "[ms]големный[fs]големная[ns]големное[pl]големные",
-    "zhCN": "魔像领主的"
+    "zhCN": "傀儡领主的"
   },
   {
     "id": 20777,
@@ -9500,7 +9585,7 @@
     "jaJP": "墓泥棒が携えし",
     "ptBR": "[fs]Profana-túmulos[ms]Profana-túmulos[fp]Profana-túmulos[mp]Profana-túmulos",
     "ruRU": "[ms]расхитительский[fs]расхитительская[ns]расхитительское[pl]расхитительские",
-    "zhCN": "盗墓者的"
+    "zhCN": "挖掘者的"
   },
   {
     "id": 20779,
@@ -9643,7 +9728,7 @@
     "Key": "Chilling",
     "enUS": "Chilling",
     "zhTW": "寒冰",
-    "deDE": "[ms]]frostiger[fs]]frostige[ns]]frostiges[pl]frostige",
+    "deDE": "[ms]frostiger[fs]frostige[ns]frostiges[pl]frostige",
     "esES": "[fs]refrescante[ms]refrescante[fp]refrescantes[mp]refrescantes",
     "frFR": "[ms]glaçant[fs]glaçante[mp]glaçants[fp]glaçantes",
     "itIT": "[ms]Gelido[fs]Gelida[mp]Gelidi[fp]Gelide",
@@ -10027,7 +10112,7 @@
     "jaJP": "機工師が携えし",
     "ptBR": "[fs]Mecânica[ms]Mecânico[fp]Mecânicas[mp]Mecânicos",
     "ruRU": "[ms]кустарный[fs]кустарная[ns]кустарное[pl]кустарные",
-    "zhCN": "技师的"
+    "zhCN": "技工的"
   },
   {
     "id": 20810,
@@ -10622,7 +10707,7 @@
     "jaJP": "血塗れた",
     "ptBR": "[ms]Sangrento[mp]Sangrentos[fs]Sangrenta[fp]Sangrentas",
     "ruRU": "[ms]залитый кровью[fs]залитая кровью[ns]залитое кровью[pl]залитые кровью",
-    "zhCN": "血红"
+    "zhCN": "赤霄"
   },
   {
     "id": 20845,
@@ -11054,7 +11139,7 @@
     "Key": "Pernicious",
     "enUS": "Pernicious",
     "zhTW": "致命",
-    "deDE": "[ms]]bösartiger[fs]]bösartige[ns]]bösartiges[pl]bösartige",
+    "deDE": "[ms]bösartiger[fs]bösartige[ns]bösartiges[pl]bösartige",
     "esES": "[fs]perniciosa[ms]pernicioso[fp]perniciosas[mp]perniciosos",
     "frFR": "[ms]sournois[mp]sournois[fs]sournoise[fp]sournoises",
     "itIT": "[ms]Pernicioso[fs]Perniciosa[mp]Perniciosi[fp]Perniciose",
@@ -11369,7 +11454,7 @@
     "esMX": "[ms]nuboso[fs]nubosa[mp]nubosos[fp]nubosas",
     "jaJP": "曇った",
     "ptBR": "[ms]Nublado[mp]Nublados[fs]Nublada[fp]Nubladas",
-    "ruRU": "[ms]мутный[fs]мутная[ns]мутное[pl]мутные",
+    "ruRU": "[ms]облачный[fs]облачная[ns]облачное[pl]облачные",
     "zhCN": "迷云"
   },
   {
@@ -11495,7 +11580,7 @@
     "id": 20896,
     "Key": "Impecable",
     "enUS": "Impeccable",
-    "zhTW": "無暇",
+    "zhTW": "無瑕",
     "deDE": "[ms]unfehlbarer[fs]unfehlbare[ns]unfehlbares[pl]unfehlbare",
     "esES": "[fs]impecable[ms]impecable[fp]impecables[mp]impecables",
     "frFR": "[ms]immaculé[mp]immaculés[fs]immaculée[fp]immaculées",
@@ -11732,7 +11817,7 @@
   {
     "id": 20910,
     "Key": "Crude",
-    "enUS": "Ø",
+    "enUS": "Crude",
     "zhTW": "粗製的",
     "deDE": "[ms]einfacher[fs]einfache[ns]einfaches[pl]einfache",
     "esES": "[fs]basta[ms]basto[fp]bastas[mp]bastos",
@@ -11760,7 +11845,7 @@
     "esMX": "[ms]grosero[fs]grosera[mp]groseros[fp]groseras",
     "jaJP": "野蛮なる",
     "ptBR": "[ms]Rude[mp]Rudes[fs]Rude[fp]Rudes",
-    "ruRU": "[ms]топорный[fs]топорная[ns]топорное[pl]топорные",
+    "ruRU": "[ms]примитивный[fs]примитивная[ns]примитивное[pl]примитивные",
     "zhCN": "粗鲁"
   },
   {
@@ -12297,7 +12382,7 @@
     "zhTW": "碎冰甲之",
     "deDE": "der Zitterrüstung",
     "esES": "de Armadura gélida",
-    "frFR": "d’armure de la crainte",
+    "frFR": "d’armure du frisson",
     "itIT": "della Corazza dei Brividi",
     "koKR": "오한 갑옷의",
     "plPL": "Lodowatej Zbroi",
@@ -12412,7 +12497,7 @@
   {
     "id": 20950,
     "Key": "of Telekinesis",
-    "enUS": "ÿc9of Telekinesis",
+    "enUS": "of Telekinesis",
     "zhTW": "心靈傳動之",
     "deDE": "der Telekinese",
     "esES": "de Telequinesis",
@@ -12747,7 +12832,7 @@
     "jaJP": "寿命の",
     "ptBR": "das Eras",
     "ruRU": "долговечности",
-    "zhCN": "永世之"
+    "zhCN": "岁月之"
   },
   {
     "id": 20970,
@@ -12882,8 +12967,8 @@
     "esMX": "de la lamprea",
     "jaJP": "ランプリィの",
     "ptBR": "da Lampreia",
-    "ruRU": "со знаком жужелицы",
-    "zhCN": "血鳗之"
+    "ruRU": "со знаком миноги",
+    "zhCN": "鳗鱼之"
   },
   {
     "id": 20978,
@@ -13325,7 +13410,7 @@
     "jaJP": "腹裂きの",
     "ptBR": "da Evisceração",
     "ruRU": "свежевания",
-    "zhCN": "开膛之"
+    "zhCN": "拆解之"
   },
   {
     "id": 21004,
@@ -13342,7 +13427,7 @@
     "jaJP": "虐殺の",
     "ptBR": "da Matança",
     "ruRU": "мясника",
-    "zhCN": "屠夫之"
+    "zhCN": "精切之"
   },
   {
     "id": 21005,
@@ -14259,7 +14344,7 @@
     "esMX": "de despacho",
     "jaJP": "処刑の",
     "ptBR": "do Despacho",
-    "ruRU": "отправки",
+    "ruRU": "депеши",
     "zhCN": "急发之"
   },
   {
@@ -14651,7 +14736,7 @@
     "jaJP": "不徳の",
     "ptBR": "do Obsceno",
     "ruRU": "беспутства",
-    "zhCN": "淫秽之"
+    "zhCN": "激欲之"
   },
   {
     "id": 21082,
@@ -15076,7 +15161,7 @@
     "jaJP": "窃盗の",
     "ptBR": "do Furto",
     "ruRU": "воровства",
-    "zhCN": "偷窃之"
+    "zhCN": "顺物之"
   },
   {
     "id": 21107,
@@ -15518,7 +15603,7 @@
     "jaJP": "祝福の鎚の",
     "ptBR": "do Martelo Abençoado",
     "ruRU": "освященного молота",
-    "zhCN": "祝福之锤之"
+    "zhCN": "祝福锤之"
   },
   {
     "id": 21133,
@@ -15620,7 +15705,7 @@
     "jaJP": "ファイアゴーレムの",
     "ptBR": "do Golem de Fogo",
     "ruRU": "огненного голема",
-    "zhCN": "火焰魔像之"
+    "zhCN": "火焰傀儡之"
   },
   {
     "id": 21139,
@@ -15659,7 +15744,7 @@
   {
     "id": 21141,
     "Key": "of Lower Resistance",
-    "enUS": "ÿc9of Lower Resistance",
+    "enUS": "of Lower Resistance",
     "zhTW": "降低抗性之",
     "deDE": "des geringen Widerstandes",
     "esES": "de Reducción de resistencia",
@@ -15688,7 +15773,7 @@
     "jaJP": "アイアンゴーレムの",
     "ptBR": "do Golem de Ferro",
     "ruRU": "железного голема",
-    "zhCN": "钢铁魔像之"
+    "zhCN": "钢铁傀儡之"
   },
   {
     "id": 21143,
@@ -15710,7 +15795,7 @@
   {
     "id": 21144,
     "Key": "of Decrepification",
-    "enUS": "ÿc9of Decrepify",
+    "enUS": "of Decrepify",
     "zhTW": "衰老之",
     "deDE": "des Alterns",
     "esES": "de Decrepitud",
@@ -15756,7 +15841,7 @@
     "jaJP": "ブラッドゴーレムの",
     "ptBR": "do Golem de Sangue",
     "ruRU": "кровяного голема",
-    "zhCN": "鲜血魔像之"
+    "zhCN": "精华傀儡之"
   },
   {
     "id": 21147,
@@ -15795,7 +15880,7 @@
   {
     "id": 21149,
     "Key": "of Life Tap",
-    "enUS": "ÿc9of Life Tap",
+    "enUS": "of Life Tap",
     "zhTW": "偷取生命之",
     "deDE": "des Lebenspenders",
     "esES": "de Transfusión de vida",
@@ -15909,7 +15994,7 @@
     "jaJP": "クレイゴーレムの",
     "ptBR": "do Golem de Barro",
     "ruRU": "глиняного голема",
-    "zhCN": "黏土魔像之"
+    "zhCN": "黏土傀儡之"
   },
   {
     "id": 21156,
@@ -16033,7 +16118,7 @@
   {
     "id": 21163,
     "Key": "of Amplify Damage",
-    "enUS": "ÿc9of Amplify Damage",
+    "enUS": "of Amplify Damage",
     "zhTW": "傷害加深之",
     "deDE": "des verstärkten Schadens",
     "esES": "de Amplificar daño",
@@ -16135,7 +16220,7 @@
   {
     "id": 21169,
     "Key": "of Teleportation",
-    "enUS": "ÿc9of Teleportation",
+    "enUS": "of Teleportation",
     "zhTW": "傳送之",
     "deDE": "der Teleportation",
     "esES": "de Teletransporte",
@@ -16640,7 +16725,7 @@
     "jaJP": "内なる目の",
     "ptBR": "da Visão Interior",
     "ruRU": "внутреннего зрения",
-    "zhCN": "内视之"
+    "zhCN": "心眼之"
   },
   {
     "id": 21199,
@@ -16861,7 +16946,7 @@
     "jaJP": "ガルガンチュアの",
     "ptBR": "do Gargântua",
     "ruRU": "исполина",
-    "zhCN": "僵尸巨兽之"
+    "zhCN": "邪身巨兽之"
   },
   {
     "id": 21814,
@@ -16971,7 +17056,7 @@
     "enUS": "Berserker",
     "zhTW": "狂暴",
     "deDE": "[ms]tobsüchtiger[fs]tobsüchtige[ns]tobsüchtiges[pl]tobsüchtige",
-    "esES": "[fs]de berserker[ms]de berserker[fp]de berserker[mp]de berserker",
+    "esES": "[fs]berserker[ms]berserker[fp]berserker[mp]berserker",
     "frFR": "[ms]berserker[fs]berserker[mp]berserkers[fp]berserkers",
     "itIT": "Berserker",
     "koKR": "광전사",
@@ -16981,6 +17066,465 @@
     "ptBR": "Berserker",
     "ruRU": "[ms]лютый[fs]лютая[ns]лютое[pl]лютые",
     "zhCN": "狂战士"
+  },
+  {
+    "id": 27875,
+    "Key": "Virulent",
+    "enUS": "Virulent",
+    "zhTW": "怨毒",
+    "deDE": "[ms]Virulenter[fs]Virulente[ns]Virulentes[pl]Virulente",
+    "esES": "[fs]virulenta[ms]virulento[fp]virulentas[mp]virulentos",
+    "frFR": "[ms]virulent[fs]virulente[mp]virulents[fp]virulentes",
+    "itIT": "[ms]Virulento[fs]Virulenta[mp]Virulenti[fp]Virulente",
+    "koKR": "악성",
+    "plPL": "[ms]Zakażający[fs]Zakażająca[ns]Zakażające[p]Zakażające",
+    "esMX": "[ms]virulento[fs]virulenta[mp]virulentos[fp]virulentas",
+    "jaJP": "猛毒に満ちた",
+    "ptBR": "[fs]Virulenta[fp]Virulentas[ms]Virulento[mp]Virulentos",
+    "ruRU": "[ms]едкий[fs]едкая[ns]едкое[pl]едкие",
+    "zhCN": "剧毒"
+  },
+  {
+    "id": 27876,
+    "Key": "of Acidity",
+    "enUS": "of Acidity",
+    "zhTW": "酸蝕之",
+    "deDE": "der Säure",
+    "esES": "de acidez",
+    "frFR": "d’acidité",
+    "itIT": "dell'Acidità",
+    "koKR": "산성의",
+    "plPL": "Kwasowości",
+    "esMX": "de acidez",
+    "jaJP": "酸性の",
+    "ptBR": "da Acidez",
+    "ruRU": "едкости",
+    "zhCN": "酸蚀之"
+  },
+  {
+    "id": 27877,
+    "Key": "Incendiary",
+    "enUS": "Incendiary",
+    "zhTW": "煽火",
+    "deDE": "[ms]Zündelnder[fs]Zündelnde[ns]Zündelndes[pl]Zündelnde",
+    "esES": "[fs]incendiaria[ms]incendiario[fp]incendiarias[mp]incendiarios",
+    "frFR": "[ms]incendiaire[fs]incendiaire[mp]incendiaires[fp]incendiaires",
+    "itIT": "[ms]Incendiario[fs]Incendiaria[mp]Incendiari[fp]Incendiarie",
+    "koKR": "방화",
+    "plPL": "[ms]Zapalający[fs]Zapalająca[ns]Zapalające[p]Zapalające",
+    "esMX": "[ms]incendiario[fs]incendiaria[mp]incendiarios[fp]incendiarias",
+    "jaJP": "焼夷の",
+    "ptBR": "[fs]Incendiária[fp]Incendiárias[ms]Incendiário[mp]Incendiários",
+    "ruRU": "[ms]воспламеняющий[fs]воспламеняющая[ns]воспламеняющее[pl]воспламеняющие",
+    "zhCN": "焚烧"
+  },
+  {
+    "id": 27878,
+    "Key": "of Kindling",
+    "enUS": "of Kindling",
+    "zhTW": "引火之",
+    "deDE": "des Entfachens",
+    "esES": "de fajina",
+    "frFR": "de petit bois",
+    "itIT": "dell'Accensione",
+    "koKR": "불쏘시개의",
+    "plPL": "Rozpalania",
+    "esMX": "de incendaja",
+    "jaJP": "種火の",
+    "ptBR": "da Combustão",
+    "ruRU": "разжигания",
+    "zhCN": "点燃之"
+  },
+  {
+    "id": 27879,
+    "Key": "Gelid",
+    "enUS": "Gelid",
+    "zhTW": "嚴寒",
+    "deDE": "[ms]Eiskalter[fs]Eiskalte[ns]Eiskaltes[pl]Eiskalte",
+    "esES": "[fs]gélida[ms]gélido[fp]gélidas[mp]gélidos",
+    "frFR": "[ms]transi[fs]transie[mp]transis[fp]transies",
+    "itIT": "[ms]Gelido[fs]Gelida[mp]Gelidi[fp]Gelide",
+    "koKR": "혹한",
+    "plPL": "[ms]Zlodowaciały[fs]Zlodowaciała[ns]Zlodowaciałe[p]Zlodowaciałe",
+    "esMX": "[ms]gélido[fs]gélida[mp]gélidos[fp]gélidas",
+    "jaJP": "氷結",
+    "ptBR": "[fs]Gélida[fp]Gélidas[ms]Gélido[mp]Gélidos",
+    "ruRU": "[ms]застывший[fs]застывшая[ns]застывшее[pl]застывшие",
+    "zhCN": "极寒"
+  },
+  {
+    "id": 27880,
+    "Key": "of Numbing",
+    "enUS": "of Numbing",
+    "zhTW": "麻木之",
+    "deDE": "des Erstarrens",
+    "esES": "de entumecimiento",
+    "frFR": "d’engourdissement",
+    "itIT": "dell'Intorpidimento",
+    "koKR": "마비의",
+    "plPL": "Odrętwienia",
+    "esMX": "de entumecimiento",
+    "jaJP": "麻痺の",
+    "ptBR": "do Entorpecimento",
+    "ruRU": "обморожения",
+    "zhCN": "麻痹之"
+  },
+  {
+    "id": 27881,
+    "Key": "Magnetic",
+    "enUS": "Magnetic",
+    "zhTW": "磁性",
+    "deDE": "[ms]Magnetischer[fs]Magnetische[ns]Magnetisches[pl]Magnetische",
+    "esES": "[fs]magnética[ms]magnético[fp]magnéticas[mp]magnéticos",
+    "frFR": "[ms]magnétique[fs]magnétique[mp]magnétiques[fp]magnétiques",
+    "itIT": "[ms]Magnetico[fs]Magnetica[mp]Magnetici[fp]Magnetiche",
+    "koKR": "자성",
+    "plPL": "[ms]Magnetyczny[fs]Magnetyczna[ns]Magnetyczne[p]Magnetyczne",
+    "esMX": "[ms]magnético[fs]magnética[mp]magnéticos[fp]magnéticas",
+    "jaJP": "超電磁",
+    "ptBR": "[fs]Magnética[fp]Magnéticas[ms]Magnético[mp]Magnéticos",
+    "ruRU": "[ms]магнитный[fs]магнитная[ns]магнитное[pl]магнитные",
+    "zhCN": "磁性"
+  },
+  {
+    "id": 27882,
+    "Key": "of Conductivity",
+    "enUS": "of Conductivity",
+    "zhTW": "導電之",
+    "deDE": "der Leitfähigkeit",
+    "esES": "de conductividad",
+    "frFR": "de conductivité",
+    "itIT": "della Conduttività",
+    "koKR": "전도성의",
+    "plPL": "Przewodzenia",
+    "esMX": "de conductividad",
+    "jaJP": "通電の",
+    "ptBR": "da Condutividade",
+    "ruRU": "проводимости",
+    "zhCN": "传导之"
+  },
+  {
+    "id": 27883,
+    "Key": "Mystical",
+    "enUS": "Mystical",
+    "zhTW": "神秘",
+    "deDE": "[ms]Mystischer[fs]Mystische[ns]Mystisches[pl]Mystische",
+    "esES": "[fs]mística[ms]místico[fp]místicas[mp]místicos",
+    "frFR": "[ms]mystique[fs]mystique[mp]mystiques[fp]mystiques",
+    "itIT": "[ms]Mistico[fs]Mistica[mp]Mistici[fp]Mistiche",
+    "koKR": "신비한",
+    "plPL": "[ms]Mistyczny[fs]Mistyczna[ns]Mistyczne[p]Mistyczne",
+    "esMX": "[ms]místico[fs]mística[mp]místicos[fp]místicas",
+    "jaJP": "神秘を司る",
+    "ptBR": "[fs]Mística[fp]Místicas[ms]Místico[mp]Místicos",
+    "ruRU": "[ms]мистический[fs]мистическая[ns]мистическое[pl]мистические",
+    "zhCN": "神秘"
+  },
+  {
+    "id": 27884,
+    "Key": "of Thaumaturgy",
+    "enUS": "of Thaumaturgy",
+    "zhTW": "奇術之",
+    "deDE": "der Thaumaturgie",
+    "esES": "de taumaturgia",
+    "frFR": "de thaumaturgie",
+    "itIT": "della Taumaturgia",
+    "koKR": "마도의",
+    "plPL": "Taumaturgii",
+    "esMX": "de taumaturgia",
+    "jaJP": "魔術の",
+    "ptBR": "da Taumaturgia",
+    "ruRU": "чудотворства",
+    "zhCN": "奇术之"
+  },
+  {
+    "id": 27885,
+    "Key": "Breaching",
+    "enUS": "Breaching",
+    "zhTW": "突破",
+    "deDE": "[ms]Brechender[fs]Brechende[ns]Brechendes[pl]Brechende",
+    "esES": "[fs]quebrantadora[ms]quebrantador[fp]quebrantadoras[mp]quebrantadores",
+    "frFR": "[ms]offensif[fs]offensive[mp]offensifs[fp]offensives",
+    "itIT": "[ms]Penetrante[fs]Penetrante[mp]Penetranti[fp]Penetranti",
+    "koKR": "침범하는",
+    "plPL": "[ms]Przełamujący[fs]Przełamująca[ns]Przełamujące[p]Przełamujące",
+    "esMX": "[ms]vulnerante[fs]vulnerante[mp]vulnerantes[fp]vulnerantes",
+    "jaJP": "強行突破",
+    "ptBR": "[fs]Abrangente[fp]Abrangentes[ms]Abrangente[mp]Abrangentes",
+    "ruRU": "[ms]ломающий[fs]ломающая[ns]ломающее[pl]ломающие",
+    "zhCN": "破甲"
+  },
+  {
+    "id": 27886,
+    "Key": "of Force",
+    "enUS": "of Force",
+    "zhTW": "力迫之",
+    "deDE": "der Macht",
+    "esES": "de pujanza",
+    "frFR": "de force",
+    "itIT": "della Potenza",
+    "koKR": "위력의",
+    "plPL": "Mocy",
+    "esMX": "de potencia",
+    "jaJP": "力の",
+    "ptBR": "de Força",
+    "ruRU": "принуждения",
+    "zhCN": "力量之"
+  },
+  {
+    "id": 27893,
+    "Key": "Chaotic",
+    "enUS": "Chaotic",
+    "zhTW": "混沌",
+    "deDE": "[ms]Chaotischer[fs]Chaotische[ns]Chaotisches[pl]Chaotische",
+    "esES": "[fs]caótica[ms]caótico[fp]caóticas[mp]caóticos",
+    "frFR": "[ms]chaotique[fs]chaotique[mp]chaotiques[fp]chaotiques",
+    "itIT": "[ms]Caotico[fs]Caotica[mp]Caotici[fp]Caotiche",
+    "koKR": "혼돈",
+    "plPL": "[ms]Chaotyczny[fs]Chaotyczna[ns]Chaotyczne[p]Chaotyczne",
+    "esMX": "[ms]caótico[fs]caótica[mp]caóticos[fp]caóticas",
+    "jaJP": "混乱せし",
+    "ptBR": "[fs]Conturbada[fp]Conturbadas[ms]Conturbado[mp]Conturbados",
+    "ruRU": "[ms]хаотический[fs]хаотическая[ns]хаотическое[pl]хаотические",
+    "zhCN": "混乱"
+  },
+  {
+    "id": 27894,
+    "Key": "Sullied",
+    "enUS": "Sullied",
+    "zhTW": "玷汙",
+    "deDE": "[ms]Beschmutzter[fs]Beschmutzte[ns]Beschmutztes[pl]Beschmutzte",
+    "esES": "[fs]maculada[ms]maculado[fp]maculadas[mp]maculados",
+    "frFR": "[ms]profané[fs]profanée[mp]profanés[fp]profanées",
+    "itIT": "[ms]Infangato[fs]Infangata[mp]Infangati[fp]Infangate",
+    "koKR": "더럽혀진",
+    "plPL": "[ms]Splugawiony[fs]Splugawiona[ns]Splugawione[p]Splugawione",
+    "esMX": "[ms]mancillado[fs]mancillada[mp]mancillados[fp]mancilladas",
+    "jaJP": "汚物の",
+    "ptBR": "[fs]Manchada[fp]Manchadas[ms]Manchado[mp]Manchados",
+    "ruRU": "[ms]пятнающий[fs]пятнающая[ns]пятнающее[pl]пятнающие",
+    "zhCN": "污染"
+  },
+  {
+    "id": 27895,
+    "Key": "Fiendish",
+    "enUS": "Fiendish",
+    "zhTW": "妖魔",
+    "deDE": "[ms]Teuflischer[fs]Teuflische[ns]Teuflisches[pl]Teuflische",
+    "esES": "[fs]maligna[ms]maligno[fp]malignas[mp]malignos",
+    "frFR": "[ms]diabolique[fs]diabolique[mp]diaboliques[fp]diaboliques",
+    "itIT": "[ms]Mostruoso[fs]Mostruosa[mp]Mostruosi[fp]Mostruose",
+    "koKR": "극악한",
+    "plPL": "[ms]Czarci[fs]Czarcia[ns]Czarcie[p]Czarcie",
+    "esMX": "[ms]diablesco[fs]diablesca[mp]diablescos[fp]diablescas",
+    "jaJP": "悪魔のような",
+    "ptBR": "[fs]Demoníaca[fp]Demoníacas[ms]Demoníaco[mp]Demoníacos",
+    "ruRU": "[ms]бесовский[fs]бесовская[ns]бесовское[pl]бесовские",
+    "zhCN": "邪鬼"
+  },
+  {
+    "id": 27896,
+    "Key": "Erratic",
+    "enUS": "Erratic",
+    "zhTW": "失序",
+    "deDE": "[ms]Unberechenbarer[fs]Unberechenbare[ns]Unberechenbares[pl]Unberechenbare",
+    "esES": "[fs]errática[ms]errático[fp]erráticas[mp]erráticos",
+    "frFR": "[ms]erratique[fs]erratique[mp]erratiques[fp]erratiques",
+    "itIT": "[ms]Imprevedibile[fs]Imprevedibile[mp]Imprevedibili[fp]Imprevedibili",
+    "koKR": "변덕스러운",
+    "plPL": "[ms]Rozpaczliwy[fs]Rozpaczliwa[ns]Rozpaczliwe[p]Rozpaczliwe",
+    "esMX": "[ms]errático[fs]errática[mp]erráticos[fp]erráticas",
+    "jaJP": "奇矯な",
+    "ptBR": "[fs]Errática[fp]Erráticas[ms]Errático[mp]Erráticos",
+    "ruRU": "[ms]беспорядочный[fs]беспорядочная[ns]беспорядочное[pl]беспорядочные",
+    "zhCN": "善变"
+  },
+  {
+    "id": 27897,
+    "Key": "Torrid",
+    "enUS": "Torrid",
+    "zhTW": "熾熱",
+    "deDE": "[ms]Sengender[fs]Sengende[ns]Sengendes[pl]Sengende",
+    "esES": "[fs]tórrida[ms]tórrido[fp]tórridas[mp]tórridos",
+    "frFR": "[ms]torride[fs]torride[mp]torrides[fp]torrides",
+    "itIT": "[ms]Torrido[fs]Torrida[mp]Torridi[fp]Torride",
+    "koKR": "격한",
+    "plPL": "[ms]Palący[fs]Paląca[ns]Palące[p]Palące",
+    "esMX": "[ms]tórrido[fs]tórrida[mp]tórridos[fp]tórridas",
+    "jaJP": "熱烈な",
+    "ptBR": "[fs]Tórrida[fp]Tórridas[ms]Tórrido[mp]Tórridos",
+    "ruRU": "[ms]жгучий[fs]жгучая[ns]жгучее[pl]жгучие",
+    "zhCN": "灼热"
+  },
+  {
+    "id": 27898,
+    "Key": "TaintedAffix",
+    "enUS": "Tainted",
+    "zhTW": "魔汙",
+    "deDE": "[ms]Besudelter[fs]Besudelte[ns]Besudeltes[pl]Besudelte",
+    "esES": "[fs]mancillada[ms]mancillado[fp]mancilladas[mp]mancillados",
+    "frFR": "[ms]corrompu[fs]corrompue[mp]corrompus[fp]corrompues",
+    "itIT": "[ms]Contaminato[fs]Contaminata[mp]Contaminati[fp]Contaminate",
+    "koKR": "오염된",
+    "plPL": "[ms]Splamiony[fs]Splamiona[ns]Splamione[p]Splamione",
+    "esMX": "[ms]contaminado[fs]contaminada[mp]contaminados[fp]contaminadas",
+    "jaJP": "穢された",
+    "ptBR": "[fs]Maculada[fp]Maculadas[ms]Maculado[mp]Maculados",
+    "ruRU": "[ms]помутненный[fs]помутненная[ns]помутненное[pl]помутненные",
+    "zhCN": "污染"
+  },
+  {
+    "id": 27899,
+    "Key": "Forbidden",
+    "enUS": "Forbidden",
+    "zhTW": "封禁",
+    "deDE": "[ms]Verbotener[fs]Verbotene[ns]Verbotenes[pl]Verbotene",
+    "esES": "[fs]prohibida[ms]prohibido[fp]prohibidas[mp]prohibidos",
+    "frFR": "[ms]interdit[fs]interdite[mp]interdits[fp]interdites",
+    "itIT": "[ms]Proibito[fs]Proibita[mp]Proibiti[fp]Proibite",
+    "koKR": "금지된",
+    "plPL": "[ms]Zakazany[fs]Zakazana[ns]Zakazane[p]Zakazane",
+    "esMX": "[ms]prohibido[fs]prohibida[mp]prohibidos[fp]prohibidas",
+    "jaJP": "禁断なる",
+    "ptBR": "[fs]Proibida[fp]Proibidas[ms]Proibido[mp]Proibidos",
+    "ruRU": "[ms]запретный[fs]запретная[ns]запретное[pl]запретные",
+    "zhCN": "禁忌"
+  },
+  {
+    "id": 27900,
+    "Key": "Dreadful",
+    "enUS": "Dreadful",
+    "zhTW": "怖懼",
+    "deDE": "[ms]Furchterregender[fs]Furchterregende[ns]Furchterregendes[pl]Furchterregende",
+    "esES": "[fs]pavorosa[ms]pavoroso[fp]pavorosas[mp]pavorosos",
+    "frFR": "[ms]effroyable[fs]effroyable[mp]effroyables[fp]effroyables",
+    "itIT": "[ms]Terrificante[fs]Terrificante[mp]Terrificanti[fp]Terrificanti",
+    "koKR": "무시무시한",
+    "plPL": "[ms]Przerażający[fs]Przerażająca[ns]Przerażające[p]Przerażające",
+    "esMX": "[ms]espantoso[fs]espantosa[mp]espantosos[fp]espantosas",
+    "jaJP": "恐ろしき",
+    "ptBR": "[fs]Pavorosa[fp]Pavorosas[ms]Pavoroso[mp]Pavorosos",
+    "ruRU": "[ms]жуткий[fs]жуткая[ns]жуткое[pl]жуткие",
+    "zhCN": "可怖"
+  },
+  {
+    "id": 27901,
+    "Key": "Malevolent",
+    "enUS": "Malevolent",
+    "zhTW": "惡毒",
+    "deDE": "[ms]Arglistiger[fs]Arglistige[ns]Arglistiges[pl]Arglistige",
+    "esES": "[fs]malévola[ms]malévolo[fp]malévolas[mp]malévolos",
+    "frFR": "[ms]malfaisant[fs]malfaisante[mp]malfaisants[fp]malfaisantes",
+    "itIT": "[ms]Malevolo[fs]Malevola[mp]Malevoli[fp]Malevole",
+    "koKR": "고약한",
+    "plPL": "[ms]Złowrogi[fs]Złowroga[ns]Złowrogie[p]Złowrogie",
+    "esMX": "[fs]malevolente[ms]malevolente[fp]malevolentes[mp]malevolentes",
+    "jaJP": "悪しき",
+    "ptBR": "[fs]Malévola[fp]Malévolas[ms]Malévolo[mp]Malévolos",
+    "ruRU": "[ms]злонравный[fs]злонравная[ns]злонравное[pl]злонравные",
+    "zhCN": "恶意"
+  },
+  {
+    "id": 27902,
+    "Key": "of Miasma Bolt",
+    "enUS": "of Miasma Bolt",
+    "zhTW": "瘴氣彈之",
+    "deDE": "des Miasmablitzes",
+    "esES": "de descarga de miasma",
+    "frFR": "de traits de miasmes",
+    "itIT": "del Dardo Miasmatico",
+    "koKR": "독기 볼트의",
+    "plPL": "Miazmatycznego Pocisku",
+    "esMX": "de saeta de miasma",
+    "jaJP": "ミアズマボルトの",
+    "ptBR": "da Seta de Miasma",
+    "ruRU": "стрелы миазм",
+    "zhCN": "瘴气弹之"
+  },
+  {
+    "id": 27903,
+    "Key": "of Lethargy",
+    "enUS": "of Lethargy",
+    "zhTW": "昏沉之",
+    "deDE": "der Lethargie",
+    "esES": "de letargo",
+    "frFR": "de léthargie",
+    "itIT": "della Letargia",
+    "koKR": "무기력의",
+    "plPL": "Otępienia",
+    "esMX": "de letargo",
+    "jaJP": "沈滞の",
+    "ptBR": "da Letargia",
+    "ruRU": "летаргии",
+    "zhCN": "迟缓之"
+  },
+  {
+    "id": 27904,
+    "Key": "of Rancor",
+    "enUS": "of Rancor",
+    "zhTW": "冤仇之",
+    "deDE": "des Grolls",
+    "esES": "de rencor",
+    "frFR": "de rancœur",
+    "itIT": "del Rancore",
+    "koKR": "울분의",
+    "plPL": "Animozji",
+    "esMX": "de rencor",
+    "jaJP": "怨恨の",
+    "ptBR": "do Rancor",
+    "ruRU": "озлобленности",
+    "zhCN": "怨恨之"
+  },
+  {
+    "id": 27905,
+    "Key": "of Apocalypse",
+    "enUS": "of Apocalypse",
+    "zhTW": "天啟末日之",
+    "deDE": "der Apokalypse",
+    "esES": "de la hecatombe",
+    "frFR": "d’apocalypse",
+    "itIT": "dell'Apocalisse",
+    "koKR": "종말의",
+    "plPL": "Apokalipsy",
+    "esMX": "de apocalipsis",
+    "jaJP": "終焉の",
+    "ptBR": "do Apocalipse",
+    "ruRU": "апокалипсиса",
+    "zhCN": "末日之"
+  },
+  {
+    "id": 27912,
+    "Key": "Devil's",
+    "enUS": "Devil's",
+    "zhTW": "妖鬼的",
+    "deDE": "[ms]Diabolischer[fs]Diabolische[ns]Diabolisches[pl]Diabolische",
+    "esES": "del demonio",
+    "frFR": "de démon",
+    "itIT": "del Diavolo",
+    "koKR": "악마",
+    "plPL": "[ms]Diabelski[fs]Diabelska[ns]Diabelskie[p]Diabelskie",
+    "esMX": "[ms]del demontre[fs]del demontre[mp]del demontre[fp]del demontre",
+    "jaJP": "悪魔が携えし",
+    "ptBR": "do Demônio",
+    "ruRU": "[ms]дьявольский[fs]дьявольская[ns]дьявольское[pl]дьявольские",
+    "zhCN": "恶魔的"
+  },
+  {
+    "id": 27913,
+    "Key": "Arch-Devil's",
+    "enUS": "Arch-Devil's",
+    "zhTW": "大妖鬼",
+    "deDE": "[ms]Erzdiabolischer[fs]Erzdiabolische[ns]Erzdiabolisches[pl]Erzdiabolische",
+    "esES": "del archidemonio",
+    "frFR": "d’archidémon",
+    "itIT": "dell'Arcidiavolo",
+    "koKR": "고위악마",
+    "plPL": "[ms]Arcydiabelski[fs]Arcydiabelska[ns]Arcydiabelskie[p]Arcydiabelskie",
+    "esMX": "[ms]del archidemontre[fs]del archidemontre[mp]del archidemontre[fp]del archidemontre",
+    "jaJP": "大悪魔の",
+    "ptBR": "do Arquidemônio",
+    "ruRU": "[ms]архидьявольский[fs]архидьявольская[ns]архидьявольское[pl]архидьявольские",
+    "zhCN": "大恶魔的"
   },
   {
     "id": 61476,
